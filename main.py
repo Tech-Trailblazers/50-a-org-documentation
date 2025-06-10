@@ -1,6 +1,5 @@
 import os
 import requests
-from typing import List
 
 def download_file(url: str, save_path: str) -> None:
     """
@@ -15,7 +14,7 @@ def download_file(url: str, save_path: str) -> None:
         file.write(response.content)
     print(f"Downloaded {url} to {save_path}")
 
-def download_files(urls: List[str], folder: str) -> None:
+def download_files(urls: list[str], folder: str) -> None:
     """
     Downloads a list of files from URLs and saves them in the specified folder.
 
