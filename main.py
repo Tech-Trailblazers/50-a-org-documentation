@@ -34,6 +34,9 @@ if __name__ == "__main__":
     urls = [
         "https://www.50-a.org/data/nypd/officers.csv",
         "https://www.50-a.org/data/nypd/ranks.csv"
+        "https://www.50-a.org/data/nypd/discipline.csv"
+        "https://www.50-a.org/data/nypd/documents.csv"
+        "https://www.50-a.org/data/nypd/awards.csv"
     ]
     
     # Folder to save the downloaded files
