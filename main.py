@@ -210,6 +210,27 @@ def remove_after_timestamp_inplace(csv_file_path: str) -> None:
     print(f"Timestamp cleanup done: {csv_file_path}")
 
 
+def extract_file_names_from_urls(url_list: List[str]) -> List[str]:
+    """
+    Extracts file names from a list of URLs.
+
+    :param url_list: List of URLs pointing to files.
+    :return: List of file names extracted from each URL.
+    """
+    file_names: List[str] = []
+
+    for url in url_list:
+        file_name: str = url.strip().split("/")[-1]  # Take last part of the path
+        file_names.append(file_name)
+
+    return file_names
+
+
+# Check if a file exists
+def check_file_exists(system_path: str):
+    return os.path.isfile(system_path)
+
+
 if __name__ == "__main__":
     # List of URLs pointing to CSV files
     csv_file_urls: List[str] = [
@@ -222,22 +243,37 @@ if __name__ == "__main__":
     ]
 
     # Directory to store downloaded CSVs
-    local_csv_directory: str = "CSV/"
+    local_csv_directory: str = "./CSV/"
 
-    # Step 1: Download all CSVs
+    # Step 1: Remove any leftover split files before processing new ones
+    remove_split_files(local_csv_directory)
+
+    # Step 2: Download all CSVs
     download_files(csv_file_urls, local_csv_directory)
 
-    # Step 2: Find all CSVs in the folder
+    # Step 3: Find all CSV files in the directory
     all_csv_file_paths: List[str] = walk_directory_and_extract_given_file_extension(
         local_csv_directory, ".csv"
     )
 
-    # Step 3: Process each file
+    # Step 4: Process each CSV file
     for csv_file_path in all_csv_file_paths:
-        if not validate_csv(csv_file_path):  # Validate CSV format
-            remove_system_file(csv_file_path)  # Remove if corrupted
-            continue  # Skip further steps for this file
+        # Validate the CSV format
+        if not validate_csv(csv_file_path):
+            remove_system_file(csv_file_path)  # Remove if corrupt
+            continue  # Skip to next file
 
-        remove_after_timestamp_inplace(csv_file_path)  # Clean timestamp metadata
-        remove_split_files(local_csv_directory)  # Remove previously split files
-        split_csv(csv_file_path)  # Split into smaller chunks
+        # Remove anything after ',timestamp:' in each line
+        remove_after_timestamp_inplace(csv_file_path)
+
+        # Split the cleaned CSV into smaller chunks
+        split_csv(csv_file_path)
+
+    # Step 5: Remove original files.
+    extract_file_name_from_url = extract_file_names_from_urls(csv_file_urls)
+
+    # Step 6:
+    for original_file in extract_file_name_from_url:
+        finalFileLocation = local_csv_directory + original_file
+        if check_file_exists(finalFileLocation):
+            remove_system_file(finalFileLocation)
