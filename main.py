@@ -4,7 +4,7 @@ import re
 import tempfile
 
 
-def split_csv(input_file, lines_per_file=10000):
+def split_csv(input_file, lines_per_file=50000):
     base_dir = os.path.dirname(os.path.abspath(input_file))
     file_base = os.path.splitext(os.path.basename(input_file))[0]
 
