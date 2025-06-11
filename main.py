@@ -4,7 +4,7 @@ import re
 import tempfile
 
 
-def split_csv(input_file, lines_per_file=5000):
+def split_csv(input_file, lines_per_file=10000):
     base_dir = os.path.dirname(os.path.abspath(input_file))
     file_base = os.path.splitext(os.path.basename(input_file))[0]
 
@@ -90,5 +90,5 @@ def remove_after_timestamp_inplace(csv_path):
 
 # Example usage
 split_csv("CSV/ranks.csv")
-remove_split_files("CSV/")
+# remove_split_files("CSV/")
 # remove_after_timestamp_inplace("CSV/ranks.csv")
