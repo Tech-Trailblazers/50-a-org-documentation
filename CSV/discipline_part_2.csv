@@ -1,4 +1,6 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+937625,3,"WHILE OFF-DUTY, DID WRONGFULLY VIOLATE A NEW YORK STATE ORDER OF PROTECTION",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
+937625,3,"WHILE OFF-DUTY, HAVING BEEN INVOLVED IN A POLICE INCIDENT, DID THEREAFTER FAIL AND NEGLECT TO REPORT SAID INCIDENT TO THE OPERATIONS UNIT, AS REQUIRED",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
 923250,1,Improperly used Department property/resources/equipment (vehicle).,,VACATION DAYS (45 day(s) ),charge,GUILTY
 923250,1,Made misleading or inaccurate statements during an official Department interview.,,VACATION DAYS (45 day(s) ),charge,GUILTY
 923250,1,Failed to supervise.,,VACATION DAYS (45 day(s) ),charge,GUILTY
@@ -921,6 +923,8 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 949808,1,"WHILE ON-DUTY, FAILED AND NEGLECTED TO PROPERLY SAFEGUARD A SERVICE FIREARM.",,VACATION DAYS (15 day(s) ),charge,GUILTY
 949808,1,"WHILE ON-DUTY, FAILED TO MAKE PROPER NOTIFICATIONS REGARDING THE RECOVERY OF A SERVICE FIREARM.",,VACATION DAYS (15 day(s) ),charge,GUILTY
 945378,1,Failed to conduct an investigation.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
+942723,1,Engaged in a physical and verbal altercation while off-duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (34 day(s) ), VACATION DAYS (41 day(s) )",charge,PLEADED GUILTY
+942723,1,Discharge of a firearm outside of Department guidelines while off-duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (34 day(s) ), VACATION DAYS (41 day(s) )",charge,PLEADED GUILTY
 965623,1,01.Improper search of a vehicle,TRAINING,TRAINING,allegation,
 965623,1,02.Improper seizure of an individuals property,TRAINING,TRAINING,allegation,
 965623,1,03.Improper use of a Body Worn Camera,OTHER,TRAINING,allegation,
