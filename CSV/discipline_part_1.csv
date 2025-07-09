@@ -3339,6 +3339,12 @@ Criminal Mischief.",CHARGES AND SPECIFICATIONS,RESTORATION OF SUSPENSION DAYS (3
 952710,1,02.Failed to safeguard a prisoner.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,
 938435,1,01.Failure to notify.,INSTRUCTIONS,INSTRUCTIONS,allegation,
 938436,1,01.Improper search of premise.,INSTRUCTIONS,TRAINING,allegation,
+953840,1,FAILED TO PREPARE A COMPLAINT REPORT WORKSHEET UPON RESPONDING TO THE SCENE OF CRIMINAL ACTIVITES REPORTED BY A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (20 day(s) ),charge,GUILTY
+953840,1,ATTEMPTED TO CONVINCE OR WAS COMPLICIT IN ATTEMPTING TO CONVINCE A PERSON KNOWN TO THE DEPARTMENT TO DISCONTINUE EFFORTS TO REPORT A PAST CRIME.,,VACATION DAYS (20 day(s) ),charge,GUILTY
+953840,1,FAILED TO PREPARE A COMPLAINT REPORT WORKSHEET UPON RESPONDING TO THE SCENE OF CRIMINAL ACTIVITES REPORTED BY A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (20 day(s) ),charge,GUILTY
+953840,1,ATTEMPTED TO CONVINCE OR WAS COMPLICIT IN ATTEMPTING TO CONVINCE A PERSON KNOWN TO THE DEPARTMENT TO DISCONTINUE EFFORTS TO REPORT A PAST CRIME.,,VACATION DAYS (20 day(s) ),charge,GUILTY
+953840,1,MADE ONE OR MORE MISLEADING STATEMENTS AT AN OFFICIAL DEPARTMENT INTERVIEW CONCERNING HIS INERACTIONS WITH ONE OR MORE COMPLAINANTS.,,VACATION DAYS (20 day(s) ),charge,GUILTY
+953840,1,"MADE ONE OR MORE INACCURATE, INCOMPLETE AND OR MISLEADING STATEMENTS IN HIS ACTIVITY LOG CONCERNING ONE OR MORE REPORTED PAST CRIMES.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 963502,1,01.Offensive language.,INSTRUCTIONS,TRAINING,allegation,
 963502,1,02.Wrongfully removed person known to the department to a hospital.,TRAINING,TRAINING,allegation,
 960500,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
@@ -3602,6 +3608,7 @@ Made improper contact/communications.",,VACATION DAYS (30 day(s) ),charge,GUILTY
 938484,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
 938484,1,02.Failed to make required entries in Department Logs.,OTHER,,allegation,
 938484,1,03.Failed to prepare required reports.,OTHER,,allegation,
+966059,1,01.Off-duty employment without permission.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 965099,1,01.Violated patrol rules.,A-CD,,allegation,
 943242,1,01.Wrongfully arrested person known to the department.,TRAINING,TRAINING,allegation,
 964514,1,01.Failed to provide a business card,TRAINING,TRAINING,allegation,
@@ -5748,6 +5755,7 @@ Failed to activate body-worn camera.",,"DISMISSAL PROBATION (12 month(s) ), SUSP
 947160,1,Out of residence while on sick leave.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 947160,1,Out of residence while on sick leave.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 936789,1,01.Wrongful entry of a premises.,B-CD,,allegation,
+954051,1,Failed to conduct an investigation.,,PRE-TRIAL SUSPENSION DAYS (33 day(s) ),charge,GUILTY
 947161,1,Use of physical force resulting in injury.,,"SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (10 day(s) )",charge,PLEADED GUILTY
 947161,1,Use of physical force.,,"SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (10 day(s) )",charge,PLEADED GUILTY
 947161,1,Failed to make required entries in Department logs.,,"SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (10 day(s) )",charge,PLEADED GUILTY
@@ -9968,6 +9976,7 @@ Conducted personal business while on duty.",,"DISMISSAL PROBATION (12 month(s) )
 964300,1,Failed to obey a lawful order.,,"SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 964300,1,Made misleading or inaccurate statements during an official Department interview.,,"SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 964300,1,Made misleading or inaccurate statements during an official Department interview.,,"SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+962121,1,Involved in a physical altercation.,,PRE-TRIAL SUSPENSION DAYS (22 day(s) ),charge,PLEADED GUILTY
 935781,1,"WHILE ON-DUTY, WRONGFULLY STOPPED THE VEHICLE BEING OPERATED BY A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (3 day(s) ),charge,GUILTY
 935781,1,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE FRISKED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (3 day(s) ),charge,GUILTY
 939520,1,Operated a motor vehicle while under the influence of an intoxicant.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (35 day(s) )",charge,PLEADED GUILTY
@@ -10204,12 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,05.Improperly used a non-lethal restraining device to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-949728,1,01.Off post.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
-937625,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
-937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF RESIDENCE.,,VACATION DAYS (15 day(s) ),charge,GUILTY
-937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF SOCIAL CONDITION.,,VACATION DAYS (15 day(s) ),charge,GUILTY
-937625,2,"WHILE OFF-DUTY, DID ENGAGE IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,GUILTY
-937625,3,"WHILE OFF-DUTY, DID WRONGFULLY VIOLATE A NEW YORK STATE ORDER OF PROTECTION",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
-937625,3,"WHILE OFF-DUTY, DID ENGAGE IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
