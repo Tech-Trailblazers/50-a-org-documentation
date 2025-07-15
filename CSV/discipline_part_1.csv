@@ -112,6 +112,11 @@ taxid,group_id,description,recommendation,penalty,type,disposition
 957315,1,01.Wrongful entry of a premises.,A-CD,,allegation,
 968919,1,01.Failed to activate BWC in a timely manner,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
 968919,1,02.Failed to terminate a vehicle pursuit,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
+961596,1,Failed to notify the radio dispatcher about a vehicle pursuit.,,VACATION DAYS (45 day(s) ),charge,GUILTY
+961596,1,Failed to make required entries in Activity Log.,,VACATION DAYS (45 day(s) ),charge,GUILTY
+961596,1,Failed to activate body-worn camera.,,VACATION DAYS (45 day(s) ),charge,GUILTY
+961596,1,Made inaccurate statements during an official Department interview.,,VACATION DAYS (45 day(s) ),charge,GUILTY
+961596,1,Failed to notify a radio dispatcher regarding the termination of a vehicle pursuit.,,VACATION DAYS (45 day(s) ),charge,GUILTY
 961597,1,Operated a motor vehicle while under the influence of an intoxicant.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 961597,1,Operated a motor vehicle while their ability was impaired.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 961597,1,Refused to submit to a breathalyzer test.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
@@ -2410,8 +2415,6 @@ Wrongfully unholstered/displayed a Taser.","CHARGES AND SPECIFICATIONS,         
 957496,1,01.Wrongfully stopped an individual known to the Department.,A-CD,,allegation,
 957496,2,01.Failed to activate their body worn camera.,OTHER,,allegation,
 957496,2,02.Failed to make required entries in Department Logs.,OTHER,,allegation,
-959571,1,Criminal mischief.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
-959571,1,Caused inaccurate entries to be made in Department records.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
 929958,1,Made computer inquiries unrelated to official Department business.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 929958,1,Wrongfully disseminated confidential Department information.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 960083,1,01.Wrongfully searched a person known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
@@ -4200,6 +4203,7 @@ Misuse of time.",,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATIO
 936676,1,03.Wrongfully stopped an individual known to the Department.,NO DISCIPLINARY ACTION,,allegation,
 941025,1,"WHILE ON-DUTY, FAILED TO CONDUCT PROPER INVESTIGATIONS",,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 941025,1,"WHILE ON-DUTY, WRONGFULLY MADE FALSE ENTRIES REGARDING HIS INVESTIGATIONS",,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
+965142,1,01.improperly entered location without sufficient legal authority,TRAINING,TRAINING,allegation,
 970553,1,01.Wrongfully disseminated confidential Department information.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 934947,1,"WHILE ON-DUTY, DID FAIL AND NEGLECT TO MAKE PROPER ENTRIES IN HER ACTIVITY LOG.",,VACATION DAYS (10 day(s) ),charge,GUILTY
 934947,1,"WHILE ON-DUTY, HAVING BECOME AWARE OF AN ALLEGATION OF MISCONDUCT BY ANOTHER MEMBER OF THE SERVICE, FAILED TO NOTIFY THE INTERNAL AFFAIRS BUREAU OF SAID ALLEGATION OF MISCONDUCT.",,VACATION DAYS (10 day(s) ),charge,GUILTY
@@ -10208,7 +10212,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,05.Improperly used a non-lethal restraining device to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-949728,1,01.Off post.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
-937625,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
