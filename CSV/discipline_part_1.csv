@@ -2415,6 +2415,8 @@ Wrongfully unholstered/displayed a Taser.","CHARGES AND SPECIFICATIONS,         
 957496,1,01.Wrongfully stopped an individual known to the Department.,A-CD,,allegation,
 957496,2,01.Failed to activate their body worn camera.,OTHER,,allegation,
 957496,2,02.Failed to make required entries in Department Logs.,OTHER,,allegation,
+959571,1,Criminal mischief.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
+959571,1,Caused inaccurate entries to be made in Department records.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
 929958,1,Made computer inquiries unrelated to official Department business.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 929958,1,Wrongfully disseminated confidential Department information.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 960083,1,01.Wrongfully searched a person known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
@@ -8050,10 +8052,14 @@ Misuse of time.",,"RESTITUTION ($10,857), VACATION DAYS (55 day(s) )",charge,GUI
 949486,1,Living outside the state or permissible counties.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 949486,2,Living outside the state or permissible counties.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,PLEADED GUILTY
 949486,2,Failed to obey a lawful order.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,PLEADED GUILTY
-972875,1,Failed to obey a lawful order/direction.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-972875,1,Violated patrol rules.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-972875,1,Insubordination.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-972875,1,Violated patrol rules.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
+972875,1,Failed to obey a lawful order/direction.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Failed to obey a lawful order/direction.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Violated patrol rules.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Violated patrol rules.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Insubordination.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Insubordination.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Violated patrol rules.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+972875,1,Violated patrol rules.,,"VACATION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 934065,1,Failed to safeguard firearm.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
 965417,1,Operated a motor vehicle while under the influence of an intoxicant.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
 965417,1,Operated a motor vehicle while their ability was impaired.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
@@ -10206,9 +10212,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
 935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
 962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
-954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
-954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
-960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
