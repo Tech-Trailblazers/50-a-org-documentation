@@ -1,4 +1,11 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+939579,1,"WHILE ON-DUTY, DID FAIL TO PROPERLY SAFEGUARD A PRISONER KNOWN TO THIS DEPARTMENT RESULTING IN THE ESCAPE OF SAID PRISONER.",,VACATION DAYS (20 day(s) ),charge,GUILTY
+939579,1,"WHILE ON-DUTY, FAILED TO MAKE TIMELY AND PROPER NOTIFICATIONS REGARDING THE ESCAPE OF A PRISONER IN HIS CUSTODY.",,VACATION DAYS (20 day(s) ),charge,GUILTY
+958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
+946619,1,Failed to hand over their Identification to an on-duty police officer.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+946619,1,Operated their personal vehicle with an expired state registration.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+946619,1,Improperly tinted windows on personal vehicle.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946619,1,Failed to obey a lawful order.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 939580,1,"WHILE OFF-DUTY, SAID OFFICER FAILED TO IDENTIFY HERSELF AS A MEMBER OF THE SERVICE WHEN BEING QUESTIONED BY DETECTIVES FROM THE WARRANT SQUAD.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
 926206,1,01.Failed to supervise.,OTHER,,allegation,
@@ -895,6 +902,7 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 945107,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (20 day(s) )",charge,GUILTY
 952354,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 937749,1,01.Wrongful entry of a premises.,CHARGES AND SPECIFICATIONS,,allegation,
+957291,1,01.Violated patrol rules.,A-CD,,allegation,
 946399,1,01.Failed to prepare required reports.,OTHER,,allegation,
 949807,1,"WHILE ON-DUTY, DID WRONGFULLY UTILIZE THE DEPARTMENT COMPUTER TO MAKE AN INQUIRY UNRELATED TO THE OFFICIAL BUSINESS OF THE NEW YORK CITY POLICE DEPARTMENT.",,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) )",charge,GUILTY
 942720,1,01.Off-duty employment without permission.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
