@@ -1,7 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-939579,1,"WHILE ON-DUTY, FAILED TO MAKE TIMELY AND PROPER NOTIFICATIONS REGARDING THE ESCAPE OF A PRISONER IN HIS CUSTODY.",,VACATION DAYS (20 day(s) ),charge,GUILTY
-958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 946619,1,Failed to hand over their Identification to an on-duty police officer.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946619,1,Operated their personal vehicle with an expired state registration.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946619,1,Improperly tinted windows on personal vehicle.,,VACATION DAYS (40 day(s) ),charge,GUILTY
@@ -711,12 +708,6 @@ Failed to make proper notifications.",,"TRAINING, VACATION DAYS (10 day(s) )",ch
 967387,2,01.Wrongful threat of force.,CHARGES AND SPECIFICATIONS,,allegation,
 967387,2,02.Wrongfully discourteous to an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
 967387,2,03.Wrongfully used offensive language.,CHARGES AND SPECIFICATIONS,,allegation,
-948439,1,"WHILE ON-DUTY, IMPROPERLY DISPLAYED HIS FIREARM.",,VACATION DAYS (20 day(s) ),charge,GUILTY
-948439,1,"WHILE ON-DUTY, FAILED TO MAKE PROPER ACTIVITY LOG ENTRIES.",,VACATION DAYS (20 day(s) ),charge,GUILTY
-948439,1,"WHILE ON-DUTY, WRONGFULLY  POINTED A FIREARM AT ANOTHER MOTORIST, AND DID SO WHILE IN THE PRESENCE OF OTHER MEMBERS OF SERVICE, PLACING ALL PARTIES IN DANGER.",,VACATION DAYS (20 day(s) ),charge,GUILTY
-948439,1,01.Wrongfully frisked an individual known to the Department.,B-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
-948439,1,02.Wrongfully questioned an individual known to the Department.,B-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
-948439,1,03.Wrongfully searched a vehicle.,B-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 939679,1,"DID WRONGFULLY AND WITHOUT JUST CAUSE UTILIZE DEPARTMENT COMPUTERS, PRINTERS, AND RELATED SUPPLIES FOR NON-DEPARTMENT OR NON-CITY PURPOSE",,VACATION DAYS (15 day(s) ),charge,GUILTY
 939679,1,"HAVING CHANGED SAID OFFICER's RESIDENCE, DID FAIL AND NEGLECT TO NOTIFY HER COMMANDING OFFICER BY SUBMITTING FORM CHANGE OF NAME, RESIDENCE OR SOCIAL CONDITION, AS REQUIRED.",,VACATION DAYS (15 day(s) ),charge,GUILTY
 939679,1,FAILED TO NOTIFY THE COMMISSIONER OF THE DEPARTMENT OF MOTOR VEHICLES OF HER CHANGE IN RESIDENCE AND DID FAIL TO MAKE A NOTATION ON HER LICENSE OF SAID CHANGE,,VACATION DAYS (15 day(s) ),charge,GUILTY
@@ -1057,6 +1048,7 @@ Unfit for duty.",,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREAT
 942839,1,01.Violated sick leave regulations.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
 942839,1,02.Made misleading or inaccurate statements during an official Department interview.,NO DISCIPLINARY ACTION,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
 942839,1,03.Violated Department of Motor Vehicles rules.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
+929398,1,01.Wrongfully deactivated their body-worn camera.,TRAINING,TRAINING,allegation,
 960080,1,01.Wrongfully threatened to damage property.,B-CD,,allegation,
 956082,1,WAS OUT OF RESIDENCE WHILE ON SICK REPORT WHILE DESIGNATED CHRONIC A SICK.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 947634,1,DID WRONGFULLY ENGAGE IN OFF-DUTY EMPLOYMENT WITHOUT THE NECESSARY PERMISSION AND APPROVAL OF THE DEPARTMENT.,,VACATION DAYS (10 day(s) ),charge,GUILTY
