@@ -1,4 +1,14 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+939580,1,"WHILE OFF-DUTY, SAID OFFICER FAILED TO IDENTIFY HERSELF AS A MEMBER OF THE SERVICE WHEN BEING QUESTIONED BY DETECTIVES FROM THE WARRANT SQUAD.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
+926206,1,01.Failed to supervise.,OTHER,,allegation,
+957217,1,Unfit for duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
+952292,1,WAS OUT OF RESIDENCE WHILE ON REGULAR SICK REPORT WITHOUT THE PERMISSION OF HIS DISTRICT SURGEON OR THE SICK DESK SUPERVISOR,,VACATION DAYS (15 day(s) ),charge,GUILTY
+952292,2,Violated patrol rules.,,VACATION DAYS (10 day(s) ),charge,GUILTY
+933411,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
+953482,1,01.Wrongful removal to a hospital.,A-CD,A - COMMAND DISCIPLINE,allegation,
+949730,1,01.Wrongful removal to a hospital.,NO DISCIPLINARY ACTION,,allegation,
+949730,2,01.Failed to prepare required reports.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
+921813,1,01.Failed to follow arrest procedures.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 942615,1,Failed to take police action.,,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (45 day(s) )",charge,PLEADED GUILTY
 942615,1,"Failed to prepare a Property Clerk's Invoice Worksheet, as required. 
 Impeded an investigation.",,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (45 day(s) )",charge,PLEADED GUILTY
