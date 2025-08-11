@@ -512,8 +512,7 @@ ENDANGERED THE WELFARE OF A CHILD",,"COUNSELING, DISMISSAL PROBATION (12 month(s
 957337,2,02.Wrongfully discourteous to an individual known to the Department.,B-CD,,allegation,
 944329,1,01.Failed to prepare required reports.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 973916,1,01.Failed to activate their body worn camera.,C-CD,TRAINING,allegation,
-944249,1,"ON DUTY,  SEARCHED PREMISES WITHOUT SUFFICIENT LEGAL AUTHORITY.",,"VACATION DAYS (7 day(s) ), VACATION DAYS (7 day(s) )",charge,GUILTY
-944249,1,"ON DUTY,  SEARCHED PREMISES WITHOUT SUFFICIENT LEGAL AUTHORITY.",,"VACATION DAYS (7 day(s) ), VACATION DAYS (7 day(s) )",charge,GUILTY
+944249,1,"ON DUTY,  SEARCHED PREMISES WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (7 day(s) ),charge,GUILTY
 934414,1,01.Wrongfully searched a vehicle.,A-CD,,allegation,
 934414,2,01.Failed to take police action/render police services.,A-CD,,allegation,
 960170,1,01.Utilized excessive force.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
@@ -1620,6 +1619,7 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 950147,1,"Made improper contact. 
 Improperly used Department equipment.",,VACATION DAYS (15 day(s) ),charge,PLEADED GUILTY
 952536,1,01.Made computer inquiries unrelated to official Department business.,CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,
+948738,1,"KNOWINGLY ASSOCIATED WITH AN INDIVIDUAL REASONABLY BELIEVED TO BE ENGAGED IN, LIKELY TO ENGAGE IN, OR TO HAVE ENGAGED IN CRIMINAL ACTIVITY.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 938156,1,FAILED TO MAKE PROPER MEMO BOOK ENTRIES.,,VACATION DAYS (30 day(s) ),charge,GUILTY
 938156,1,WRONGFULLY ALLOWED A NON-DARP TOW TRUCK COMPANY TO REMOVE A VEHICLE FROM THE SCENE OF A VEHICLE ACCIDENT AND FAILED TO GIVE PROPER RADIO DISPOSITION TO THE COMMUNICATIONS SECTION.,,VACATION DAYS (30 day(s) ),charge,GUILTY
 958363,1,Involved in a physical altercation.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), INSTRUCTIONS, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (15 day(s) )",charge,PLEADED GUILTY
@@ -5788,6 +5788,7 @@ Failed to activate body-worn camera.",,"DISMISSAL PROBATION (12 month(s) ), SUSP
 952972,1,01.Wrongful threat to arrest.,TRAINING,TRAINING,allegation,
 952972,1,01.Wrongfully used physical force.,TRAINING,TRAINING,allegation,
 952972,1,02.Wrongfully deactivated body-worn camera.,TRAINING,TRAINING,allegation,
+963602,1,Discharged a firearm outside Department guidelines.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
 949201,1,"Made computer inquiries unrelated to official Department business.
 On Duty.",,"SUSPENDED W/O PAY (15 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 949201,1,"Made computer inquiries unrelated to official Department business.
@@ -10212,4 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
