@@ -4917,15 +4917,6 @@ Criminal Association.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSIO
 958698,1,01.Improper use of BWC,INSTRUCTIONS,TRAINING,allegation,
 935025,1,Discrimination.,,"TRAINING, VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
 941905,1,ENTERED A RESIDENCE WITHOUT SUFFICIENT LEGAL AUTHORITY.,,VACATION DAYS (5 day(s) ),charge,GUILTY
-941905,1,01.Wrongfully discourteous to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-941905,2,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
-941905,2,02.Failed to prepare required reports.,TRAINING,TRAINING,allegation,
-941905,3,01.Violated patrol rules.,A-CD,,allegation,
-941905,4,01.Violated patrol rules.,A-CD,,allegation,
-941905,5,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-941905,5,02.Failed to prepare required reports.,OTHER,,allegation,
-941905,6,01.Wrongfully discourteous to an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
-941905,7,01.Failed to timely activate their body worn camera.,OTHER,,allegation,
 931734,1,01.Improper question.,A-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 931734,1,02.Improper stop.,A-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 941907,1,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (10 day(s) ),charge,GUILTY
@@ -10213,3 +10204,12 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
+960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
+960025,1,05.Improperly used a non-lethal restraining device to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
+949728,1,01.Off post.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
+937625,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
+937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF RESIDENCE.,,VACATION DAYS (15 day(s) ),charge,GUILTY
+937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF SOCIAL CONDITION.,,VACATION DAYS (15 day(s) ),charge,GUILTY
+937625,2,"WHILE OFF-DUTY, DID ENGAGE IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,GUILTY
+937625,3,"WHILE OFF-DUTY, DID WRONGFULLY VIOLATE A NEW YORK STATE ORDER OF PROTECTION",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
+937625,3,"WHILE OFF-DUTY, DID ENGAGE IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
