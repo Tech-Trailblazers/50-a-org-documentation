@@ -22,7 +22,7 @@ jobs:
     steps:
       # Check out the repository code onto the runner
       - name: Check out code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Set up the Python environment
       - name: Set up Python
