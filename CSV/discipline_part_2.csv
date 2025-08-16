@@ -1,4 +1,8 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
+962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
+954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
+954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
@@ -855,6 +859,8 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 939693,2,02.Failed to prepare required reports.,OTHER,,allegation,
 945101,1,Discourtesy and insubordination while on duty.,,VACATION DAYS (30 day(s) ),charge,GUILTY
 952344,1,WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT.,,"PRE-TRIAL SUSPENSION DAYS (30 day(s) ), TRAINING",charge,GUILTY
+962875,1,Engaged in inappropriate conduct with an individual.,,"PRE-TRIAL SUSPENSION DAYS (20 day(s) ), RESTORATION OF SUSPENSION DAYS (11 day(s) )",charge,PLEADED GUILTY
+962875,1,Said Police Officer failed to notify the Department of an investigation.,,"PRE-TRIAL SUSPENSION DAYS (20 day(s) ), RESTORATION OF SUSPENSION DAYS (11 day(s) )",charge,PLEADED GUILTY
 953571,1,01.Failed to activate their body worn camera.,TRAINING,TRAINING,allegation,
 934257,1,01.Wrongful removal to hospital.,TRAINING,TRAINING,allegation,
 954424,1,01.Violated patrol rules.,A-CD,A - COMMAND DISCIPLINE,allegation,
