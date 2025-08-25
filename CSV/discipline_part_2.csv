@@ -1,4 +1,7 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+937625,3,"WHILE OFF-DUTY, DID WRONGFULLY VIOLATE A NEW YORK STATE ORDER OF PROTECTION",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
+937625,3,"WHILE OFF-DUTY, HAVING BEEN INVOLVED IN A POLICE INCIDENT, DID THEREAFTER FAIL AND NEGLECT TO REPORT SAID INCIDENT TO THE OPERATIONS UNIT, AS REQUIRED",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
+923250,1,Improperly used Department property/resources/equipment (vehicle).,,VACATION DAYS (45 day(s) ),charge,GUILTY
 923250,1,Made misleading or inaccurate statements during an official Department interview.,,VACATION DAYS (45 day(s) ),charge,GUILTY
 923250,1,Failed to supervise.,,VACATION DAYS (45 day(s) ),charge,GUILTY
 923250,1,Failed to make proper notifications ( IAB).,,VACATION DAYS (45 day(s) ),charge,GUILTY
@@ -819,6 +822,7 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 935967,3,FAILED TO NOTIFY AND MAINTAIN CONTACT WITH THE RADIO DISPATCHER UPON INITIATING A VEHICLE PURSUIT.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (20 day(s) )",charge,GUILTY
 935967,3,FAILED TO TERMINATE A VEHICLE PURSUIT WHEN RISK TO THE PUBLIC AND POLICE OUTWEIGHED THE DANGER TO THE COMMUNITY.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (20 day(s) )",charge,GUILTY
 935967,3,FAILED TO OPERATE RMP AT A SLPW RATE OF SPEED DURING A VEHICLE PURSUIT.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (20 day(s) )",charge,GUILTY
+951440,1,Wrongfully disseminated confidential Department information.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
 935969,1,01.Wrongfully stopped an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 946394,1,Failed to take police action.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946394,1,Failed to conduct an investigation.,,VACATION DAYS (40 day(s) ),charge,GUILTY
