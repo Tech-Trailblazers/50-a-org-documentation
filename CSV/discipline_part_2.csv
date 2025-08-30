@@ -1,7 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-949728,1,01.Off post.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
-937625,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
-937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF RESIDENCE.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 937625,1,FAILED TO NOTIFY COMMANDING OFFICER OF CHANGE OF SOCIAL CONDITION.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 937625,2,"WHILE OFF-DUTY, DID ENGAGE IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) )",charge,GUILTY
 937625,3,"WHILE OFF-DUTY, DID WRONGFULLY VIOLATE A NEW YORK STATE ORDER OF PROTECTION",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
@@ -1013,12 +1010,9 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 962184,1,01.Wrongfully discourteous to an individual known to the Department.,B-CD,,allegation,
 949822,1,Wrongfully stopped an individual known to the Department.,,VACATION DAYS (6 day(s) ),charge,GUILTY
 949822,1,Wrongfully frisked an individual known to the Department.,,VACATION DAYS (6 day(s) ),charge,GUILTY
-959395,1,Failed to take police action.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-959395,1,Failed to take police action.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-959395,1,Failed to make proper notifications.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-959395,1,Failed to make proper notifications.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-959395,1,Failed to make required entries in Department Logs.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-959395,1,Failed to make required entries in Department Logs.,,"TRAINING, VACATION DAYS (30 day(s) ), TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+959395,1,Failed to take police action.,,"TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+959395,1,Failed to make proper notifications.,,"TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+959395,1,Failed to make required entries in Department Logs.,,"TRAINING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 965634,1,01.Wrongfully frisked an individual known to the Department.,TRAINING,TRAINING,allegation,
 965634,1,02.Wrongfully stopped an individual known to the Department.,TRAINING,TRAINING,allegation,
 965634,2,01.Failed to activate their body worn camera.,A-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
