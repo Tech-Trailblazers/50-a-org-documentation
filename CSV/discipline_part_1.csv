@@ -831,6 +831,7 @@ Misused Department electronics (email, MDT, cellphone, radio, computer).",CHARGE
 942981,2,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 950054,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 946665,1,"WHILE OFF-DUTY,  SAID POLICE OFFICER ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (34 day(s) )",charge,GUILTY
+945496,1,01.Made computer inquiries unrelated to official Department business.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 944352,1,01.Failed to Supervise.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
 944352,1,01.Failed to supervise.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
 944352,1,02.Failed to timely notify.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
@@ -10212,4 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
 954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
