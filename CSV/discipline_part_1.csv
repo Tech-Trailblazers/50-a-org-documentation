@@ -8293,9 +8293,6 @@ Wrongfully used physical force.",,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DI
 949516,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 949516,1,02.Violated patrol rules.,TRAINING,TRAINING,allegation,
 949516,2,01.Wrongfully searched a vehicle.,TRAINING,"A - COMMAND DISCIPLINE, TRAINING",allegation,
-942388,1,Violated confidential informant procedures.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
-942388,1,Wrongfully accessed confidential Department information.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
-942388,1,Gambling.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
 937315,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 937315,1,02.Violated patrol rules - failed to provide a business card,TRAINING,TRAINING,allegation,
 937315,2,01.Violated Department social media guidelines.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,
@@ -9909,6 +9906,10 @@ Failed to make required entries in Department Logs/Activity Log.",,"DISMISSAL PR
 959265,3,01.Failed to activate their body worn camera.,OTHER,,allegation,
 947950,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 939513,1,01.Wrongfully used physical force.,B-CD,INSTRUCTIONS,allegation,
+951294,1,"WHILE OFF-DUTY, SAID POLICE OFFICER PARKED IN A NO STANDING ZONE WHERE ELDERLY AND DISABLED PERSONS WERE PICKED UP/DROPPED OFF AND REFUSED TO MOVE WHEN ASKED TO DO SO",,VACATION DAYS (20 day(s) ),charge,GUILTY
+951294,1,"WHILE OFF-DUTY, FAILED TO REMAIN AT THE SCENE OF A TRAFFIC DISPUTE AFTER THE POLICE WERE NOTIFIED",,VACATION DAYS (20 day(s) ),charge,GUILTY
+951294,1,"WHILE OFF-DUTY, USED HIS RESTRICTED PARKING PERMIT TO PARK IN A NO STANDING ZONE WHILE HE OBTAINED A HAIRCUT",,VACATION DAYS (20 day(s) ),charge,GUILTY
+951294,1,"WHILE OFF-DUTY, AFTER A TRAFFIC DISPUTE INVOLVING AN INDIVIDUAL KNOWN TO THE DEPARTMENT DURING WHICH SAID POLICE OFFICER THREATENED TO DRIVE UP ON THE CURB WHILE ELDERLY AND DISABLED PERSONS WERE BEING UNLOADED FROM AN AMBULETTE",,VACATION DAYS (20 day(s) ),charge,GUILTY
 947512,1,01.Out of residence while on sick leave.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 965879,1,01.Wrongfully discourteous.,A-CD,,allegation,
 965879,2,01.Wrongful entry of a premises.,CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE, VACATION DAYS (6 day(s) )",allegation,
@@ -10212,4 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
 954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
-960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
