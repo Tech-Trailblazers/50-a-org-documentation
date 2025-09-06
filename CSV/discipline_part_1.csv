@@ -8293,6 +8293,9 @@ Wrongfully used physical force.",,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DI
 949516,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 949516,1,02.Violated patrol rules.,TRAINING,TRAINING,allegation,
 949516,2,01.Wrongfully searched a vehicle.,TRAINING,"A - COMMAND DISCIPLINE, TRAINING",allegation,
+942388,1,Violated confidential informant procedures.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
+942388,1,Wrongfully accessed confidential Department information.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
+942388,1,Gambling.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
 937315,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 937315,1,02.Violated patrol rules - failed to provide a business card,TRAINING,TRAINING,allegation,
 937315,2,01.Violated Department social media guidelines.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,
@@ -10210,6 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
 935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
 962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
-954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
-954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
