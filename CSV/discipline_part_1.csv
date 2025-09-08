@@ -108,7 +108,6 @@ taxid,group_id,description,recommendation,penalty,type,disposition
 953619,1,False written statement.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 953619,1,Failed to make entries in activity log.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 953619,1,False/misleading statements.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-955072,1,"WHILE ON-DUTY, WRONGFULLY USED FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",,VACATION DAYS (7 day(s) ),charge,GUILTY
 957315,1,01.Wrongful entry of a premises.,A-CD,,allegation,
 968919,1,01.Failed to activate BWC in a timely manner,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
 968919,1,02.Failed to terminate a vehicle pursuit,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
@@ -10213,3 +10212,4 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
 935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
 962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
+962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
