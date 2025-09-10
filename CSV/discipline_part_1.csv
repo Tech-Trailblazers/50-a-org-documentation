@@ -108,6 +108,7 @@ taxid,group_id,description,recommendation,penalty,type,disposition
 953619,1,False written statement.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 953619,1,Failed to make entries in activity log.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 953619,1,False/misleading statements.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
+955072,1,"WHILE ON-DUTY, WRONGFULLY USED FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",,VACATION DAYS (7 day(s) ),charge,GUILTY
 957315,1,01.Wrongful entry of a premises.,A-CD,,allegation,
 968919,1,01.Failed to activate BWC in a timely manner,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
 968919,1,02.Failed to terminate a vehicle pursuit,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (9 day(s) )",allegation,
@@ -205,7 +206,6 @@ Misused Department electronics (email, MDT, cellphone, radio, computer).",,VACAT
 946723,3,Made misleading or inaccurate statements during an official Department interview.,,VACATION DAYS (30 day(s) ),charge,GUILTY
 939850,1,01.Wrongful removal to a hospital.,A-CD,,allegation,
 942931,1,01.Violated patrol rules.,A-CD,,allegation,
-958226,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 929498,1,COMPUTER MISUSE,,VACATION DAYS (30 day(s) ),charge,GUILTY
 929498,1,CRIMINAL ASSOCIATION,,VACATION DAYS (30 day(s) ),charge,GUILTY
 929498,1,WRONGFULLY ENGAGED IN A TELEPHONE CONVERSATION WITH A PERSON INCARCERATED ADVISING  OPTIONS AND RIGHTS REGARDING LEGAL REPRESENTATION AS WELL AS THE POSSIBLE METHODS OF IDENTIFYING HIM AS THE PERPETRATOR.,,VACATION DAYS (30 day(s) ),charge,GUILTY
@@ -753,8 +753,6 @@ Off post",,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )",char
 944349,1,FAILED TO REQUEST THE RESPONSE OF A PATROL SUPERVISOR AT A MOTOR VEHICLE ACCIDENT INVOLVING A DEPARTMENT VEHICLE.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 944349,1,FAILED TO PREPARE REPORT OF MOTOR VEHICLE ACCIDENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 944349,1,FAILED TO MAINTAIN ACTIVITY LOG.,,VACATION DAYS (15 day(s) ),charge,GUILTY
-950046,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
-950046,1,02.Failed to make required entries in Department Logs.,OTHER,,allegation,
 964908,1,01.Threatened to use force.,CHARGES AND SPECIFICATIONS,,allegation,
 964908,2,01.Wrongfully frisked an individual known to the Department.,A-CD,,allegation,
 964908,3,01.Violated patrol rules.,A-CD,,allegation,
@@ -1269,7 +1267,6 @@ Failed to conduct an investigation.",B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS
 939940,1,ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE WRONGFULLY AND WITHOUT JUST CAUSE ENTERED A PRIVATE BUILDING WITHOUT LEGAL AUTHORITY TO DO SO.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 939940,1,FAILED AND NEGLECTED TO MAKE ACTIVITY LOG ENTRIES.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 948183,1,Wrongful strip search of a person known to the Department.,,VACATION DAYS (10 day(s) ),charge,GUILTY
-955323,1,01.Wrongful search of a premises.,A-CD,,allegation,
 948696,1,OFFICER WAS ABSENT FROM ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 948696,1,OFFICER WAS ABSENT FROM ASSIGNMENT WITHOUT PERMISSION OR POLICE NECESSITY.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 948696,1,DID FAIL AND NEGLECT TO SAFEGUARD A PRISONER DURING PRISONER's ARREST PROCEEDING.,,VACATION DAYS (20 day(s) ),charge,GUILTY
@@ -1382,7 +1379,6 @@ Used improper force tactics.",CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE
 961657,1,01.Fail to notify.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 961657,1,02.Fail to prepare report.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 958341,1,"while on-while, posted a recording of an official Department video to Instagram without permission or authority.",,VACATION DAYS (20 day(s) ),charge,GUILTY
-970431,1,01.Wrongfully searched a vehicle.,A-CD,,allegation,
 948710,1,"WHILE ON DUTY,  DURING AN INTEGRITY TEST, FAILED TO VOUCHER FOUR (4) ZIPLOCK BAGS OF MARIJUANA",,PRE-TRIAL SUSPENSION DAYS (18 day(s) ),charge,GUILTY
 960290,1,Involved in a physical altercation.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 960290,1,01.Improper Arrest,TRAINING,TRAINING,allegation,
@@ -1400,6 +1396,7 @@ Interfere with a recording device.",,VACATION DAYS (40 day(s) ),charge,PLEADED G
 953708,1,Wrongfully discourteous to an individual known to the Department.,,VACATION DAYS (25 day(s) ),charge,GUILTY
 953708,1,"Wrongfully used offensive language towards an individual known to the Department
 (race, religion, ethnicity, gender identity, sexual orientation, age, or disability).",,VACATION DAYS (25 day(s) ),charge,GUILTY
+936258,1,01.Wrongfully discourteous to an individual known to the Department.,NO DISCIPLINARY ACTION,,allegation,
 938130,1,01.Made computer inquiries unrelated to official Department business.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 957408,1,01.Improper Frisk of an individual,CHARGES AND SPECIFICATIONS,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 957408,1,01.Improper search of an individual,CHARGES AND SPECIFICATIONS,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
@@ -2442,6 +2439,7 @@ Wrongfully unholstered/displayed a Taser.","CHARGES AND SPECIFICATIONS,         
 951891,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 951891,2,01.Failed to timely activate their body worn camera.,OTHER,,allegation,
 936402,1,HARASSMENT,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
+971023,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 948826,1,"WHILE OFF-DUTY, ENGAGED IN A VERBAL DISPUTE AND PHYSICAL ALTERCATION WITH A MEMBER OF THE SERVICE.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 948826,1,"WHILE OFF-DUTY, WRONGFULLY DISPLAYED HIS DEPARTMENT ISSUED PARKING PERMIT.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 948826,1,"WHILE OFF-DUTY,  FAILED TO CONTACT DUTY CAPTAIN AFTER RECEIVED A VOICEMAIL MESSAGE ON HIS CELLPHONE FROM DUTY CAPTAIN.",,VACATION DAYS (20 day(s) ),charge,GUILTY
@@ -2826,9 +2824,6 @@ Wrongfully used physical force resulting in injury.",,"PRE-TRIAL SUSPENSION DAYS
 953812,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 967478,1,01.Wrongfully stopped an individual known to the Department.,"A-CD,                                                                                                                                                                                                             TRAINING","A - COMMAND DISCIPLINE, TRAINING",allegation,
 967478,2,01.Failed to prepare required reports.,NO DISCIPLINARY ACTION,TRAINING,allegation,
-952643,1,01.Failed to prepare department form,OTHER,INSTRUCTIONS,allegation,
-952643,1,02.Improperly used department property.,OTHER,INSTRUCTIONS,allegation,
-952643,1,03.Offensive Language,INSTRUCTIONS,INSTRUCTIONS,allegation,
 966537,1,01.Violated patrol rule - failed to provide business card,A-CD,A - COMMAND DISCIPLINE,allegation,
 966537,2,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 945658,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
@@ -4765,10 +4760,6 @@ Criminal Association.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSIO
 964549,1,02.Wrongfully frisked an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",allegation,
 936740,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 936740,1,02.Wrongful removal to a hospital.,TRAINING,TRAINING,allegation,
-901671,1,"WHILE ON-DUTY, WRONGFULLY CAUSED FALSE AND INACCURATE ENTRIES TO BE MADE IN DEPARTMENT RECORDS.",,VACATION DAYS (35 day(s) ),charge,GUILTY
-901671,1,"WHILE ON-DUTY, WRONGFULLY CAUSED FALSE AND INACCURATE ENTRIES TO BE MADE IN DEPARTMENT RECORDS.",,VACATION DAYS (35 day(s) ),charge,GUILTY
-901671,1,"WHILE ON-DUTY, INSTRUCTED A SUBORDINATE TO NOT GENERATE A COMPLAINT REPORT EVEN THOUGH MEMBERS OF THE SERVICE RESPONDED TO A RADIO TRANSMISSION OF A ROBBERY AND SPOKE TO THE COMPLAINANT.",,VACATION DAYS (35 day(s) ),charge,GUILTY
-901671,1,MADE INACCURATE AND MISLEADING STATEMENTS TO INVESTIGATORS DURING OFFICIAL DEPARTMENT INTERVIEWS.,,VACATION DAYS (35 day(s) ),charge,GUILTY
 960644,1,Failed to take police action.,,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 960644,1,Damaged property.,,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 960644,1,"Failed to prepare a Property Clerk's Invoice Worksheet, as required.",,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
@@ -4844,6 +4835,12 @@ Criminal Association.",,"DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSIO
 938661,1,Failed to conduct investigation.,,VACATION DAYS (50 day(s) ),charge,GUILTY
 938661,1,Wrongfully deactivated their body-worn camera.,,VACATION DAYS (50 day(s) ),charge,GUILTY
 938661,1,01.Wrongful removal to a hospital.,A-CD,A - COMMAND DISCIPLINE,allegation,
+932167,1,"WHILE ON DUTY, DID USE PHYSICAL FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT WITHOUT HAVING POLICE NECESSITY TO DO SO.",,VACATION DAYS (5 day(s) ),charge,GUILTY
+932167,1,01.Wrongful threat of force.,B-CD,,allegation,
+932167,2,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
+932167,3,01.Wrongful threat of force.,B-CD,,allegation,
+932167,4,01.Wrongfully discourteous toward an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
+932167,4,02.Wrongfully used physical force.,CHARGES AND SPECIFICATIONS,,allegation,
 963883,1,01.Failed to activate their body-worn camera.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 963883,1,02.Failed to notify the radio dispatcher about a vehicle pursuit.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 965183,1,Unfit for duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, VACATION DAYS (30 day(s) )",charge,GUILTY
@@ -5208,6 +5205,7 @@ Failed to prepare a Property Clerk's Invoice Worksheet, as required.",,VACATION 
 929534,1,"while on-duty, was absent from said assignment without permission or police necessity and failed to submit a Leave of Absence Report.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 966640,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 956006,1,Involved in a physical altercation.,,VACATION DAYS (15 day(s) ),charge,GUILTY
+944092,1,01.Wrongful search of a premises.,A-CD,,allegation,
 936814,1,WRONGFULLY ADVISED THE MEDICAL DIVISION THAT HE COULD NOT REPORT FOR DUTY BECAUSE HE WAS QUARANTINED AT THE AIRPORT IN GRANADA KNOWING THIS STATEMENT WAS NOT TRUE.,,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
 936814,1,FAILED TO REPORT FOR HIS ASSIGNED TOUR OF DUTY WITHOUT PERMISSION.,,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
 936814,1,WRONGFULLY MADE FALSE STATEMENTS CLAIMING SAID OFFICER COULD NOT REPORT FOR DUTY BECAUSE HE WAS QUARANTINED AT AN AIRPORT IN GRANADA AND COULD NOT TRAVEL .,,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
@@ -5899,7 +5897,9 @@ Wrongfully unholstered/displayed a Taser.",CHARGES AND SPECIFICATIONS,,allegatio
 938852,1,Open container of alcohol in a vehicle.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (33 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 938853,1,"WHILE ON-DUTY, WRONGFULLY DIRECTED A PERSON KNOWN TO THE DEPARTMENT TO CLASSIFY A REPORTED BURGLARY AS A CRIMINAL TRESPASS",,VACATION DAYS (10 day(s) ),charge,GUILTY
 951915,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
-951915,2,01.Violated patrol rules.,TRAINING,TRAINING,allegation,
+951915,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
+951915,2,01.Violated patrol rules.,TRAINING,"TRAINING, TRAINING",allegation,
+951915,2,01.Violated patrol rules.,TRAINING,"TRAINING, TRAINING",allegation,
 941054,1,"ON DUTY, WRONGFULLY USED FORCE IN THAT HE STRUCK A PERSON KNOWN TO THE DEPARTMENT WITHOUT POLICE NECESSITY.",,VACATION DAYS (15 day(s) ),charge,GUILTY
 936948,1,Misuse of time (straight hours).,,"FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
 936948,1,Failed to make required entries in Department Logs  (Activity Log).,,"FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
@@ -6115,7 +6115,6 @@ Failure to cover an individual in custody exposed body parts.",B-CD,B - COMMAND 
 944111,1,"WHILE OFF-DUTY, ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
 944111,1,"ACTED IN A MANNER LIKELY TO BE INJURIOUS TO THE PHYSICAL, MENTAL OR MORAL WELFARE OF A CHILD LESS THAN SEVENTEEN (17) YEARS OLD.",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
 944111,1,"AFTER HAVING BEEN INVOLVED IN AN OFF-DUTY DOMESTIC INCIDENT, FAILED TO TIMELY NOTIFY THE OPERATIONS UNIT, AS REQUIRED.",,"COUNSELING, PRE-TRIAL SUSPENSION DAYS (31 day(s) )",charge,GUILTY
-951487,1,01.Failed to activate body-worn camera.,TRAINING,TRAINING,allegation,
 935216,1,01.Improper use of his body worn camera,TRAINING,TRAINING,allegation,
 935216,2,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 935216,3,01.Violated patrol rules.,B-CD,,allegation,
@@ -6439,7 +6438,6 @@ Wrongfully deactivated their body-worn camera.",OTHER,,allegation,
 935254,1,DID ABUSE HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT BY STRIKING AN INDIVIDUAL KNOWN TO THE DEPARTMENT WITH AN OBJECT FOR NO LEGITIMATE POLICE PURPOSE.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,GUILTY
 935254,2,INVOLVED IN A PHYSICAL ALTERCATION,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (15 day(s) )",charge,PLEADED GUILTY
 935254,2,Failed to make proper notifications,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (15 day(s) )",charge,PLEADED GUILTY
-940425,1,01.Failed to activate their body worn camera.,A-CD,A - COMMAND DISCIPLINE,allegation,
 933967,1,"WHILE OFF-DUTY , REFUSED TO INDETIFY SELF AS A POLICE OFFICER TO ON DUTY POLICE OFFICERS",,"PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 933967,1,"WHILE OFF DUTY , ACTED DISCOURTEOUS TO ON DUTY POLICE OFFICERS",,"PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 933967,1,WHILE OFF-DUTY  FAILED TO COMPLY WITH ON-DUTY YONKERS POLICE OFFICERS' ORDERS,,"PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
@@ -7976,8 +7974,6 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).",C-CD,
 954230,1,Improperly used Department property (unauthorized use of restricted parking permit),,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 934461,1,01.Improper use of force,CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,
 934461,2,01.Violated patrol rules - failed to provide a business card,TRAINING,TRAINING,allegation,
-930949,1,01.Failed to obey a lawful order/direction.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (20 day(s) )",allegation,
-930949,1,02.Out of residence while on sick leave.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (20 day(s) )",allegation,
 973667,1,01.Violated patrol rules.,A-CD,,allegation,
 942346,1,01.Violated patrol rules.,A-CD,A - COMMAND DISCIPLINE,allegation,
 942346,1,02.Wrongfully searched a vehicle.,A-CD,A - COMMAND DISCIPLINE,allegation,
@@ -8141,6 +8137,8 @@ Deployed a Taser outside Department guidelines.",B-CD,,allegation,
 965421,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 966280,1,failed to render police services.,,"PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (20 day(s) )",charge,PLEADED GUILTY
 966280,1,01.Failed to prepare required reports.,OTHER,,allegation,
+970778,1,01.,NO DISCIPLINARY ACTION,,allegation,
+970778,1,02.Failed to timely activate their body worn camera.,NO DISCIPLINARY ACTION,,allegation,
 947364,1,01.Violated patrol rules.,A-CD,,allegation,
 947364,2,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 947364,2,02.Failed to prepare required reports.,OTHER,,allegation,
@@ -8166,7 +8164,6 @@ Deployed a Taser outside Department guidelines.",B-CD,,allegation,
 962025,1,02.Wrongful removal to a hospital.,A-CD,A - COMMAND DISCIPLINE,allegation,
 962025,2,01.Failed to prepare required reports.,TRAINING,,allegation,
 962025,2,02.Wrongfully deactivated their body-worn camera.,OTHER,,allegation,
-956177,1,01.Failed to timely activate their body worn camera.,TRAINING,TRAINING,allegation,
 959090,1,01.Wrongfully acted discourteously towards an individual know to the department.,TRAINING,TRAINING,allegation,
 959090,1,02.Wrongfully acted discourteously towards an individual known to the department.,TRAINING,TRAINING,allegation,
 959090,2,01.Wrongfully threatened to remove an individual to the hospital.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
@@ -9287,7 +9284,6 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).",,VACA
 937488,1,FILED INACCURATE AND INCORRECT DEPARTMENTAL PAPER-WORK.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 937488,1,MADE INCOMPLETE AND INACCURATE ENTRIES IN MEMOBOOK.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 968782,1,Unfit for duty.,,"COUNSELING, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
-963263,1,01.Wrongfully deactivated body-worn camera.,NO DISCIPLINARY ACTION,,allegation,
 956237,1,Made computer inquiries unrelated to official Department business.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 956237,1,Wrongfully disseminated confidential Department information.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 956237,1,Made computer inquiries unrelated to official Department business.,,VACATION DAYS (15 day(s) ),charge,GUILTY
@@ -9377,7 +9373,6 @@ Supervisor, ACS, Commanding Officer if PPO, Operations Unit, CCRB, etc.).",,"COU
 958061,1,02.Improper entry of a premise,NO DISCIPLINARY ACTION,"INSTRUCTIONS, TRAINING",allegation,
 958061,1,03.Improper use of force,TRAINING,"INSTRUCTIONS, TRAINING",allegation,
 958061,2,01.Wrongfully searched a vehicle.,A-CD,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
-961257,1,01.Violated patrol rules.,TRAINING,TRAINING,allegation,
 907284,1,FAILED TO SUPERVISE HIS SUBORDINATE ON TWENTY-ONE (21) OCCASIONS.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 947473,1,Out of the City or residence counties while on sick leave.,,,charge,GUILTY
 947473,1,Out of residence while on sick leave.,,,charge,GUILTY
@@ -10211,3 +10206,8 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 946619,1,Failed to hand over their Identification to an on-duty police officer.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+946619,1,Operated their personal vehicle with an expired state registration.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+946619,1,Improperly tinted windows on personal vehicle.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+946619,1,Failed to obey a lawful order.,,VACATION DAYS (40 day(s) ),charge,GUILTY
+939580,1,"WHILE OFF-DUTY, SAID OFFICER FAILED TO IDENTIFY HERSELF AS A MEMBER OF THE SERVICE WHEN BEING QUESTIONED BY DETECTIVES FROM THE WARRANT SQUAD.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
+926206,1,01.Failed to supervise.,OTHER,,allegation,
