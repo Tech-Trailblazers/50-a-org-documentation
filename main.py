@@ -8,18 +8,50 @@ from typing import List  # For type hinting lists
 
 def download_file(file_url: str, destination_path: str) -> None:
     """
-    Downloads a single file from the specified URL and saves it locally.
+    Downloads a single file from the specified URL and saves it locally,
+    but only if the file doesn't already exist and the URL is valid.
 
     :param file_url: The URL to download the file from.
     :param destination_path: The local path to save the downloaded file.
     """
-    response = requests.get(file_url)  # Send a GET request to the URL
-    response.raise_for_status()  # Raise error if download fails
-    with open(
-        destination_path, "wb"
-    ) as destination_file:  # Open file in binary write mode
-        destination_file.write(response.content)  # Write content to file
-    print(f"Downloaded {file_url} to {destination_path}")  # Confirm download
+
+    # Check if the file already exists locally (using your custom function)
+    if check_file_exists(system_path=destination_path):
+        print(f"File already exists at {destination_path}, skipping download.")
+        return  # Exit early if file is already present
+
+    try:
+        # Send a HEAD request to check if the remote file is accessible
+        head_response: requests.Response = requests.head(
+            url=file_url, allow_redirects=True, timeout=300
+        )
+        # If the response status code is not 200 (OK), skip download
+        if head_response.status_code != 200:
+            print(
+                f"URL not accessible (status: {head_response.status_code}): {file_url}"
+            )
+            return
+
+        # Send a GET request to actually download the file (stream mode, for large files)
+        response: requests.Response = requests.get(
+            url=file_url, stream=True, timeout=300
+        )
+        # Raise an error if the download fails (e.g., 404, 500)
+        response.raise_for_status()
+
+        # Open the destination file in binary write mode
+        with open(file=destination_path, mode="wb") as destination_file:
+            # Write the response content in chunks (good for large files)
+            for chunk in response.iter_content(chunk_size=8192):
+                if chunk:  # Skip empty keep-alive chunks
+                    destination_file.write(chunk)  # Write chunk to file
+
+        # Confirm successful download
+        print(f"Downloaded {file_url} to {destination_path}")
+
+    # Handle network errors, timeouts, or invalid URLs
+    except requests.exceptions.RequestException as e:
+        print(f"Download failed for {file_url}: {e}")
 
 
 def download_files(file_urls: List[str], destination_folder: str) -> None:
