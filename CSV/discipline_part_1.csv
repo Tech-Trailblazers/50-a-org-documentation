@@ -4533,10 +4533,6 @@ Wrongfully disseminated confidential Department information.",,VACATION DAYS (20
 966609,1,01.Wrongfully frisked an individual known to the Department.,B-CD,,allegation,
 966609,1,02.Wrongfully searched an individual known to the Department.,B-CD,,allegation,
 968463,1,01.Failed to activate their body worn camera.,A-CD,,allegation,
-948216,1,Failed to notify.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-948216,1,Failed to conduct an investigation.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-948216,1,Failed to activate her body worn camera.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-948216,1,Failure to submit reports. (Activity Log).,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
 968464,1,01.Violated patrol rules.,A-CD,A - COMMAND DISCIPLINE,allegation,
 964539,1,01.Failed to make proper notifications.,B-CD,A - COMMAND DISCIPLINE,allegation,
 964539,1,"02.Failed to make required entries in Department Logs (Command Log, Roll Call, Activity Log, Vehicle Movement/Utilization, Radio Log, Vehicle Assignment, DV Activity Log).",B-CD,A - COMMAND DISCIPLINE,allegation,
@@ -10150,8 +10146,6 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 939835,1,01.Abuse of authority when issuing a summons (wrongful summons),TRAINING,TRAINING,allegation,
 953470,1,01.Failed to make proper notifications (Desk Sergeant).,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 953470,1,02.Failed to safeguard prisoner property.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
-959289,1,Displayed offensive material while on duty.,,"TRAINING, VACATION DAYS (25 day(s) )",charge,PLEADED GUILTY
-959289,1,Made inappropriate comments while on duty.,,"TRAINING, VACATION DAYS (25 day(s) )",charge,PLEADED GUILTY
 948514,1,01.Wrongful detainment.,B-CD,"B - COMMAND DISCIPLINE, TRAINING",allegation,
 956295,1,Misused Department electronics.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
 956295,1,Made improper contact/communications.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )",charge,GUILTY
@@ -10213,3 +10207,9 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 935840,1,01.Wrongfully threatened to arrest an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
 935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
 935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
+962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
+962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
+954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
+954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
+960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
+960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
