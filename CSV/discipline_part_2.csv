@@ -1,4 +1,7 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
+954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
+960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
@@ -497,11 +500,6 @@ Wrongfully disseminated confidential Department information.",,VACATION DAYS (20
 940835,1,Wrongfully stopped individual known to the department.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 940835,1,Wrongfully authorized  arrest of an individual known to the department.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 940835,1,Inaccurate statements.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-942666,1,"WHILE OFF-DUTY, OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLENCE OF AN INTOXICANT.",,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
-942666,1,OPERATED A MOTOR VEHICLE WHILE HIS ABILITY WAS IMPAIRED BY AN INTOXICANT.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
-942666,1,REFUSED TO SUBMIT TO A CHEMICAL BREATH TEST.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
-942666,1,CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
-942666,1,"WHILE OPERATING A MOTOR VEHICLE UNDER THE INFLUENCE OF AN INTOXICANT, STRUCK/HIT TWO PEDESTRIANS.",,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 953527,1,01.Failed to make required entries in Department Logs.,OTHER,TRAINING,allegation,
 953527,1,02.Failed to prepare required reports.,OTHER,TRAINING,allegation,
 953527,1,03.Wrongful removal to a hospital.,TRAINING,TRAINING,allegation,
