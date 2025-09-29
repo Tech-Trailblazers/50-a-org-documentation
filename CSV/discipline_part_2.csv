@@ -1,4 +1,5 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+958120,1,inappropriate relationship with a witness.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 946619,1,Failed to hand over their Identification to an on-duty police officer.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946619,1,Operated their personal vehicle with an expired state registration.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 946619,1,Improperly tinted windows on personal vehicle.,,VACATION DAYS (40 day(s) ),charge,GUILTY
