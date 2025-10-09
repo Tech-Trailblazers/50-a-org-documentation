@@ -1599,12 +1599,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 938152,1,"WHILE ON-DUTY, STOPPED AN INDIVIDUAL KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (12 day(s) ),charge,GUILTY
 938152,1,INTERFERED WITH AN INDIVIDUAL's ABILITY TO RECORD AN INCIDENT.,,VACATION DAYS (12 day(s) ),charge,GUILTY
 938152,1,ARRESTED AN INDIVIDUAL KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.,,VACATION DAYS (12 day(s) ),charge,GUILTY
-954595,1,Failed an integrity test.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-954595,1,Failed to activate their body-worn camera.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-954595,1,Failed to make required entries in Activity Log.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-954595,1,"ailed to prepare required report, Aided Card.",,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-954595,1,Wrongfully searched an individual known to the Department.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-954595,1,Wrongfully searched a vehicle.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
 950146,1,01.False statements.,CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,
 950146,1,02.Wrongfully used pepper spray.,CHARGES AND SPECIFICATIONS,"B - COMMAND DISCIPLINE, VACATION DAYS (10 day(s) )",allegation,
 950146,2,01.Failed to make required entries in Department Logs.,TRAINING,TRAINING,allegation,
@@ -2699,6 +2693,7 @@ Wrongfully used physical force resulting in injury.",,"PRE-TRIAL SUSPENSION DAYS
 964470,2,Failed to prepare required report.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 964470,2,Violated patrol rules.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 941621,1,01.Wrongfully used physical force.,CHARGES AND SPECIFICATIONS,,allegation,
+966530,1,Made misleading or inaccurate statements during an official department interview.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
 938322,1,"WHILE ON-DUTY, ENTERED A LOCATION KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (5 day(s) ),charge,GUILTY
 938322,1,"WHILE ON DUTY, WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT.",,VACATION DAYS (5 day(s) ),charge,GUILTY
 938322,1,"WHILE ON-DUTY, WRONGFULLY USED FORCE WITHOUT POLICE NECESSITY.",,VACATION DAYS (5 day(s) ),charge,GUILTY
@@ -9483,7 +9478,6 @@ Failure to Notify",B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (2 day(s) )",alle
 942527,1,Made inaccurate statements to supervisor.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,GUILTY
 942527,1,Violated Department of Motor Vehicles rules.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )",charge,GUILTY
 964760,1,01.Improper threat to effect an arrest,TRAINING,TRAINING,allegation,
-948675,1,Discharge firearm at moving vehicle.,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
 957147,1,01.Out of residence while on sick leave.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 916672,1,"while off-duty, wrongfully failed and neglected to properly safeguard off-duty firearm.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 951228,1,WHILE ON DUTY WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (8 day(s) ),charge,GUILTY
@@ -10213,3 +10207,9 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 945466,1,WHILE ON DUTY ON ONE (1) OCCASION DID IMPROPERLY CORRECT OR EDIT HIS ACTIVITY LOG ENTRIES.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 945466,1,VIOLATED PAID DETAIL GUIDELINES BY PERFORMING A PAID DETAIL ASSIGNMENT WITHIN ONE HOUR OF HIS REGULARLY SCHEDULED TOUR.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 945466,1,SUBMITED A PAID DETAIL PAYMENT SLIP FOR HOURS THAT HE DID NOT PERFORM SAID DETAIL.,,VACATION DAYS (10 day(s) ),charge,GUILTY
+935840,1,01.Wrongfully threatened to arrest an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
+935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
+935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
+962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
+962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
+954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
