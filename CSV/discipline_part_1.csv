@@ -5703,6 +5703,9 @@ Failed to prepare required reports.",,VACATION DAYS (35 day(s) ),charge,PLEADED 
 951896,1,Operated a motor vehicle recklessly.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 942034,1,"WHILE ON-DUTY, WRONGFULLY ARRESTED AN INDIVIDUAL KNOWN TO THE DEPARTMENT WHEN NO OFFENSE OR CRIME HAD OCCURRED.",,VACATION DAYS (20 day(s) ),charge,GUILTY
 942034,1,"WHILE ON-DUTY, WRONGFULLY MADE INACCURATE STATEMENTS ON CRIMINAL COURT SUMMONSES.",,VACATION DAYS (20 day(s) ),charge,GUILTY
+952962,1,Failed to safeguard a firearm.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
+952962,1,Failed to safeguard a firearm.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
+952962,1,Wrongfully in possession of duplicate shield.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 930529,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
 941474,1,Wrongfully used physical force.,,VACATION DAYS (5 day(s) ),charge,PLEADED GUILTY
 941474,1,Wrongfully used physical force.,,VACATION DAYS (5 day(s) ),charge,PLEADED GUILTY
@@ -6152,6 +6155,7 @@ Failure to cover an individual in custody exposed body parts.",B-CD,B - COMMAND 
 961539,1,02.Wrongful search of a premises.,A-CD,,allegation,
 955104,1,Wrongful used physical force.,,VACATION DAYS (12 day(s) ),charge,GUILTY
 933952,1,"FAILED TO PROPERLY PERFORM HIS DUTIES AS DIRECTED BY COMPETENT AUTHORITY, IN THAT SAID POLICE OFFICER DID FAIL TO CONDUCT A PROPER AND THOROUGH SEARCH FOR A SPECIAL CATEGORY MISSING PERSON, IDENTITY KNOWN TO THE DEPARTMENT.",,VACATION DAYS (15 day(s) ),charge,GUILTY
+956860,1,"WHILE OFF-DUTY, HAVING WITNESSED THE ACCIDENTAL DISCHARGE OF ONE ROUND FROM A FIREARM BY ANOTHER MEMBER OF SERVICE, FAILED TO REMAIN AT THE SCENE, REQUEST THE RESPONSE OF THE PATROL SUPERVISOR, OR TO NOTIFY THE INTERNAL AFFAIRS BUREAU, AS REQUIRED.",,VACATION DAYS (25 day(s) ),charge,GUILTY
 958850,1,01.Failed to activate their body worn camera,NO DISCIPLINARY ACTION,,allegation,
 958850,2,01.Violated patrol rules - failed to provide business card,A-CD,A - COMMAND DISCIPLINE,allegation,
 958850,3,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
@@ -10209,7 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,05.Improperly used a non-lethal restraining device to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-949728,1,01.Off post.,CHARGES AND SPECIFICATIONS,INSTRUCTIONS,allegation,
-937625,1,ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (15 day(s) ),charge,GUILTY
