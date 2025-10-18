@@ -1,11 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-962838,3,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,3,02.Violated patrol rules.,OTHER,,allegation,
-962838,4,01.Violated patrol rules - failed to provide a business card,A-CD,A - COMMAND DISCIPLINE,allegation,
-962838,5,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,6,01.Failed to notify the radio dispatcher about a vehicle pursuit.,C-CD,TRAINING,allegation,
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
 962133,1,01.Violated patrol rules - failed to provide a business card,TRAINING,TRAINING,allegation,
 945466,1,WHILE ON DUTY FAILED TO CORRECT A PAID DETAIL SUBMISSION THAT HAD INACCURATE TIME WORKED ENTRIES UPON BECOMING AWARE OF THE ERROR.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 945466,1,WHILE ON DUTY ON ONE (1) OCCASION DID IMPROPERLY CORRECT OR EDIT HIS ACTIVITY LOG ENTRIES.,,VACATION DAYS (10 day(s) ),charge,GUILTY
@@ -1072,13 +1065,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 965910,1,01.Failed to activate their body worn camera,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,
 965910,1,02.Violated patrol rules,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (1 day(s) )",allegation,
 927702,1,01.Failed to prepare required reports.,TRAINING,,allegation,
-951461,1,Operated a motor vehicle while under the influence of an intoxicant.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
-951461,1,Operate a motor vehicle while their ability was impaired.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
-951461,1,Unfit for duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
-951461,1,Refused to sign to a breathalyzer/coordination test.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
-951461,1,"Operated a motor vehicle recklessly. 
-Unfit for duty.",,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
-951461,1,Unfit for duty while armed.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )",charge,PLEADED GUILTY
 947631,1,01.Failed to activate their body worn camera.,A-CD,TRAINING,allegation,
 945130,1,"WHILE OFF-DUTY, WAS PRESENT AT AN UNUSUAL POLICE OCCURRENCE AND FAILED TO PROMPTLY MAKE NOTIFICATIONS",,VACATION DAYS (10 day(s) ),charge,GUILTY
 945130,1,"WHILE OFF-DUTY, WAS PRESENT AT AN UNUSUAL POLICE OCCURRENCE AND FAILED TO REMAIN AT THE SCENE",,VACATION DAYS (10 day(s) ),charge,GUILTY
