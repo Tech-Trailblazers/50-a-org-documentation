@@ -1,9 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-959295,1,Left the scene of an accident.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
-959295,1,Made misleading or inaccurate statements during an official Department interview.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
-962838,1,01.Discourteous to another person.,INSTRUCTIONS,INSTRUCTIONS,allegation,
-962838,1,02.Improperly used department equipment.,INSTRUCTIONS,INSTRUCTIONS,allegation,
-962838,2,01.Violated patrol rules - failure to provide business card,OTHER,A - COMMAND DISCIPLINE,allegation,
 962838,3,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 962838,3,02.Violated patrol rules.,OTHER,,allegation,
 962838,4,01.Violated patrol rules - failed to provide a business card,A-CD,A - COMMAND DISCIPLINE,allegation,

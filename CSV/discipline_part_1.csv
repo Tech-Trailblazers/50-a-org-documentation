@@ -6348,9 +6348,6 @@ Refused to answer questions during an official Department interview",,"DISMISSAL
 966919,1,Unfit for duty.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 966919,1,Failed to obey a lawful order.,,VACATION DAYS (40 day(s) ),charge,GUILTY
 966919,1,Discourtesy,,VACATION DAYS (40 day(s) ),charge,GUILTY
-960860,1,01.Made false statements during a Civilian Complaint Review Board interview.,CHARGES AND SPECIFICATIONS,,allegation,
-960860,1,02.Wrongfully arrested an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
-960860,1,03.Wrongfully threatened to arrest an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
 945948,1,01.Violated patrol rules.,A-CD,,allegation,
 957802,1,01.Violated patrol rules.,B-CD,,allegation,
 957802,1,02.Wrongfully stopped an individual known to the Department.,B-CD,,allegation,
@@ -8068,10 +8065,8 @@ Misuse of time.",,"RESTITUTION ($10,857), VACATION DAYS (55 day(s) )",charge,GUI
 954237,1,02.Failed to voucher property.,CHARGES AND SPECIFICATIONS,"A - COMMAND DISCIPLINE, INSTRUCTIONS, VACATION DAYS (2 day(s) )",allegation,
 959897,1,WHILE ON-DUTY FAILED TO SAFEGUARD A PRISONER RESULTING IN THE ESCAPE OF SAID PRISONER.,,PRE-TRIAL SUSPENSION DAYS (16 day(s) ),charge,GUILTY
 970773,1,01.Violated patrol rules.,NO DISCIPLINARY ACTION,,allegation,
-970090,1,01.Violated patrol rules - failure to provide a business card,B-CD,"B - COMMAND DISCIPLINE, TRAINING, B - COMMAND DISCIPLINE, TRAINING",allegation,
-970090,1,01.Violated patrol rules - failure to provide a business card,B-CD,"B - COMMAND DISCIPLINE, TRAINING, B - COMMAND DISCIPLINE, TRAINING",allegation,
-970090,1,02.Wrongfully searched an individual known to the Department.,B-CD,"B - COMMAND DISCIPLINE, TRAINING, B - COMMAND DISCIPLINE, TRAINING",allegation,
-970090,1,02.Wrongfully searched an individual known to the Department.,B-CD,"B - COMMAND DISCIPLINE, TRAINING, B - COMMAND DISCIPLINE, TRAINING",allegation,
+970090,1,01.Violated patrol rules - failure to provide a business card,B-CD,"B - COMMAND DISCIPLINE, TRAINING",allegation,
+970090,1,02.Wrongfully searched an individual known to the Department.,B-CD,"B - COMMAND DISCIPLINE, TRAINING",allegation,
 949486,1,Living outside the state or permissible counties.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 949486,2,Living outside the state or permissible counties.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,PLEADED GUILTY
 949486,2,Failed to obey a lawful order.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (50 day(s) )",charge,PLEADED GUILTY
@@ -10213,3 +10208,8 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 939934,1,02.Failed to request supervisor of a police incident,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 939934,1,03.Made misleading statements during an official Department interview.,NO DISCIPLINARY ACTION,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
 947540,1,"WHILE ON-DUTY,  GAVE INACCURATE TESTIMONY DURING A GRAND JURY PROCEEDING.",,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
+959295,1,Left the scene of an accident.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
+959295,1,Made misleading or inaccurate statements during an official Department interview.,,VACATION DAYS (20 day(s) ),charge,PLEADED GUILTY
+962838,1,01.Discourteous to another person.,INSTRUCTIONS,INSTRUCTIONS,allegation,
+962838,1,02.Improperly used department equipment.,INSTRUCTIONS,INSTRUCTIONS,allegation,
+962838,2,01.Violated patrol rules - failure to provide business card,OTHER,A - COMMAND DISCIPLINE,allegation,
