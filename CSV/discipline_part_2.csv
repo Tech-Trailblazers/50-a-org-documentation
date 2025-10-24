@@ -1,21 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-962838,1,02.Improperly used department equipment.,INSTRUCTIONS,INSTRUCTIONS,allegation,
-962838,2,01.Violated patrol rules - failure to provide business card,OTHER,A - COMMAND DISCIPLINE,allegation,
-962838,3,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,3,02.Violated patrol rules.,OTHER,,allegation,
-962838,4,01.Violated patrol rules - failed to provide a business card,A-CD,A - COMMAND DISCIPLINE,allegation,
-962838,5,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,6,01.Failed to notify the radio dispatcher about a vehicle pursuit.,C-CD,TRAINING,allegation,
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
-962133,1,01.Violated patrol rules - failed to provide a business card,TRAINING,TRAINING,allegation,
-945466,1,WHILE ON DUTY FAILED TO CORRECT A PAID DETAIL SUBMISSION THAT HAD INACCURATE TIME WORKED ENTRIES UPON BECOMING AWARE OF THE ERROR.,,VACATION DAYS (10 day(s) ),charge,GUILTY
-945466,1,WHILE ON DUTY ON ONE (1) OCCASION DID IMPROPERLY CORRECT OR EDIT HIS ACTIVITY LOG ENTRIES.,,VACATION DAYS (10 day(s) ),charge,GUILTY
-945466,1,VIOLATED PAID DETAIL GUIDELINES BY PERFORMING A PAID DETAIL ASSIGNMENT WITHIN ONE HOUR OF HIS REGULARLY SCHEDULED TOUR.,,VACATION DAYS (10 day(s) ),charge,GUILTY
-945466,1,SUBMITED A PAID DETAIL PAYMENT SLIP FOR HOURS THAT HE DID NOT PERFORM SAID DETAIL.,,VACATION DAYS (10 day(s) ),charge,GUILTY
-935840,1,01.Wrongfully threatened to arrest an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
-935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
-935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
 962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
@@ -1007,7 +990,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 965625,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 952359,1,01.Wrongfully threatened to remove an individual to the hospital.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 948160,1,01.Failed to prepare required reports.,NO DISCIPLINARY ACTION,,allegation,
-961466,1,01.Violated patrol rules.,A-CD,,allegation,
 946402,1,01.Wrongfully used physical force.,NO DISCIPLINARY ACTION,,allegation,
 965628,1,Inaccurate entries in Department records.,,"FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )",charge,PLEADED GUILTY
 965628,1,Failed to submit reports.,,"FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )",charge,PLEADED GUILTY
