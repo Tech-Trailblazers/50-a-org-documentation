@@ -447,6 +447,10 @@ ENDANGERED THE WELFARE OF A CHILD",,"COUNSELING, DISMISSAL PROBATION (12 month(s
 959455,2,02.Wrongfully searched an individual known to the Department.,B-CD,,allegation,
 959455,3,01.Violated patrol rules.,OTHER,,allegation,
 966437,1,01.Failed to take police action/render police services.,A-CD,A - COMMAND DISCIPLINE,allegation,
+915231,1,Improperly used Department property/resources/equipment.,,VACATION DAYS (35 day(s) ),charge,PLEADED GUILTY
+915231,1,Failed to safeguard Department property.,,VACATION DAYS (35 day(s) ),charge,PLEADED GUILTY
+915231,1,Disobeyed traffic-control device.,,VACATION DAYS (35 day(s) ),charge,PLEADED GUILTY
+915231,1,Improperly used Department property/resources/equipment.,,VACATION DAYS (35 day(s) ),charge,PLEADED GUILTY
 967752,1,01.Wrongful search of a premises.,NO DISCIPLINARY ACTION,,allegation,
 963375,1,01.Wrongfully made discourteous gesture.,A-CD,A - COMMAND DISCIPLINE,allegation,
 942751,1,WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT.,,VACATION DAYS (20 day(s) ),charge,GUILTY
@@ -4506,6 +4510,8 @@ Wrongfully disseminated confidential Department information.",,VACATION DAYS (20
 966089,1,01.Wrongfully frisked an individual known to the Department.,B-CD,,allegation,
 966089,1,02.Wrongfully stopped an individual known to the Department.,B-CD,,allegation,
 963809,1,01.Made improper contact/communications (WhatsApp).,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
+954193,1,01.Failed to safeguard a firearm.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
+954193,1,02.Failed to timely make proper notifications.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
 959677,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 930285,1,01.Violated patrol rules.,A-CD,,allegation,
 930285,2,01.Failed to activate their body worn camera.,OTHER,,allegation,
@@ -7121,6 +7127,9 @@ Misuse of time.",,"FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (35 day(s) )
 937125,1,FAILED TO MAKE ACTIVITY LOG ENTRIES.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 937125,1,WRONGFULLY TRANSMITTED A FALSE DISPOSITION OVER THE DEPARTMENT RADIO.,,VACATION DAYS (15 day(s) ),charge,GUILTY
 963659,1,01.Failed to prepare required reports.,OTHER,,allegation,
+942796,1,01.Failed to safeguard Department property (Department Cell Phone),CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (16 day(s) )",allegation,
+942796,1,01.Made misleading or inaccurate statements during an official Department interview.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (16 day(s) )",allegation,
+942796,1,02.Impeded an investigation.,CHARGES AND SPECIFICATIONS,"C - COMMAND DISCIPLINE, VACATION DAYS (16 day(s) )",allegation,
 961961,1,01.Violated patrol rules.,B-CD,,allegation,
 961961,2,01.Wrongfully deactivated their body worn camera.,OTHER,,allegation,
 961961,3,01.Violated patrol rules.,B-CD,,allegation,
@@ -7759,9 +7768,6 @@ Involved in physical altercation.",,"COUNSELING, DISMISSAL PROBATION (12 month(s
 964694,1,01.Failed to activate their Body-Worn Camera.,NO DISCIPLINARY ACTION,,allegation,
 964695,1,01.Violated patrol rules.,A-CD,,allegation,
 961993,1,01.Wrongfully deactivated their body-worn camera.,NO DISCIPLINARY ACTION,,allegation,
-958419,1,Operated a motor vehicle while their ability was impaired.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (24 day(s) )",charge,PLEADED GUILTY
-958419,1,Operated a motor vehicle while their ability was impaired.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (24 day(s) )",charge,PLEADED GUILTY
-958419,1,Unfit for duty.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (31 day(s) ), VACATION DAYS (24 day(s) )",charge,PLEADED GUILTY
 951004,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
 957002,1,01.Failed to prepare required reports.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 944874,1,"WHILE ON-DUTY, FAILED TO PROPERLY SAFEGUARD HIS FIREARMS.",,"PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (15 day(s) )",charge,GUILTY
@@ -9147,6 +9153,7 @@ Misused Department electronics (Computer).",,"DISMISSAL PROBATION (12 month(s) )
 949601,1,03.Fraternized with subordinates,NO DISCIPLINARY ACTION,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
 949601,1,04.Meal in excess of one hour.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
 949601,1,05.Omitted  Activity Log entries.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (18 day(s) )",allegation,
+959960,1,01.Wrongfully searched a vehicle.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 966321,1,01.Failed to prepare required reports.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 966321,2,01.Wrongfully discourteous to an individual known to the Department.,A-CD,A - COMMAND DISCIPLINE,allegation,
 966321,3,01.Failed to activate their body worn camera.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
@@ -10206,10 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 962838,1,01.Discourteous to another person.,INSTRUCTIONS,INSTRUCTIONS,allegation,
 962838,1,02.Improperly used department equipment.,INSTRUCTIONS,INSTRUCTIONS,allegation,
 962838,2,01.Violated patrol rules - failure to provide business card,OTHER,A - COMMAND DISCIPLINE,allegation,
-962838,3,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,3,02.Violated patrol rules.,OTHER,,allegation,
-962838,4,01.Violated patrol rules - failed to provide a business card,A-CD,A - COMMAND DISCIPLINE,allegation,
-962838,5,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962838,6,01.Failed to notify the radio dispatcher about a vehicle pursuit.,C-CD,TRAINING,allegation,
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
-947541,1,"WHILE ON DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (4 day(s) ),charge,GUILTY
