@@ -1,7 +1,4 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
-962839,1,01.Failed to make required entries in Department Logs.,OTHER,,allegation,
-962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
-954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
 954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
 960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
@@ -498,9 +495,6 @@ Wrongfully disseminated confidential Department information.",,VACATION DAYS (20
 944298,1,FAILED AND NEGLECTED TO ENSURE THAT HIS SUBORDINATES PREPARE A COMPLAINT REPORT WORKSHEET UPON RESPONDING TO A RADIO TRANSMISSION OF A ROBBERY AND SPEAKING TO THE COMPLAINANT.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 942665,1,Involved in a physical altercation.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (5 day(s) )",charge,PLEADED GUILTY
 942665,1,Failed to make proper notifications (Operations Unit).,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (5 day(s) )",charge,PLEADED GUILTY
-940835,1,Wrongfully stopped individual known to the department.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-940835,1,Wrongfully authorized  arrest of an individual known to the department.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
-940835,1,Inaccurate statements.,,VACATION DAYS (30 day(s) ),charge,PLEADED GUILTY
 942666,1,"WHILE OFF-DUTY, OPERATED A MOTOR VEHICLE WHILE UNDER THE INFLENCE OF AN INTOXICANT.",,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 942666,1,OPERATED A MOTOR VEHICLE WHILE HIS ABILITY WAS IMPAIRED BY AN INTOXICANT.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 942666,1,REFUSED TO SUBMIT TO A CHEMICAL BREATH TEST.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), SUSPENDED W/O PAY (20 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
@@ -912,8 +906,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 935973,3,Failed to make required entries in Department Logs,,"DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($406), VACATION DAYS (30 day(s) )",charge,GUILTY
 924628,1,01.Wrongful removal to a hospital.,A-CD,,allegation,
 910401,1,"WHILE ON-DUTY, TOOK A PHOTOGRAPH OF ANOTHER MEMBER OF THE SERVICE WITH HIS PERSONAL CELL PHONE WITHOUT SAID MEMBER'S CONSENT, AND DISSEMINATED SAID PHOTO TO OTHER MEMBERS OF SERVICE RESULTING IN THE PHOTO BEING POSTED ON FACEBOOK.",,"TRAINING, VACATION DAYS (5 day(s) )",charge,GUILTY
-953574,1,"Failed to make proper notifications,",,VACATION DAYS (20 day(s) ),charge,GUILTY
-953574,1,Wrongfully used physical force resulting in injury.,,VACATION DAYS (20 day(s) ),charge,GUILTY
 961582,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
 942838,1,Wrongfully used physical force.,,"SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (10 day(s) )",charge,GUILTY
 942838,1,01.Failed to activate their body worn camera.,OTHER,,allegation,
