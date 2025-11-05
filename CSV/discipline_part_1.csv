@@ -4201,6 +4201,7 @@ Misuse of time.",,"COUNSELING, DEDUCTION OF PENSIONABLE TIME, DISMISSAL PROBATIO
 953916,1,Misuse of time.,,"DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 953916,1,Consumed alcohol while on duty.,,"DISMISSAL PROBATION (12 month(s) ), FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (30 day(s) )",charge,PLEADED GUILTY
 958643,1,01.Wrongfully searched a vehicle.,A-CD,A - COMMAND DISCIPLINE,allegation,
+938586,1,Discourtesy.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 936676,1,01.Violated patrol rules.,NO DISCIPLINARY ACTION,,allegation,
 936676,1,02.Wrongfully frisked an individual known to the Department.,NO DISCIPLINARY ACTION,,allegation,
 936676,1,03.Wrongfully stopped an individual known to the Department.,NO DISCIPLINARY ACTION,,allegation,
@@ -5108,6 +5109,8 @@ Wrongfully deactivated body-worn camera.",OTHER,,allegation,
 941935,1,"while on-duty, was late to or left early from her assignment without permission or police necessity.",,"DEDUCTION OF PENSIONABLE TIME, FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($50), VACATION DAYS (15 day(s) )",charge,GUILTY
 941935,1,"while on-duty, wrongfully made inaccurate entries in Department records.",,"DEDUCTION OF PENSIONABLE TIME, FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($50), VACATION DAYS (15 day(s) )",charge,GUILTY
 941935,1,"while on-duty, wrongfully made or caused inaccurate entries in a Sign-In/Sign-Out Log or Activity Log.",,"DEDUCTION OF PENSIONABLE TIME, FORFEITURE OF TIME/LEAVE BALANCES, RESTITUTION ($50), VACATION DAYS (15 day(s) )",charge,GUILTY
+940828,1,01.Wrongful search of a premises.,A-CD,,allegation,
+940828,1,02.Wrongfully searched a vehicle.,A-CD,,allegation,
 947779,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 973483,1,01.Body-worn camera violation.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 954964,1,01.Improper stop of an individual,CHARGES AND SPECIFICATIONS,"A - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
@@ -5647,7 +5650,6 @@ Report",OTHER,TRAINING,allegation,
 925573,1,WRONGFULLY CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 925573,1,WAS UNFIT FOR DUTY WHILE ARMED.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 964104,1,01.Failed to make required entries in Department Logs.,NO DISCIPLINARY ACTION,,allegation,
-945224,1,USED EXCESSIVE FORCE IN THAT HE UNNECESSARILY USED PEPPER SPRAY AGAINST INDIVIDUALS.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 955036,1,01.Activity Log violation.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 955036,1,02.Failure to safeguard prisoner property.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 943457,1,"Failed to conduct an investigation.
@@ -10211,5 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
 954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
-960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
-960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,

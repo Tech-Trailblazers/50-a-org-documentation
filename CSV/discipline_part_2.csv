@@ -1,4 +1,6 @@
 taxid,group_id,description,recommendation,penalty,type,disposition
+960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
+960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,03.Improperly entered a location without sufficient legal authority to do so,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,04.Improperly pointed firearm at an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
 960025,1,05.Improperly used a non-lethal restraining device to an individual known to the department,CHARGES AND SPECIFICATIONS,,allegation,
@@ -797,7 +799,6 @@ Failed to submit report.",C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (20 day(s)
 937726,5,02.Failed to make required entries in Department Logs.,OTHER,,allegation,
 962164,1,01.Failed to make proper notification to Patrol Supervisor.,CHARGES AND SPECIFICATIONS,,allegation,
 962164,1,02.Left the scene of an accident.,CHARGES AND SPECIFICATIONS,,allegation,
-942696,1,"WHILE ON-DUTY, ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT, IN THAT HE STOPPED A PERSON KNOWN TO THE DEPARTMENT WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (2 day(s) ),charge,GUILTY
 961444,1,"Failed to conduct an investigation.
 Failed to take police action/render police services.
 Failed to make proper notifications.
@@ -921,11 +922,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 946399,1,01.Failed to prepare required reports.,OTHER,,allegation,
 949807,1,"WHILE ON-DUTY, DID WRONGFULLY UTILIZE THE DEPARTMENT COMPUTER TO MAKE AN INQUIRY UNRELATED TO THE OFFICIAL BUSINESS OF THE NEW YORK CITY POLICE DEPARTMENT.",,"DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (30 day(s) )",charge,GUILTY
 942720,1,01.Off-duty employment without permission.,C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (3 day(s) )",allegation,
-972316,1,"Failed to prepare a Property Clerk's Invoice Worksheet, as required.",,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
-972316,1,Failed to make proper notifications.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
-972316,1,Failed to conduct an investigation.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
-972316,1,Failed to obey a lawful order.,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
-972316,1,Failed to make required entries in Department logs (Activity Log).,,VACATION DAYS (40 day(s) ),charge,PLEADED GUILTY
 958183,1,01.Violated patrol rules.,B-CD,,allegation,
 958183,1,02.Wrongfully frisked an individual known to the Department.,B-CD,,allegation,
 958183,1,03.Wrongfully searched an individual known to the Department.,B-CD,,allegation,
@@ -957,12 +953,6 @@ Made or caused to be made false or inaccurate entries in Department records.",,"
 935991,1,"WHILE  ON DUTY, SEARCHED A PERSON KNOWN TO THE DEPARTMENT's VEHICLE WITHOUT SUFFICIENT LEGAL AUTHORITY.",,VACATION DAYS (5 day(s) ),charge,GUILTY
 935991,2,"WHILE ON-DUTY, STOPPED A PERSON KNOWN TO THE DEPARTMENT's VEHICLE WITHOUT SUFFICIENT LEGAL AUTHORITY",,VACATION DAYS (5 day(s) ),charge,GUILTY
 935991,1,01.Violated uniform rules.,OTHER,,allegation,
-942726,1,WHILE OFF DUTY APPEARED AT BRONX TRAFFIC COURT WITH AN INDIVIDUAL KNOWN TO THE DEPARTMENT AND REQUESTED THE TESTIFYING OFFICER TO EXTEND A COURTESY TO SAID INDIVIDUAL.,,VACATION DAYS (45 day(s) ),charge,GUILTY
-942726,2,FAILED TO RESPOND TO A RADIO RUN THAT WAS ASSIGNED TO SAID MEMBER AND HIS PARTNER FROM DISPATCH PURSUANT TO A 911 CALL.,,VACATION DAYS (45 day(s) ),charge,GUILTY
-942726,2,WRONGFULLY MADE IMPROPER MEMOBOOK ENTRIES.,,VACATION DAYS (45 day(s) ),charge,GUILTY
-942726,3,FAILED TO TERMINATE VEHICLE PURSUIT,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-942726,3,FAILED TO MAKE PROPER NOTIFICATION,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
-942726,3,FAILED TO ACTIVATE BODY WORN CAMERA,,VACATION DAYS (25 day(s) ),charge,PLEADED GUILTY
 940872,1,01.Wrongfully discourteous.,A-CD,A - COMMAND DISCIPLINE,allegation,
 961463,1,01.Wrongfully discourteous to an individual known to the Department.,B-CD,,allegation,
 961463,2,01.Violated patrol rules.,A-CD,,allegation,
