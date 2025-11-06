@@ -4949,9 +4949,6 @@ Failed to conduct an investigation.",,VACATION DAYS (35 day(s) ),charge,PLEADED 
 954939,1,"02.Failure to safeguard firearm while on-duty, not resulting in its loss.",C-CD,"C - COMMAND DISCIPLINE, VACATION DAYS (13 day(s) )",allegation,
 974191,1,01.Made computer inquiries unrelated to official Department business.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 974191,1,02.Violated social media guidelines,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
-941041,1,"WHILE ON-DUTY, WRONGFULLY USED HIS CELLULAR TELEPHONE SEVERAL TIMES FOR NON-DEPARTMENT PURPOSES.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
-941041,1,"WHILE ON-DUTY, WRONGFULLY DIVULGED CONFIDENTIAL INFORMATION AND/OR DISCUSSED OFFICIAL DEPARTMENT BUSINESS.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
-941041,1,"WHILE ON-DUTY, WRONGFULLY USED HIS CELLULAR TELEPHONE SEVERAL TIMES FOR NON-DEPARTMENT PURPOSES.",,VACATION DAYS (10 day(s) ),charge,PLEADED GUILTY
 951826,1,01.Failed to activate their body worn camera,TRAINING,TRAINING,allegation,
 949112,1,01.Wrongful entry of a premises.,A-CD,,allegation,
 953972,1,"WHILE OFF-DUTY, PROBATIONARY POLICE OFFICER WAS INVOLVED IN A PHYSICAL ALTERCATION WITH ANOTHER INDIVIDUAL.",,VACATION DAYS (10 day(s) ),charge,GUILTY
@@ -5650,6 +5647,7 @@ Report",OTHER,TRAINING,allegation,
 925573,1,WRONGFULLY CONSUMED AN INTOXICANT TO THE EXTENT THAT SAID POLICE OFFICER WAS UNFIT FOR DUTY.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 925573,1,WAS UNFIT FOR DUTY WHILE ARMED.,,"COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, SUSPENDED W/O PAY (30 day(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 964104,1,01.Failed to make required entries in Department Logs.,NO DISCIPLINARY ACTION,,allegation,
+945224,1,USED EXCESSIVE FORCE IN THAT HE UNNECESSARILY USED PEPPER SPRAY AGAINST INDIVIDUALS.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 955036,1,01.Activity Log violation.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 955036,1,02.Failure to safeguard prisoner property.,B-CD,"B - COMMAND DISCIPLINE, VACATION DAYS (5 day(s) )",allegation,
 943457,1,"Failed to conduct an investigation.
@@ -10213,3 +10211,5 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 962839,2,01.Wrongfully searched an individual known to the Department.,A-CD,"A - COMMAND DISCIPLINE, FORFEITURE OF TIME/LEAVE BALANCES",allegation,
 954370,1,01.Improper frisk.,TRAINING,TRAINING,allegation,
 954370,1,02.Improper search.,TRAINING,TRAINING,allegation,
+960025,1,01.Failed to obtain medical treatment for a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
+960025,1,02.Improperly discharged firearm at a person known to the department,CHARGES AND SPECIFICATIONS,,allegation,
