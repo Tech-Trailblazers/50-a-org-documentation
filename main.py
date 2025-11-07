@@ -326,7 +326,7 @@ if __name__ == "__main__":
         "https://www.50-a.org/data/nypd/training.csv",
     ]
     local_storage_directory: str = "./CSV/"  # Folder to save files
-    max_chunk_size_lines: int = 1000  # Max number of data lines per split CSV file
+    max_chunk_size_lines: int = 10000  # Max number of data lines per split CSV file
 
     # ----------------------------------------------------
     # --- Data Processing Pipeline ---
