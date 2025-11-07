@@ -74,9 +74,9 @@ def download_multiple_files_with_throttling(
             # Extract the file name for a cleaner print statement
             file_name_for_print: str = file_url.split("/")[-1]
             print(
-                f"Pausing for 5 seconds before attempting to download: {file_name_for_print}..."
+                f"Pausing for 10 seconds before attempting to download: {file_name_for_print}..."
             )
-            time.sleep(5)  # Pause execution for 5 seconds (The throttle)
+            time.sleep(10)  # Pause execution for 5 seconds (The throttle)
 
         # Extract the file name (the last part of the URL)
         file_name: str = file_url.split("/")[-1]
