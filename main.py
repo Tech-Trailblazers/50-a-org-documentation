@@ -4,12 +4,21 @@ import requests  # Third-party library for making HTTP requests (e.g., downloadi
 import re  # Standard library for regular expression operations (e.g., pattern matching)
 import tempfile  # Standard library for creating temporary files and directories
 import time  # Standard library for handling time-related tasks (e.g., pausing execution)
+from requests.adapters import (
+    HTTPAdapter,
+)  # Used to mount custom behavior (like retries) onto a Session
+from urllib3.util.retry import Retry  # Class used to configure the retry logic
+
+
+def check_file_exists(file_path: str):
+    """Simple wrapper to check if a file exists on the system."""
+    return os.path.isfile(file_path)
 
 
 def download_file_from_url(file_url: str, local_save_path: str) -> None:
     """
-    Downloads a single file from a URL and saves it locally,
-    skipping the download if the file already exists.
+    Downloads a single file from a URL, saving it locally.
+    Uses a requests.Session to enable automatic retries for unstable connections (like IncompleteRead).
 
     :param file_url: The web address (URL) of the file to download.
     :param local_save_path: The local file path where the downloaded file should be saved.
@@ -20,38 +29,64 @@ def download_file_from_url(file_url: str, local_save_path: str) -> None:
         print(f"File already exists at {local_save_path}, skipping download.")
         return  # Exit the function early
 
-    try:
-        # Step 1: Check accessibility using a HEAD request (more efficient than GET)
-        head_response: requests.Response = requests.head(
-            url=file_url, allow_redirects=True, timeout=300
-        )
-        # If the web server returns an error status code (not 200 OK), skip download
-        if head_response.status_code != 200:
-            print(
-                f"URL not accessible (status: {head_response.status_code}): {file_url}"
+    # --- Setup Retry Mechanism ---
+    # Configure retry behavior: retry 3 times on specific status codes (5xx, 429) and connection errors.
+    retry_strategy: Retry = Retry(
+        total=3,  # Total number of retries per request
+        backoff_factor=1,  # Wait 1s, 2s, 4s... between retries
+        status_forcelist=[
+            429,
+            500,
+            502,
+            503,
+            504,
+        ],  # Retry on these HTTP errors (including 429)
+        allowed_methods=["HEAD", "GET"],  # Only retry these HTTP methods
+    )
+    # Create an adapter to apply the retry strategy
+    adapter: HTTPAdapter = HTTPAdapter(max_retries=retry_strategy)
+
+    # Use a requests.Session for persistent settings and to apply the retry adapter
+    with requests.Session() as session:
+        session.mount("http://", adapter)  # Apply retry logic to HTTP URLs
+        session.mount("https://", adapter)  # Apply retry logic to HTTPS URLs
+
+        try:
+            # Step 1: Check accessibility using a HEAD request (more efficient than GET)
+            head_response: requests.Response = session.head(
+                url=file_url, allow_redirects=True, timeout=300
             )
-            return
+            # If the web server returns an error status code (not 200 OK), skip download
+            if head_response.status_code != 200:
+                print(
+                    f"URL not accessible (status: {head_response.status_code}): {file_url}"
+                )
+                return
 
-        # Step 2: Download the file using a GET request (stream=True is efficient for large files)
-        download_response: requests.Response = requests.get(
-            url=file_url, stream=True, timeout=300
-        )
-        # Raise an exception for HTTP error codes (e.g., 404, 500, 429)
-        download_response.raise_for_status()
+            # Step 2: Download the file using a GET request (stream=True for large files)
+            download_response: requests.Response = session.get(
+                url=file_url,
+                stream=True,
+                timeout=300,
+                # Explicitly request the connection to be kept alive for large downloads
+                headers={"Connection": "keep-alive"},
+            )
+            # Raise an exception for HTTP error codes (e.g., 404, 500)
+            download_response.raise_for_status()
 
-        # Step 3: Write the downloaded content to the local file
-        with open(file=local_save_path, mode="wb") as destination_file:
-            # Iterate through the content in chunks (8KB chunks is standard practice)
-            for chunk in download_response.iter_content(chunk_size=8192):
-                if chunk:  # Ensure the chunk is not empty
-                    destination_file.write(chunk)  # Write the chunk of data to disk
+            # Step 3: Write the downloaded content to the local file
+            with open(file=local_save_path, mode="wb") as destination_file:
+                # Iterate through the content in chunks (8KB chunks is standard practice)
+                for chunk in download_response.iter_content(chunk_size=8192):
+                    if chunk:  # Ensure the chunk is not empty
+                        destination_file.write(chunk)  # Write the chunk of data to disk
 
-        # Confirm successful download
-        print(f"Successfully downloaded {file_url} to {local_save_path}")
+            # Confirm successful download
+            print(f"Successfully downloaded {file_url} to {local_save_path}")
 
-    # Catch network, timeout, or HTTP status errors (like 429)
-    except requests.exceptions.RequestException as error:
-        print(f"Download failed for {file_url}: {error}")
+        # Catch network, timeout, or HTTP status errors (including IncompleteRead)
+        except requests.exceptions.RequestException as error:
+            print(f"Download failed for {file_url}: {error}")
 
 
 def download_multiple_files_with_throttling(
@@ -74,9 +109,9 @@ def download_multiple_files_with_throttling(
             # Extract the file name for a cleaner print statement
             file_name_for_print: str = file_url.split("/")[-1]
             print(
-                f"Pausing for 10 seconds before attempting to download: {file_name_for_print}..."
+                f"Pausing for 5 seconds before attempting to download: {file_name_for_print}..."
             )
-            time.sleep(10)  # Pause execution for 5 seconds (The throttle)
+            time.sleep(5)  # Pause execution for 5 seconds (The throttle delay)
 
         # Extract the file name (the last part of the URL)
         file_name: str = file_url.split("/")[-1]
@@ -166,7 +201,7 @@ def delete_single_file(file_path: str) -> None:
 
 def split_csv_into_parts(input_file_path: str, max_lines_per_chunk: int = 1000) -> None:
     """
-    Splits a single large CSV file into smaller, chunked files.
+    Splits a single large CSV file into smaller, chunked files, each containing a header.
 
     :param input_file_path: Path to the source CSV file.
     :param max_lines_per_chunk: The maximum number of data rows (excluding the header)
@@ -180,12 +215,16 @@ def split_csv_into_parts(input_file_path: str, max_lines_per_chunk: int = 1000) 
     # Open the original file for reading
     with open(input_file_path, "r", newline="") as input_csv:
         csv_reader = csv.reader(input_csv)
-        header_row: list[str] = next(csv_reader)  # Read and store the header row
+        header_row: list[str] = next(
+            csv_reader
+        )  # Read and store the header row (first line)
 
         file_chunk_index: int = 1  # Counter for naming the split files (e.g., _part_1)
-        row_buffer: list[list[str]] = []  # Buffer to temporarily store rows
+        row_buffer: list[list[str]] = (
+            []
+        )  # Buffer to temporarily store rows before writing a chunk
 
-        # Read data row by row, starting index at 1
+        # Read data row by row, starting index at 1 (since the header was line 0)
         for line_index, data_row in enumerate(csv_reader, start=1):
             row_buffer.append(data_row)  # Add the current data row to the buffer
 
@@ -310,11 +349,6 @@ def extract_filenames_from_urls(url_list: list[str]) -> list[str]:
     return file_names
 
 
-def check_file_exists(file_path: str):
-    """Simple wrapper to check if a file exists on the system."""
-    return os.path.isfile(file_path)
-
-
 if __name__ == "__main__":
     # --- Configuration ---
     csv_source_urls: list[str] = [
@@ -325,7 +359,7 @@ if __name__ == "__main__":
         "https://www.50-a.org/data/nypd/awards.csv",
         "https://www.50-a.org/data/nypd/training.csv",
     ]
-    local_storage_directory: str = "./CSV/"  # Folder to save files
+    local_storage_directory: str = "./CSV/"  # Folder to save downloaded files
     max_chunk_size_lines: int = 10000  # Max number of data lines per split CSV file
 
     # ----------------------------------------------------
@@ -336,10 +370,12 @@ if __name__ == "__main__":
 
     # Step 1: Clean up any files from previous split operations
     print("1. Cleaning old split files...")
+    # Remove files ending in _part_#.csv from the storage directory
     remove_previous_split_files(local_storage_directory)
 
     # Step 2: Download the source data with a 5-second pause between files
-    print("\n2. Downloading source CSV files with throttling...")
+    print("\n2. Downloading source CSV files with throttling and retries...")
+    # Use the function with throttling and the new retry-enabled download helper
     download_multiple_files_with_throttling(csv_source_urls, local_storage_directory)
 
     # Step 3: Find all CSV files that were successfully downloaded
