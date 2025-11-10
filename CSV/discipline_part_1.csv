@@ -2443,6 +2443,8 @@ Wrongfully unholstered/displayed a Taser.","CHARGES AND SPECIFICATIONS,         
 951891,1,IMPROPER MEMOBOOK ENTRIES.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 951891,1,FALSE STATEMENTS.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 951891,1,INACCURATE ENTRIES DEPARTMENT RECORDS.,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
+951891,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
+951891,2,01.Failed to timely activate their body worn camera.,OTHER,,allegation,
 936402,1,HARASSMENT,,"DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )",charge,GUILTY
 971023,1,01.Wrongfully discourteous to an individual known to the Department.,A-CD,,allegation,
 948826,1,"WHILE OFF-DUTY, ENGAGED IN A VERBAL DISPUTE AND PHYSICAL ALTERCATION WITH A MEMBER OF THE SERVICE.",,VACATION DAYS (20 day(s) ),charge,GUILTY
@@ -10211,5 +10213,3 @@ Wrongfully unholstered/displayed a Taser.",B-CD,,allegation,
 945466,1,VIOLATED PAID DETAIL GUIDELINES BY PERFORMING A PAID DETAIL ASSIGNMENT WITHIN ONE HOUR OF HIS REGULARLY SCHEDULED TOUR.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 945466,1,SUBMITED A PAID DETAIL PAYMENT SLIP FOR HOURS THAT HE DID NOT PERFORM SAID DETAIL.,,VACATION DAYS (10 day(s) ),charge,GUILTY
 935840,1,01.Wrongfully threatened to arrest an individual known to the Department.,CHARGES AND SPECIFICATIONS,,allegation,
-935840,1,02.Wrongfully threatened to arrest individuals.,CHARGES AND SPECIFICATIONS,,allegation,
-935840,1,03.Wrongfully threatened to notify an outside agency.,CHARGES AND SPECIFICATIONS,,allegation,
