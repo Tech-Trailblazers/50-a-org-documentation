@@ -94,3 +94,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Hk4x4onCJQm5tuPhIB
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YICzEGJwsoFljkt3ZA0b7g== > PDFs\952164\801554_2022e_ali_ugurlu_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B5tSWZb5RaAnuBtlCUpIXA== > PDFs\952164\811952_2021e_marie_deluca_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nkMz0V5UxPfARdRHWTUhcA== > PDFs\972012\162274_2024_edward_walston_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SpSW0UQonY0AurxdsrcpwQ== > PDFs\965324\150472_2021_jovon_generlette_v_slate_ny_et_al_complaint_amended_11.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/ok0Lm78kuME2eSOu0Nx6w== > PDFs\970831\150572_2024_jolanta_m_klich_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
