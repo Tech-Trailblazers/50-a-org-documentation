@@ -83,3 +83,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XWFiJ5ppD40xpxx1gi
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bLBO_PLUS_D75KEXKL1rL5Hqm7w== > PDFs\955830\151204_2022_mark_v_cheathem_et_al_v_mark_v_cheathem_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cZ4Sy68MZe8zJPYukpYYZQ== > PDFs\945264\159701_2016_william_morant_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wXLIUNDzWzd8CIjJoNczcQ== > PDFs\945264\153286_2016_william_morant_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jd5m3tzGFtHY2JqMdwNn5g== > PDFs\966048\154878_2020_randy_swinson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LFgdx9s9kiB7Lffjwp3RHA== > PDFs\961214\157069_2020_rayhanah_alhanafi_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FYKdkYzIHNXwnwFY0uqO5Q== > PDFs\944584\156376_2014_karyn_byrd_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tTq0kI1iCnsRasK04ETTNA== > PDFs\939856\807603_2021e_freddie_de_la_rosa_v_the_city_of_new_york_et_al_complaint_amended_43.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kGwhvWlSFQDZVJu7_PLUS_vyVBQ== > PDFs\939856\35181_2019e_marcel_grant_v_city_of_new_york_et_al_summons_complaint_1.pdf
