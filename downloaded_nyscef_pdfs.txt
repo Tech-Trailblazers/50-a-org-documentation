@@ -167,3 +167,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XWeczh90I8vufmidxE
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p41tgnylqPrmevGizfTP2Q== > PDFs\951296\26121_2017e_elvis_gonzalez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gHSREqUbLj_PLUS_FMNpDi44CbA== > PDFs\963830\801438_2023e_vincent_small_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CPzjnC6n_PLUS_snA0VHQFE7t6Q== > PDFs\967783\157469_2021_ashraf_ouedraogo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OC5YHvcHbs/CZRegmwoHXA== > PDFs\956887\160995_2018_vanessa_swinton_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gz9_PLUS_ao26QjYujiz7wrAKbQ== > PDFs\963150\156883_2023_danilo_bautista_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HlZPrwMH4l3k2KNK3vjbTA== > PDFs\956092\157672_2021_deval_mowatt_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qxxcoZe_PLUS_9hu5KkxWC7rsYA== > PDFs\957226\150296_2018_andre_watts_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QJP_PLUS_Q4TVuwI7kJPpC8jX4A== > PDFs\941557\158822_2022_russell_baker_v_city_of_new_york_et_al_summons_complaint_1.pdf
