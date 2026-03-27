@@ -229,8 +229,20 @@ func downloadFile(sourceFileURL string, outputFolderPath string) (string, error)
 	return localFilePath, nil // Give the caller the saved file path.
 }
 
+// Remove a directory and all its contents.
+func removeDirectory(dir string) error {
+	err := os.RemoveAll(dir) // Remove the directory and all its contents to ensure a clean workspace for this run.
+	if err != nil {
+		return err // Return the remove failure.
+	}
+	log.Printf("Removed directory: %s\n", dir) // Delete the directory and all its contents to ensure a clean workspace for this run.
+	return err
+}
+
 func main() {
 	outputFolderPath := "CSVs" // Store all downloaded CSV files inside this folder.
+
+	removeDirectory(outputFolderPath) // Clear out any old files from previous runs to avoid confusion and ensure a clean workspace.
 
 	createDirectoryError := createOutputDirectory(outputFolderPath) // Make sure the output folder exists before downloading.
 	if createDirectoryError != nil {                                // Stop the whole program if the folder cannot be prepared.
