@@ -568,11 +568,12 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 } // Ends the PDF workflow coordinator.
 
 func main() { // Runs the CSV workflow first and the PDF workflow second.
-	csvWorkflowError := downloadAndSplitCSVData() // Starts the CSV download and splitting workflow.
-	if csvWorkflowError != nil {                  // Stops the program when the CSV workflow fails during setup.
-		log.Fatalf("CSV workflow failed: %v\n", csvWorkflowError) // Exits with a clear CSV workflow error message.
-	} // Ends the CSV workflow error check.
-
+	/*
+		csvWorkflowError := downloadAndSplitCSVData() // Starts the CSV download and splitting workflow.
+		if csvWorkflowError != nil {                  // Stops the program when the CSV workflow fails during setup.
+			log.Fatalf("CSV workflow failed: %v\n", csvWorkflowError) // Exits with a clear CSV workflow error message.
+		} // Ends the CSV workflow error check.
+	*/
 	pdfWorkflowError := downloadOfficerPDFDocuments() // Starts the PDF scraping and download workflow.
 	if pdfWorkflowError != nil {                      // Stops the program when the PDF workflow fails during setup.
 		log.Fatalf("PDF workflow failed: %v\n", pdfWorkflowError) // Exits with a clear PDF workflow error message.
