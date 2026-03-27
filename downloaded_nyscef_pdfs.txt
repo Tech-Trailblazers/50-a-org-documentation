@@ -58,3 +58,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F_PLUS_KUaFCEnMKup
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fXVBKO6dOO8C4bDM35yGXg== > PDFs\950623\150815_2015_timothy_woldt_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_jYdZB9Qs_PLUS_fV/xyA3PYFzw== > PDFs\944678\157813_2017_erving_goris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NCk84X7C5yaLI29ZyYL4ww== > PDFs\955049\158888_2021_mamadou_diallo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3PzsMmFXMZtpTrLp9/kgBg== > PDFs\970614\155702_2022_mary_cordero_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
