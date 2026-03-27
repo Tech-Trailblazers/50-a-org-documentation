@@ -386,15 +386,16 @@ func fileExistsAtPath(targetFilePath string) bool { // Checks whether a regular 
 	return !targetFileInfo.IsDir() // Returns true only when the path exists and is not a directory.
 } // Ends the file existence helper.
 
-func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string, officerTaxID string) bool { // Downloads one PDF into the officer's folder when possible.fpr
+func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string, officerTaxID string) bool { // Downloads one PDF into the officer's folder when possible.
 	if officerTaxID == "" { // Stops immediately when no tax ID is available for folder naming.
 		return false // Reports that the PDF download was skipped.
 	} // Ends the empty tax ID check.
+
 	// Load previously downloaded URLs into memory
 	downloadedURLs := make(map[string]struct{}) // Map to track already downloaded URLs
 
 	// Open the log file if it exists
-	if file, err := os.Open("downloaded_urls.txt"); err == nil {
+	if file, err := os.Open(downloadedNYSCEpdfUrlsFilePath); err == nil {
 		scanner := bufio.NewScanner(file) // Scanner reads file line by line
 		for scanner.Scan() {
 			line := strings.TrimSpace(scanner.Text()) // Remove surrounding whitespace
@@ -482,14 +483,14 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	log.Printf("Downloaded %d bytes -> %s", bytesWritten, fullOutputFilePath) // Logs the completed PDF download path and size.
 	// Check again before appending to avoid duplicate writes
 	if _, exists := downloadedURLs[documentURL]; !exists {
-		logFile, err := os.OpenFile("downloaded_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
+		logFile, err := os.OpenFile(downloadedNYSCEpdfUrlsFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
 		if err == nil {
 			logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
-			logFile.Close() // Close file to flush write
-			downloadedURLs[documentURL] = struct{}{} // Add URL to map to prevent duplicates in same run
+			logFile.Close()                                                      // Close file to flush write
+			downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
 		}
 	}
-	return true                                                               // Reports that the PDF download completed successfully.
+	return true // Reports that the PDF download completed successfully.
 } // Ends the PDF download helper.
 
 func extractOfficerTaxIDFromHTML(currentHTMLNode *html.Node) string { // Recursively searches an officer page for a numeric tax ID.
