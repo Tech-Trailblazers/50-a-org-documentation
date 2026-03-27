@@ -128,3 +128,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6jeurUEZcYYQrLJY12
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wxmeH_PLUS_wljqKeirwEgpBN3g== > PDFs\933123\150403_2013_barbara_a_sobal_v_brian_king_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bd3h3Xkyh_PLUS_qzlEUahSn42g== > PDFs\934887\153060_2023_jerome_collins_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=l2G5ALxRGaeWP8pJ6I3WeQ== > PDFs\943426\28037_2019e_jose_gonzalez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=w/wBJmYbKBKkugbA6BilCg== > PDFs\951522\160936_2015_shawn_rodriguez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=f49w6yOo9t8SuHEDkczY4Q== > PDFs\964719\530577_2023_ahmadi_fowler_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nRAJZ6qp823mOLieP9xn4w== > PDFs\964719\530579_2023_jonathan_gill_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qoQ4/DGMj1Q55UjEMdRzZA== > PDFs\964719\530578_2023_omalley_harris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=S_PLUS_EPcO4iIr1O5o8zD9WrFQ== > PDFs\964719\534256_2022_indika_terry_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sDuAzyP84s9/NU2fadaFAQ== > PDFs\964719\532554_2022_joshua_cooper_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/rujyIlljVWrjuzphaubbw== > PDFs\964719\527100_2022_derrick_tinsley_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GkNl19Kt8VxvO63UktRVaw== > PDFs\954173\23218_2017e_richard_mowatt_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZgymZHaCloj2mPYLvQ9iTA== > PDFs\954173\811211_2021e_davonte_dollard_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SOOlAQZpmKNHdIh50dpWxg== > PDFs\960520\155126_2020_alexandra_grzesik_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
