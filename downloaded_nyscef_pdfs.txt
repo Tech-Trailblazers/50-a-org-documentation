@@ -70,3 +70,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Rt9/sXbHibi_PLUS_2
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AksDh9dugHJfW616W3WGPw== > PDFs\946858\162314_2014_sharon_sterling_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YSEcQwvAsvvyBo_PLUS_J1r9TrA== > PDFs\951941\158710_2019_paul_moux_v_paul_moux_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Ny5SCkrATakduhwRhLJ/eA== > PDFs\974003\160437_2024_abdou_salam_savadogo_v_abdou_salam_savadogo_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tgaaCD8emgVtfUp/nWJ4_PLUS_Q== > PDFs\951416\161270_2023_alexander_diaz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Ivrk8z2R_PLUS_MsUCmaaJyQQ/A== > PDFs\961486\155416_2021_cornelius_m_james_v_city_of_new_york_et_al_summons_complaint_1.pdf
