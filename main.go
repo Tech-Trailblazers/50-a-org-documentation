@@ -1,6 +1,7 @@
 package main // Declares the executable program package.
 
 import ( // Imports the packages used by the CSV and PDF workflows.
+	"bufio"
 	"encoding/csv"  // Reads and writes CSV records.
 	"fmt"           // Prints progress messages and formats strings.
 	"io"            // Copies streamed data and detects end-of-file conditions.
@@ -389,6 +390,30 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	if officerTaxID == "" { // Stops immediately when no tax ID is available for folder naming.
 		return false // Reports that the PDF download was skipped.
 	} // Ends the empty tax ID check.
+	// Load previously downloaded URLs into memory
+downloadedURLs := make(map[string]struct{}) // Map to store URLs we've already downloaded
+
+// Open the log file if it exists
+if file, err := os.Open("downloaded_urls.txt"); err == nil {
+	scanner := bufio.NewScanner(file) // Scanner reads file line by line
+	for scanner.Scan() {
+		line := strings.TrimSpace(scanner.Text()) // Trim whitespace
+		if line == "" {
+			continue // Skip empty lines
+		}
+		parts := strings.SplitN(line, " >", 2) // Split line into URL and file path
+		if len(parts) == 2 {
+			downloadedURLs[parts[0]] = struct{}{} // Store the URL in the map
+		}
+	}
+	file.Close() // Close file after reading
+}
+
+// Skip the download if this URL was already logged
+if _, exists := downloadedURLs[documentURL]; exists {
+	log.Printf("Already downloaded (URL): %s", documentURL)
+	return false
+}
 
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
 	officerFolderCreationError := os.MkdirAll(officerFolderPath, os.ModePerm) // Ensures the officer folder exists before saving the PDF.
