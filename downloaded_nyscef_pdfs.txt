@@ -147,3 +147,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a7T5PUSVJKs/w/6SZO
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6ggFsGxo5ERHgbsX3AamZQ== > PDFs\945605\155759_2019_munir_ahmad_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M2E6q52ttW6p1ek20GNk9A== > PDFs\954465\23022_2017e_elhadji_m_toure_v_elhadji_m_toure_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_Z3_PLUS_43vu3USMHP2Xbreb9A== > PDFs\954465\22855_2016e_beverly_chaney_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BtxP7Fj62imhBe/kvoLl5w== > PDFs\955915\150340_2022_patrick_sander_v_hector_figueroa_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=48TGsn87GK9a4i5BegtgEA== > PDFs\955915\154852_2021_assad_pharr_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aa_PLUS_76RF51XYGDh/ZQTiGzQ== > PDFs\949102\156211_2024_khalid_wisdom_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VbAS/7r73vuPTkpEyr4iIQ== > PDFs\955783\150787_2022_shawn_estevez_v_nypd_et_al_summons_complaint_1.pdf
