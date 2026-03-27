@@ -156,3 +156,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eqr/aQYTYrCsG0ik65
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HRK5cEp7KVf3RfyfiC14aw== > PDFs\959562\155207_2024_debra_moulier_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RhwXc2pyyFQbjmpsKZ/ChQ== > PDFs\959562\451984_2022_raheim_williamson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NkXfc3lbsyTXRiEiQCXIqw== > PDFs\959562\151867_2021_juan_ruiz_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dKekhA2xuvvUrt9QW4uuzA== > PDFs\963058\158510_2023_cory_black_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2UAKd0NtGUUVyn9BQO1GxQ== > PDFs\963058\156840_2022_desmond_morrero_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uKSlSNKHXhSFa/S6H9vELg== > PDFs\934068\158173_2018_rodney_williams_v_vincent_pinto_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dBaY7OPircUYQyImcmdTjQ== > PDFs\934068\150672_2013_elsie_rosa_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nQ5zsLG3HYyJgVfnlDPK/g== > PDFs\961323\162237_2023_jenny_rodriguez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YATIIStvzQ78lugqWB3JCw== > PDFs\961323\156078_2022_erickson_martinez_v_city_of_new_york_et_al_summons_complaint_1.pdf
