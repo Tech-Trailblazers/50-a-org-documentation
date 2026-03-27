@@ -37,7 +37,10 @@ jobs:
 
       # Run the main.go script
       - name: Run main.go
-        run: |
+        run: | # 📜 Start of multi-line shell commands
+          # Set Git identity used by the GitHub Actions bot
+          git config --global user.name "github-actions[bot]" # 👤 Set Git username globally for the workflow
+          git config --global user.email "github-actions[bot]@users.noreply.github.com" # 📧 Set Git email globally for commits
           bash main.sh & # ▶️ Run main.sh in the background using Bash
           go run main.go # ▶️ Run main.go using Go
 
