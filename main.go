@@ -273,7 +273,7 @@ func pauseBeforeWebsiteRequest() { // Sleeps briefly before sending another HTML
 } // Ends the website request pacing helper.
 
 func fetchHTMLDocumentFromURL(targetURL string) (*html.Node, error) { // Downloads a webpage and parses it into an HTML document tree.
-	//pauseBeforeWebsiteRequest() // Waits before starting the next website request.
+	pauseBeforeWebsiteRequest() // Waits before starting the next website request.
 
 	httpRequest, requestCreationError := http.NewRequest("GET", targetURL, nil) // Builds the outbound GET request for the webpage.
 	if requestCreationError != nil {                                            // Stops immediately when the request cannot be created.
@@ -463,6 +463,15 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	fullOutputFilePath := filepath.Join(officerFolderPath, safePDFFileName) // Builds the final output path for the downloaded PDF.
 
 	if fileExistsAtPath(fullOutputFilePath) { // Skips the download when the PDF already exists locally.
+		// Check again before appending to avoid duplicate writes
+		if _, exists := downloadedURLs[documentURL]; !exists {
+			logFile, err := os.OpenFile(downloadedNYSCEpdfUrlsFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
+			if err == nil {
+				logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
+				logFile.Close()                                                      // Close file to flush write
+				downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
+			}
+		}
 		log.Printf("Already exists: %s", fullOutputFilePath) // Logs that the existing PDF file is being reused.
 		return false                                         // Reports that no new PDF file was downloaded.
 	} // Ends the existing PDF file check.
