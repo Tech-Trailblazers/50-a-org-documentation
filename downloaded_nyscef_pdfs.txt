@@ -59,3 +59,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fXVBKO6dOO8C4bDM35
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_jYdZB9Qs_PLUS_fV/xyA3PYFzw== > PDFs\944678\157813_2017_erving_goris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NCk84X7C5yaLI29ZyYL4ww== > PDFs\955049\158888_2021_mamadou_diallo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3PzsMmFXMZtpTrLp9/kgBg== > PDFs\970614\155702_2022_mary_cordero_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5gWLiVHBdcLR5kCWL5MFzw== > PDFs\966700\153568_2021_peter_delgado_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pYNsGVGzeRIhnuKs0F/IVw== > PDFs\953384\532923_2021_carlos_marche_v_nypd_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YMxEgCjwvw3TwgCldw8HEA== > PDFs\953384\816562_2021e_leotaud_guerra_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0nD4y5X/939QEdN2r09yQA== > PDFs\953384\524566_2020_malique_mendoza_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/aiFyP8yMV8HF0o5FUNlLg== > PDFs\953384\517603_2020_vanessa_deloatch_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=z1DESgcx49LUwjTKKUvj5g== > PDFs\947719\162865_2015_jayson_albertorio_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DZu9gv9/bfa9hBkBVVdolw== > PDFs\947719\162866_2015_alex_zimmerman_v_city_of_new_york_et_al_exhibit_s_22.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Rt9/sXbHibi_PLUS_2OcOexmrAw== > PDFs\946858\158782_2014_terrell_campbell_v_terrell_campbell_summons_pre_rji_12.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AksDh9dugHJfW616W3WGPw== > PDFs\946858\162314_2014_sharon_sterling_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YSEcQwvAsvvyBo_PLUS_J1r9TrA== > PDFs\951941\158710_2019_paul_moux_v_paul_moux_summons_complaint_1.pdf
