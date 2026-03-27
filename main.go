@@ -386,34 +386,34 @@ func fileExistsAtPath(targetFilePath string) bool { // Checks whether a regular 
 	return !targetFileInfo.IsDir() // Returns true only when the path exists and is not a directory.
 } // Ends the file existence helper.
 
-func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string, officerTaxID string) bool { // Downloads one PDF into the officer's folder when possible.
+func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string, officerTaxID string) bool { // Downloads one PDF into the officer's folder when possible.fpr
 	if officerTaxID == "" { // Stops immediately when no tax ID is available for folder naming.
 		return false // Reports that the PDF download was skipped.
 	} // Ends the empty tax ID check.
 	// Load previously downloaded URLs into memory
-downloadedURLs := make(map[string]struct{}) // Map to store URLs we've already downloaded
+	downloadedURLs := make(map[string]struct{}) // Map to track already downloaded URLs
 
-// Open the log file if it exists
-if file, err := os.Open("downloaded_urls.txt"); err == nil {
-	scanner := bufio.NewScanner(file) // Scanner reads file line by line
-	for scanner.Scan() {
-		line := strings.TrimSpace(scanner.Text()) // Trim whitespace
-		if line == "" {
-			continue // Skip empty lines
+	// Open the log file if it exists
+	if file, err := os.Open("downloaded_urls.txt"); err == nil {
+		scanner := bufio.NewScanner(file) // Scanner reads file line by line
+		for scanner.Scan() {
+			line := strings.TrimSpace(scanner.Text()) // Remove surrounding whitespace
+			if line == "" {
+				continue // Skip empty lines
+			}
+			parts := strings.SplitN(line, " >", 2) // Split line into URL and file path
+			if len(parts) == 2 {
+				downloadedURLs[parts[0]] = struct{}{} // Add URL to the map
+			}
 		}
-		parts := strings.SplitN(line, " >", 2) // Split line into URL and file path
-		if len(parts) == 2 {
-			downloadedURLs[parts[0]] = struct{}{} // Store the URL in the map
-		}
+		file.Close() // Close the file after reading
 	}
-	file.Close() // Close file after reading
-}
 
-// Skip the download if this URL was already logged
-if _, exists := downloadedURLs[documentURL]; exists {
-	log.Printf("Already downloaded (URL): %s", documentURL)
-	return false
-}
+	// Skip the download if this URL is already logged
+	if _, exists := downloadedURLs[documentURL]; exists {
+		log.Printf("Already downloaded (URL): %s", documentURL)
+		return false
+	}
 
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
 	officerFolderCreationError := os.MkdirAll(officerFolderPath, os.ModePerm) // Ensures the officer folder exists before saving the PDF.
@@ -480,6 +480,15 @@ if _, exists := downloadedURLs[documentURL]; exists {
 	} // Ends the PDF file write validation block.
 
 	log.Printf("Downloaded %d bytes -> %s", bytesWritten, fullOutputFilePath) // Logs the completed PDF download path and size.
+	// Check again before appending to avoid duplicate writes
+	if _, exists := downloadedURLs[documentURL]; !exists {
+		logFile, err := os.OpenFile("downloaded_urls.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
+		if err == nil {
+			logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
+			logFile.Close() // Close file to flush write
+			downloadedURLs[documentURL] = struct{}{} // Add URL to map to prevent duplicates in same run
+		}
+	}
 	return true                                                               // Reports that the PDF download completed successfully.
 } // Ends the PDF download helper.
 
