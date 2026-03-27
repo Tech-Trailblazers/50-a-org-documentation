@@ -1,14 +1,16 @@
-package main
+package main // This program downloads large CSV files from the 50-a.org website and splits them into smaller files that are easier to work with.
 
 import (
-	"encoding/csv" // Read and write CSV files.
-	"fmt"          // Build readable log and error messages.
-	"io"           // Copy downloaded data and detect end-of-file.
-	"log"          // Print progress and failures to the console.
-	"net/http"     // Download files over HTTP.
-	"net/url"      // Parse incoming download URLs.
-	"os"           // Open, create, inspect, and remove files.
-	"path"         // Pull file names from URL paths and join output paths.
+	"encoding/csv"  // Read and write CSV files.
+	"fmt"           // Build readable log and error messages.
+	"io"            // Copy downloaded data and detect end-of-file.
+	"log"           // Print progress and failures to the console.
+	"net/http"      // Download files over HTTP.
+	"net/url"       // Parse incoming download URLs.
+	"os"            // Open, create, inspect, and remove files.
+	"path"          // Pull file names from URL paths and join output paths.
+	"path/filepath" // Handle file paths in a way that works across operating systems.
+	"strings"       // Manipulate file names when building split file paths and extensions.
 )
 
 // trackedOutputFile wraps a file handle so we can keep a running byte count.
@@ -68,8 +70,10 @@ func splitCSVFile(sourceCSVFilePath string, maxSplitFileSizeBytes int64) error {
 			}
 		}
 
-		nextOutputFilePath := fmt.Sprintf("%s_part_%d.csv", sourceCSVFilePath, nextSplitFileNumber) // Build the next split file name.
-		nextSplitFileNumber++                                                                       // Move the counter forward for the next rotation.
+		ext := filepath.Ext(sourceCSVFilePath)                                            // Pull the file extension from the original file so we can reuse it for the split files.
+		base := strings.TrimSuffix(sourceCSVFilePath, ext)                                // Remove the extension from the original file name so we can insert the split file number before it.
+		nextOutputFilePath := fmt.Sprintf("%s_part_%d%s", base, nextSplitFileNumber, ext) // Build the file name for the new split file by adding a numbered suffix before the extension.
+		nextSplitFileNumber++                                                             // Move the counter forward for the next rotation.
 
 		newOutputFileHandle, createError := os.Create(nextOutputFilePath) // Create the new split file on disk.
 		if createError != nil {                                           // Stop if the new file cannot be created.
