@@ -9536,3 +9536,16 @@ https://s3.documentcloud.org/documents/26187176/202300828_redactedclosingreportp
 https://s3.documentcloud.org/documents/25995156/201506349-redactedclosingreport-redacted.pdf > PDFs/925191/201506349_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8S1VaP1B_PLUS_RUhtImqhbUXlA== > PDFs/925191/506029_2013_daniel_orneas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21022466/devine-0d5026bac2c529fff7c82ed0e85ed8991b7740a1.pdf > PDFs/925191/devine_0d5026bac2c529fff7c82ed0e85ed8991b7740a1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5zJ4Fe1O2d4ajA651jLPuw== > PDFs/948146/705977_2020_robert_smith_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fBOovds7yH1Rsk3HMmDtRQ== > PDFs/948146/504638_2015_dashawn_carter_et_al_v_dashawn_carter_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4920547/Baines-v-The-City-of-New-York-et-al.pdf > PDFs/948146/baines_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920211/Littles-v-The-City-of-New-York-et-al.pdf > PDFs/948146/littles_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920212/Littles-v-The-City-of-New-York-et-al.pdf > PDFs/948146/littles_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920213/Littles-v-The-City-of-New-York-et-al.pdf > PDFs/948146/littles_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Oqjr2S532l0LOI80iEGjcg== > PDFs/949503/712144_2020_trevor_mabry_v_the_city_of_new_york_et_al_exhibit_s_12.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7OuWzaXWj0Y7CzCl5ceMCw== > PDFs/949503/519593_2016_daniel_gardner_v_the_city_of_new_york_et_al_summons_complaint_24.pdf
+https://s3.documentcloud.org/documents/21027720/portillo-9ad2f67d817966b4f7aee66c8cc8a91905cec0f0.pdf > PDFs/949503/portillo_9ad2f67d817966b4f7aee66c8cc8a91905cec0f0.pdf
+https://s3.documentcloud.org/documents/26284230/201507272-redactedclosingreport-redacted.pdf > PDFs/951372/201507272_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wheDxq9CjBbdvj7uhsrp7w== > PDFs/935905/511165_2014_james_marshall_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25527648/201810238-redactedclosingreport-redacted.pdf > PDFs/957324/201810238_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xzumfJv3vq6h1Aab06cxvA== > PDFs/957324/708010_2023_todd_rivers_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
