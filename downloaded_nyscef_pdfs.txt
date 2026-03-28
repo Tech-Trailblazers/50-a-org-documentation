@@ -1635,3 +1635,5 @@ https://s3.documentcloud.org/documents/26301172/9112-ccrb-202000114.pdf > PDFs/9
 https://s3.documentcloud.org/documents/21039702/df-vargas921830.pdf > PDFs/921830/df_vargas921830.pdf
 https://s3.documentcloud.org/documents/21039617/daf-vargas921830.pdf > PDFs/921830/daf_vargas921830.pdf
 https://s3.documentcloud.org/documents/21039708/daf-mckinnon943553.pdf > PDFs/943553/daf_mckinnon943553.pdf
+https://s3.documentcloud.org/documents/23698823/201402732_redactedclosingreport_redacted.pdf > PDFs/940093/201402732_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525856/202104200.pdf > PDFs/960806/202104200.pdf
