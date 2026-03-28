@@ -15757,3 +15757,10 @@ https://s3.documentcloud.org/documents/22119123/936814_01172012_2012071pdf.pdf >
 https://s3.documentcloud.org/documents/5378815/Dellutri-v-New-York-Police-Department-et-al.pdf > PDFs/933233/dellutri_v_new_york_police_department_et_al.pdf
 https://s3.documentcloud.org/documents/4922600/Leacock-v-The-People-of-the-State-of-New-York-et.pdf > PDFs/933233/leacock_v_the_people_of_the_state_of_new_york_et.pdf
 https://s3.documentcloud.org/documents/21058265/gosik-956528-giglio.pdf > PDFs/956528/gosik_956528_giglio.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=64a/shN/h9_PLUS_zO2FcfL8XoA== > PDFs/966681/727126_2022_curlan_pierre_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921633/Rosenfeld-v-Marsiglia-et-al.pdf > PDFs/955127/rosenfeld_v_marsiglia_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jAoolhVwlbodVAFcgs3Qpw== > PDFs/953106/157882_2021_casandra_van_gessel_et_v_casandra_van_gessel_et_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922582/Dyal-v-City-of-New-York-et-al.pdf > PDFs/931962/dyal_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058173/giglio_sheridanrivera-955480-03-19-21.pdf > PDFs/955480/giglio_sheridanrivera_955480_03_19_21.pdf
+https://s3.documentcloud.org/documents/21015336/daf-tulsieram942627.pdf > PDFs/942627/daf_tulsieram942627.pdf
+https://s3.documentcloud.org/documents/4923500/Case-et-al-v-City-of-New-York-et-al.pdf > PDFs/948448/case_et_al_v_city_of_new_york_et_al.pdf
