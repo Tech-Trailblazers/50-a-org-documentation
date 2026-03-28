@@ -9720,3 +9720,12 @@ https://s3.documentcloud.org/documents/4922408/Sekou-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/4922409/Sekou-v-The-City-of-New-York-et-al.pdf > PDFs/942519/sekou_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922410/Sekou-v-The-City-of-New-York-et-al.pdf > PDFs/942519/sekou_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/23871194/verley-giglio-letter.pdf > PDFs/952320/verley_giglio_letter.pdf
+https://s3.documentcloud.org/documents/23835955/201400759_redactedclosingreport_redacted.pdf > PDFs/949905/201400759_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OeI9TNn9NqGSj1nGCR6iMg== > PDFs/972643/721777_2024_m_r_h_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25522436/201113426_redactedclosingreport_redacted.pdf > PDFs/929662/201113426_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522581/201110155_redactedclosingreport_redacted.pdf > PDFs/929662/201110155_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525953/202107296.pdf > PDFs/936988/202107296.pdf
+https://s3.documentcloud.org/documents/23578275/201902734_redactedclosingreport_redacted.pdf > PDFs/957990/201902734_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25519972/201707173_redactedclosingreport_redacted.pdf > PDFs/957990/201707173_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1zMbYbUITS2aNnH5DNSecw== > PDFs/954520/151470_2021_avondre_currie_v_glen_barker_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119318/940577_11092017_2017110pdf.pdf > PDFs/954520/940577_11092017_2017110pdf.pdf
