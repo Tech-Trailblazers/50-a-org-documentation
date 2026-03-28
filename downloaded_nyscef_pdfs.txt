@@ -1768,3 +1768,17 @@ https://s3.documentcloud.org/documents/4921874/Pilcher-v-City-of-New-York-et-al.
 https://s3.documentcloud.org/documents/21031363/daf-johns-948054.pdf > PDFs/948054/daf_johns_948054.pdf
 https://s3.documentcloud.org/documents/25520985/200615042_redactedclosingreport_redacted.pdf > PDFs/939559/200615042_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4918800/Lamot-v-The-City-of-New-York-et-al.pdf > PDFs/939559/lamot_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21019937/df-conde945605.pdf > PDFs/945605/df_conde945605.pdf
+https://s3.documentcloud.org/documents/24441307/201910698_redactedclosingreport_redacted.pdf > PDFs/964698/201910698_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21027478/pena-d7fc869f53a5f21182b6441cffca9e6ccd6b630f.pdf > PDFs/964698/pena_d7fc869f53a5f21182b6441cffca9e6ccd6b630f.pdf
+https://s3.documentcloud.org/documents/21056157/pena-964698.pdf > PDFs/964698/pena_964698.pdf
+https://s3.documentcloud.org/documents/25522814/202006245_redactedclosingreport_redacted.pdf > PDFs/936930/202006245_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085400/seh_938846.pdf > PDFs/938846/seh_938846.pdf
+https://s3.documentcloud.org/documents/25525373/201911039.pdf > PDFs/938846/201911039.pdf
+https://s3.documentcloud.org/documents/24425015/201911039-tax938846-apu-final-documentspdf.pdf > PDFs/938846/201911039_tax938846_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22119168/938846_11202015_2015182pdf.pdf > PDFs/938846/938846_11202015_2015182pdf.pdf
+https://s3.documentcloud.org/documents/25091520/201405153_redactedclosingreport_redacted.pdf > PDFs/954465/201405153_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4918707/Kalfus-v-The-New-York-and-Presbyterian-Hospital.pdf > PDFs/933279/kalfus_v_the_new_york_and_presbyterian_hospital.pdf
+https://s3.documentcloud.org/documents/23118516/201709146_redactedclosingreport_redacted.pdf > PDFs/951928/201709146_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4419091/nypd-cases-383.pdf > PDFs/904863/nypd_cases_383.pdf
+https://s3.documentcloud.org/documents/22119356/904863_12112014_2014093pdf.pdf > PDFs/904863/904863_12112014_2014093pdf.pdf
