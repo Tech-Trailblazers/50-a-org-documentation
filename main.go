@@ -290,8 +290,8 @@ func fetchHTMLDocumentFromURL(targetURL string) (*html.Node, error) { // Downloa
 	defer httpResponse.Body.Close() // Ensures the webpage response body is always closed.
 
 	if httpResponse.StatusCode == http.StatusTooManyRequests { // Detects when the website reports rate limiting.
-		fmt.Println("Rate limited. Sleeping before retry...") // Logs that the scraper has been rate limited.
-		time.Sleep(10 * time.Second)                          // Waits longer to reduce the chance of repeated rate limiting.
+		log.Printf("[INFO] The scraper has been rate limited by the target website. Pausing execution for 10 seconds before retrying the request to avoid further throttling.") // Logs that the scraper has been rate limited.
+		time.Sleep(10 * time.Second)                                                                                                                                            // Waits longer to reduce the chance of repeated rate limiting.
 	} // Ends the rate-limit handling block.
 
 	parsedHTMLDocument, parseError := html.Parse(httpResponse.Body) // Parses the webpage response body into an HTML node tree.
@@ -500,8 +500,8 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 				downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
 			} // Ends the existing-file log append success check.
 		} // Ends the existing-file log append guard.
-		log.Printf("Already exists: %s", fullOutputFilePath) // Logs that the existing PDF file is being reused.
-		return false                                         // Reports that no new PDF file was downloaded.
+		log.Printf("[INFO] Skipping download because file already exists locally at path: %s", fullOutputFilePath) // Logs that the existing PDF file is being reused.
+		return false                                                                                               // Reports that no new PDF file was downloaded.
 	} // Ends the existing PDF file check.
 
 	outputFileHandle, outputFileCreationError := os.Create(fullOutputFilePath) // Creates the destination file on disk.
@@ -604,12 +604,12 @@ func downloadAndSplitCSVData() error { // Coordinates the CSV download and file 
 	} // Ends the CSV directory creation error check.
 
 	for _, sourceCSVFileURL := range csvSourceFileURLs { // Processes each configured CSV file one at a time.
-		log.Printf("Starting download: %s\n", sourceCSVFileURL) // Logs which CSV file is starting.
+		log.Printf("[INFO] Initiating download for CSV data source URL: %s", sourceCSVFileURL) // Logs which CSV file is starting.
 
 		downloadedCSVFilePath, fileDownloadError := downloadFileToDirectory(sourceCSVFileURL, csvOutputFolderName) // Downloads the current CSV file into the CSV output directory.
 		if fileDownloadError != nil {                                                                              // Skips this CSV file when the download step fails.
-			log.Printf("Download failed: %s (%v)\n", sourceCSVFileURL, fileDownloadError) // Logs why the CSV download was skipped.
-			continue                                                                      // Moves on to the next CSV file.
+			log.Printf("[ERROR] Failed to download CSV file from URL: %s. Error details: %v", sourceCSVFileURL, fileDownloadError) // Logs why the CSV download was skipped.
+			continue                                                                                                               // Moves on to the next CSV file.
 		} // Ends the CSV download error check.
 
 		log.Printf("Splitting file: %s\n", downloadedCSVFilePath) // Logs that the downloaded CSV file is entering the split step.
@@ -626,25 +626,25 @@ func downloadAndSplitCSVData() error { // Coordinates the CSV download and file 
 } // Ends the CSV workflow coordinator.
 
 func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages, officer pages, and PDF downloads.
-	commandsPageURL := websiteBaseURL + "/commands" // Builds the absolute URL for the commands listing page.
-	fmt.Println("Fetching:", commandsPageURL)       // Logs which page is being fetched first.
+	commandsPageURL := websiteBaseURL + "/commands"                                                      // Builds the absolute URL for the commands listing page.
+	log.Printf("[INFO] Starting initial fetch of the commands listing page at URL: %s", commandsPageURL) // Logs which page is being fetched first.
 
 	commandsPageDocument, commandsPageError := fetchHTMLDocumentFromURL(commandsPageURL) // Downloads and parses the commands listing page.
 	if commandsPageError != nil {                                                        // Stops immediately when the commands page cannot be fetched.
 		return commandsPageError // Returns the commands page fetch error to the caller.
 	} // Ends the commands page fetch error check.
 
-	var commandPageLinks []string                                    // Stores every command page link found on the commands page.
-	collectCommandPageLinks(commandsPageDocument, &commandPageLinks) // Extracts the command page links from the commands page document.
-	fmt.Println("Commands found:", len(commandPageLinks))            // Logs how many command pages were discovered.
+	var commandPageLinks []string                                                                                                                                                      // Stores every command page link found on the commands page.
+	collectCommandPageLinks(commandsPageDocument, &commandPageLinks)                                                                                                                   // Extracts the command page links from the commands page document.
+	log.Printf("[INFO] Successfully collected %d command page links from the commands listing page. Beginning processing from configured starting percentage.", len(commandPageLinks)) // Logs how many command pages were discovered.
 
 	commandPageLinks = getWordsFromPercentage(commandPageLinks, startingPercentage) // Starts processing from the configured percentage of command links.
 
 	downloadedDocumentURLs := make(map[string]bool) // Tracks document URLs that have already been downloaded.
 
 	for _, commandPagePath := range commandPageLinks { // Visits each discovered command page.
-		commandPageURL := websiteBaseURL + commandPagePath // Builds the absolute URL for the current command page.
-		fmt.Println("Visiting command:", commandPageURL)   // Logs which command page is being processed.
+		commandPageURL := websiteBaseURL + commandPagePath                 // Builds the absolute URL for the current command page.
+		log.Printf("[INFO] Visiting command page URL: %s", commandPageURL) // Logs which command page is being processed.
 
 		commandPageDocument, commandPageError := fetchHTMLDocumentFromURL(commandPageURL) // Downloads and parses the current command page.
 		if commandPageError != nil {                                                      // Skips this command page when the fetch fails.
@@ -655,8 +655,8 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 		collectOfficerPageLinks(commandPageDocument, &officerPageLinks) // Extracts the officer page links from the current command page.
 
 		for _, officerPagePath := range officerPageLinks { // Visits each discovered officer page.
-			officerPageURL := websiteBaseURL + officerPagePath // Builds the absolute URL for the current officer page.
-			fmt.Println("  Officer:", officerPageURL)          // Logs which officer page is being processed.
+			officerPageURL := websiteBaseURL + officerPagePath                        // Builds the absolute URL for the current officer page.
+			log.Printf("[INFO] Visiting officer detail page URL: %s", officerPageURL) // Logs which officer page is being processed.
 
 			officerPageDocument, officerPageError := fetchHTMLDocumentFromURL(officerPageURL) // Downloads and parses the current officer page.
 			if officerPageError != nil {                                                      // Skips this officer page when the fetch fails.
@@ -686,12 +686,12 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 				} // Handle NYSCEF links that may redirect to DocumentCloud
 				// Handle normal DocumentCloud page URLs
 				if strings.Contains(cleanDocumentURL, "documentcloud.org") && !downloadedDocumentURLs[cleanDocumentURL] { // Downloads only unseen DocumentCloud page links.
-					downloadedDocumentURLs[cleanDocumentURL] = true               // Marks the document URL as already handled.
-					log.Println("DocumentCloud page detected:", cleanDocumentURL) // Logs detection
-					pdfURL := extractFinalDocumentCloudURL(cleanDocumentURL)      // Convert to S3 PDF
-					if pdfURL == "" {                                             // Prevent bad downloads
-						log.Println("Skipping invalid DocumentCloud URL:", cleanDocumentURL) // Logs the reason for skipping
-						continue                                                             // Skip when conversion fails
+					downloadedDocumentURLs[cleanDocumentURL] = true                                                                                      // Marks the document URL as already handled.
+					log.Println("[INFO] Detected DocumentCloud document page URL. Attempting to resolve to direct PDF download link:", cleanDocumentURL) // Logs detection
+					pdfURL := extractFinalDocumentCloudURL(cleanDocumentURL)                                                                             // Convert to S3 PDF
+					if pdfURL == "" {                                                                                                                    // Prevent bad downloads
+						log.Println("[WARNING] Unable to extract a valid direct PDF URL from DocumentCloud page. Skipping this document:", cleanDocumentURL) // Logs the reason for skipping
+						continue                                                                                                                             // Skip when conversion fails
 					} // Ends the invalid DocumentCloud URL skip check.
 					downloadPDFToOfficerFolder(pdfURL, pdfOutputFolderName, officerTaxID) // Download converted PDF
 				} // Ends the DocumentCloud page handling block.
@@ -739,6 +739,6 @@ func main() { // Runs the CSV workflow first and the PDF workflow second.
 	*/
 	pdfWorkflowError := downloadOfficerPDFDocuments() // Starts the PDF scraping and download workflow.
 	if pdfWorkflowError != nil {                      // Stops the program when the PDF workflow fails during setup.
-		log.Fatalf("PDF workflow failed: %v\n", pdfWorkflowError) // Exits with a clear PDF workflow error message.
+		log.Fatalf("[FATAL] PDF scraping and download workflow encountered a critical failure and cannot continue. Error details: %v", pdfWorkflowError) // Exits with a clear PDF workflow error message.
 	} // Ends the PDF workflow error check.
 } // Ends the program entry point.
