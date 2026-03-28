@@ -453,8 +453,8 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 
 	// Skip the download if this URL is already logged
 	if _, exists := downloadedURLs[documentURL]; exists { // Skips the request when the URL is already recorded in the log.
-		log.Printf("Already downloaded (URL): %s", documentURL) // Logs that the URL has already been processed before.
-		return false                                            // Reports that the PDF download was skipped because it is already known.
+		log.Printf("[INFO] Document already downloaded. URL: %s", documentURL) // Logs that the URL has already been processed before.
+		return false                                                           // Reports that the PDF download was skipped because it is already known.
 	} // Ends the previously-downloaded URL check.
 
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
