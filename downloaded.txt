@@ -12379,3 +12379,15 @@ https://s3.documentcloud.org/documents/25964137/202102952_redactedclosingreportp
 https://s3.documentcloud.org/documents/25964242/201806074_redactedclosingreportpdf.pdf > PDFs/931061/201806074_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/21418156/201801655_redactedclosingreport_redacted.pdf > PDFs/931061/201801655_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/24101092/201708775_redactedclosingreport_redacted.pdf > PDFs/931061/201708775_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=f4bRr/EBnLTbwOVyvMdWcw== > PDFs/958636/520053_2017_getho_thelusmond_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21023640/giordano-37683b7968301dd86fd9670652b64384b895c04e.pdf > PDFs/958636/giordano_37683b7968301dd86fd9670652b64384b895c04e.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/O3DKUG_PLUS_a8PaP/oXTBCHNQ== > PDFs/969257/157300_2022_carzell_benton_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525946/202107012.pdf > PDFs/968634/202107012.pdf
+https://s3.documentcloud.org/documents/22076451/201806386_redactedclosingreport_redacted.pdf > PDFs/949465/201806386_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QiIsKb_PLUS_1m7lKm/f_PLUS_qT4Kkg== > PDFs/949465/154550_2017_eric_conrad_v_city_of_new_york_et_al_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hIOYztdn481MpkI9IJsb9g== > PDFs/949465/154065_2015_michael_j_devereaux_v_michael_j_devereaux_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22069999/201902192_redactedclosingreport_redacted.pdf > PDFs/959398/201902192_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4928241/Gonzalez-v-City-Of-New-York-et-al.pdf > PDFs/959398/gonzalez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25525556/202003860.pdf > PDFs/917756/202003860.pdf
+https://s3.documentcloud.org/documents/25345385/202003860-tax917756-apu-final-documentspdf.pdf > PDFs/917756/202003860_tax917756_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22085199/seh_917756.pdf > PDFs/917756/seh_917756.pdf
