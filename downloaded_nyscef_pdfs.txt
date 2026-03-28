@@ -1426,3 +1426,14 @@ https://s3.documentcloud.org/documents/26303016/202404237_tax972946_redacteddepa
 https://s3.documentcloud.org/documents/21019397/daf-chow945414.pdf > PDFs/945414/daf_chow945414.pdf
 https://s3.documentcloud.org/documents/25527585/201803080-redactedclosingreport-redacted.pdf > PDFs/941482/201803080_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22111855/941482_06192015_2015137pdf.pdf > PDFs/941482/941482_06192015_2015137pdf.pdf
+https://s3.documentcloud.org/documents/21030631/daf-jagdeo950623.pdf > PDFs/950623/daf_jagdeo950623.pdf
+https://s3.documentcloud.org/documents/4920619/Holliday-v-The-City-of-New-York-et-al.pdf > PDFs/944678/holliday_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21056242/ondrejack-956989-giglio.pdf > PDFs/956989/ondrejack_956989_giglio.pdf
+https://s3.documentcloud.org/documents/25924081/8465_iab_c-2017-384.pdf > PDFs/956989/8465_iab_c_2017_384.pdf
+https://s3.documentcloud.org/documents/25526028/202203095.pdf > PDFs/936304/202203095.pdf
+https://s3.documentcloud.org/documents/25040822/202203095-tax936304-apu-final-documentspdf.pdf > PDFs/936304/202203095_tax936304_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21018055/daf-mckenzie942868.pdf > PDFs/942868/daf_mckenzie942868.pdf
+https://s3.documentcloud.org/documents/26140945/201900115-redactedclosingreport-redacted.pdf > PDFs/964218/201900115_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085984/seh_958475.pdf > PDFs/958475/seh_958475.pdf
+https://s3.documentcloud.org/documents/25525411/202001927.pdf > PDFs/958475/202001927.pdf
+https://s3.documentcloud.org/documents/24097630/202001927-tax958475-apu-final-documentspdf.pdf > PDFs/958475/202001927_tax958475_apu_final_documentspdf.pdf
