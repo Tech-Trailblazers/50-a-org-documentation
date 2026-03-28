@@ -11123,3 +11123,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pOx5snyT0wrb70fguW
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vf6HBnk2/4_PLUS_bXnVVcehoHA== > PDFs/954626/29759_2018e_nelson_perez_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5VJZQ8C8cSaaSRqxWEY1Vg== > PDFs/954626/31639_2017e_frank_douglas_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NBq_PLUS_iCtGuPo0fARYjoFj4A== > PDFs/960386/155685_2021_michael_pacheco_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yARfNPzhWvKT1ey9ZcrJHA== > PDFs/954923/24290_2019e_jonser_hernandez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jbxc6omXoyeZ5tNt098c0g== > PDFs/954923/30029_2018e_yaliza_rosa_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pnoIx/zuIRgkiWh/Bi6ACQ== > PDFs/954923/28302_2018e_jamel_joseph_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x8hm1hwO6BW5ctcMDA4L2Q== > PDFs/954923/26493_2018e_renee_ingram_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921873/Perez-v-City-of-New-York-et-al.pdf > PDFs/954923/perez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922501/Fonville-v-City-of-New-York-et-al.pdf > PDFs/937721/fonville_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119511/937721_11302010_2010128pdf.pdf > PDFs/937721/937721_11302010_2010128pdf.pdf
+https://s3.documentcloud.org/documents/21066792/vargas-937721-11-16-20.pdf > PDFs/937721/vargas_937721_11_16_20.pdf
+https://s3.documentcloud.org/documents/21030651/daf-ventre967713.pdf > PDFs/967713/daf_ventre967713.pdf
+https://s3.documentcloud.org/documents/21058442/lacalamita-935146-01-10-20.pdf > PDFs/935146/lacalamita_935146_01_10_20.pdf
+https://s3.documentcloud.org/documents/22085328/seh_935146.pdf > PDFs/935146/seh_935146.pdf
+https://s3.documentcloud.org/documents/25091566/201901710_redactedclosingreport_redacted.pdf > PDFs/955399/201901710_redactedclosingreport_redacted.pdf
