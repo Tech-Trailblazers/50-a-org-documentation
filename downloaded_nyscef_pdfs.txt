@@ -3738,3 +3738,15 @@ https://s3.documentcloud.org/documents/4921536/Henry-v-Santana-et-al.pdf > PDFs/
 https://s3.documentcloud.org/documents/25560003/200910211_redactedclosingreport_redacted.pdf > PDFs/939407/200910211_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25345435/202301290-tax969378-apu-final-documentspdf.pdf > PDFs/969378/202301290_tax969378_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/25525161/201801340.pdf > PDFs/948715/201801340.pdf
+https://s3.documentcloud.org/documents/25023343/201904936_redactedclosingreport_redacted.pdf > PDFs/959539/201904936_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21573829/201808219_redactedclosingreport_redacted.pdf > PDFs/956063/201808219_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525932/202106267.pdf > PDFs/936518/202106267.pdf
+https://s3.documentcloud.org/documents/25523514/201202321_redactedclosingreport_redacted.pdf > PDFs/936518/201202321_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920890/Agora-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/936518/agora_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920162/Brown-v-Walsh-et-al.pdf > PDFs/936518/brown_v_walsh_et_al.pdf
+https://s3.documentcloud.org/documents/4920161/Brown-v-Walsh-et-al.pdf > PDFs/936518/brown_v_walsh_et_al.pdf
+https://s3.documentcloud.org/documents/4920094/Glover-et-al-v-City-of-New-York-et-al.pdf > PDFs/936518/glover_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920082/Brown-v-City-of-New-York-et-al.pdf > PDFs/936518/brown_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920051/Compere-v-City-of-New-York-et-al.pdf > PDFs/936518/compere_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919963/Diaz-v-City-of-New-York-et-al.pdf > PDFs/936518/diaz_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919970/Torres-et-al-v-City-of-New-York-et-al.pdf > PDFs/936518/torres_et_al_v_city_of_new_york_et_al.pdf
