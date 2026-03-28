@@ -2280,3 +2280,10 @@ https://s3.documentcloud.org/documents/25525433/202002550.pdf > PDFs/953624/2020
 https://s3.documentcloud.org/documents/24615641/202002550-tax953624-apu-final-documentspdf.pdf > PDFs/953624/202002550_tax953624_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/24657499/953624_02202024_2024012pdf.pdf > PDFs/953624/953624_02202024_2024012pdf.pdf
 https://s3.documentcloud.org/documents/22085801/seh_953624.pdf > PDFs/953624/seh_953624.pdf
+https://s3.documentcloud.org/documents/25525283/201905733.pdf > PDFs/958445/201905733.pdf
+https://s3.documentcloud.org/documents/20784721/giglio_thomas.pdf > PDFs/963300/giglio_thomas.pdf
+https://s3.documentcloud.org/documents/25519926/201607450_redactedclosingreport_redacted.pdf > PDFs/952629/201607450_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921788/Dozier-Shelby-v-City-of-New-York.pdf > PDFs/952629/dozier_shelby_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4923189/Peters-et-al-v-Manchester-et-al.pdf > PDFs/952629/peters_et_al_v_manchester_et_al.pdf
+https://s3.documentcloud.org/documents/21057422/burgos-962278.pdf > PDFs/962278/burgos_962278.pdf
+https://s3.documentcloud.org/documents/21031414/daf-maharaj949238.pdf > PDFs/949238/daf_maharaj949238.pdf
