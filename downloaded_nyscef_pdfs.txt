@@ -304,3 +304,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BSBpZS5s_PLUS_y_PL
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=iwfptHHDDB7W4IZ8kbP2Ig== > PDFs\947847\26301_2017e_saeed_cox_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x9tFUjzbX3tghfXmmKU_PLUS_bA== > PDFs\952086\151127_2018_markeece_johnson_v_markeece_johnson_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FqbRhiIYS2EptwSYb9V1DQ== > PDFs\946112\157161_2013_velma_y_vega_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r8YYr68J2j0O0hXrLtc/Eg== > PDFs\970254\160348_2023_stephen_mazzuchi_v_city_of_new_york_et_al_summons_complaint_1.pdf
