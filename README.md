@@ -97,10 +97,8 @@ This archive is provided under the **MIT License**, with a strong emphasis on **
 
 ## 📚 Related Resources
 
-- [Repeal of 50-a – NYCLU](https://www.nyclu.org/en/campaigns/repeal-50)
 - [50-a.org (archived via Wayback Machine)](https://web.archive.org/web/*/https://50-a.org)
 - [Civilian Complaint Review Board (CCRB)](https://www.nyc.gov/site/ccrb/index.page)
-- [NYPD Disciplinary Matrix](https://www.nyc.gov/assets/nypd/downloads/pdf/public_information/disciplinary-system-penalty-guidelines-effective-01-15-21-companion-guide.pdf)
 
 ---
 
