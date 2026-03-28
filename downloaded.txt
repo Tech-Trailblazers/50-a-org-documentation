@@ -10222,3 +10222,16 @@ https://s3.documentcloud.org/documents/4922253/Davis-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/4920535/Herrera-v-City-of-New-York-et-al.pdf > PDFs/950760/herrera_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21025206/lloyd-7367ea53d0bd67e2fd906a7eec59b9d95830103c.pdf > PDFs/950760/lloyd_7367ea53d0bd67e2fd906a7eec59b9d95830103c.pdf
 https://s3.documentcloud.org/documents/21615383/daf-sun929229.pdf > PDFs/929229/daf_sun929229.pdf
+https://s3.documentcloud.org/documents/24179280/201905119_redactedclosingreport_redacted.pdf > PDFs/959030/201905119_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26182807/202103045_redactedclosingreportpdf.pdf > PDFs/960816/202103045_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23698814/202001970_redactedclosingreport1_redacted.pdf > PDFs/960816/202001970_redactedclosingreport1_redacted.pdf
+https://s3.documentcloud.org/documents/22085818/seh_954022.pdf > PDFs/954022/seh_954022.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RlPWC4Pfya5sgWIKUN/zkQ== > PDFs/958839/714143_2022_shaina_classen_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EBL2j7g/Z_PLUS_ppBtw79A4IZQ== > PDFs/955672/503385_2019_yardly_dufanal_v_yardly_dufanal_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25522610/201014255_redactedclosingreport_redacted.pdf > PDFs/931616/201014255_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522264/201010333_redactedclosingreport_redacted.pdf > PDFs/931616/201010333_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922552/Cruz-et-al-v-Orenstein-et-al.pdf > PDFs/943385/cruz_et_al_v_orenstein_et_al.pdf
+https://s3.documentcloud.org/documents/4922553/Cruz-et-al-v-Orenstein-et-al.pdf > PDFs/943385/cruz_et_al_v_orenstein_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9wTogIBSjE3NUfcJLuqkPA== > PDFs/946664/707526_2018_victor_hines_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5c1AuZkGt3Ir3WycuVBHwQ== > PDFs/937795/156555_2014_joseph_delgrosso_v_susan_t_mccann_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=d_PLUS_UmP7knI2226_PLUS_BiUd6Iwg== > PDFs/968868/726419_2023_eduardo_andrade_et_al_v_eduardo_andrade_et_al_summons_complaint_1.pdf
