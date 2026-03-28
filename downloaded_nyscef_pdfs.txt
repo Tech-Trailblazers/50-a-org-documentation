@@ -1448,3 +1448,7 @@ https://s3.documentcloud.org/documents/22125400/201808925_redactedclosingreport_
 https://s3.documentcloud.org/documents/22119113/949134_09132019_2019016pdf.pdf > PDFs/949134/949134_09132019_2019016pdf.pdf
 https://s3.documentcloud.org/documents/22119324/947352_10212013_2013040pdf.pdf > PDFs/947352/947352_10212013_2013040pdf.pdf
 https://s3.documentcloud.org/documents/25523309/200903865_redactedclosingreport_redacted.pdf > PDFs/934261/200903865_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21058472/lettgreen-951913.pdf > PDFs/951913/lettgreen_951913.pdf
+https://s3.documentcloud.org/documents/23835773/parnese-965399.pdf > PDFs/965399/parnese_965399.pdf
+https://s3.documentcloud.org/documents/4419146/nypd-cases-429.pdf > PDFs/926759/nypd_cases_429.pdf
+https://s3.documentcloud.org/documents/21031455/daf-crawford926759.pdf > PDFs/926759/daf_crawford926759.pdf
