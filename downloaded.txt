@@ -7836,3 +7836,4 @@ https://s3.documentcloud.org/documents/21056117/willis-939699-05-10-21.pdf > PDF
 https://s3.documentcloud.org/documents/4918417/Wilson-v-City-of-New-York.pdf > PDFs/941053/wilson_v_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4919438/James-v-City-of-New-York-et-al.pdf > PDFs/941053/james_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21025146/leuze-458ad0a504c09656101c81a456a558499dbbccc0.pdf > PDFs/941053/leuze_458ad0a504c09656101c81a456a558499dbbccc0.pdf
+https://s3.documentcloud.org/documents/21100743/giglio_gonzalez-960605-10-13-20_watermarked-bembrey.pdf > PDFs/960605/giglio_gonzalez_960605_10_13_20_watermarked_bembrey.pdf
