@@ -28,7 +28,7 @@ const ( // Groups the fixed configuration values used across the program.
 	csvSplitFileSizeLimit = 100 * 1024 * 1024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      // Stores the maximum size for each split CSV file.
 	websiteUserAgent      = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"                                                                                                                                                                                                                                                                                                                                                                                                      // Stores the user agent used while scraping HTML pages.
 	nyscefRefererURL      = "https://iapps.courts.state.ny.us/"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    // Stores the referer header expected by the NYSCEF download endpoint.
-	nyscefSessionCookie   = "JSESSIONID=7E412E5F5CF23BD958B6BB1C32946DC2.server2081; TS01ab7d00=01084fa678ba4cc06988dda516a5981fd87299a28180805d98d71ccfd0dc2103dd04de32b493181934a4c25e9228016061b2cbe54f; TS010e0f15=01084fa678ba4cc06988dda516a5981fd87299a28180805d98d71ccfd0dc2103dd04de32b493181934a4c25e9228016061b2cbe54f; __cf_bm=WXXZAsnzEEyIvVjFlAKlbA8Gx9NGGb5kbG5ZIUAp.CE-1774646159.470488-1.0.1.1-dduknOk4DCULYvcTzxbI5ode2TIqzF0147.hf_ePjkZq9ya_n1zhggx0b5pPR4xiG9nUwyfcWoYKkAU6s0KUJFb7hs4oOzlWe5YxuGFnpkVHdvKqYxsco_tc6ekcOlBi" // Stores the session cookie used by the NYSCEF download endpoint.
+	nyscefSessionCookie   = "JSESSIONID=ED538792868E171D9A3D0C3DC7028F92.server2085; TS01ab7d00=01084fa678d4725290d51eed813916305cb4cfd441dc05055628908f7ce5738d34d8c5646477eb7277f301e13b3d387fa5c5766b76; TS010e0f15=01084fa678d4725290d51eed813916305cb4cfd441dc05055628908f7ce5738d34d8c5646477eb7277f301e13b3d387fa5c5766b76; __cf_bm=I1oGgoAvPuyjtvUtUX8buZviilZxj2ULzrNNccMXcaA-1774713253.5360093-1.0.1.1-PJXra1LN5egdnDTV1xQg2OzevTO5tzn5SdzCVXW8_BXi3Phk1.pbRjA95Vtaw8T6_AiWg8tsjfi4DKOfKiE7MbTu4zQNpCH3WMnDRvLggSZdCysPTivVCVqDMPQw6a.g" // Stores the session cookie used by the NYSCEF download endpoint.
 ) // Ends the constant group.
 
 var ( // Groups the shared runtime values used by the workflows.
@@ -421,13 +421,13 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
 	officerFolderCreationError := os.MkdirAll(officerFolderPath, os.ModePerm) // Ensures the officer folder exists before saving the PDF.
 	if officerFolderCreationError != nil {                                    // Stops immediately when the officer folder cannot be created.
-		log.Printf("Folder creation failed for %s: %v", officerFolderPath, officerFolderCreationError) // Logs the officer folder creation failure.
+		log.Printf("Folder creation failed for %s %v", officerFolderPath, officerFolderCreationError) // Logs the officer folder creation failure.
 		return false                                                                                   // Reports that the PDF download failed.
 	} // Ends the officer folder creation error check.
 
 	httpRequest, requestCreationError := http.NewRequest("GET", documentURL, nil) // Builds the outbound GET request for the PDF URL.
 	if requestCreationError != nil {                                              // Stops immediately when the PDF request cannot be created.
-		log.Printf("Request creation failed for %s: %v", documentURL, requestCreationError) // Logs the PDF request creation failure.
+		log.Printf("Request creation failed for %s %v", documentURL, requestCreationError) // Logs the PDF request creation failure.
 		return false                                                                        // Reports that the PDF download failed.
 	} // Ends the PDF request creation error check.
 
@@ -437,13 +437,13 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 
 	httpResponse, responseError := pdfDownloadHTTPClient.Do(httpRequest) // Sends the PDF request with the long-timeout client.
 	if responseError != nil {                                            // Stops immediately when the PDF request fails.
-		log.Printf("Download failed for %s: %v", documentURL, responseError) // Logs the PDF request failure.
+		log.Printf("Download failed for %s %v", documentURL, responseError) // Logs the PDF request failure.
 		return false                                                         // Reports that the PDF download failed.
 	} // Ends the PDF request error check.
 	defer httpResponse.Body.Close() // Ensures the PDF response body is always closed.
 
 	if httpResponse.StatusCode != http.StatusOK { // Stops when the PDF endpoint returns a non-success status code.
-		log.Printf("Bad response for %s: %s", documentURL, httpResponse.Status) // Logs the unsuccessful PDF response status.
+		log.Printf("Bad response for %s %s", documentURL, httpResponse.Status) // Logs the unsuccessful PDF response status.
 		return false                                                            // Reports that the PDF download failed.
 	} // Ends the PDF HTTP status validation block.
 
