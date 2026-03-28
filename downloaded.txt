@@ -8472,3 +8472,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GbGNfVzSW3q_PLUS_l
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BCtHnO397fT5Hkv2gJpIqg== > PDFs/964062/708698_2021_machel_neita_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=m6YEjc8hGrZn5UkIZL7UGQ== > PDFs/968515/807965_2024e_jeremy_delgado_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fmqjLY50wsSXbo8/bJqGRQ== > PDFs/946459/523588_2019_semrick_hall_v_matthew_khalil_et_al_complaint_amended_3.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RMaDWOkQj4pujZLnYjKh0g== > PDFs/949274/507472_2020_delbert_castillo_v_county_of_kings_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=m1k5YtFw73_PLUS_atYt/2vY3tg== > PDFs/939739/703885_2013_michael_girard_et_al_v_michael_girard_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ESeH3RPNk9o8XJXo_PLUS_Seuog== > PDFs/960092/511670_2020_sean_jouavel_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IZXEqyEm_PLUS_9mIEtN2x1dnGg== > PDFs/961193/533153_2023_qwali_williams_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/Rq0J2p3GWQhM1h5cT9VGQ== > PDFs/934943/507629_2015_jeremiah_arroyo_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QI2/XdUSci5SpjWCCSZbCg== > PDFs/951785/520725_2016_jahnice_hurdle_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZuYEo3emh1xjdKKwXTTLRg== > PDFs/967512/506573_2023_ceris_sawyers_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=94Tq7Bg9TqiZVsWKadZRHQ== > PDFs/967512/501446_2023_justin_bumpers_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fK_PLUS_N_PLUS_bG85sy6B3Xp9ylVQQ== > PDFs/967512/534342_2022_michael_herrera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fU5iSX9uGTaKsP1fu6e8Ww== > PDFs/967512/532755_2022_tarran_tacneaux_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VhjvilQjDx4OS4xrqV5zWQ== > PDFs/967512/510135_2021_marlon_hudson_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rkb1vIBaWQYJ4d8_PLUS_7Jd_PLUS_YA== > PDFs/961537/519534_2023_mordechai_eckhaus_v_city_of_new_york_et_al_summons_complaint_1.pdf
