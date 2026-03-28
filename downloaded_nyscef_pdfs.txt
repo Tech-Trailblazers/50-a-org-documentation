@@ -3607,3 +3607,12 @@ https://s3.documentcloud.org/documents/23690730/mcclellan-complaint.pdf > PDFs/9
 https://s3.documentcloud.org/documents/23118549/201901322_redactedclosingreport_redacted.pdf > PDFs/956876/201901322_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25526086/202206430.pdf > PDFs/945241/202206430.pdf
 https://s3.documentcloud.org/documents/24520366/202206430_tax945241_redacteddepartureletterpdf.pdf > PDFs/945241/202206430_tax945241_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/25281635/201908633_redactedclosingreport_redacted.pdf > PDFs/959938/201908633_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26206437/202310894-tax942104-apu-final-documentspdf.pdf > PDFs/942104/202310894_tax942104_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25919027/202310466_tax963927_redacteddepartureletterpdf.pdf > PDFs/963927/202310466_tax963927_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/21574265/201510775-mcloughlin.pdf > PDFs/941073/201510775_mcloughlin.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fNKbdsGn0jWXBLJz8fLqVg== > PDFs/941073/28065_2017e_charles_ellison_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921512/Hart-v-City-Of-New-York-et-al.pdf > PDFs/941073/hart_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25526069/202204339.pdf > PDFs/946306/202204339.pdf
+https://s3.documentcloud.org/documents/22085578/seh_946306.pdf > PDFs/946306/seh_946306.pdf
+https://s3.documentcloud.org/documents/22085928/seh_956919.pdf > PDFs/956919/seh_956919.pdf
