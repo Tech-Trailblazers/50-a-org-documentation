@@ -15043,3 +15043,10 @@ https://s3.documentcloud.org/documents/25522313/201005686_redactedclosingreport_
 https://s3.documentcloud.org/documents/24101085/201700666_redactedclosingreport_redacted.pdf > PDFs/957766/201700666_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25964359/201408307_redactedclosingreportpdf.pdf > PDFs/939944/201408307_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9UODGBBbS8EvZcpZ/sJqgA== > PDFs/939944/525808_2019_miguel_rivera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/20528107/813.pdf > PDFs/947611/813.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LwB_PLUS_8Vddolozzy_PLUS_3JFaMFQ== > PDFs/953633/509304_2022_gennel_austin_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ShdDkEbBrt80i9R4RGKSgQ== > PDFs/953633/518429_2020_benjamin_velez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057262/altilio-953633-07-15-20.pdf > PDFs/953633/altilio_953633_07_15_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4VDsqWd_PLUS_hcJqmy6ZlB0KFA== > PDFs/954052/22779_2015e_steven_ortiz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9HQcbgNHPidvY5n4XQcIxw== > PDFs/948414/509382_2020_kevin_reyes_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21051894/tomao-963779-03-30-21.pdf > PDFs/963779/tomao_963779_03_30_21.pdf
