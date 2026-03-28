@@ -12747,3 +12747,12 @@ https://s3.documentcloud.org/documents/4920379/Kibler-v-The-City-of-New-York-et-
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OkoVTWOM2On5P_PLUS_mTfzr5aw== > PDFs/953454/501783_2015_anthony_alston_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4921964/Gonzalez-Polanco-v-City-Of-New-York-et-al.pdf > PDFs/951386/gonzalez_polanco_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921963/Gonzalez-Polanco-v-City-Of-New-York-et-al.pdf > PDFs/951386/gonzalez_polanco_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5379023/Todd-v-New-York-City-Health-and-Hospital.pdf > PDFs/951423/todd_v_new_york_city_health_and_hospital.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lR3wSJ1ujQLueu5G4hR0bg== > PDFs/951978/25459_2015e_satin_o_connor_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24449678/201910118_redactedclosingreport_redacted.pdf > PDFs/938718/201910118_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21024650/jimenez-040a063f9a8e57b662481cf3a9acb8f8f1895bee.pdf > PDFs/938718/jimenez_040a063f9a8e57b662481cf3a9acb8f8f1895bee.pdf
+https://s3.documentcloud.org/documents/22118951/denio_06072021pdf.pdf > PDFs/941648/denio_06072021pdf.pdf
+https://s3.documentcloud.org/documents/4923071/Rosas-et-al-v-City-of-New-York-et-al.pdf > PDFs/941648/rosas_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923072/Parsons-v-The-City-of-New-York-et-al.pdf > PDFs/941648/parsons_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25899137/201500894-redactedclosingreport-redacted.pdf > PDFs/900527/201500894_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920566/Morales-et-al-v-Romolo-et-al.pdf > PDFs/900527/morales_et_al_v_romolo_et_al.pdf
