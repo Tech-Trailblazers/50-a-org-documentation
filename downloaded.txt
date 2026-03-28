@@ -15142,3 +15142,9 @@ https://s3.documentcloud.org/documents/25522320/200809806_redactedclosingreport_
 https://s3.documentcloud.org/documents/4921459/Gomez-v-The-City-Of-New-York-et-al.pdf > PDFs/921359/gomez_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921458/Gomez-v-The-City-Of-New-York-et-al.pdf > PDFs/921359/gomez_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/24449704/201412492_redactedclosingreport_redacted.pdf > PDFs/913694/201412492_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21026801/mugford-210749a75bcb4c81b6a8cb2265dfa3331bae45ce.pdf > PDFs/931241/mugford_210749a75bcb4c81b6a8cb2265dfa3331bae45ce.pdf
+https://s3.documentcloud.org/documents/4418986/nypd-cases-423.pdf > PDFs/935033/nypd_cases_423.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yADlYBCOGpImIhbufZ2C5g== > PDFs/935033/152826_2013_adrian_farlow_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119336/931899_07122010_2010037pdf.pdf > PDFs/931899/931899_07122010_2010037pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Bgep/Ll2oOKRJVtmSHb9Vw== > PDFs/960185/152949_2018_maya_mendez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21019409/daf-navarro957893.pdf > PDFs/957893/daf_navarro957893.pdf
