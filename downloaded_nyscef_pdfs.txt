@@ -1304,3 +1304,6 @@ https://s3.documentcloud.org/documents/4419234/nypd-cases-139.pdf > PDFs/947150/
 https://s3.documentcloud.org/documents/21030223/wong-afe21709cba1376553c3d16112cb7c38eb7dc77d.pdf > PDFs/935980/wong_afe21709cba1376553c3d16112cb7c38eb7dc77d.pdf
 https://s3.documentcloud.org/documents/4919127/Gan-v-The-City-of-New-York-et-al.pdf > PDFs/943908/gan_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919126/Gan-v-The-City-of-New-York-et-al.pdf > PDFs/943908/gan_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4418918/nypd-cases-268.pdf > PDFs/929402/nypd_cases_268.pdf
+https://s3.documentcloud.org/documents/25522429/201202036_redactedclosingreport_redacted.pdf > PDFs/929402/201202036_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520932/200705846_redactedclosingreport_redacted.pdf > PDFs/937577/200705846_redactedclosingreport_redacted.pdf
