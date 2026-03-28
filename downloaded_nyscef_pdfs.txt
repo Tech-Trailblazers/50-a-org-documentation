@@ -1387,3 +1387,6 @@ https://s3.documentcloud.org/documents/5378587/Dawes-v-City-Of-New-York-et-al.pd
 https://s3.documentcloud.org/documents/25980298/201800650-redactedclosingreport-redacted.pdf > PDFs/943628/201800650_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/23578220/201409314_redactedclosingreport_redacted.pdf > PDFs/943628/201409314_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22119279/943628_09192017_2017041pdf.pdf > PDFs/943628/943628_09192017_2017041pdf.pdf
+https://s3.documentcloud.org/documents/23741449/201710502_redactedclosingreport_redacted.pdf > PDFs/940031/201710502_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22048829/201609389_redactedclosingreport_redacted.pdf > PDFs/960274/201609389_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25553987/201003856_redactedclosingreport_redacted.pdf > PDFs/930241/201003856_redactedclosingreport_redacted.pdf
