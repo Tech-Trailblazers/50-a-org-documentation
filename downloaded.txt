@@ -12503,3 +12503,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HPJL8uyNFxsCBp48qs
 https://s3.documentcloud.org/documents/4419238/nypd-cases-515.pdf > PDFs/940021/nypd_cases_515.pdf
 https://s3.documentcloud.org/documents/4919168/Canelo-v-City-Of-New-York-et-al.pdf > PDFs/940021/canelo_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919169/Canelo-v-City-Of-New-York-et-al.pdf > PDFs/940021/canelo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26515661/202309271-tax970300-apu-final-documentspdf.pdf > PDFs/970300/202309271_tax970300_apu_final_documentspdf.pdf
