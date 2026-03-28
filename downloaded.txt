@@ -14099,3 +14099,15 @@ https://s3.documentcloud.org/documents/21615327/daf-biondolillo943374.pdf > PDFs
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QB2xj4UqyYfGFqXEcR/XHg== > PDFs/961834/152963_2020_david_martin_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P6a/SgtiJbbJk5C_PLUS_lzC8Nw== > PDFs/963903/153227_2021_gabriel_veras_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RJVI_PLUS_ljoupbtvy7z24WERw== > PDFs/956934/152574_2018_robert_luna_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_C1GpStMgc49DE9wIBoD8g== > PDFs/956129/450232_2016_tony_johnson_v_the_city_of_new_york_et_al_transfer_of_file_on_2.pdf
+https://s3.documentcloud.org/documents/23835938/201804291_redactedclosingreport_redacted.pdf > PDFs/959429/201804291_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21021501/cassidy-421c70dd672a5d2ed663b62ec18aaa696666e896.pdf > PDFs/963437/cassidy_421c70dd672a5d2ed663b62ec18aaa696666e896.pdf
+https://s3.documentcloud.org/documents/25977785/201609961-redactedclosingreport-redacted.pdf > PDFs/932522/201609961_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24100925/201309924_redactedclosingreport_redacted.pdf > PDFs/942343/201309924_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21028054/reyes-ac26186beac78ce5df9547f29fa1e58a9f24fa80.pdf > PDFs/946155/reyes_ac26186beac78ce5df9547f29fa1e58a9f24fa80.pdf
+https://s3.documentcloud.org/documents/21058732/reyes-946155-04-23-21.pdf > PDFs/946155/reyes_946155_04_23_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pF7FXZ/zqbXOkAPgaqxxGw== > PDFs/940847/150870_2014_keyla_polanco_v_keyla_polanco_complaint_amended_3.pdf
+https://s3.documentcloud.org/documents/4419300/nypd-cases-103.pdf > PDFs/939294/nypd_cases_103.pdf
+https://s3.documentcloud.org/documents/4919664/Robinson-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/924108/robinson_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919665/Robinson-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/924108/robinson_et_al_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nKQh1W1NpAqUTdArtYVtEQ==&__cf_chl_rt_tk=6TTKhjMFRCwSrFLgY9YUgNTigb3BbgS68f3b6.iGAfA-1727216019-0.0.1.1-5694 > PDFs/947421/451996_2022_deandre_bryant_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
