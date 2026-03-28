@@ -2370,3 +2370,10 @@ https://s3.documentcloud.org/documents/4918908/Love-v-The-City-of-New-York-et-al
 https://s3.documentcloud.org/documents/23578245/201708778_redactedclosingreport_redacted.pdf > PDFs/958506/201708778_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25899142/201702871-redactedclosingreport-redacted.pdf > PDFs/950079/201702871_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21020848/bianco-5313c3bb051feb3739ab522a2e16ea040ccb2454.pdf > PDFs/950079/bianco_5313c3bb051feb3739ab522a2e16ea040ccb2454.pdf
+https://s3.documentcloud.org/documents/23794957/201607222_redactedclosingreport_redacted.pdf > PDFs/947520/201607222_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4918582/Boykin-v-City-of-New-York-et-al.pdf > PDFs/947520/boykin_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21029958/walker-3df745e4814e346f286d386707b4308b0cf989ab.pdf > PDFs/937705/walker_3df745e4814e346f286d386707b4308b0cf989ab.pdf
+https://s3.documentcloud.org/documents/26032028/926029_06272025_2025028pdf.pdf > PDFs/926029/926029_06272025_2025028pdf.pdf
+https://s3.documentcloud.org/documents/20528173/934.pdf > PDFs/926029/934.pdf
+https://s3.documentcloud.org/documents/4419027/nypd-cases-178.pdf > PDFs/940460/nypd_cases_178.pdf
+https://s3.documentcloud.org/documents/23689945/14cv07721.pdf > PDFs/940460/14cv07721.pdf
