@@ -7406,3 +7406,9 @@ https://s3.documentcloud.org/documents/21066673/orsini-943858-04-05-21.pdf > PDF
 https://s3.documentcloud.org/documents/4419076/nypd-cases-180.pdf > PDFs/937638/nypd_cases_180.pdf
 https://s3.documentcloud.org/documents/21057258/alix-936119-02-15-21.pdf > PDFs/936119/alix_936119_02_15_21.pdf
 https://s3.documentcloud.org/documents/21058327/hoque-963575-04-05-21.pdf > PDFs/963575/hoque_963575_04_05_21.pdf
+https://s3.documentcloud.org/documents/23846817/giglio_963531000_garcia-963531-04-14-23.pdf > PDFs/963531/giglio_963531000_garcia_963531_04_14_23.pdf
+https://s3.documentcloud.org/documents/21058796/russo-934141-02-23-21.pdf > PDFs/934141/russo_934141_02_23_21.pdf
+https://s3.documentcloud.org/documents/20705787/giglio_coe.pdf > PDFs/967006/giglio_coe.pdf
+https://s3.documentcloud.org/documents/21058229/gigliocoe-967006-11-29-20.pdf > PDFs/967006/gigliocoe_967006_11_29_20.pdf
+https://s3.documentcloud.org/documents/4921496/Watson-v-City-of-New-York-et-al.pdf > PDFs/947200/watson_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21066726/singh-961291-giglio.pdf > PDFs/961291/singh_961291_giglio.pdf
