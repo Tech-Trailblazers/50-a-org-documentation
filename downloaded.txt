@@ -9622,3 +9622,7 @@ https://s3.documentcloud.org/documents/4920745/Ameruso-v-City-of-New-York-et-al.
 https://s3.documentcloud.org/documents/4921221/In-the-Matter-of-the-Estate-of-Joseph-Priolo-et.pdf > PDFs/939935/in_the_matter_of_the_estate_of_joseph_priolo_et.pdf
 https://s3.documentcloud.org/documents/5379236/Chepilko-v-The-City-of-New-York-et-al.pdf > PDFs/954928/chepilko_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4923276/King-v-The-City-of-New-York-et-al.pdf > PDFs/954928/king_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21057518/chowdhury-965985-07-26-21.pdf > PDFs/965985/chowdhury_965985_07_26_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bLkZmsDUTM2ts5x8aJaSCQ== > PDFs/943439/525640_2022_cardin_nelson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uaSfbd57EXY4Y4GZogJcVg== > PDFs/946164/1693_2016_alisia_charter_et_al_v_alisia_charter_et_al_county_clerk_minute_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cuURubz7RnleREMZNQEkLw== > PDFs/951756/707662_2020_julian_herrera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
