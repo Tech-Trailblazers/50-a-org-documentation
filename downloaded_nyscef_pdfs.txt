@@ -328,3 +328,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kHWO0ZKEcy3BsGTW78
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RIOrH8OTiWw8JdPqkMUgFw== > PDFs/960981/815509_2021e_rufino_mancebo_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JESbQTbtNXIg0NAS3DpFFQ== > PDFs/947513/154333_2013_gerardo_encarnacion_v_city_of_new_york_et_al_exhibit_s_5.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C8WO_PLUS_lFAq9fynLnSJj/Xmw== > PDFs/969414/151347_2024_ebonie_powell_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95OOkKyIK6kWY3kNKtrHGg== > PDFs/968718/161370_2024_curtayasia_taylor_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gp8kx/bcB0xghn7xKVrPFQ== > PDFs/936724/153310_2013_terry_tinsley_v_city_of_new_york_petition_1.pdf
