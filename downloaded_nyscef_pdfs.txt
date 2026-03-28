@@ -2722,3 +2722,6 @@ https://s3.documentcloud.org/documents/4419212/nypd-cases-266.pdf > PDFs/924018/
 https://s3.documentcloud.org/documents/4921892/Sullivan-v-City-of-New-York-et-al.pdf > PDFs/950513/sullivan_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25023179/201504111_redactedclosingreport_redacted.pdf > PDFs/952300/201504111_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=89rPa8Ybb3CNwrwH7CCIEw== > PDFs/952300/25778_2018e_damon_jackson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922769/Ocasio-v-The-City-of-New-York-et-al.pdf > PDFs/940219/ocasio_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4419054/nypd-cases-357.pdf > PDFs/936615/nypd_cases_357.pdf
+https://s3.documentcloud.org/documents/22119006/936615_01242012_2012111pdf.pdf > PDFs/936615/936615_01242012_2012111pdf.pdf
