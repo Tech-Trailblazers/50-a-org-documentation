@@ -1452,3 +1452,16 @@ https://s3.documentcloud.org/documents/21058472/lettgreen-951913.pdf > PDFs/9519
 https://s3.documentcloud.org/documents/23835773/parnese-965399.pdf > PDFs/965399/parnese_965399.pdf
 https://s3.documentcloud.org/documents/4419146/nypd-cases-429.pdf > PDFs/926759/nypd_cases_429.pdf
 https://s3.documentcloud.org/documents/21031455/daf-crawford926759.pdf > PDFs/926759/daf_crawford926759.pdf
+https://s3.documentcloud.org/documents/25522942/202000861_redactedclosingreport_redacted.pdf > PDFs/953384/202000861_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25091512/201906121_redactedclosingreport_redacted.pdf > PDFs/953384/201906121_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22274539/201810683_redactedclosingreport_redacted.pdf > PDFs/953384/201810683_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4923669/Cooper-v-City-of-New-York-et-al.pdf > PDFs/953384/cooper_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21028661/schrell-35561530825ede5a289c3802fd34b556fc0f4693.pdf > PDFs/953384/schrell_35561530825ede5a289c3802fd34b556fc0f4693.pdf
+https://s3.documentcloud.org/documents/21056998/giglio_schrell-953384-03-16-21.pdf > PDFs/953384/giglio_schrell_953384_03_16_21.pdf
+https://s3.documentcloud.org/documents/21828259/202000121_redactedclosingreport_redacted.pdf > PDFs/956493/202000121_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21030671/daf-mcdonald965321.pdf > PDFs/965321/daf_mcdonald965321.pdf
+https://s3.documentcloud.org/documents/22086362/seh_965321.pdf > PDFs/965321/seh_965321.pdf
+https://s3.documentcloud.org/documents/25526203/202304926.pdf > PDFs/953247/202304926.pdf
+https://s3.documentcloud.org/documents/26182820/201705812_redactedclosingreportpdf.pdf > PDFs/948227/201705812_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21019408/daf-mullady963665.pdf > PDFs/963665/daf_mullady963665.pdf
+https://s3.documentcloud.org/documents/22119469/932017_02192010_2010121pdf.pdf > PDFs/932017/932017_02192010_2010121pdf.pdf
