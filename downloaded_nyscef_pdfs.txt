@@ -4023,3 +4023,12 @@ https://s3.documentcloud.org/documents/4919562/Derosa-et-al-v-The-City-of-New-Yo
 https://s3.documentcloud.org/documents/22119536/942696_10132015_2015030pdf.pdf > PDFs/942696/942696_10132015_2015030pdf.pdf
 https://s3.documentcloud.org/documents/4918848/Thomas-v-The-City-of-New-York.pdf > PDFs/929503/thomas_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4918849/Thomas-v-The-City-of-New-York.pdf > PDFs/929503/thomas_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/26187169/202311805_redactedclosingreportpdf.pdf > PDFs/965187/202311805_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cF1i49XCJAiphk/8903gcw== > PDFs/973042/819203_2023e_dajun_knowles_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25523543/202004452_redactedclosingreport_redacted.pdf > PDFs/955068/202004452_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869358/201909958_closingreport.pdf > PDFs/955068/201909958_closingreport.pdf
+https://s3.documentcloud.org/documents/26055291/201703383-redactedclosingreport-redacted.pdf > PDFs/955068/201703383_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r4BJWbOnLQPGd2h2Ch0Zkg== > PDFs/955068/28657_2018e_harry_perez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085850/seh_955068.pdf > PDFs/955068/seh_955068.pdf
+https://s3.documentcloud.org/documents/25526177/202302857.pdf > PDFs/969913/202302857.pdf
+https://s3.documentcloud.org/documents/26035084/202308956-tax963579-apu-final-documentspdf.pdf > PDFs/963579/202308956_tax963579_apu_final_documentspdf.pdf
