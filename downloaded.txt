@@ -9432,3 +9432,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PdBstjLi9W6FThf/Iy
 https://s3.documentcloud.org/documents/25873048/8461_iab_l-r_redacted.pdf > PDFs/965111/8461_iab_l_r_redacted.pdf
 https://s3.documentcloud.org/documents/26195488/8473-iab-c-2020-304.pdf > PDFs/965111/8473_iab_c_2020_304.pdf
 https://s3.documentcloud.org/documents/25930051/8468_iab_c-2020-304.pdf > PDFs/965111/8468_iab_c_2020_304.pdf
+https://s3.documentcloud.org/documents/22059957/957878_cpi.pdf > PDFs/957878/957878_cpi.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/wm83YFVcTYq2eYtkiPSOA== > PDFs/943029/159947_2016_joe_azagury_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zPGW4OVFdI1wc8NYMLp4kA== > PDFs/932746/716991_2020_louis_moreno_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bkgXkxtgHyXWQ69hw8jXvQ== > PDFs/957168/715705_2021_charles_fletcher_v_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/26303031/202206124_redactedclosingreportpdf.pdf > PDFs/921970/202206124_redactedclosingreportpdf.pdf
