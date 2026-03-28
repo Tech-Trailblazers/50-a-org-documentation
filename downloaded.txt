@@ -11848,3 +11848,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jaJ_PLUS_nZZ/1R38o
 https://s3.documentcloud.org/documents/4923712/Davis-v-City-of-New-York-et-al.pdf > PDFs/933172/davis_v_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fgvQUh1mL6_PLUS_YA5oT5AEtKA== > PDFs/933357/156742_2020_damont_drayton_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4920375/Lloyd-v-The-City-Of-New-York-et-al.pdf > PDFs/933357/lloyd_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918691/Cardonia-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/904679/cardonia_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918690/Cardonia-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/904679/cardonia_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922834/Tchatat-v-The-City-Of-New-York-et-al.pdf > PDFs/941363/tchatat_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922836/Reyes-v-City-of-New-York-et-al.pdf > PDFs/941363/reyes_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922835/Gonzalez-v-The-City-of-New-York-et-al.pdf > PDFs/941363/gonzalez_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058188/giglio_sullivan-949703-04-19-21.pdf > PDFs/949703/giglio_sullivan_949703_04_19_21.pdf
