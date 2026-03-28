@@ -2196,3 +2196,12 @@ https://s3.documentcloud.org/documents/25246182/201502795_redactedclosingreport_
 https://s3.documentcloud.org/documents/21031433/daf-merant954128.pdf > PDFs/954128/daf_merant954128.pdf
 https://s3.documentcloud.org/documents/24630870/201800295_redactedclosingreport_redacted.pdf > PDFs/952386/201800295_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21020118/agosto-7266640d7b19720d2601ebfbac1bc0659e4d20ac.pdf > PDFs/952386/agosto_7266640d7b19720d2601ebfbac1bc0659e4d20ac.pdf
+https://s3.documentcloud.org/documents/23620531/201411074_redactedclosingreport_redacted.pdf > PDFs/951228/201411074_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21615380/daf-searcy951228.pdf > PDFs/951228/daf_searcy951228.pdf
+https://s3.documentcloud.org/documents/25281691/201803527_redactedclosingreport_redacted.pdf > PDFs/948241/201803527_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4419196/nypd-cases-348.pdf > PDFs/948241/nypd_cases_348.pdf
+https://s3.documentcloud.org/documents/20972805/daf-giarro950491.pdf > PDFs/950491/daf_giarro950491.pdf
+https://s3.documentcloud.org/documents/4920588/Gray-v-The-City-Of-New-York-et-al.pdf > PDFs/946284/gray_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4927970/Mercedes-v-City-of-New-York-et-al.pdf > PDFs/939872/mercedes_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21039700/daf-amirally939872.pdf > PDFs/939872/daf_amirally939872.pdf
+https://s3.documentcloud.org/documents/22085682/seh_949830.pdf > PDFs/949830/seh_949830.pdf
