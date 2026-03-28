@@ -10328,3 +10328,6 @@ https://s3.documentcloud.org/documents/25091530/201507230_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=e5Gp6oyrZ_PLUS_dgouYwK33e3Q== > PDFs/953583/151603_2015_brian_bifulco_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_Wkdnu1OvmA74AiuVYqDaw== > PDFs/936404/701722_2013_eric_gusek_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aRq6lOk7ETU94N7wCSSn3A== > PDFs/943282/717707_2018_jhoel_beckles_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058562/neura-962636-03-31-21.pdf > PDFs/962636/neura_962636_03_31_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cGrNI0Se9206JaL0FZ5uww== > PDFs/955306/29311_2017e_rayshawn_harris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_GUWZ3w7dQgEVWT_PLUS_r6gJZQ== > PDFs/955306/26700_2017e_rayshawn_harris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
