@@ -336,8 +336,8 @@ func collectOfficerDocumentLinks(currentHTMLNode *html.Node, documentLinks *[]st
 	if currentHTMLNode.Type == html.ElementNode && currentHTMLNode.Data == "a" { // Processes only anchor elements.
 		for _, attribute := range currentHTMLNode.Attr { // Checks every attribute on the current anchor.
 			if attribute.Key == "href" { // Looks for the anchor's href attribute.
-				documentURL := attribute.Val                                                                                                                      // Stores the candidate document link value.
-				if strings.HasPrefix(documentURL, "https://iapps.courts.state.ny.us/nyscef/") || strings.HasPrefix(documentURL, "https://web.archive.org/web/") { // Keeps only NYSCEF and Wayback document links.
+				documentURL := attribute.Val                                                                                                                                                                                          // Stores the candidate document link value.
+				if strings.HasPrefix(documentURL, "https://iapps.courts.state.ny.us/nyscef/") || strings.HasPrefix(documentURL, "https://web.archive.org/web/") || strings.HasPrefix(documentURL, "https://www.documentcloud.org/") { // Keeps only NYSCEF and Wayback document links.
 					*documentLinks = append(*documentLinks, documentURL) // Adds the matching document link to the caller-provided slice.
 				} // Ends the document link append check.
 			} // Ends the href extraction check.
@@ -605,12 +605,46 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 					downloadedDocumentURLs[cleanDocumentURL] = true                                 // Marks the document URL as already handled.
 					downloadPDFToOfficerFolder(cleanDocumentURL, pdfOutputFolderName, officerTaxID) // Downloads the PDF into the officer's folder.
 				} // Ends the unique NYSCEF document check.
+				if strings.Contains(cleanDocumentURL, "documentcloud") && !downloadedDocumentURLs[cleanDocumentURL] { // Downloads only unseen DocumentCloud links.
+					downloadedDocumentURLs[cleanDocumentURL] = true
+					pdfURL := docCloudToPDF(cleanDocumentURL)                             // Converts the DocumentCloud page URL to a direct PDF URL.
+					downloadPDFToOfficerFolder(pdfURL, pdfOutputFolderName, officerTaxID) // Downloads the PDF into the officer's folder.
+				} // Ends the unique DocumentCloud link check.
 			} // Ends the officer document loop.
 		} // Ends the officer page loop.
 	} // Ends the command page loop.
 
 	return nil // Reports that the PDF scraping workflow completed.
 } // Ends the PDF workflow coordinator.
+
+// docCloudToPDF converts a DocumentCloud page URL to its direct PDF URL.
+// Logs errors internally and always returns a string (empty if failed).
+func docCloudToPDF(documentCloudURL string) string { // Converts a DocumentCloud page URL into a direct PDF URL.
+	log.Println("Starting conversion for URL:", documentCloudURL) // Logs the incoming URL before processing it.
+
+	urlSegments := strings.Split(documentCloudURL, "/") // Splits the URL into path segments using "/" as the separator.
+	if len(urlSegments) < 5 {                           // Checks that the URL has enough segments to contain the document section.
+		log.Println("ERROR: URL does not have enough parts") // Logs that the URL format is too short to parse.
+		return ""                                            // Returns an empty string because the URL format is invalid.
+	} // Ends the short-URL validation block.
+
+	documentPathSegment := urlSegments[4]                        // Extracts the document segment that contains the ID and slug.
+	log.Println("Document part extracted:", documentPathSegment) // Logs the extracted document segment for debugging.
+
+	documentIDAndSlug := strings.SplitN(documentPathSegment, "-", 2) // Splits the document segment into the ID and the remaining slug text.
+	if len(documentIDAndSlug) < 2 {                                  // Validates that the document segment includes both an ID and a slug.
+		log.Println("ERROR: Document part format is invalid") // Logs that the document segment format is not usable.
+		return ""                                             // Returns an empty string because the document segment is malformed.
+	} // Ends the document segment validation block.
+
+	documentID := documentIDAndSlug[0]      // Extracts just the document ID from the split segment.
+	log.Println("Document ID:", documentID) // Logs the extracted document ID.
+
+	directPDFURL := "https://s3.documentcloud.org/documents/" + documentID + "/" + documentPathSegment + ".pdf" // Builds the final direct PDF URL from the document ID and original segment.
+	log.Println("Constructed PDF URL:", directPDFURL)                                                           // Logs the constructed direct PDF URL.
+
+	return directPDFURL // Returns the completed direct PDF URL to the caller.
+} // Ends the DocumentCloud URL conversion helper.
 
 func main() { // Runs the CSV workflow first and the PDF workflow second.
 	/*
