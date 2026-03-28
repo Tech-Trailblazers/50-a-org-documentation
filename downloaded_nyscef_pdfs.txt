@@ -266,3 +266,12 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zO5QdJRRdqAAE2N96N
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KAVSgv8rhynDvzP1d6MoPA== > PDFs\954999\24012_2017e_brian_dominguez_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x4g/KKYFpOOhnUX/2PL8lQ== > PDFs\952386\807298_2023e_hector_vargas_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GKQxB4601NtulmRBTthJbA== > PDFs\946284\155033_2023_maycol_mejia_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tSR53_PLUS_VUDQS2rGNZW8Fk2w== > PDFs\965903\818061_2023e_radelki_almanzar_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UOg9IjrxfKOIx8HClQWudQ== > PDFs\965903\804081_2023e_mahamadou_yatabari_et_v_mahamadou_yatabari_et_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xh0wfmiAeEglWVLZDFZDtg== > PDFs\965903\819307_2022e_melinda_charleman_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NmWj_PLUS_hjduTO0OW8KjmLsLg== > PDFs\952063\817480_2024e_carolyn_sanchez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xeNBCeEnI/2opu8uqECcTQ== > PDFs\952063\152332_2018_sam_williams_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R4408qCTM2GpAbNrxjrNfw== > PDFs\959608\150129_2022_oraya_evans_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g6W8_PLUS_CeSsiig1crB_PLUS_Wez_PLUS_g== > PDFs\958539\152576_2021_raymond_green_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gdG/NW0Wmc9c_PLUS_A8/nlDHFw== > PDFs\958539\157925_2020_devon_english_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8m2wvR03T/jrwsPUt/qVmQ== > PDFs\938617\22710_2018e_luis_ortiz_v_city_of_new_york_et_al_summons_complaint_1.pdf
