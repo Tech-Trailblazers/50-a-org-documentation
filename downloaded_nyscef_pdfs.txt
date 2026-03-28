@@ -2506,3 +2506,4 @@ https://s3.documentcloud.org/documents/23620419/201201879_complaint.pdf > PDFs/9
 https://s3.documentcloud.org/documents/25523559/200916705_redactedclosingreport_redacted.pdf > PDFs/943782/200916705_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4418947/nypd-cases-479.pdf > PDFs/936165/nypd_cases_479.pdf
 https://s3.documentcloud.org/documents/22090010/936165_04182014_2014105pdf.pdf > PDFs/936165/936165_04182014_2014105pdf.pdf
+https://s3.documentcloud.org/documents/21019963/daf-jones962505.pdf > PDFs/962505/daf_jones962505.pdf
