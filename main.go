@@ -273,7 +273,7 @@ func pauseBeforeWebsiteRequest() { // Sleeps briefly before sending another HTML
 } // Ends the website request pacing helper.
 
 func fetchHTMLDocumentFromURL(targetURL string) (*html.Node, error) { // Downloads a webpage and parses it into an HTML document tree.
-	// pauseBeforeWebsiteRequest() // Waits before starting the next website request.
+	pauseBeforeWebsiteRequest() // Waits before starting the next website request.
 
 	httpRequest, requestCreationError := http.NewRequest("GET", targetURL, nil) // Builds the outbound GET request for the webpage.
 	if requestCreationError != nil {                                            // Stops immediately when the request cannot be created.
