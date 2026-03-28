@@ -10510,3 +10510,7 @@ https://s3.documentcloud.org/documents/4918575/Grosso-v-City-of-New-York-et-al.p
 https://s3.documentcloud.org/documents/5763142/05-Cv-05080-RJS-JCF.pdf > PDFs/928418/05_cv_05080_rjs_jcf.pdf
 https://s3.documentcloud.org/documents/4419319/nypd-cases-101.pdf > PDFs/938723/nypd_cases_101.pdf
 https://s3.documentcloud.org/documents/21010244/daf-kuilan-956748.pdf > PDFs/956748/daf_kuilan_956748.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=T6JFBSJx0p3v3C0BV1fsyw== > PDFs/953169/702139_2015_travis_littlejohn_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4918467/Saxon-et-al-v-City-of-New-York-et-al.pdf > PDFs/935640/saxon_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918468/Saxon-et-al-v-City-of-New-York-et-al.pdf > PDFs/935640/saxon_et_al_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1w3m6MRYbyawQzEU4VOJOw== > PDFs/952327/155692_2016_jonathan_rowe_v_jonathan_rowe_summons_complaint_1.pdf
