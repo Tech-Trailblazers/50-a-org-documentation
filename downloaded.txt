@@ -9294,3 +9294,6 @@ https://s3.documentcloud.org/documents/22119009/919071_11102014_2014024pdf.pdf >
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cOcMnEWySIu_PLUS_MgX9Zk5/Bg== > PDFs/957297/20940_2019e_emiliano_rosado_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Nzrn7124CuuUbGXT_PLUS_s_PLUS_/ew== > PDFs/944941/153318_2020_onyebuchi_jeff_mbabuike_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4922333/Daniel-v-The-City-Of-New-York-et-al.pdf > PDFs/930367/daniel_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919651/Rodriguez-Pablo-v-City-of-New-York-et-al.pdf > PDFs/939309/rodriguez_pablo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21028119/riordan-ef3c5472175ca0d755cc99267b262546e675e6e8.pdf > PDFs/939309/riordan_ef3c5472175ca0d755cc99267b262546e675e6e8.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ma7VpRZPpVNU2bLnyjemTg== > PDFs/969050/704073_2024_nigel_edinborough_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
