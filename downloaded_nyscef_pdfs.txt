@@ -4369,3 +4369,8 @@ https://s3.documentcloud.org/documents/25540509/201205445_redactedclosingreport_
 https://s3.documentcloud.org/documents/21057229/abbate-960115-05-12-20.pdf > PDFs/960115/abbate_960115_05_12_20.pdf
 https://s3.documentcloud.org/documents/21054115/aleo-963360-03-11-21.pdf > PDFs/963360/aleo_963360_03_11_21.pdf
 https://s3.documentcloud.org/documents/21057261/alter-952404-05-03-21.pdf > PDFs/952404/alter_952404_05_03_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Tz1RXkerA6FH5ycpSpi6Ng== > PDFs/969213/507727_2024_kevin_bruce_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21051836/miller-957859-01-06-20.pdf > PDFs/957859/miller_957859_01_06_20.pdf
+https://s3.documentcloud.org/documents/26078957/201806085_redactedclosingreportpdf.pdf > PDFs/964711/201806085_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/20528141/870.pdf > PDFs/964711/870.pdf
+https://s3.documentcloud.org/documents/20528821/3143.pdf > PDFs/964711/3143.pdf
