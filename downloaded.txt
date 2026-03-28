@@ -8022,3 +8022,5 @@ https://s3.documentcloud.org/documents/26070986/201102347_redactedclosingreport_
 https://s3.documentcloud.org/documents/25281663/201706227_redactedclosingreport_redacted.pdf > PDFs/934923/201706227_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25523460/200909919_redactedclosingreport_redacted.pdf > PDFs/947098/200909919_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25523138/200907901_redactedclosingreport_redacted.pdf > PDFs/941600/200907901_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21057012/casimir-963436.pdf > PDFs/963436/casimir_963436.pdf
+https://s3.documentcloud.org/documents/4920857/Gaines-v-City-of-New-York-et-al.pdf > PDFs/949206/gaines_v_city_of_new_york_et_al.pdf
