@@ -9135,3 +9135,15 @@ https://s3.documentcloud.org/documents/25522721/200908296_redactedclosingreport_
 https://s3.documentcloud.org/documents/25523810/200803611_redactedclosingreport_redacted.pdf > PDFs/935991/200803611_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25991330/935991_05122025_2025023pdf.pdf > PDFs/935991/935991_05122025_2025023pdf.pdf
 https://s3.documentcloud.org/documents/22119552/935991_03222016_2016050pdf.pdf > PDFs/935991/935991_03222016_2016050pdf.pdf
+https://s3.documentcloud.org/documents/21021812/ciota-1dcb9e8ad173ecd4ae3f4d56fc478603b43aaac2.pdf > PDFs/951615/ciota_1dcb9e8ad173ecd4ae3f4d56fc478603b43aaac2.pdf
+https://s3.documentcloud.org/documents/25521235/200708426_redactedclosingreport_redacted.pdf > PDFs/937583/200708426_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=4Ew1FCyqbaF9niPni8KArQ==&display=all&courtType=New%20York%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/937583/documentlist_docketid_4ew1fcyqbaf9nipni8karq_display_all_courttype_new_20york_20county_20supreme_20court_resultspagenum_1.pdf
+https://s3.documentcloud.org/documents/4919604/Rodriguez-v-The-City-of-New-York.pdf > PDFs/923940/rodriguez_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/24630905/202003467_redactedclosingreport_redacted.pdf > PDFs/960218/202003467_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085595/seh_947152.pdf > PDFs/947152/seh_947152.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JZU1yIYNOZ_PLUS_d1ki2hfCajg== > PDFs/964941/505789_2023_rocky_lezama_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mc3O0ZR6vDQWVRW_PLUS_UpaKfA== > PDFs/964941/530164_2022_rocky_lezama_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oDZvXs2lih1HBwlj6OxT7A== > PDFs/960484/707482_2021_raul_velazquez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25523197/201311506_redactedclosingreport_redacted.pdf > PDFs/939736/201311506_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25521055/200708615_redactedclosingreport_redacted.pdf > PDFs/939736/200708615_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25897783/202106780_redactedclosingreportpdf.pdf > PDFs/963270/202106780_redactedclosingreportpdf.pdf
