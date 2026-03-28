@@ -15739,3 +15739,16 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mso2gotu1PmO71QnQ/
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=btKV5UQEzKd1_PLUS_wzV0RPXAA== > PDFs/941641/158985_2015_preston_mcneil_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/25091549/201702094_redactedclosingreport_redacted.pdf > PDFs/942454/201702094_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4oHHkSVPqYlYjK6t6VC3qg== > PDFs/946845/708413_2019_jeffery_lamison_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921818/Ferreras-v-City-of-New-York.pdf > PDFs/940924/ferreras_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/25523148/201214328_redactedclosingreport_redacted.pdf > PDFs/943284/201214328_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520859/200718569_redactedclosingreport_redacted.pdf > PDFs/943284/200718569_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21058065/giglio_loperena-948076-03-05-21.pdf > PDFs/948076/giglio_loperena_948076_03_05_21.pdf
+https://s3.documentcloud.org/documents/23578215/201405139_redactedclosingreport_redacted.pdf > PDFs/952174/201405139_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922043/Cabrera-v-City-of-New-York-et-al.pdf > PDFs/941498/cabrera_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918470/Stone-v-City-of-New-York.pdf > PDFs/934498/stone_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4918469/Stone-v-City-of-New-York.pdf > PDFs/934498/stone_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/25523008/201012593_redactedclosingreport_redacted.pdf > PDFs/923414/201012593_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522522/200906576_redactedclosingreport_redacted.pdf > PDFs/923414/200906576_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RWpPK7UUkV9atd9S7_PLUS_Fg3g== > PDFs/923414/157980_2014_jonathan_colon_et_al_v_jonathan_colon_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4923736/Harris-v-The-City-of-New-York-et-al.pdf > PDFs/923414/harris_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923737/Harris-v-The-City-of-New-York-et-al.pdf > PDFs/923414/harris_v_the_city_of_new_york_et_al.pdf
