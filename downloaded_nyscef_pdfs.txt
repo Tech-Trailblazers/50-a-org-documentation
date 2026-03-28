@@ -1928,3 +1928,5 @@ https://s3.documentcloud.org/documents/24100806/201610231_redactedclosingreport_
 https://s3.documentcloud.org/documents/24101103/201709541_redactedclosingreport_redacted.pdf > PDFs/940279/201709541_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/23794960/201609390_redactedclosingreport_redacted.pdf > PDFs/944687/201609390_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4419330/nypd-cases-316.pdf > PDFs/941642/nypd_cases_316.pdf
+https://s3.documentcloud.org/documents/22119275/939136_07182018_2018058pdf.pdf > PDFs/948571/939136_07182018_2018058pdf.pdf
+https://s3.documentcloud.org/documents/21031288/daf-orapollo953531.pdf > PDFs/953531/daf_orapollo953531.pdf
