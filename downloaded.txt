@@ -7320,3 +7320,7 @@ https://s3.documentcloud.org/documents/4923140/Cheeves-et-al-v-The-City-of-New-Y
 https://s3.documentcloud.org/documents/4923227/Johnson-et-al-v-City-of-New-York-et-al.pdf > PDFs/939059/johnson_et_al_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21026659/montas-e945fc6b2956c16889089de339b1f36366f06569.pdf > PDFs/939059/montas_e945fc6b2956c16889089de339b1f36366f06569.pdf
 https://s3.documentcloud.org/documents/21029955/wali-b2534d5fd3060c894a5d54df0026c952e5ae1144.pdf > PDFs/968181/wali_b2534d5fd3060c894a5d54df0026c952e5ae1144.pdf
+https://s3.documentcloud.org/documents/25525425/202002227.pdf > PDFs/964150/202002227.pdf
+https://s3.documentcloud.org/documents/24615666/202002227-tax964150-apu-final-documentspdf.pdf > PDFs/964150/202002227_tax964150_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25525216/201808743.pdf > PDFs/964150/201808743.pdf
+https://s3.documentcloud.org/documents/24097605/201808743-tax964150-apu-final-documentspdf.pdf > PDFs/964150/201808743_tax964150_apu_final_documentspdf.pdf
