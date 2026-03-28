@@ -15681,3 +15681,12 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nP8cZoYTsZ8EarH_PL
 https://s3.documentcloud.org/documents/21051993/suriel-964305.pdf > PDFs/964305/suriel_964305.pdf
 https://s3.documentcloud.org/documents/25246189/201504644_redactedclosingreport_redacted.pdf > PDFs/952713/201504644_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4921544/Bradley-v-City-of-New-York-at-el.pdf > PDFs/952713/bradley_v_city_of_new_york_at_el.pdf
+https://s3.documentcloud.org/documents/4918456/O-Connor-v-City-of-New-York-et-al.pdf > PDFs/951956/o_connor_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921056/Haley-v-Franks-et-al.pdf > PDFs/948512/haley_v_franks_et_al.pdf
+https://s3.documentcloud.org/documents/4920758/Forbes-v-New-York-City-Police-Department-et-al.pdf > PDFs/937424/forbes_v_new_york_city_police_department_et_al.pdf
+https://s3.documentcloud.org/documents/25560005/201101926_redactedclosingreport_redacted.pdf > PDFs/914030/201101926_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25559998/200502435_redactedclosingreport_redacted.pdf > PDFs/914030/200502435_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25560018/9904890_closingreportedms_redacted.pdf > PDFs/914030/9904890_closingreportedms_redacted.pdf
+https://s3.documentcloud.org/documents/25560017/9903764_redactedclosingreport_redacted.pdf > PDFs/914030/9903764_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25560015/9802313_closingreportedms_redacted.pdf > PDFs/914030/9802313_closingreportedms_redacted.pdf
+https://s3.documentcloud.org/documents/25560014/9601466_closingreportedms_redacted.pdf > PDFs/914030/9601466_closingreportedms_redacted.pdf
