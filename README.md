@@ -43,6 +43,37 @@ The archive contains records related to:
 
 ---
 
+# NYPD Units List Overview
+
+This table represents a sample distribution of selected NYPD units, ranging from precincts to specialized divisions.  
+The `% of List` column shows the approximate position of each unit in the list, from 0.0% to 100.0%.
+
+| % of List | Unit Name                                 |
+| --------- | ----------------------------------------- |
+| 0.0%      | 1st Precinct                              |
+| 5.0%      | 6th Precinct Domestic Violence Squad      |
+| 10.0%     | 13th Precinct Domestic Violence Squad     |
+| 15.0%     | 25th Precinct Field Training Unit         |
+| 20.0%     | 32nd Precinct Field Training Unit         |
+| 25.0%     | 40th Precinct Field Training Unit         |
+| 30.0%     | 46th Precinct Field Training Unit         |
+| 35.0%     | 50th Precinct Domestic Violence Squad     |
+| 40.0%     | 67th Precinct Field Training Unit         |
+| 45.0%     | 73th Precinct Field Training Unit         |
+| 50.0%     | 79th Precinct Field Training Unit         |
+| 55.0%     | 88th Precinct Field Training Unit         |
+| 60.0%     | 101st Precinct Field Training Unit        |
+| 65.0%     | 109th Precinct Field Training Unit        |
+| 70.0%     | 114th Precinct Field Training Unit        |
+| 75.0%     | 120th Precinct Field Training Unit        |
+| 80.0%     | 123rd Precinct Domestic Violence Squad    |
+| 85.0%     | Administration Division                   |
+| 90.0%     | Detective Bureau Special Victims Division |
+| 95.0%     | Transit Bureau Subway Safety Task Force   |
+| 100.0%    | Youth Strategies Division                 |
+
+---
+
 ## 🧠 Why Does This Matter?
 
 **50-a.org** was a landmark in public data transparency, especially regarding:
