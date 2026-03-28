@@ -4104,3 +4104,7 @@ https://s3.documentcloud.org/documents/4921161/Felice-et-al-v-City-Of-New-York-e
 https://s3.documentcloud.org/documents/4921160/Felice-et-al-v-City-Of-New-York-et-al.pdf > PDFs/934963/felice_et_al_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921179/Felice-et-al-v-City-Of-New-York-et-al.pdf > PDFs/934963/felice_et_al_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25964246/201806488_redactedclosingreportpdf.pdf > PDFs/962060/201806488_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4CDMhyxCBMJqrZ8AZ3iDrQ== > PDFs/949462/30445_2018e_edwin_morante_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s1kOBWJnBQzD8fdnhMVf5w== > PDFs/949462/25320_2018e_abdulai_jalloh_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4418973/nypd-cases-032.pdf > PDFs/948896/nypd_cases_032.pdf
+https://s3.documentcloud.org/documents/21028022/reillyderasmo-76b15ef88033757ec77508052c236394985969f3.pdf > PDFs/948874/reillyderasmo_76b15ef88033757ec77508052c236394985969f3.pdf
