@@ -9646,3 +9646,15 @@ https://s3.documentcloud.org/documents/21027096/obrien-f1a04dfa4259ba9016c104e22
 https://s3.documentcloud.org/documents/4923161/Sammuel-v-City-of-New-York-et-al.pdf > PDFs/943784/sammuel_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921101/Rivera-v-City-of-New-York-et-al.pdf > PDFs/943784/rivera_v_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Gu/PgWQ505bGjiy0A/eFFA== > PDFs/943784/708067_2015_michael_mccary_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525879/202104710.pdf > PDFs/966064/202104710.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6dNXTOp9LtnpDjruWqfv/A== > PDFs/966064/700304_2023_kevin_tlapanco_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25522572/202102023_redactedclosingreport_redacted.pdf > PDFs/945395/202102023_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119005/945395_11092018_2018014pdf.pdf > PDFs/945395/945395_11092018_2018014pdf.pdf
+https://s3.documentcloud.org/documents/24441443/201602084_redactedclosingreport_redacted.pdf > PDFs/937481/201602084_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SmU9RMf3wInMXsLjOpyagg== > PDFs/955066/808956_2024e_aramis_ocasio_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25899145/201907644-redactedclosingreport-redacted.pdf > PDFs/964399/201907644_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525162/201801759.pdf > PDFs/932756/201801759.pdf
+https://s3.documentcloud.org/documents/24630885/201800817_redactedclosingreport_redacted.pdf > PDFs/961489/201800817_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055288/201706807-redactedclosingreport-redacted.pdf > PDFs/936229/201706807_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920215/Clark-v-City-of-New-York-et-al.pdf > PDFs/943015/clark_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26284220/201507655-redactedclosingreport-redacted.pdf > PDFs/948074/201507655_redactedclosingreport_redacted.pdf
