@@ -10503,3 +10503,10 @@ https://s3.documentcloud.org/documents/4922702/Nicholas-v-City-of-New-York-et-al
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_6NC4Y/yja35i5iX/pfoQw== > PDFs/957330/157470_2021_derrick_west_jr_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4919990/Mangra-v-City-of-New-York-et-al.pdf > PDFs/934409/mangra_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21020389/antoine-6d1a2c11879fce018416322a3a5f38d1d4ef085c.pdf > PDFs/934409/antoine_6d1a2c11879fce018416322a3a5f38d1d4ef085c.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kI7iUOmUAV5eVE6Nxqxn1w== > PDFs/946899/151546_2016_khaleed_alston_et_al_v_khaleed_alston_et_al_exhibit_s_39.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=X/dM3AkESPLDPgjv5LjzYw== > PDFs/946899/159295_2014_ari_ganeles_et_al_v_ari_ganeles_et_al_complaint_amended_16.pdf
+https://s3.documentcloud.org/documents/4918574/Grosso-v-City-of-New-York-et-al.pdf > PDFs/928418/grosso_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918575/Grosso-v-City-of-New-York-et-al.pdf > PDFs/928418/grosso_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5763142/05-Cv-05080-RJS-JCF.pdf > PDFs/928418/05_cv_05080_rjs_jcf.pdf
+https://s3.documentcloud.org/documents/4419319/nypd-cases-101.pdf > PDFs/938723/nypd_cases_101.pdf
+https://s3.documentcloud.org/documents/21010244/daf-kuilan-956748.pdf > PDFs/956748/daf_kuilan_956748.pdf
