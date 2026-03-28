@@ -10019,3 +10019,13 @@ https://s3.documentcloud.org/documents/4419041/nypd-cases-197.pdf > PDFs/879122/
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zmRi9PN8rLjoJcgsCvVoHQ== > PDFs/879122/714964_2021_antoine_weeks_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/23686805/2016_morris_14cv01749.pdf > PDFs/879122/2016_morris_14cv01749.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=f7PL35GYbucdPY4F2gWFXQ== > PDFs/974812/718824_2024_everton_augustus_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=APZFz8FtdmkPXnm7LEsFag== > PDFs/959371/715696_2023_merlina_nixon_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086470/seh_967375.pdf > PDFs/967375/seh_967375.pdf
+https://s3.documentcloud.org/documents/26189730/202402600_tax961127_redacteddepartureletterpdf.pdf > PDFs/961127/202402600_tax961127_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/24630891/201800974_redactedclosingreport_redacted.pdf > PDFs/952612/201800974_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IPjvNekfZsh2gaPIM/XOhg== > PDFs/952612/707803_2023_john_morning_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G1qfAwYuBn1shD1Z6yPgxw== > PDFs/952612/703100_2020_stanley_hines_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25523267/201306539_redactedclosingreport_redacted.pdf > PDFs/954091/201306539_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21025397/mancheno-b717a682fa2bd518ec492874b65ece3b069eabe3.pdf > PDFs/954091/mancheno_b717a682fa2bd518ec492874b65ece3b069eabe3.pdf
+https://s3.documentcloud.org/documents/21058519/mancheno-954091-04-23-21.pdf > PDFs/954091/mancheno_954091_04_23_21.pdf
+https://s3.documentcloud.org/documents/23873963/201708613_redactedclosingreport_redacted.pdf > PDFs/953936/201708613_redactedclosingreport_redacted.pdf
