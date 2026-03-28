@@ -1511,3 +1511,4 @@ https://s3.documentcloud.org/documents/4419158/nypd-cases-015.pdf > PDFs/942522/
 https://s3.documentcloud.org/documents/25929459/200800810_redactedclosingreport_redacted.pdf > PDFs/942522/200800810_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21054343/hyman-950608-04-02-20.pdf > PDFs/950608/hyman_950608_04_02_20.pdf
 https://s3.documentcloud.org/documents/21057401/brener-963882-01-28-21.pdf > PDFs/963882/brener_963882_01_28_21.pdf
+https://s3.documentcloud.org/documents/25244782/8195_iab_c17-0513c-redacted_redacted.pdf > PDFs/932845/8195_iab_c17_0513c_redacted_redacted.pdf
