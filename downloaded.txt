@@ -9783,3 +9783,11 @@ https://s3.documentcloud.org/documents/22086084/seh_960569.pdf > PDFs/960569/seh
 https://s3.documentcloud.org/documents/25525410/202001793.pdf > PDFs/951265/202001793.pdf
 https://s3.documentcloud.org/documents/22085733/seh_951265.pdf > PDFs/951265/seh_951265.pdf
 https://s3.documentcloud.org/documents/22085731/seh_951241.pdf > PDFs/951241/seh_951241.pdf
+https://s3.documentcloud.org/documents/24725565/8520_ccrb_201902400_allegationhistoryformarkbrinadze_redactedcopy_1.pdf > PDFs/952968/8520_ccrb_201902400_allegationhistoryformarkbrinadze_redactedcopy_1.pdf
+https://s3.documentcloud.org/documents/21025981/lattanzio-54cbfcca1324872388a97f64816a7dee0f33a0e3.pdf > PDFs/952968/lattanzio_54cbfcca1324872388a97f64816a7dee0f33a0e3.pdf
+https://s3.documentcloud.org/documents/4921346/Gerasimou-v-City-of-New-York-et-al.pdf > PDFs/940007/gerasimou_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=buEEBGIA011aDuO8OFBeNQ== > PDFs/954668/706391_2024_david_sax_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/25023315/201803000_redactedclosingreport_redacted.pdf > PDFs/947095/201803000_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21026711/morales-13d3f9ac6996625a0b2ab8c4828cb7f7043456fc.pdf > PDFs/957871/morales_13d3f9ac6996625a0b2ab8c4828cb7f7043456fc.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vLrcaljsWiqnxfezLIXaIw== > PDFs/949136/504312_2013_kyle_arias_v_kyle_arias_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B6xgq00JSLHsiSAnBW5kEA== > PDFs/938035/709399_2017_haralambos_voulgarakis_v_haralambos_voulgarakis_summons_complaint_1.pdf
