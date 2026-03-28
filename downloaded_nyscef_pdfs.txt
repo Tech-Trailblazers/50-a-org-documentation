@@ -2827,3 +2827,11 @@ https://s3.documentcloud.org/documents/22086503/seh_968651.pdf > PDFs/968651/seh
 https://s3.documentcloud.org/documents/25505849/201808091-redactedclosingreport-redacted.pdf > PDFs/934314/201808091_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25505886/201906504-redactedclosingreport-redacted.pdf > PDFs/959276/201906504_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22086016/seh_959276.pdf > PDFs/959276/seh_959276.pdf
+https://s3.documentcloud.org/documents/22119418/940700_02172016_2016002pdf.pdf > PDFs/940700/940700_02172016_2016002pdf.pdf
+https://s3.documentcloud.org/documents/26182842/201605973_redactedclosingreportpdf.pdf > PDFs/948635/201605973_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/4920647/Pineda-v-The-City-of-New-York-et-al.pdf > PDFs/948635/pineda_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=aFSIWweoVtUwiW0qUZOgjg==&display=all&courtType=Bronx%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/936138/documentlist_docketid_afsiwweovtuwiw0quzogjg_display_all_courttype_bronx_20county_20supreme_20court_resultspagenum_1.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=iYIXBj9bWP1WyiqtE_PLUS_m0jA==&display=all&courtType=Bronx%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/936138/documentlist_docketid_iyixbj9bwp1wyiqte_plus_m0ja_display_all_courttype_bronx_20county_20supreme_20court_resultspagenum_1.pdf
+https://s3.documentcloud.org/documents/25980270/201601718-redactedclosingreport-redacted.pdf > PDFs/946613/201601718_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22089849/949837_10062016_2016001pdf.pdf > PDFs/949837/949837_10062016_2016001pdf.pdf
+https://s3.documentcloud.org/documents/4418940/nypd-cases-493.pdf > PDFs/932833/nypd_cases_493.pdf
