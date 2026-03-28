@@ -1233,3 +1233,16 @@ https://s3.documentcloud.org/documents/4920170/Small-et-al-v-City-of-New-York-et
 https://s3.documentcloud.org/documents/4923293/Sce-v-City-Of-New-York-et-al.pdf > PDFs/933334/sce_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21037760/daf-adelson958216.pdf > PDFs/958216/daf_adelson958216.pdf
 https://s3.documentcloud.org/documents/21013396/daf-adelson958216.pdf > PDFs/958216/daf_adelson958216.pdf
+https://s3.documentcloud.org/documents/4922612/Murray-v-City-Of-New-York-et-al.pdf > PDFs/954217/murray_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119362/943723_09292010_2010014pdf.pdf > PDFs/943723/943723_09292010_2010014pdf.pdf
+https://s3.documentcloud.org/documents/24615634/apureport2024q1pdf.pdf > PDFs/960728/apureport2024q1pdf.pdf
+https://s3.documentcloud.org/documents/25525821/202103150.pdf > PDFs/960728/202103150.pdf
+https://s3.documentcloud.org/documents/24615674/202103150-tax960728-apu-final-documentspdf.pdf > PDFs/960728/202103150_tax960728_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21024616/jeanjoseph-5353fb6d4dbb3941a0143fb9295c9d5e5a82c379.pdf > PDFs/960728/jeanjoseph_5353fb6d4dbb3941a0143fb9295c9d5e5a82c379.pdf
+https://s3.documentcloud.org/documents/21056905/jeanjoseph-960728-01-14-21-1.pdf > PDFs/960728/jeanjoseph_960728_01_14_21_1.pdf
+https://s3.documentcloud.org/documents/24449725/201802628_redactedclosingreport_redacted.pdf > PDFs/954783/201802628_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24179247/201608697_redactedclosingreport_redacted.pdf > PDFs/946083/201608697_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922490/Nieuwenhoven-v-The-City-of-New-York-et-al.pdf > PDFs/946083/nieuwenhoven_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21015500/daf-ortiz946083.pdf > PDFs/946083/daf_ortiz946083.pdf
+https://s3.documentcloud.org/documents/21615379/daf-ortiz946083.pdf > PDFs/946083/daf_ortiz946083.pdf
+https://s3.documentcloud.org/documents/21015503/df-ortiz946083.pdf > PDFs/946083/df_ortiz946083.pdf
