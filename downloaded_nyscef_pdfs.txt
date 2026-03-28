@@ -1608,3 +1608,9 @@ https://s3.documentcloud.org/documents/4923040/Adams-v-City-Of-New-York-et-al.pd
 https://s3.documentcloud.org/documents/21027107/occelin-ea33ef6778c72e3ed9a375252a09687abf523ff2.pdf > PDFs/950969/occelin_ea33ef6778c72e3ed9a375252a09687abf523ff2.pdf
 https://s3.documentcloud.org/documents/22125330/201901925_redactedclosingreport_redacted.pdf > PDFs/963561/201901925_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22086280/seh_963561.pdf > PDFs/963561/seh_963561.pdf
+https://s3.documentcloud.org/documents/4436891/nypd-cases-285.pdf > PDFs/931303/nypd_cases_285.pdf
+https://s3.documentcloud.org/documents/5379047/Clark-v-N-Y-C-P-D-et-al.pdf > PDFs/931303/clark_v_n_y_c_p_d_et_al.pdf
+https://s3.documentcloud.org/documents/22119480/931303_05232017_2017103pdf.pdf > PDFs/931303/931303_05232017_2017103pdf.pdf
+https://s3.documentcloud.org/documents/21418055/202004136_redactedclosingreport_redacted.pdf > PDFs/963319/202004136_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21030639/daf-wallace963319.pdf > PDFs/963319/daf_wallace963319.pdf
+https://s3.documentcloud.org/documents/25526154/202300947.pdf > PDFs/953849/202300947.pdf
