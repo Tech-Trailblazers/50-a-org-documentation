@@ -1783,3 +1783,16 @@ https://s3.documentcloud.org/documents/23118516/201709146_redactedclosingreport_
 https://s3.documentcloud.org/documents/4419091/nypd-cases-383.pdf > PDFs/904863/nypd_cases_383.pdf
 https://s3.documentcloud.org/documents/22119356/904863_12112014_2014093pdf.pdf > PDFs/904863/904863_12112014_2014093pdf.pdf
 https://s3.documentcloud.org/documents/4921548/Dawson-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/953904/dawson_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/24630862/201609722_redactedclosingreport_redacted.pdf > PDFs/956703/201609722_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23741495/201910288_redactedclosingreport_redacted.pdf > PDFs/955915/201910288_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24441287/201904282_redactedclosingreport_redacted.pdf > PDFs/955915/201904282_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25995208/201702181-redactedclosingreport-redacted.pdf > PDFs/955915/201702181_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922129/Faris-v-City-Of-New-York.pdf > PDFs/949102/faris_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4922130/Faris-v-City-Of-New-York.pdf > PDFs/949102/faris_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/25523296/202103998_redactedclosingreport_redacted.pdf > PDFs/955783/202103998_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23569071/202103998_tax955783_redacteddepartureletterpdf.pdf > PDFs/955783/202103998_tax955783_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/21015522/daf-lutz945026.pdf > PDFs/945026/daf_lutz945026.pdf
+https://s3.documentcloud.org/documents/24441474/201705845_redactedclosingreport_redacted.pdf > PDFs/945134/201705845_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921807/Rivera-v-City-of-New-York.pdf > PDFs/945134/rivera_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4918431/Torres-Jose-Rodriguez-v-City-of-New-York.pdf > PDFs/945134/torres_jose_rodriguez_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4922568/Colon-v-City-of-New-York-et-al.pdf > PDFs/937492/colon_v_city_of_new_york_et_al.pdf
