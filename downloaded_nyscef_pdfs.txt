@@ -1649,3 +1649,8 @@ https://s3.documentcloud.org/documents/22085753/seh_952006.pdf > PDFs/952006/seh
 https://s3.documentcloud.org/documents/4419320/nypd-cases-129.pdf > PDFs/948696/nypd_cases_129.pdf
 https://s3.documentcloud.org/documents/22085647/seh_948696.pdf > PDFs/948696/seh_948696.pdf
 https://s3.documentcloud.org/documents/23118564/201908621_redactedclosingreport_redacted.pdf > PDFs/948696/201908621_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922707/Felix-v-City-of-New-York-et-al.pdf > PDFs/937820/felix_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922708/Felix-v-City-of-New-York-et-al.pdf > PDFs/937820/felix_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21023252/fontaine-cc6e65acb7b60cf32f57acd342c6a88900deeed7.pdf > PDFs/937820/fontaine_cc6e65acb7b60cf32f57acd342c6a88900deeed7.pdf
+https://s3.documentcloud.org/documents/4418903/nypd-cases-453.pdf > PDFs/943580/nypd_cases_453.pdf
+https://s3.documentcloud.org/documents/20528108/814.pdf > PDFs/943580/814.pdf
