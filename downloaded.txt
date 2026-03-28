@@ -7405,3 +7405,4 @@ https://s3.documentcloud.org/documents/4920818/Rice-et-al-v-The-City-of-New-York
 https://s3.documentcloud.org/documents/21066673/orsini-943858-04-05-21.pdf > PDFs/943858/orsini_943858_04_05_21.pdf
 https://s3.documentcloud.org/documents/4419076/nypd-cases-180.pdf > PDFs/937638/nypd_cases_180.pdf
 https://s3.documentcloud.org/documents/21057258/alix-936119-02-15-21.pdf > PDFs/936119/alix_936119_02_15_21.pdf
+https://s3.documentcloud.org/documents/21058327/hoque-963575-04-05-21.pdf > PDFs/963575/hoque_963575_04_05_21.pdf
