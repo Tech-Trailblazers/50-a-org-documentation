@@ -1964,3 +1964,10 @@ https://s3.documentcloud.org/documents/25519963/201305122_redactedclosingreport_
 https://s3.documentcloud.org/documents/21031299/daf-bisono936211.pdf > PDFs/936211/daf_bisono936211.pdf
 https://s3.documentcloud.org/documents/21019519/daf-gutierrez941871.pdf > PDFs/941871/daf_gutierrez941871.pdf
 https://s3.documentcloud.org/documents/21031374/df-gutierrez941871.pdf > PDFs/941871/df_gutierrez941871.pdf
+https://s3.documentcloud.org/documents/24101127/201910127_redactedclosingreport_redacted.pdf > PDFs/959966/201910127_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21029315/tai-f15c8cc134a2db63cf7092032ece4bcecd2d9368.pdf > PDFs/935820/tai_f15c8cc134a2db63cf7092032ece4bcecd2d9368.pdf
+https://s3.documentcloud.org/documents/23689784/2022_nieves_21cv07171.pdf > PDFs/962225/2022_nieves_21cv07171.pdf
+https://s3.documentcloud.org/documents/24100852/201900058_redactedclosingreport_redacted.pdf > PDFs/941577/201900058_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23381202/201810096_redactedclosingreport_redacted.pdf > PDFs/945622/201810096_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25246162/202000822_redactedclosingreport_redacted.pdf > PDFs/967115/202000822_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21014835/daf-hunt967115.pdf > PDFs/967115/daf_hunt967115.pdf
