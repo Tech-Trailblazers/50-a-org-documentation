@@ -1637,3 +1637,15 @@ https://s3.documentcloud.org/documents/21039617/daf-vargas921830.pdf > PDFs/9218
 https://s3.documentcloud.org/documents/21039708/daf-mckinnon943553.pdf > PDFs/943553/daf_mckinnon943553.pdf
 https://s3.documentcloud.org/documents/23698823/201402732_redactedclosingreport_redacted.pdf > PDFs/940093/201402732_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25525856/202104200.pdf > PDFs/960806/202104200.pdf
+https://s3.documentcloud.org/documents/4921902/Goba-v-City-of-New-York-et-al.pdf > PDFs/947390/goba_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22086254/seh_963087.pdf > PDFs/963087/seh_963087.pdf
+https://s3.documentcloud.org/documents/25525474/202003169.pdf > PDFs/967399/202003169.pdf
+https://s3.documentcloud.org/documents/22086471/seh_967399.pdf > PDFs/967399/seh_967399.pdf
+https://s3.documentcloud.org/documents/21028111/riley-5ebdff8c412851b7f2dcd3b7e16585e0b9852a14.pdf > PDFs/944159/riley_5ebdff8c412851b7f2dcd3b7e16585e0b9852a14.pdf
+https://s3.documentcloud.org/documents/23118572/202000818_redactedclosingreport_redacted.pdf > PDFs/952006/202000818_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26515574/202000818-tax952006-apu-final-documentspdf.pdf > PDFs/952006/202000818_tax952006_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26382348/menna_12152025pdf.pdf > PDFs/952006/menna_12152025pdf.pdf
+https://s3.documentcloud.org/documents/22085753/seh_952006.pdf > PDFs/952006/seh_952006.pdf
+https://s3.documentcloud.org/documents/4419320/nypd-cases-129.pdf > PDFs/948696/nypd_cases_129.pdf
+https://s3.documentcloud.org/documents/22085647/seh_948696.pdf > PDFs/948696/seh_948696.pdf
+https://s3.documentcloud.org/documents/23118564/201908621_redactedclosingreport_redacted.pdf > PDFs/948696/201908621_redactedclosingreport_redacted.pdf
