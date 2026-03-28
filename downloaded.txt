@@ -6369,3 +6369,5 @@ https://s3.documentcloud.org/documents/21024547/jacobsen-5f9e7ab54114d3f31b94a70
 https://s3.documentcloud.org/documents/21058365/jacobsen-962498-04-29-21.pdf > PDFs/962498/jacobsen_962498_04_29_21.pdf
 https://s3.documentcloud.org/documents/22086214/seh_962498.pdf > PDFs/962498/seh_962498.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8o0mvWMIH0dAhSdJtvlrSw== > PDFs/938332/153580_2022_adam_malki_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=arDgxiVJNMkt/GZbCBRx9w== > PDFs/945217/516228_2018_quamel_booker_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JnbAw3fXF/AKiHLk16PuUA== > PDFs/947719/156087_2024_james_wilson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
