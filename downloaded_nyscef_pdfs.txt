@@ -3838,3 +3838,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0Mf_PLUS_bE6wS2/vK
 https://s3.documentcloud.org/documents/5378928/Lloyd-v-Doe-et-al.pdf > PDFs/898166/lloyd_v_doe_et_al.pdf
 https://s3.documentcloud.org/documents/25897858/202002155_redactedclosingreportpdf.pdf > PDFs/967293/202002155_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6CUxm_PLUS_TMEcIPJe7Ly0OHvw== > PDFs/956830/21130_2018e_jay_vasquez_et_al_v_jay_vasquez_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25526188/202303940.pdf > PDFs/970840/202303940.pdf
+https://s3.documentcloud.org/documents/23741450/201804054_redactedclosingreport_redacted.pdf > PDFs/961672/201804054_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525814/202102843.pdf > PDFs/948606/202102843.pdf
+https://s3.documentcloud.org/documents/26473637/202405077_redactedclosingreportpdf.pdf > PDFs/976899/202405077_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26303020/202405077_tax976899_redacteddepartureletterpdf.pdf > PDFs/976899/202405077_tax976899_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/26515638/202302839-tax961005-apu-final-documentspdf.pdf > PDFs/961005/202302839_tax961005_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/23469804/201806550_tax961005_redacteddepartureletterpdf.pdf > PDFs/961005/201806550_tax961005_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/25040828/202207517-tax969158-apu-final-documentspdf.pdf > PDFs/969158/202207517_tax969158_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22119117/933871_04042013_2013109pdf.pdf > PDFs/933871/933871_04042013_2013109pdf.pdf
+https://s3.documentcloud.org/documents/23794931/202005423_redactedclosingreport_redacted.pdf > PDFs/961737/202005423_redactedclosingreport_redacted.pdf
