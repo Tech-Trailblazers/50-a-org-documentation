@@ -8401,3 +8401,9 @@ https://s3.documentcloud.org/documents/21057331/barounis-956414.pdf > PDFs/95641
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RS1VrmB8Y68GDRp3IeFgkQ== > PDFs/963010/816278_2021e_kelcey_marrero_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=l6x4_PLUS_LFKDhAN154Wmi1ovQ== > PDFs/926642/503836_2014_jeremy_germain_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vQ9HLfZ997ZOE072Twv8EQ== > PDFs/958722/520551_2019_james_ulysse_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=d9t7k5ns3JBXBS2cLVCiIg== > PDFs/941259/2547_2015_kavon_durdin_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LhrBoX2GWbrjFrZpPbOxMA== > PDFs/948461/506387_2024_joshua_spears_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=U/DFKW/qbEDSk41VH_PLUS_L0qw== > PDFs/931137/29795_2018e_ashley_parker_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DUQb42KY06UBRKIQzWwjBg== > PDFs/943299/510856_2014_chance_de_espina_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DRqvGg7pjpnayF7uetUYAA== > PDFs/943299/507710_2014_leroy_atkins_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KGIScBni_PLUS_UMmkZOKkmxQlQ== > PDFs/967548/153834_2022_saige_nuzzo_v_nypd_et_al_summons_complaint_1.pdf
