@@ -2772,3 +2772,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WN17ZCAEMSuBEQfIvY
 https://s3.documentcloud.org/documents/4922475/Abdul-Majid-v-The-City-of-New-York-et-al.pdf > PDFs/933130/abdul_majid_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921430/Diallo-v-City-of-New-York-et-al.pdf > PDFs/951242/diallo_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25525248/201901999.pdf > PDFs/966384/201901999.pdf
+https://s3.documentcloud.org/documents/26187166/202401079_redactedclosingreportpdf.pdf > PDFs/972992/202401079_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/24100994/201804731_redactedclosingreport_redacted.pdf > PDFs/941348/201804731_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5379121/Santana-v-The-City-of-New-York-et-al.pdf > PDFs/941348/santana_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923822/Santana-v-The-City-of-New-York-et-al.pdf > PDFs/941348/santana_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22125333/201908261_redactedclosingreport_redacted.pdf > PDFs/929696/201908261_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/27263112/201801602_redactedclosingreportpdf.pdf > PDFs/929696/201801602_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/24101089/201707210_redactedclosingreport_redacted.pdf > PDFs/929696/201707210_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055304/201706875-redactedclosingreport-redacted.pdf > PDFs/929696/201706875_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25870023/8456_iab_l-r-redacted4.pdf > PDFs/929696/8456_iab_l_r_redacted4.pdf
+https://s3.documentcloud.org/documents/25930444/8469_iab_c-2019-298.pdf > PDFs/929696/8469_iab_c_2019_298.pdf
