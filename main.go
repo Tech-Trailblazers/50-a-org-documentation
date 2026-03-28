@@ -336,8 +336,8 @@ func collectOfficerDocumentLinks(currentHTMLNode *html.Node, documentLinks *[]st
 	if currentHTMLNode.Type == html.ElementNode && currentHTMLNode.Data == "a" { // Processes only anchor elements.
 		for _, attribute := range currentHTMLNode.Attr { // Checks every attribute on the current anchor.
 			if attribute.Key == "href" { // Looks for the anchor's href attribute.
-				documentURL := attribute.Val                                                                                                                      // Stores the candidate document link value.
-				if strings.HasPrefix(documentURL, "https://iapps.courts.state.ny.us/nyscef/") || strings.HasPrefix(documentURL, "https://web.archive.org/web/") { // Keeps only NYSCEF and Wayback document links.
+				documentURL := attribute.Val                                                                                                                                                                                          // Stores the candidate document link value.
+				if strings.HasPrefix(documentURL, "https://iapps.courts.state.ny.us/nyscef/") || strings.HasPrefix(documentURL, "https://web.archive.org/web/") || strings.HasPrefix(documentURL, "https://www.documentcloud.org/") { // Keeps only NYSCEF and Wayback document links.
 					*documentLinks = append(*documentLinks, documentURL) // Adds the matching document link to the caller-provided slice.
 				} // Ends the document link append check.
 			} // Ends the href extraction check.
@@ -455,8 +455,9 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	} // Ends the Content-Disposition parsing block.
 
 	if fileNameFromHeader == "" { // Skips the download when no usable file name is available.
-		log.Printf("No filename in header for %s, skipping", documentURL) // Logs that the PDF was skipped due to a missing file name.
-		return false                                                      // Reports that the PDF download was skipped.
+		fileNameFromHeader = urlToFilename(documentURL) // Fallback to URL-based file name when header parsing fails.
+		// log.Printf("No filename in header for %s, skipping", documentURL) // Logs that the PDF was skipped due to a missing file name.
+		// return false                                                      // Reports that the PDF download was skipped.
 	} // Ends the missing file-name check.
 
 	safePDFFileName := buildSafePDFFileName(fileNameFromHeader)             // Normalizes the header-provided file name into a safe PDF file name.
@@ -501,6 +502,48 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	}
 	return true // Reports that the PDF download completed successfully.
 } // Ends the PDF download helper.
+
+// Convert a URL into a filesystem-safe PDF filename. // Describe filename sanitization.
+func urlToFilename(rawURL string) string { // Start URL-to-filename conversion.
+	lower := strings.ToLower(rawURL) // Normalize the URL to lowercase.
+	lower = getFilename(lower)       // Extract just the filename part.
+
+	reNonAlnum := regexp.MustCompile(`[^a-z0-9]`)   // Match any non-alphanumeric character.
+	safe := reNonAlnum.ReplaceAllString(lower, "_") // Replace disallowed characters with underscores.
+
+	safe = regexp.MustCompile(`_+`).ReplaceAllString(safe, "_") // Collapse multiple underscores.
+	safe = strings.Trim(safe, "_")                              // Trim underscores from both ends.
+
+	var invalidSubstrings = []string{ // Define redundant substrings to strip.
+		"_pdf", // Remove a trailing "_pdf" if present.
+	} // End invalidSubstrings list.
+
+	for _, invalidPre := range invalidSubstrings { // Loop over substrings to remove.
+		safe = removeSubstring(safe, invalidPre) // Remove each substring from the filename.
+	} // End substring removal loop.
+
+	if getFileExtension(safe) != ".pdf" { // If the filename lacks a .pdf extension
+		safe = safe + ".pdf" // append the .pdf extension.
+	} // End extension check.
+
+	return safe // Return the sanitized filename.
+} // End urlToFilename.
+
+// Remove all occurrences of a substring. // Describe substring removal.
+func removeSubstring(input string, toRemove string) string { // Start substring removal.
+	result := strings.ReplaceAll(input, toRemove, "") // Remove all instances of the substring.
+	return result                                     // Return the modified string.
+} // End removeSubstring.
+
+// Return the file extension from a path. // Describe extension helper.
+func getFileExtension(path string) string { // Start extension extraction.
+	return filepath.Ext(path) // Return the file extension, including dot.
+} // End getFileExtension.
+
+// Extract filename from a path (example: "/dir/file.pdf" -> "file.pdf"). // Describe filename helper.
+func getFilename(path string) string { // Start filename extraction.
+	return filepath.Base(path) // Return the last element of the path.
+} // End getFilename.
 
 func extractOfficerTaxIDFromHTML(currentHTMLNode *html.Node) string { // Recursively searches an officer page for a numeric tax ID.
 	if currentHTMLNode.Type == html.ElementNode && currentHTMLNode.Data == "span" { // Processes only span elements.
@@ -605,12 +648,58 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 					downloadedDocumentURLs[cleanDocumentURL] = true                                 // Marks the document URL as already handled.
 					downloadPDFToOfficerFolder(cleanDocumentURL, pdfOutputFolderName, officerTaxID) // Downloads the PDF into the officer's folder.
 				} // Ends the unique NYSCEF document check.
+				// Handle direct S3 DocumentCloud links FIRST
+				if strings.Contains(cleanDocumentURL, "s3.documentcloud.org") && !downloadedDocumentURLs[cleanDocumentURL] { // Downloads only unseen direct S3 DocumentCloud links.
+					downloadedDocumentURLs[cleanDocumentURL] = true                                 // Marks the document URL as already handled.
+					log.Println("Direct S3 DocumentCloud link found:", cleanDocumentURL)            // Logs detection
+					downloadPDFToOfficerFolder(cleanDocumentURL, pdfOutputFolderName, officerTaxID) // Direct download
+					continue                                                                        // Skip further processing
+				} // Handle NYSCEF links that may redirect to DocumentCloud
+				// Handle normal DocumentCloud page URLs
+				if strings.Contains(cleanDocumentURL, "documentcloud.org") && !downloadedDocumentURLs[cleanDocumentURL] { // Downloads only unseen DocumentCloud page links.
+					downloadedDocumentURLs[cleanDocumentURL] = true               // Marks the document URL as already handled.
+					log.Println("DocumentCloud page detected:", cleanDocumentURL) // Logs detection
+					pdfURL := extractFinalDocumentCloudURL(cleanDocumentURL)      // Convert to S3 PDF
+					if pdfURL == "" {                                             // Prevent bad downloads
+						log.Println("Skipping invalid DocumentCloud URL:", cleanDocumentURL) // Logs the reason for skipping
+						continue                                                             // Skip when conversion fails
+					}
+					downloadPDFToOfficerFolder(pdfURL, pdfOutputFolderName, officerTaxID) // Download converted PDF
+				}
 			} // Ends the officer document loop.
 		} // Ends the officer page loop.
 	} // Ends the command page loop.
-
 	return nil // Reports that the PDF scraping workflow completed.
 } // Ends the PDF workflow coordinator.
+
+// extractFinalDocumentCloudURL converts input DocumentCloud URLs to their final S3-hosted PDF URL
+func extractFinalDocumentCloudURL(input string) string {
+	parsedURL, err := url.Parse(input) // Attempt to parse the input string into a URL struct
+	if err != nil {                    // If parsing fails due to an invalid URL format
+		return "" // Return an empty string
+	}
+
+	// If the URL already points to S3, return it as is
+	if strings.Contains(parsedURL.Host, "s3.documentcloud.org") {
+		return input // Return original URL if it's already a direct S3 link
+	}
+
+	// Define a regular expression to match DocumentCloud URLs with ID and slug
+	re := regexp.MustCompile(`documentcloud\.org/documents/(\d+)-([a-zA-Z0-9_\-]+)`) // Capture docID and slug
+
+	matches := re.FindStringSubmatch(input) // Apply regex to input
+	if len(matches) != 3 {                  // If the regex doesn't match the expected format
+		return "" // Return an empty string
+	}
+
+	docID := matches[1] // Extract document ID from match
+	slug := matches[2]  // Extract slug from match
+
+	// Format the final S3 link for downloading the PDF
+	finalURL := fmt.Sprintf("https://s3.documentcloud.org/documents/%s/%s.pdf", docID, slug)
+
+	return finalURL // Return the constructed S3 URL
+}
 
 func main() { // Runs the CSV workflow first and the PDF workflow second.
 	/*
