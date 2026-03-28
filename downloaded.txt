@@ -10368,3 +10368,4 @@ https://s3.documentcloud.org/documents/22119740/930766_07222009_2009020pdf.pdf >
 https://s3.documentcloud.org/documents/25523139/201706565_redactedclosingreport_redacted.pdf > PDFs/948268/201706565_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/24100873/201911019_redactedclosingreport_redacted.pdf > PDFs/959678/201911019_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21056901/castello-968316-01-13-21.pdf > PDFs/968316/castello_968316_01_13_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nXu9Bd/ljnDM_PLUS_MEGBVXF2g== > PDFs/972077/712972_2024_keith_ritchie_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
