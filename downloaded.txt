@@ -10209,3 +10209,16 @@ https://s3.documentcloud.org/documents/23878886/giglio_hughes-956746-iab-17-4820
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NtkjYGTjDidEtkSM4eWoBg== > PDFs/971955/726651_2022_rae_ann_stanberry_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4918747/Muratovic-v-The-City-of-New-York-et-al.pdf > PDFs/938830/muratovic_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4419075/nypd-cases-194.pdf > PDFs/941284/nypd_cases_194.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7rs5f_PLUS_D_PLUS_LOgE2GIlCOxUvA==%2A > PDFs/948396/710299_2021_tyrone_gardner_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dVd0yD/vpk92GPQAAhiDqA== > PDFs/948396/711083_2016_wilbert_geronimo_v_wilbert_geronimo_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058785/roseman-963246-giglio.pdf > PDFs/963246/roseman_963246_giglio.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5qRUv20pjffGar8aqV5OEQ== > PDFs/969091/808277_2024e_kelcie_cunningham_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tWDlclDr3uFlgowtLqRUTw== > PDFs/969091/801140_2023e_luis_velazquez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26055236/201602672-redactedclosingreport-redacted.pdf > PDFs/950760/201602672_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qgXDeA7XLrIaWNCuua8_PLUS_rg== > PDFs/950760/501365_2020_rene_herrera_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Nu3g7AzxxyjmgRPRpyTixQ== > PDFs/950760/510469_2019_lateia_pompey_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922252/Davis-v-The-City-of-New-York-et-al.pdf > PDFs/950760/davis_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922253/Davis-v-The-City-of-New-York-et-al.pdf > PDFs/950760/davis_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920535/Herrera-v-City-of-New-York-et-al.pdf > PDFs/950760/herrera_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21025206/lloyd-7367ea53d0bd67e2fd906a7eec59b9d95830103c.pdf > PDFs/950760/lloyd_7367ea53d0bd67e2fd906a7eec59b9d95830103c.pdf
+https://s3.documentcloud.org/documents/21615383/daf-sun929229.pdf > PDFs/929229/daf_sun929229.pdf
