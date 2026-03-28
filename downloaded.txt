@@ -12745,3 +12745,5 @@ https://s3.documentcloud.org/documents/21015451/daf-gay967081.pdf > PDFs/967081/
 https://s3.documentcloud.org/documents/4419088/nypd-cases-340.pdf > PDFs/947502/nypd_cases_340.pdf
 https://s3.documentcloud.org/documents/4920379/Kibler-v-The-City-of-New-York-et-al.pdf > PDFs/952266/kibler_v_the_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OkoVTWOM2On5P_PLUS_mTfzr5aw== > PDFs/953454/501783_2015_anthony_alston_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921964/Gonzalez-Polanco-v-City-Of-New-York-et-al.pdf > PDFs/951386/gonzalez_polanco_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921963/Gonzalez-Polanco-v-City-Of-New-York-et-al.pdf > PDFs/951386/gonzalez_polanco_v_city_of_new_york_et_al.pdf
