@@ -6380,3 +6380,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jdXZyGlSBDAP0avdfR
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DPFUKyNTaUryQtOt3kZxuA== > PDFs/949573/22964_2014e_michael_reed_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DmQ0bidQ1XdVoEvnNtGTGg== > PDFs/955709/807662_2021e_sean_randall_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=w31F8BnP/N4g4CyvVGeL/Q== > PDFs/964254/33935_2019e_daejalon_clotter_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HI45ZvB5RZyN3Fuq1cHt7Q== > PDFs/952383/27592_2018e_janita_spence_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
