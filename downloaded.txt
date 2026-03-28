@@ -14947,3 +14947,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gBX7Nf61nwjtSdfEKj
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CKkKeZdgvn2XvKuBHlGVwQ== > PDFs/944503/511068_2023_bryan_lino_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DDBfVE5QBvMI_PLUS_4G4JYLBZQ== > PDFs/936491/513347_2016_timothy_edison_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n3B3ymOXZSwsCW8y/MTWYg== > PDFs/970465/508333_2023_shamecca_heywoods_v_p_o_jose_rivera_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4928238/Castro-et-al-v-City-of-New-York-et-al.pdf > PDFs/940659/castro_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4928239/Castro-et-al-v-City-of-New-York-et-al.pdf > PDFs/940659/castro_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21028524/santana-efdb85d3f1c9128493f2f9f390916d54d5cd3903.pdf > PDFs/945551/santana_efdb85d3f1c9128493f2f9f390916d54d5cd3903.pdf
+https://s3.documentcloud.org/documents/21056730/gigliosantana-945551-12-29-20.pdf > PDFs/945551/gigliosantana_945551_12_29_20.pdf
+https://s3.documentcloud.org/documents/4921050/Stephens-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939710/stephens_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23381137/202005520_redactedclosingreport_redacted.pdf > PDFs/960967/202005520_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21026714/morales-751c19fae4cac0eb7a33a1bf6491a06d2976cc0d.pdf > PDFs/960967/morales_751c19fae4cac0eb7a33a1bf6491a06d2976cc0d.pdf
+https://s3.documentcloud.org/documents/21066647/morales-960967-giglio.pdf > PDFs/960967/morales_960967_giglio.pdf
+https://s3.documentcloud.org/documents/21058810/saintil-953357-01-27-21.pdf > PDFs/953357/saintil_953357_01_27_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VWfR_PLUS_pxqK1clAhOCuH8tUw== > PDFs/970058/509702_2024_trumane_anthony_gibbs_v_trumane_anthony_gibbs_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=deGj91xWafMepvoSy9N51A== > PDFs/966106/525383_2024_joyce_webster_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922781/Obee-v-New-York-P-D-81st-Precient.pdf > PDFs/942175/obee_v_new_york_p_d_81st_precient.pdf
