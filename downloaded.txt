@@ -9855,3 +9855,17 @@ https://s3.documentcloud.org/documents/21025173/liguori-d2dd7fea96810cf5656a290e
 https://s3.documentcloud.org/documents/21066459/cr-002311-20kn-giglio-letter-liguori-950752-12-16-19-1.pdf > PDFs/950752/cr_002311_20kn_giglio_letter_liguori_950752_12_16_19_1.pdf
 https://s3.documentcloud.org/documents/4921871/Charles-v-City-of-New-York-et-al.pdf > PDFs/947610/charles_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921872/Charles-v-City-of-New-York-et-al.pdf > PDFs/947610/charles_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22274490/202005701_redactedclosingreport_redacted.pdf > PDFs/968995/202005701_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XbBzQ3YrJLVG7hTwwkBgTw== > PDFs/929864/716469_2019_anthony_galarza_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nWvcHIIzczJnyt99ZP7V1A== > PDFs/929864/703448_2017_travis_ware_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25526004/202202141.pdf > PDFs/968753/202202141.pdf
+https://s3.documentcloud.org/documents/23620579/201908421_redactedclosingreport_redacted.pdf > PDFs/963939/201908421_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25281697/201905883_redactedclosingreport_redacted.pdf > PDFs/954068/201905883_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5379254/Rispoli-v-City-of-New-York-et-al.pdf > PDFs/940373/rispoli_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25525764/202100819.pdf > PDFs/948941/202100819.pdf
+https://s3.documentcloud.org/documents/23469911/202100819_tax948941_redacteddepartureletterpdf.pdf > PDFs/948941/202100819_tax948941_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/22085654/seh_948941.pdf > PDFs/948941/seh_948941.pdf
+https://s3.documentcloud.org/documents/21022527/diggs-c85013833c55914cdacf95a5915ab28592c55227.pdf > PDFs/948890/diggs_c85013833c55914cdacf95a5915ab28592c55227.pdf
+https://s3.documentcloud.org/documents/21057637/diggs-948890.pdf > PDFs/948890/diggs_948890.pdf
+https://s3.documentcloud.org/documents/22085182/seh_905154.pdf > PDFs/905154/seh_905154.pdf
+https://s3.documentcloud.org/documents/24441303/201908464_redactedclosingreport_redacted.pdf > PDFs/958934/201908464_redactedclosingreport_redacted.pdf
