@@ -9697,3 +9697,16 @@ https://s3.documentcloud.org/documents/23380731/201701060_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OK6FmRPwq4KHf9lcWfiOng== > PDFs/953830/704668_2019_roy_mcmillan_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Dn3oje2XS5mp0/N_PLUS_r_PLUS_3UOw== > PDFs/940977/702672_2015_karen_jaramilo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qdabFeJl4_PLUS_Qy_PLUS_bUUQhWNEg== > PDFs/959380/525600_2023_luis_devarie_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22118967/954749_11172016_2016017pdf.pdf > PDFs/954749/954749_11172016_2016017pdf.pdf
+https://s3.documentcloud.org/documents/24100820/201706120_redactedclosingreport_redacted.pdf > PDFs/952002/201706120_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/27263122/201701821_redactedclosingreportpdf.pdf > PDFs/957995/201701821_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25869316/201606480_redactedclosingreport_redacted.pdf > PDFs/942787/201606480_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869315/201606480_complaint245ccrbredacted_redacted.pdf > PDFs/942787/201606480_complaint245ccrbredacted_redacted.pdf
+https://s3.documentcloud.org/documents/25525079/201507661.pdf > PDFs/942787/201507661.pdf
+https://s3.documentcloud.org/documents/25523491/201310707_redactedclosingreport_redacted.pdf > PDFs/953845/201310707_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869257/201310229_interviewdetails.pdf > PDFs/953845/201310229_interviewdetails.pdf
+https://s3.documentcloud.org/documents/23945808/945112_03312023_2023019pdf.pdf > PDFs/945112/945112_03312023_2023019pdf.pdf
+https://s3.documentcloud.org/documents/4920983/Glover-v-City-of-New-York-et-al.pdf > PDFs/921765/glover_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YuqegyuVEGThQU3_PLUS_xe0rUA== > PDFs/941724/501413_2015_aubrey_towler_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LTbq2tk_PLUS_ci7FbSeQ5lpufA== > PDFs/956469/718544_2020_christopher_battaglia_v_christopher_battaglia_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5Y64pUGNxVi_PLUS_WrdOJyd3kQ== > PDFs/956469/714590_2020_christopher_battaglia_v_christopher_battaglia_summons_complaint_1.pdf
