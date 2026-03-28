@@ -2641,3 +2641,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nGIUGO4yjkWFV9Qdpu
 https://s3.documentcloud.org/documents/4922817/Hansley-v-City-Of-New-York-et-al.pdf > PDFs/946462/hansley_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920269/Shebairo-v-The-City-of-New-York.pdf > PDFs/946462/shebairo_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/21017979/daf-cross946462.pdf > PDFs/946462/daf_cross946462.pdf
+https://s3.documentcloud.org/documents/21573826/201808014_redactedclosingreport_redacted.pdf > PDFs/961037/201808014_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019810/daf-opokuduro961037.pdf > PDFs/961037/daf_opokuduro961037.pdf
