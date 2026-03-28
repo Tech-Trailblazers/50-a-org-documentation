@@ -11941,3 +11941,15 @@ https://s3.documentcloud.org/documents/4418894/nypd-cases-057.pdf > PDFs/942581/
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g87tUAPVVj/qXhSZEBbldg== > PDFs/942581/515210_2018_albert_a_hoskins_v_albert_a_hoskins_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4922500/Morales-v-City-of-New-York-et-al.pdf > PDFs/952706/morales_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/24100963/201709780_redactedclosingreport_redacted.pdf > PDFs/951694/201709780_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21024365/huda-fe699c00003c7d9262238a9b2a5d15eadfe1fe34.pdf > PDFs/947088/huda_fe699c00003c7d9262238a9b2a5d15eadfe1fe34.pdf
+https://s3.documentcloud.org/documents/21016826/daf-huda947088-approved.pdf > PDFs/947088/daf_huda947088_approved.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mv2FOVIsBVYJ/Xe3ETw7Lw== > PDFs/947588/700134_2019_elijah_dunn_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jPkmUsZJfA0JBu1T1V0blA== > PDFs/951104/703405_2014_logan_ayala_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23874007/202001260_redactedclosingreport_redacted.pdf > PDFs/965559/202001260_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119482/taveras_08192021pdf.pdf > PDFs/965559/taveras_08192021pdf.pdf
+https://s3.documentcloud.org/documents/21029368/taveras-3871d2f1eb7be7cadf56db1cfe820f2d74a88e8d.pdf > PDFs/965559/taveras_3871d2f1eb7be7cadf56db1cfe820f2d74a88e8d.pdf
+https://s3.documentcloud.org/documents/21025289/lowe-76ef25aa7fea6cdaf30333b6dbfdc9267873926f.pdf > PDFs/957785/lowe_76ef25aa7fea6cdaf30333b6dbfdc9267873926f.pdf
+https://s3.documentcloud.org/documents/25023323/201902249_redactedclosingreport_redacted.pdf > PDFs/961699/201902249_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24101100/201709095_redactedclosingreport_redacted.pdf > PDFs/941685/201709095_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21025362/mahones-7efb974e24f249fbd91e0627fde7ed8ac25f6efe.pdf > PDFs/944755/mahones_7efb974e24f249fbd91e0627fde7ed8ac25f6efe.pdf
+https://s3.documentcloud.org/documents/21051901/mahones-944755-04-02-20-1.pdf > PDFs/944755/mahones_944755_04_02_20_1.pdf
