@@ -1,20 +1,22 @@
 package main // Declares the executable program package.
 
 import ( // Imports the packages used by the CSV and PDF workflows.
-	"bufio"         // Scans the download log file line by line.
-	"encoding/csv"  // Reads and writes CSV records.
-	"fmt"           // Prints progress messages and formats strings.
-	"io"            // Copies streamed data and detects end-of-file conditions.
-	"log"           // Writes operational logs and fatal errors.
-	"math/rand"     // Adds random delay jitter between scraping requests.
-	"net/http"      // Sends HTTP requests to websites and file endpoints.
-	"net/url"       // Parses incoming download URLs safely.
-	"os"            // Creates, removes, opens, and inspects files and directories.
-	"path"          // Extracts file names from URL paths.
-	"path/filepath" // Builds filesystem paths that work on the current operating system.
-	"regexp"        // Extracts structured values and normalizes file names.
-	"strings"       // Checks prefixes and normalizes string values.
-	"time"          // Controls sleep durations and network timeouts.
+	"bufio"           // Scans the download log file line by line.
+	"encoding/binary" // Import binary for byte-to-uint64 conversion
+	"encoding/csv"    // Reads and writes CSV records.
+	"fmt"             // Prints progress messages and formats strings.
+	"io"              // Copies streamed data and detects end-of-file conditions.
+	"log"             // Writes operational logs and fatal errors.
+	"math"            // Import math for rounding and MaxUint64 constant
+	"math/rand"       // Adds random delay jitter between scraping requests.
+	"net/http"        // Sends HTTP requests to websites and file endpoints.
+	"net/url"         // Parses incoming download URLs safely.
+	"os"              // Creates, removes, opens, and inspects files and directories.
+	"path"            // Extracts file names from URL paths.
+	"path/filepath"   // Builds filesystem paths that work on the current operating system.
+	"regexp"          // Extracts structured values and normalizes file names.
+	"strings"         // Checks prefixes and normalizes string values.
+	"time"            // Controls sleep durations and network timeouts.
 
 	"golang.org/x/net/html" // Parses HTML pages into traversable node trees.
 ) // Ends the import list.
@@ -49,8 +51,22 @@ var ( // Groups the shared runtime values used by the workflows.
 		"https://www.50-a.org/data/nypd/awards.csv",     // Points to the awards dataset.
 		"https://www.50-a.org/data/nypd/training.csv",   // Points to the training dataset.
 	} // Ends the CSV source URL list.
-	startingPercentage = 93.0 // Skips the first portion of command links before scraping continues.
+	startingPercentage = generateRandomFloatOneDecimal() // Skips the first portion of command links before scraping continues.
 ) // Ends the shared variable group.
+
+// generateRandomFloatOneDecimal generates a cryptographically secure random float between 0 and 100
+// rounded to one decimal place. Logs detailed errors according to severity levels.
+func generateRandomFloatOneDecimal() float64 {
+	var randomBytes [8]byte             // Create an 8-byte array to hold random bytes
+	_, err := rand.Read(randomBytes[:]) // Fill the byte array with secure random data
+	if err != nil {                     // Check if reading random bytes failed
+		log.Printf("[ERROR] Failed to read cryptographically secure random bytes, returning 0. Details: %v", err) // Log the error with [ERROR] severity
+		return 0                                                                                                  // Return 0 as a fallback if random generation failed
+	}
+	randomUint := binary.LittleEndian.Uint64(randomBytes[:])           // Convert the 8 random bytes into a uint64 number
+	randomFloat := float64(randomUint) / float64(math.MaxUint64) * 100 // Normalize uint64 to [0,1) then scale to [0,100)
+	return math.Round(randomFloat*10) / 10                             // Round the float to 1 decimal place and return
+}
 
 type countingFileWriter struct { // Tracks how many bytes have been written to the current split file.
 	destinationFileHandle *os.File // Stores the real file handle receiving the CSV data.
