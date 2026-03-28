@@ -2864,3 +2864,4 @@ https://s3.documentcloud.org/documents/4922585/Simon-et-al-v-The-City-Of-New-Yor
 https://s3.documentcloud.org/documents/4922586/Simon-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/943214/simon_et_al_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921822/Paniagua-v-City-of-New-York.pdf > PDFs/943214/paniagua_v_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4419163/nypd-cases-149.pdf > PDFs/929498/nypd_cases_149.pdf
+https://s3.documentcloud.org/documents/25281669/201707619_redactedclosingreport_redacted.pdf > PDFs/946447/201707619_redactedclosingreport_redacted.pdf
