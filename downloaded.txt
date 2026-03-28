@@ -12417,3 +12417,12 @@ https://s3.documentcloud.org/documents/22111837/950103_02012018_2018006pdf.pdf >
 https://s3.documentcloud.org/documents/26078993/201601825_redactedclosingreportpdf.pdf > PDFs/934843/201601825_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=embnMzcjqrY490uWcBIwJg== > PDFs/947838/20877_2015e_todd_johnson_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4921234/Kessler-v-City-of-New-York-et-al.pdf > PDFs/945851/kessler_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MDWHcdjlRbBrr3cOlwg2EQ== > PDFs/958159/23371_2019e_kyel_grant_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/5379173/Caines-et-al-v-New-York-City-et-al.pdf > PDFs/949799/caines_et_al_v_new_york_city_et_al.pdf
+https://s3.documentcloud.org/documents/5379172/Caines-et-al-v-New-York-City-et-al.pdf > PDFs/949799/caines_et_al_v_new_york_city_et_al.pdf
+https://s3.documentcloud.org/documents/5379174/Caines-et-al-v-New-York-City-et-al.pdf > PDFs/949799/caines_et_al_v_new_york_city_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IxgCHqLVnJ5xP6FrLFcf0Q== > PDFs/955724/156089_2018_jessica_vilella_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23118525/201803197_redactedclosingreport_redacted.pdf > PDFs/951152/201803197_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23836011/201802943_redactedclosingreport_redacted.pdf > PDFs/951152/201802943_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9cmeu2kUZi5uU/iTqCbCwQ== > PDFs/951152/161217_2014_devon_basher_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IEDfyQ0QGST08JoSPVDTSQ== > PDFs/962991/153326_2023_anthony_brown_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
