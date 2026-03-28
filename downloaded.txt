@@ -8420,3 +8420,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eaDGLHiXC4/1mtG1pC
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZTUBuKwZpd1_PLUS_zguuUKtH7g== > PDFs/946893/507444_2021_jerry_province_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=D3x2evM8ycVOA0xzIIJmoA== > PDFs/926396/453040_2017_robert_pluma_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=R6mSOix89XQQ7OUaP0B7GQ== > PDFs/949206/157633_2013_chassan_rivera_et_al_v_chassan_rivera_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MNA4tmcU838m/1kkQlvDqQ== > PDFs/964853/152721_2020_keith_brockett_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sUEH4iXQNxdZSlm8bWZ1Tw== > PDFs/961836/816684_2022e_jayquan_brown_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eeE7eBUYRprhz9OazUTCJA== > PDFs/961836/806429_2022e_lavel_hill_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=HTsDHXwDJeJgnUXdgXF16A==&display=all&courtType=Queens%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/965429/documentlist_docketid_htsdhxwdjejgnuxdgxf16a_display_all_courttype_queens_20county_20supreme_20court_resultspagenum_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oSRPIrDQHXRzgQCuUr_PLUS_u5g== > PDFs/970438/158426_2023_luis_eusebio_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9N8iGEEtJL7qmHSyD_PLUS_g96A== > PDFs/951585/156478_2015_brandon_washington_et_v_brandon_washington_et_exhibit_s_48.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VWG/jsMDw2tVe3ufaalxPQ== > PDFs/969307/527588_2024_shaqwan_robinson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=i6gFShJ6oe_PLUS_961a2zY24WQ== > PDFs/967449/157142_2022_melanie_scarola_v_the_city_of_new_york_et_al_complaint_amended_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Zz_PLUS_o_PLUS_V10lVKZC3/YKuL8kQ== > PDFs/945105/517129_2024_jason_salters_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Q8EV5IksT/8JtK_PLUS_IOp3A1g== > PDFs/934447/160113_2014_glenn_ford_v_city_of_new_york_et_al_summons_complaint_1.pdf
