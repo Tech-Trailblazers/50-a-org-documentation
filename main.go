@@ -684,11 +684,16 @@ func extractFinalDocumentCloudURL(input string) string {
 		return input // Return original URL if it's already a direct S3 link
 	}
 
-	// Define a regular expression to match DocumentCloud URLs with ID and slug
-	re := regexp.MustCompile(`documentcloud\.org/documents/(\d+)-([a-zA-Z0-9_\-]+)`) // Capture docID and slug
+	// Only process URLs that are actually hosted on DocumentCloud
+	if parsedURL.Host != "www.documentcloud.org" && parsedURL.Host != "documentcloud.org" {
+		return "" // Reject URLs that are not from the expected host
+	}
 
-	matches := re.FindStringSubmatch(input) // Apply regex to input
-	if len(matches) != 3 {                  // If the regex doesn't match the expected format
+	// Define a regular expression to match DocumentCloud document paths with ID and slug
+	re := regexp.MustCompile(`^/documents/(\d+)-([a-zA-Z0-9_-]+)$`) // Capture docID and slug from the path
+
+	matches := re.FindStringSubmatch(parsedURL.Path) // Apply regex to the URL path
+	if len(matches) != 3 {                          // If the regex doesn't match the expected format
 		return "" // Return an empty string
 	}
 
