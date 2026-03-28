@@ -4757,3 +4757,7 @@ https://s3.documentcloud.org/documents/21030386/zaman-8856ccb29cd5c9a959f6218384
 https://s3.documentcloud.org/documents/21058854/zaman-942738-03-01-21.pdf > PDFs/942738/zaman_942738_03_01_21.pdf
 https://s3.documentcloud.org/documents/21058372/kaplan-938750-giglio_1.pdf > PDFs/938750/kaplan_938750_giglio_1.pdf
 https://s3.documentcloud.org/documents/24360796/961020_11202023_2023091pdf.pdf > PDFs/961020/961020_11202023_2023091pdf.pdf
+https://s3.documentcloud.org/documents/21051867/carroll-968314-11-27-20.pdf > PDFs/968314/carroll_968314_11_27_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jOlvAnH5BFjPlOQ0gOBPrw== > PDFs/966174/516878_2023_joseph_ferdinand_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24484636/949888_01162024_2024009pdf.pdf > PDFs/949888/949888_01162024_2024009pdf.pdf
+https://s3.documentcloud.org/documents/21058085/giglio_martinez-949888.pdf > PDFs/949888/giglio_martinez_949888.pdf
