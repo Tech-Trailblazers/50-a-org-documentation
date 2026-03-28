@@ -11684,3 +11684,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_ltT08Vpx07F8
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TX8ASTZWJoSXwt9ntygaag== > PDFs/934531/161755_2014_mark_fam_v_the_city_of_new_york_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4921059/Graham-v-City-of-New-York-et-al.pdf > PDFs/947724/graham_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920089/Luckey-v-City-of-New-York-et-al.pdf > PDFs/952595/luckey_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aHK569ieUytBlU34oZN5Lw== > PDFs/934723/517761_2023_steve_boursiquot_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1V1vyh11hcOD2iwAaT7i0w== > PDFs/934723/517762_2023_eric_romulus_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056974/davydov-934723-01-29-21.pdf > PDFs/934723/davydov_934723_01_29_21.pdf
+https://s3.documentcloud.org/documents/4419280/nypd-cases-506.pdf > PDFs/938428/nypd_cases_506.pdf
+https://s3.documentcloud.org/documents/21057767/frias-962413-09-29-20.pdf > PDFs/962413/frias_962413_09_29_20.pdf
+https://s3.documentcloud.org/documents/21057792/gazda-944266-05-07-20.pdf > PDFs/944266/gazda_944266_05_07_20.pdf
+https://s3.documentcloud.org/documents/5379229/Jeune-v-The-City-of-New-York-et-al.pdf > PDFs/954883/jeune_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qLQsHoifSBvd1iu0NcfNJg== > PDFs/954883/501500_2018_dulcina_jeune_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n0noRvIeYvpFB5KjVGCDJw== > PDFs/947918/155472_2015_erin_pace_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KFBiOCusPNzjlsd/0vIZ1A== > PDFs/915914/153802_2018_ronnell_bradford_v_ronnell_bradford_summons_complaint_1.pdf
