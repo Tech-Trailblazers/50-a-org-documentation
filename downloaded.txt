@@ -7555,3 +7555,5 @@ https://s3.documentcloud.org/documents/4919864/Ullah-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/4920188/Drummond-v-The-City-of-New-York.pdf > PDFs/947994/drummond_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4920187/Drummond-v-The-City-of-New-York.pdf > PDFs/947994/drummond_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4921429/Parks-v-City-of-New-York-et-al.pdf > PDFs/943096/parks_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058779/rollis-952183-03-17-21.pdf > PDFs/952183/rollis_952183_03_17_21.pdf
+https://s3.documentcloud.org/documents/21023690/goldgrab-bc04ffa71b9cf49a54a2be76047b4b8c929864c5.pdf > PDFs/947035/goldgrab_bc04ffa71b9cf49a54a2be76047b4b8c929864c5.pdf
