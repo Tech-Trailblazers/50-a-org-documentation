@@ -4108,3 +4108,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4CDMhyxCBMJqrZ8AZ3
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s1kOBWJnBQzD8fdnhMVf5w== > PDFs/949462/25320_2018e_abdulai_jalloh_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4418973/nypd-cases-032.pdf > PDFs/948896/nypd_cases_032.pdf
 https://s3.documentcloud.org/documents/21028022/reillyderasmo-76b15ef88033757ec77508052c236394985969f3.pdf > PDFs/948874/reillyderasmo_76b15ef88033757ec77508052c236394985969f3.pdf
+https://s3.documentcloud.org/documents/22119199/957797_01072020_2020011pdf.pdf > PDFs/957797/957797_01072020_2020011pdf.pdf
