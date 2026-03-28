@@ -9093,3 +9093,11 @@ https://s3.documentcloud.org/documents/25920569/200612631_redactedclosingreport_
 https://s3.documentcloud.org/documents/25920568/200611747_redactedclosingreport_redacted.pdf > PDFs/935479/200611747_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25920565/200603369_redactedclosingreport_redacted.pdf > PDFs/935479/200603369_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25920563/200507940_redactedclosingreport_redacted.pdf > PDFs/935479/200507940_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BSj/z/W_PLUS_Uau/4o_PLUS_O26mYDQ== > PDFs/960900/155718_2022_eric_acheampong_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a6V_PLUS_9ZiHssDMq1MtUIFEBw== > PDFs/953081/508018_2015_samuel_clarke_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21025594/mccall-5b581bee18ab56aacea92266697f1bf365d015d1.pdf > PDFs/953081/mccall_5b581bee18ab56aacea92266697f1bf365d015d1.pdf
+https://s3.documentcloud.org/documents/21058089/giglio_mccall-953081-04-19-21.pdf > PDFs/953081/giglio_mccall_953081_04_19_21.pdf
+https://s3.documentcloud.org/documents/4419035/nypd-cases-236.pdf > PDFs/931734/nypd_cases_236.pdf
+https://s3.documentcloud.org/documents/23741490/201908495_redactedclosingreport_redacted.pdf > PDFs/931734/201908495_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23469860/201908495_tax931734_redacteddepartureletterpdf.pdf > PDFs/931734/201908495_tax931734_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/22085276/seh_931734.pdf > PDFs/931734/seh_931734.pdf
