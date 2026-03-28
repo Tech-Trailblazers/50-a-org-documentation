@@ -3016,3 +3016,10 @@ https://s3.documentcloud.org/documents/25999798/202305267_redactedclosingreportp
 https://s3.documentcloud.org/documents/25525980/202200710.pdf > PDFs/959308/202200710.pdf
 https://s3.documentcloud.org/documents/22085716/seh_950661.pdf > PDFs/950661/seh_950661.pdf
 https://s3.documentcloud.org/documents/21028319/rugel-7955348a1ba5e03ef897e29014c5a6995c675a27.pdf > PDFs/965485/rugel_7955348a1ba5e03ef897e29014c5a6995c675a27.pdf
+https://s3.documentcloud.org/documents/22086007/seh_958997.pdf > PDFs/958997/seh_958997.pdf
+https://s3.documentcloud.org/documents/26450104/diaz_12292025pdf.pdf > PDFs/958502/diaz_12292025pdf.pdf
+https://s3.documentcloud.org/documents/24441230/201500486_redactedclosingreport_redacted.pdf > PDFs/957174/201500486_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086227/seh_962691.pdf > PDFs/962691/seh_962691.pdf
+https://s3.documentcloud.org/documents/4928021/Ortiz-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/949466/ortiz_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25525441/202002720.pdf > PDFs/963568/202002720.pdf
+https://s3.documentcloud.org/documents/24441465/201700665_redactedclosingreport_redacted.pdf > PDFs/949072/201700665_redactedclosingreport_redacted.pdf
