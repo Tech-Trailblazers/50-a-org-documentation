@@ -11694,3 +11694,12 @@ https://s3.documentcloud.org/documents/5379229/Jeune-v-The-City-of-New-York-et-a
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qLQsHoifSBvd1iu0NcfNJg== > PDFs/954883/501500_2018_dulcina_jeune_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n0noRvIeYvpFB5KjVGCDJw== > PDFs/947918/155472_2015_erin_pace_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KFBiOCusPNzjlsd/0vIZ1A== > PDFs/915914/153802_2018_ronnell_bradford_v_ronnell_bradford_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921243/Ransom-v-City-of-New-York-et-al.pdf > PDFs/956031/ransom_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920947/Elliott-Owens-v-City-of-New-York-et-al.pdf > PDFs/956031/elliott_owens_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922348/Anderson-v-City-of-New-York-et-al.pdf > PDFs/938810/anderson_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=udAa7/XhFML9uS1BhT9LwA== > PDFs/957824/508541_2019_john_brehon_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056293/matthews-957824.pdf > PDFs/957824/matthews_957824.pdf
+https://s3.documentcloud.org/documents/21054241/metelus-950094-06-29-21.pdf > PDFs/950094/metelus_950094_06_29_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OgJZ6/Xh5FCpLKxqzlqWbg== > PDFs/930761/952379_2023_harper_kaye_hendrickson_v_city_of_new_york_et_al_complaint_5.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qBpaAomU9OTqZBZQarbeMw== > PDFs/966234/510901_2023_jerome_williams_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057009/gigliomoses-966234-12-17-20.pdf > PDFs/966234/gigliomoses_966234_12_17_20.pdf
