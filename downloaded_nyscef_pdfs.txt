@@ -2643,3 +2643,14 @@ https://s3.documentcloud.org/documents/4920269/Shebairo-v-The-City-of-New-York.p
 https://s3.documentcloud.org/documents/21017979/daf-cross946462.pdf > PDFs/946462/daf_cross946462.pdf
 https://s3.documentcloud.org/documents/21573826/201808014_redactedclosingreport_redacted.pdf > PDFs/961037/201808014_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21019810/daf-opokuduro961037.pdf > PDFs/961037/daf_opokuduro961037.pdf
+https://s3.documentcloud.org/documents/25525437/202002650.pdf > PDFs/966617/202002650.pdf
+https://s3.documentcloud.org/documents/22086437/seh_966617.pdf > PDFs/966617/seh_966617.pdf
+https://s3.documentcloud.org/documents/25869385/202307373_redactedclosingreportpdf.pdf > PDFs/969342/202307373_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=76YLeUQ_PLUS_NsuFVHBpJIDXwg==#expand > PDFs/976822/804559_2024e_jaevanna_kearney_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23578278/201903895_redactedclosingreport_redacted.pdf > PDFs/936151/201903895_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23469843/201903895_tax936151_redacteddepartureletterpdf.pdf > PDFs/936151/201903895_tax936151_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/21020498/ast-cdb2e35876ae5eeb62613dd58fef9a74c1fc4300.pdf > PDFs/936151/ast_cdb2e35876ae5eeb62613dd58fef9a74c1fc4300.pdf
+https://s3.documentcloud.org/documents/21066484/giglio_-ast-936151-12-10-20.pdf > PDFs/936151/giglio_ast_936151_12_10_20.pdf
+https://s3.documentcloud.org/documents/26473642/202404008_redactedclosingreportpdf.pdf > PDFs/976720/202404008_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26515669/202404008-tax976720-apu-final-documentspdf.pdf > PDFs/976720/202404008_tax976720_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=O2_PLUS_Nef7/ycdA44uuTbRG9A== > PDFs/976720/808118_2024e_christa_hogue_v_city_of_new_york_et_al_summons_complaint_1.pdf
