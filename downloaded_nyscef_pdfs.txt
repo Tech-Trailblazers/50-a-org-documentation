@@ -2041,3 +2041,11 @@ https://s3.documentcloud.org/documents/21014810/daf-deaderick933732.pdf > PDFs/9
 https://s3.documentcloud.org/documents/25525498/202003552.pdf > PDFs/956327/202003552.pdf
 https://s3.documentcloud.org/documents/23381136/202004819_redactedclosingreport_redacted.pdf > PDFs/956327/202004819_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21111317/walter-disclosure-letter.pdf > PDFs/956327/walter_disclosure_letter.pdf
+https://s3.documentcloud.org/documents/22085908/seh_956327.pdf > PDFs/956327/seh_956327.pdf
+https://s3.documentcloud.org/documents/25525300/201907371.pdf > PDFs/953847/201907371.pdf
+https://s3.documentcloud.org/documents/22085813/seh_953847.pdf > PDFs/953847/seh_953847.pdf
+https://s3.documentcloud.org/documents/21010243/daf-ippolito957699.pdf > PDFs/957699/daf_ippolito957699.pdf
+https://s3.documentcloud.org/documents/21031260/daf-pyramides947369.pdf > PDFs/947369/daf_pyramides947369.pdf
+https://s3.documentcloud.org/documents/25023290/201501403_redactedclosingreport_redacted.pdf > PDFs/952248/201501403_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21029003/smiarowski-3b3435601c7bd54bbce44658687a9bc81d04690d.pdf > PDFs/952248/smiarowski_3b3435601c7bd54bbce44658687a9bc81d04690d.pdf
+https://s3.documentcloud.org/documents/21056325/smiarowski-952248-05-06-20-1.pdf > PDFs/952248/smiarowski_952248_05_06_20_1.pdf
