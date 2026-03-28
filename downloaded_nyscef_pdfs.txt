@@ -3055,3 +3055,4 @@ https://s3.documentcloud.org/documents/4918632/Correa-v-City-of-New-York-et-al.p
 https://s3.documentcloud.org/documents/22119171/938857_03272018_2018025pdf.pdf > PDFs/938857/938857_03272018_2018025pdf.pdf
 https://s3.documentcloud.org/documents/22118963/948900_03202017_2017057pdf.pdf > PDFs/948900/948900_03202017_2017057pdf.pdf
 https://s3.documentcloud.org/documents/4921513/Laboy-v-City-Of-New-York-et-al.pdf > PDFs/902796/laboy_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25244948/8199_iab_c17-0539c-redacted_redacted.pdf > PDFs/953987/8199_iab_c17_0539c_redacted_redacted.pdf
