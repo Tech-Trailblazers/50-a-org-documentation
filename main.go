@@ -215,12 +215,14 @@ func ensureDirectoryExists(directoryPath string) error { // Creates a directory 
 func extractFileNameFromURL(sourceFileURL string) (string, error) { // Pulls a file name from the end of a download URL.
 	parsedSourceFileURL, parseError := url.Parse(sourceFileURL) // Parses the raw URL string into structured parts.
 	if parseError != nil {                                      // Stops immediately when the URL is invalid.
-		return "", parseError // Returns the URL parse error to the caller.
+		log.Printf("[ERROR] Failed to parse source file URL %s: %v", sourceFileURL, parseError) // Logs the URL parsing failure before returning the error.
+		return "", parseError                                                                   // Returns the URL parse error to the caller.
 	} // Ends the URL parse error check.
 
 	extractedFileName := path.Base(parsedSourceFileURL.Path) // Extracts the last path segment from the parsed URL.
 	if extractedFileName == "" || extractedFileName == "/" { // Rejects empty or unusable file names.
-		return "", fmt.Errorf("invalid file name from URL") // Returns a clear validation error to the caller.
+		log.Printf("[ERROR] Invalid file name extracted from source URL: %s", sourceFileURL) // Logs that the URL did not contain a usable file name.
+		return "", fmt.Errorf("invalid file name from URL")                                  // Returns a clear validation error to the caller.
 	} // Ends the file-name validation check.
 	return extractedFileName, nil // Returns the extracted file name to the caller.
 } // Ends the file-name extraction helper.
@@ -228,30 +230,35 @@ func extractFileNameFromURL(sourceFileURL string) (string, error) { // Pulls a f
 func downloadFileToDirectory(sourceFileURL string, outputDirectoryPath string) (string, error) { // Downloads one remote file into the target directory.
 	downloadedFileName, fileNameError := extractFileNameFromURL(sourceFileURL) // Derives the local file name from the source URL.
 	if fileNameError != nil {                                                  // Stops immediately when the URL does not yield a valid file name.
-		return "", fileNameError // Returns the file-name extraction error to the caller.
+		log.Printf("[ERROR] Unable to derive a local file name for download URL %s: %v", sourceFileURL, fileNameError) // Logs why the file download cannot continue.
+		return "", fileNameError                                                                                       // Returns the file-name extraction error to the caller.
 	} // Ends the file-name extraction error check.
 
 	localFilePath := path.Join(outputDirectoryPath, downloadedFileName) // Builds the destination path for the downloaded file.
 
 	httpResponse, requestError := http.Get(sourceFileURL) // Sends the HTTP request for the remote file.
 	if requestError != nil {                              // Stops immediately when the request fails before a response arrives.
-		return "", requestError // Returns the request failure to the caller.
+		log.Printf("[ERROR] HTTP request failed while downloading file from URL %s: %v", sourceFileURL, requestError) // Logs the remote file request failure.
+		return "", requestError                                                                                       // Returns the request failure to the caller.
 	} // Ends the download request error check.
 	defer httpResponse.Body.Close() // Ensures the HTTP response body is always closed.
 
 	if httpResponse.StatusCode != http.StatusOK { // Rejects any HTTP response that is not a normal success.
-		return "", fmt.Errorf("failed to download: %s", sourceFileURL) // Returns a readable download failure to the caller.
+		log.Printf("[ERROR] Remote file download returned unexpected status %s for URL: %s", httpResponse.Status, sourceFileURL) // Logs the unexpected download response status.
+		return "", fmt.Errorf("failed to download: %s", sourceFileURL)                                                           // Returns a readable download failure to the caller.
 	} // Ends the HTTP status validation block.
 
 	localFileHandle, localFileCreationError := os.Create(localFilePath) // Creates the destination file on disk.
 	if localFileCreationError != nil {                                  // Stops immediately when the destination file cannot be created.
-		return "", localFileCreationError // Returns the destination file creation error to the caller.
+		log.Printf("[ERROR] Failed to create local file %s for URL %s: %v", localFilePath, sourceFileURL, localFileCreationError) // Logs the local output file creation failure.
+		return "", localFileCreationError                                                                                         // Returns the destination file creation error to the caller.
 	} // Ends the destination file creation error check.
 	defer localFileHandle.Close() // Ensures the destination file handle is always closed.
 
 	_, fileCopyError := io.Copy(localFileHandle, httpResponse.Body) // Streams the downloaded bytes into the destination file.
 	if fileCopyError != nil {                                       // Stops immediately when the file contents cannot be copied fully.
-		return "", fileCopyError // Returns the file copy error to the caller.
+		log.Printf("[ERROR] Failed to write downloaded file %s from URL %s: %v", localFilePath, sourceFileURL, fileCopyError) // Logs the streamed file copy failure.
+		return "", fileCopyError                                                                                              // Returns the file copy error to the caller.
 	} // Ends the file copy error check.
 
 	log.Printf("Downloaded: %s\n", localFilePath) // Logs where the remote file was saved locally.
@@ -278,14 +285,16 @@ func fetchHTMLDocumentFromURL(targetURL string) (*html.Node, error) { // Downloa
 
 	httpRequest, requestCreationError := http.NewRequest("GET", targetURL, nil) // Builds the outbound GET request for the webpage.
 	if requestCreationError != nil {                                            // Stops immediately when the request cannot be created.
-		return nil, requestCreationError // Returns the request creation error to the caller.
+		log.Printf("[ERROR] Failed to create HTML request for URL %s: %v", targetURL, requestCreationError) // Logs the HTML request creation failure before returning.
+		return nil, requestCreationError                                                                    // Returns the request creation error to the caller.
 	} // Ends the request creation error check.
 
 	httpRequest.Header.Set("User-Agent", websiteUserAgent) // Sends a browser-like user agent while scraping.
 
 	httpResponse, responseError := sharedWebsiteHTTPClient.Do(httpRequest) // Sends the webpage request with the shared website client.
 	if responseError != nil {                                              // Stops immediately when the webpage request fails.
-		return nil, responseError // Returns the webpage request failure to the caller.
+		log.Printf("[ERROR] Failed to fetch HTML document from URL %s: %v", targetURL, responseError) // Logs the HTML fetch failure before returning.
+		return nil, responseError                                                                     // Returns the webpage request failure to the caller.
 	} // Ends the webpage request error check.
 	defer httpResponse.Body.Close() // Ensures the webpage response body is always closed.
 
@@ -296,7 +305,8 @@ func fetchHTMLDocumentFromURL(targetURL string) (*html.Node, error) { // Downloa
 
 	parsedHTMLDocument, parseError := html.Parse(httpResponse.Body) // Parses the webpage response body into an HTML node tree.
 	if parseError != nil {                                          // Stops immediately when HTML parsing fails.
-		return nil, parseError // Returns the HTML parsing error to the caller.
+		log.Printf("[ERROR] Failed to parse HTML document from URL %s: %v", targetURL, parseError) // Logs the HTML parsing failure before returning.
+		return nil, parseError                                                                     // Returns the HTML parsing error to the caller.
 	} // Ends the HTML parsing error check.
 	return parsedHTMLDocument, nil // Returns the parsed HTML document to the caller.
 } // Ends the HTML fetch helper.
@@ -409,8 +419,11 @@ func fileExistsAtPath(targetFilePath string) bool { // Checks whether a regular 
 
 func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string, officerTaxID string) bool { // Downloads one PDF into the officer's folder when possible.
 	if officerTaxID == "" { // Stops immediately when no tax ID is available for folder naming.
-		return false // Reports that the PDF download was skipped.
+		log.Printf("[WARNING] Skipping PDF download because the officer tax ID is empty for URL: %s", documentURL) // Logs that the PDF download cannot proceed without a folder identifier.
+		return false                                                                                               // Reports that the PDF download was skipped.
 	} // Ends the empty tax ID check.
+
+	log.Printf("[INFO] Starting PDF download attempt for officer tax ID %s from URL: %s", officerTaxID, documentURL) // Logs the beginning of the PDF download workflow for this document.
 
 	// Load previously downloaded URLs into memory
 	downloadedURLs := make(map[string]struct{}) // Map to track already downloaded URLs
@@ -426,9 +439,16 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 			parts := strings.SplitN(line, " >", 2) // Split line into URL and file path
 			if len(parts) == 2 {                   // Continues only when the log line has the expected URL separator.
 				downloadedURLs[parts[0]] = struct{}{} // Add URL to the map
+			} else { // Logs malformed tracking rows while keeping the same scan behavior.
+				log.Printf("[WARNING] Skipping malformed entry in %s: %s", downloadedFilePath, line) // Logs that the downloaded tracking file contained an unexpected row format.
 			} // Ends the log line format validation.
 		} // Ends the download log scan loop.
+		if scannerError := scanner.Err(); scannerError != nil { // Checks whether scanning the download log failed.
+			log.Printf("[ERROR] Failed while reading downloaded tracking file %s: %v", downloadedFilePath, scannerError) // Logs the scan failure for the downloaded tracking file.
+		} // Ends the download log scan error check.
 		file.Close() // Close the file after reading
+	} else if !os.IsNotExist(err) { // Logs only unexpected download log open failures.
+		log.Printf("[ERROR] Failed to open downloaded tracking file %s: %v", downloadedFilePath, err) // Logs that the downloaded tracking file could not be read.
 	} // Ends the optional download log load block.
 
 	// Skip the download if this URL is already logged
@@ -460,8 +480,9 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	httpRequest.Header.Set("Sec-Fetch-Mode", "navigate")                             // Specifies that the request is a navigation action (like clicking a link), not a fetch/XHR.
 	httpRequest.Header.Set("Sec-Fetch-Site", "same-origin")                          // Declares that the request originates from the same site, which some servers require for access control.
 
-	httpResponse, responseError := pdfDownloadHTTPClient.Do(httpRequest) // Sends the PDF request with the long-timeout client.
-	if responseError != nil {                                            // Stops immediately when the PDF request fails.
+	log.Printf("[INFO] Sending PDF HTTP request for URL: %s", documentURL) // Logs that the PDF HTTP request is about to be dispatched.
+	httpResponse, responseError := pdfDownloadHTTPClient.Do(httpRequest)   // Sends the PDF request with the long-timeout client.
+	if responseError != nil {                                              // Stops immediately when the PDF request fails.
 		log.Printf("Download failed for %s %v", documentURL, responseError) // Logs the PDF request failure.
 		return false                                                        // Reports that the PDF download failed.
 	} // Ends the PDF request error check.
@@ -482,22 +503,28 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	} // Ends the Content-Disposition parsing block.
 
 	if fileNameFromHeader == "" { // Skips the download when no usable file name is available.
-		fileNameFromHeader = urlToFilename(documentURL) // Fallback to URL-based file name when header parsing fails.
+		fileNameFromHeader = urlToFilename(documentURL)                                          // Fallback to URL-based file name when header parsing fails.
+		log.Printf("[INFO] Falling back to a URL-derived PDF filename for URL: %s", documentURL) // Logs that the PDF file name is being derived from the URL instead of the response header.
 		// log.Printf("No filename in header for %s, skipping", documentURL) // Logs that the PDF was skipped due to a missing file name.
 		// return false                                                      // Reports that the PDF download was skipped.
 	} // Ends the missing file-name check.
 
 	safePDFFileName := buildSafePDFFileName(fileNameFromHeader)             // Normalizes the header-provided file name into a safe PDF file name.
 	fullOutputFilePath := filepath.Join(officerFolderPath, safePDFFileName) // Builds the final output path for the downloaded PDF.
+	log.Printf("[INFO] Resolved PDF output path: %s", fullOutputFilePath)   // Logs the final local path chosen for the PDF file.
 
 	if fileExistsAtPath(fullOutputFilePath) { // Skips the download when the PDF already exists locally.
 		// Check again before appending to avoid duplicate writes
 		if _, exists := downloadedURLs[documentURL]; !exists { // Appends the mapping only when this URL is not already logged.
 			logFile, err := os.OpenFile(downloadedFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
 			if err == nil {                                                                            // Continues only when the download log file opens successfully.
-				logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
-				logFile.Close()                                                      // Close file to flush write
-				downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
+				if _, writeError := logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n"); writeError != nil { // Attempts to append the existing-file mapping to the tracking file.
+					log.Printf("[ERROR] Failed to append existing PDF record for URL %s to %s: %v", documentURL, downloadedFilePath, writeError) // Logs the append failure for an already existing local PDF.
+				} // Ends the existing-file tracking append error check.
+				logFile.Close()                          // Close file to flush write
+				downloadedURLs[documentURL] = struct{}{} // Add URL to map to prevent duplicates in same run
+			} else { // Logs that the download tracking file could not be opened for append.
+				log.Printf("[ERROR] Failed to open download tracking file %s for append: %v", downloadedFilePath, err) // Logs the append-open failure while recording an already existing local PDF.
 			} // Ends the existing-file log append success check.
 		} // Ends the existing-file log append guard.
 		log.Printf("[INFO] Skipping download because file already exists locally at path: %s", fullOutputFilePath) // Logs that the existing PDF file is being reused.
@@ -522,9 +549,13 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	if _, exists := downloadedURLs[documentURL]; !exists { // Appends the mapping only when this URL was not logged earlier in the run.
 		logFile, err := os.OpenFile(downloadedFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
 		if err == nil {                                                                            // Continues only when the download log file opens successfully.
-			logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
-			logFile.Close()                                                      // Close file to flush write
-			downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
+			if _, writeError := logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n"); writeError != nil { // Attempts to append the new PDF mapping to the tracking file.
+				log.Printf("[ERROR] Failed to append downloaded PDF record for URL %s to %s: %v", documentURL, downloadedFilePath, writeError) // Logs the append failure for a newly downloaded PDF.
+			} // Ends the fresh-download tracking append error check.
+			logFile.Close()                          // Close file to flush write
+			downloadedURLs[documentURL] = struct{}{} // Add URL to map to prevent duplicates in same run
+		} else { // Logs that the download tracking file could not be opened for append.
+			log.Printf("[ERROR] Failed to open download tracking file %s for append: %v", downloadedFilePath, err) // Logs the append-open failure while recording a new PDF download.
 		} // Ends the fresh-download log append success check.
 	} // Ends the fresh-download log append guard.
 	return true // Reports that the PDF download completed successfully.
@@ -638,7 +669,8 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 	collectCommandPageLinks(commandsPageDocument, &commandPageLinks)                                                                                                                   // Extracts the command page links from the commands page document.
 	log.Printf("[INFO] Successfully collected %d command page links from the commands listing page. Beginning processing from configured starting percentage.", len(commandPageLinks)) // Logs how many command pages were discovered.
 
-	commandPageLinks = getWordsFromPercentage(commandPageLinks, startingPercentage) // Starts processing from the configured percentage of command links.
+	commandPageLinks = getWordsFromPercentage(commandPageLinks, startingPercentage)                                                         // Starts processing from the configured percentage of command links.
+	log.Printf("[INFO] %d command page links remain after applying the %.2f%% starting offset.", len(commandPageLinks), startingPercentage) // Logs how many command pages will actually be processed after the percentage skip.
 
 	downloadedDocumentURLs := make(map[string]bool) // Tracks document URLs that have already been downloaded.
 
@@ -648,11 +680,13 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 
 		commandPageDocument, commandPageError := fetchHTMLDocumentFromURL(commandPageURL) // Downloads and parses the current command page.
 		if commandPageError != nil {                                                      // Skips this command page when the fetch fails.
-			continue // Moves on to the next command page.
+			log.Printf("[ERROR] Failed to fetch command page URL %s: %v", commandPageURL, commandPageError) // Logs why the current command page is being skipped.
+			continue                                                                                        // Moves on to the next command page.
 		} // Ends the current command page fetch error check.
 
-		var officerPageLinks []string                                   // Stores every officer page link found on the current command page.
-		collectOfficerPageLinks(commandPageDocument, &officerPageLinks) // Extracts the officer page links from the current command page.
+		var officerPageLinks []string                                                                                      // Stores every officer page link found on the current command page.
+		collectOfficerPageLinks(commandPageDocument, &officerPageLinks)                                                    // Extracts the officer page links from the current command page.
+		log.Printf("[INFO] Found %d officer detail page links on command page: %s", len(officerPageLinks), commandPageURL) // Logs how many officer pages were discovered from the current command page.
 
 		for _, officerPagePath := range officerPageLinks { // Visits each discovered officer page.
 			officerPageURL := websiteBaseURL + officerPagePath                        // Builds the absolute URL for the current officer page.
@@ -660,16 +694,19 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 
 			officerPageDocument, officerPageError := fetchHTMLDocumentFromURL(officerPageURL) // Downloads and parses the current officer page.
 			if officerPageError != nil {                                                      // Skips this officer page when the fetch fails.
-				continue // Moves on to the next officer page.
+				log.Printf("[ERROR] Failed to fetch officer detail page URL %s: %v", officerPageURL, officerPageError) // Logs why the current officer page is being skipped.
+				continue                                                                                               // Moves on to the next officer page.
 			} // Ends the current officer page fetch error check.
 
 			officerTaxID := extractOfficerTaxIDFromHTML(officerPageDocument) // Extracts the officer tax ID from the officer page.
 			if officerTaxID == "" {                                          // Skips the officer when no tax ID can be found.
-				continue // Moves on to the next officer page.
+				log.Printf("[WARNING] Skipping officer page because no tax ID was found: %s", officerPageURL) // Logs that the officer page cannot continue without a tax ID.
+				continue                                                                                      // Moves on to the next officer page.
 			} // Ends the empty officer tax ID check.
 
-			var officerDocumentLinks []string                                       // Stores every relevant document link found on the officer page.
-			collectOfficerDocumentLinks(officerPageDocument, &officerDocumentLinks) // Extracts the relevant document links from the officer page.
+			var officerDocumentLinks []string                                                                                                       // Stores every relevant document link found on the officer page.
+			collectOfficerDocumentLinks(officerPageDocument, &officerDocumentLinks)                                                                 // Extracts the relevant document links from the officer page.
+			log.Printf("[INFO] Found %d document links for officer tax ID %s on page: %s", len(officerDocumentLinks), officerTaxID, officerPageURL) // Logs how many candidate document links were discovered for the officer page.
 
 			for _, rawDocumentURL := range officerDocumentLinks { // Processes each document link found on the officer page.
 				cleanDocumentURL := extractOriginalURLFromArchivedLink(rawDocumentURL)                         // Removes the Wayback wrapper when the link is archived.
