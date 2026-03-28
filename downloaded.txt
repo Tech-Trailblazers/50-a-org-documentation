@@ -15660,3 +15660,14 @@ https://s3.documentcloud.org/documents/26050398/200917187_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=L49FmNQP_PLUS_j6z_PLUS_VsA6DwcJQ== > PDFs/942179/157899_2014_michael_rotondo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4921644/Patton-v-The-City-Of-New-York-et-al.pdf > PDFs/942179/patton_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21028850/siciliano-736370718c9f9f1944f36f3d27384671624c62c5.pdf > PDFs/931218/siciliano_736370718c9f9f1944f36f3d27384671624c62c5.pdf
+https://s3.documentcloud.org/documents/21027555/perrini-52f92883389a13ef701e469417b592aed433445e.pdf > PDFs/949474/perrini_52f92883389a13ef701e469417b592aed433445e.pdf
+https://s3.documentcloud.org/documents/4419026/nypd-cases-144.pdf > PDFs/941720/nypd_cases_144.pdf
+https://s3.documentcloud.org/documents/4928568/Olabopo-v-City-of-New-York-et-al.pdf > PDFs/940516/olabopo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21027057/norris-af9ad76b8f0748c2ebded8628b72bf6a85636337.pdf > PDFs/940516/norris_af9ad76b8f0748c2ebded8628b72bf6a85636337.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Ak3a7SYg0r93mUy_PLUS_74EFEg== > PDFs/915452/502950_2022_paul_faerstein_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057519/christie-915452-02-21-20.pdf > PDFs/915452/christie_915452_02_21_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=spgBU9twbvek/ouFRBBn6A== > PDFs/941091/512891_2017_jonathan_carnot_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21026975/nevandro-8140c49c89efb05dc63025caab32f604f67fb968.pdf > PDFs/941091/nevandro_8140c49c89efb05dc63025caab32f604f67fb968.pdf
+https://s3.documentcloud.org/documents/21058563/nevandro-941091-07-12-21.pdf > PDFs/941091/nevandro_941091_07_12_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IGpVDL7l4AkGF_PLUS_rDGxfz9w== > PDFs/957111/518201_2018_paul_mc_allister_v_paul_mc_allister_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21021319/callender-65f0e27da9464192061a77fadbeae171aa85da83.pdf > PDFs/934565/callender_65f0e27da9464192061a77fadbeae171aa85da83.pdf
