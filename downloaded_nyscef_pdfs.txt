@@ -2049,3 +2049,8 @@ https://s3.documentcloud.org/documents/21031260/daf-pyramides947369.pdf > PDFs/9
 https://s3.documentcloud.org/documents/25023290/201501403_redactedclosingreport_redacted.pdf > PDFs/952248/201501403_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21029003/smiarowski-3b3435601c7bd54bbce44658687a9bc81d04690d.pdf > PDFs/952248/smiarowski_3b3435601c7bd54bbce44658687a9bc81d04690d.pdf
 https://s3.documentcloud.org/documents/21056325/smiarowski-952248-05-06-20-1.pdf > PDFs/952248/smiarowski_952248_05_06_20_1.pdf
+https://s3.documentcloud.org/documents/25505853/201804049-redactedclosingreport-redacted.pdf > PDFs/948401/201804049_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23381194/201809265_redactedclosingreport_redacted.pdf > PDFs/945065/201809265_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525758/202100584.pdf > PDFs/938282/202100584.pdf
+https://s3.documentcloud.org/documents/25345387/202100584-tax938282-apu-final-documentspdf.pdf > PDFs/938282/202100584_tax938282_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25527442/201402606-redactedclosingreport-redacted.pdf > PDFs/938282/201402606_redactedclosingreport_redacted.pdf
