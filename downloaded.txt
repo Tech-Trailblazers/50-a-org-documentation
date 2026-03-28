@@ -7954,3 +7954,14 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=j/JR7SyFmOUV47oD5E
 https://s3.documentcloud.org/documents/21058097/giglio_moragne-947272-02-02-21.pdf > PDFs/947272/giglio_moragne_947272_02_02_21.pdf
 https://s3.documentcloud.org/documents/25521058/8702685_closingreportedms_redacted.pdf > PDFs/881933/8702685_closingreportedms_redacted.pdf
 https://s3.documentcloud.org/documents/21057944/giglio_chau-961684-0.pdf > PDFs/961684/giglio_chau_961684_0.pdf
+https://s3.documentcloud.org/documents/25526014/202202775.pdf > PDFs/972028/202202775.pdf
+https://s3.documentcloud.org/documents/25526104/202207386.pdf > PDFs/956146/202207386.pdf
+https://s3.documentcloud.org/documents/21056268/gorman-962443-01-17-20.pdf > PDFs/962443/gorman_962443_01_17_20.pdf
+https://s3.documentcloud.org/documents/4419301/nypd-cases-063.pdf > PDFs/945484/nypd_cases_063.pdf
+https://s3.documentcloud.org/documents/26055296/201706777-redactedclosingreport-redacted.pdf > PDFs/945484/201706777_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22090004/945484_05082012_2012081pdf.pdf > PDFs/945484/945484_05082012_2012081pdf.pdf
+https://s3.documentcloud.org/documents/21057334/barry-926642-12-28-20.pdf > PDFs/926642/barry_926642_12_28_20.pdf
+https://s3.documentcloud.org/documents/24449729/201905757_redactedclosingreport_redacted.pdf > PDFs/960868/201905757_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21418056/202004179_redactedclosingreport_redacted.pdf > PDFs/925654/202004179_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525243/201900920.pdf > PDFs/962263/201900920.pdf
+https://s3.documentcloud.org/documents/26303065/201806268_redactedclosingreportpdf.pdf > PDFs/962263/201806268_redactedclosingreportpdf.pdf
