@@ -1837,3 +1837,11 @@ https://s3.documentcloud.org/documents/23380705/201509378_redactedclosingreport_
 https://s3.documentcloud.org/documents/25977809/201901468-redactedclosingreport-redacted.pdf > PDFs/959289/201901468_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/26303029/202205561_redactedclosingreportpdf.pdf > PDFs/958173/202205561_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/23873988/201809123_redactedclosingreport_redacted.pdf > PDFs/958173/201809123_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019815/daf-willis964838.pdf > PDFs/964838/daf_willis964838.pdf
+https://s3.documentcloud.org/documents/25899131/201708643-redactedclosingreport-redacted.pdf > PDFs/942439/201708643_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22048879/202003842_redactedclosingreport_redacted.pdf > PDFs/966630/202003842_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22076481/201905594_redactedclosingreport_redacted.pdf > PDFs/950589/201905594_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24630859/201609532_redactedclosingreport_redacted.pdf > PDFs/945266/201609532_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4927993/Deluca-v-The-City-of-New-York-et-al.pdf > PDFs/937485/deluca_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4927992/Nelson-v-The-City-of-New-York-et-al.pdf > PDFs/937485/nelson_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23602453/947531_11282022_2022057pdf.pdf > PDFs/947531/947531_11282022_2022057pdf.pdf
