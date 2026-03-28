@@ -11931,3 +11931,13 @@ https://s3.documentcloud.org/documents/4921956/Gondola-v-City-of-New-York-et-al.
 https://s3.documentcloud.org/documents/4921957/Gondola-v-City-of-New-York-et-al.pdf > PDFs/940737/gondola_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/23741491/201908928_redactedclosingreport_redacted.pdf > PDFs/953093/201908928_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25522568/201206068_redactedclosingreport_redacted.pdf > PDFs/944245/201206068_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=q_PLUS_8j6Z9IDBYS1eyE1P8/dw== > PDFs/944245/503149_2016_windell_evans_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4920631/Diggs-v-The-City-of-New-York-et-al.pdf > PDFs/936782/diggs_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119100/936782_11102015_2015103pdf.pdf > PDFs/936782/936782_11102015_2015103pdf.pdf
+https://s3.documentcloud.org/documents/22119305/943657_12172014_2014056pdf.pdf > PDFs/943657/943657_12172014_2014056pdf.pdf
+https://s3.documentcloud.org/documents/21031307/daf-paulino943657.pdf > PDFs/943657/daf_paulino943657.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hQN40mAB/_PLUS_0t3XIPZQ8Jsg== > PDFs/938992/703949_2015_peter_humphrey_garced_v_peter_humphrey_garced_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4418894/nypd-cases-057.pdf > PDFs/942581/nypd_cases_057.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g87tUAPVVj/qXhSZEBbldg== > PDFs/942581/515210_2018_albert_a_hoskins_v_albert_a_hoskins_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922500/Morales-v-City-of-New-York-et-al.pdf > PDFs/952706/morales_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/24100963/201709780_redactedclosingreport_redacted.pdf > PDFs/951694/201709780_redactedclosingreport_redacted.pdf
