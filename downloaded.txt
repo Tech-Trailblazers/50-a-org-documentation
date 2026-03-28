@@ -12407,3 +12407,13 @@ https://s3.documentcloud.org/documents/25345409/202202489-tax945618-apu-final-do
 https://s3.documentcloud.org/documents/25897803/202103316_redactedclosingreportpdf.pdf > PDFs/936740/202103316_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/22085363/seh_936740.pdf > PDFs/936740/seh_936740.pdf
 https://s3.documentcloud.org/documents/22085574/seh_946099.pdf > PDFs/946099/seh_946099.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kgwBv7VCfRp8aUh05vZdYA== > PDFs/954266/150281_2024_brina_jones_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525319/201909798.pdf > PDFs/963166/201909798.pdf
+https://s3.documentcloud.org/documents/25091568/201901840_redactedclosingreport_redacted.pdf > PDFs/962170/201901840_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922452/Martinez-v-The-City-Of-New-York-et-al.pdf > PDFs/954480/martinez_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921222/Clavijo-v-City-of-New-York-et-al.pdf > PDFs/937081/clavijo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119064/932757_02162016_2016115pdf.pdf > PDFs/932757/932757_02162016_2016115pdf.pdf
+https://s3.documentcloud.org/documents/22111837/950103_02012018_2018006pdf.pdf > PDFs/954420/950103_02012018_2018006pdf.pdf
+https://s3.documentcloud.org/documents/26078993/201601825_redactedclosingreportpdf.pdf > PDFs/934843/201601825_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=embnMzcjqrY490uWcBIwJg== > PDFs/947838/20877_2015e_todd_johnson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921234/Kessler-v-City-of-New-York-et-al.pdf > PDFs/945851/kessler_v_city_of_new_york_et_al.pdf
