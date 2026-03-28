@@ -3580,3 +3580,7 @@ https://s3.documentcloud.org/documents/4923473/Giles-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/26140909/201503521-redactedclosingreport-redacted.pdf > PDFs/952087/201503521_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/23688715/2022_perdomo_20cv07195.pdf > PDFs/957796/2022_perdomo_20cv07195.pdf
 https://s3.documentcloud.org/documents/4921044/Hernandez-v-City-of-New-York-et-al.pdf > PDFs/921222/hernandez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25345434/202301290-tax960667-apu-final-documentspdf.pdf > PDFs/960667/202301290_tax960667_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26473677/202207863_redactedclosingreportpdf.pdf > PDFs/950256/202207863_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/22085703/seh_950256.pdf > PDFs/950256/seh_950256.pdf
+https://s3.documentcloud.org/documents/22085891/seh_955923.pdf > PDFs/955923/seh_955923.pdf
