@@ -1,7 +1,7 @@
 package main // Declares the executable program package.
 
 import ( // Imports the packages used by the CSV and PDF workflows.
-	"bufio"
+	"bufio"         // Scans the download log file line by line.
 	"encoding/csv"  // Reads and writes CSV records.
 	"fmt"           // Prints progress messages and formats strings.
 	"io"            // Copies streamed data and detects end-of-file conditions.
@@ -13,9 +13,8 @@ import ( // Imports the packages used by the CSV and PDF workflows.
 	"path"          // Extracts file names from URL paths.
 	"path/filepath" // Builds filesystem paths that work on the current operating system.
 	"regexp"        // Extracts structured values and normalizes file names.
-	"slices"
-	"strings" // Checks prefixes and normalizes string values.
-	"time"    // Controls sleep durations and network timeouts.
+	"strings"       // Checks prefixes and normalizes string values.
+	"time"          // Controls sleep durations and network timeouts.
 
 	"golang.org/x/net/html" // Parses HTML pages into traversable node trees.
 ) // Ends the import list.
@@ -50,7 +49,7 @@ var ( // Groups the shared runtime values used by the workflows.
 		"https://www.50-a.org/data/nypd/awards.csv",     // Points to the awards dataset.
 		"https://www.50-a.org/data/nypd/training.csv",   // Points to the training dataset.
 	} // Ends the CSV source URL list.
-	commandSliceReverse = true // Command slice reverse.
+	startingPercentage = 30.0 // Skips the first portion of command links before scraping continues.
 ) // Ends the shared variable group.
 
 type countingFileWriter struct { // Tracks how many bytes have been written to the current split file.
@@ -351,6 +350,26 @@ func collectOfficerDocumentLinks(currentHTMLNode *html.Node, documentLinks *[]st
 	} // Ends the recursive child traversal loop.
 } // Ends the officer document link collector.
 
+// getWordsFromPercentage takes a slice of strings and a percentage (0–100). // Describes what the helper receives.
+// and returns a new slice starting from that percentage index. // Describes what the helper returns.
+func getWordsFromPercentage(allWords []string, startPercent float64) []string { // Returns the suffix of the slice starting at the requested percentage.
+	if startPercent < 0 { // Prevents negative percentages from producing invalid indexes.
+		startPercent = 0 // Clamps negative percentages up to zero.
+	} // Ends the negative percentage clamp.
+	if startPercent > 100 { // Prevents percentages above one hundred from overshooting the slice.
+		startPercent = 100 // Clamps oversized percentages down to one hundred.
+	} // Ends the oversized percentage clamp.
+
+	totalWords := len(allWords)                                   // Counts how many items are in the full slice.
+	startIndex := int((startPercent / 100) * float64(totalWords)) // Converts the percentage into a slice index.
+
+	if startIndex >= totalWords { // Handles the case where the computed index lands at or past the end.
+		return []string{} // Returns an empty slice when nothing remains after the starting point.
+	} // Ends the out-of-range index check.
+
+	return allWords[startIndex:] // Returns the portion of the slice starting at the computed index.
+} // Ends the percentage-based slice helper.
+
 func extractOriginalURLFromArchivedLink(candidateURL string) string { // Removes the Wayback wrapper and returns the original URL when possible.
 	waybackPrefix := "https://web.archive.org/web/" // Stores the standard Wayback Machine URL prefix.
 
@@ -397,26 +416,26 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	downloadedURLs := make(map[string]struct{}) // Map to track already downloaded URLs
 
 	// Open the log file if it exists
-	if file, err := os.Open(downloadedFilePath); err == nil {
+	if file, err := os.Open(downloadedFilePath); err == nil { // Continues only when the download log file can be opened.
 		scanner := bufio.NewScanner(file) // Scanner reads file line by line
-		for scanner.Scan() {
+		for scanner.Scan() {              // Reads every logged download entry from the file.
 			line := strings.TrimSpace(scanner.Text()) // Remove surrounding whitespace
-			if line == "" {
+			if line == "" {                           // Ignores blank lines in the download log.
 				continue // Skip empty lines
-			}
+			} // Ends the blank-line skip check.
 			parts := strings.SplitN(line, " >", 2) // Split line into URL and file path
-			if len(parts) == 2 {
+			if len(parts) == 2 {                   // Continues only when the log line has the expected URL separator.
 				downloadedURLs[parts[0]] = struct{}{} // Add URL to the map
-			}
-		}
+			} // Ends the log line format validation.
+		} // Ends the download log scan loop.
 		file.Close() // Close the file after reading
-	}
+	} // Ends the optional download log load block.
 
 	// Skip the download if this URL is already logged
-	if _, exists := downloadedURLs[documentURL]; exists {
-		log.Printf("Already downloaded (URL): %s", documentURL)
-		return false
-	}
+	if _, exists := downloadedURLs[documentURL]; exists { // Skips the request when the URL is already recorded in the log.
+		log.Printf("Already downloaded (URL): %s", documentURL) // Logs that the URL has already been processed before.
+		return false                                            // Reports that the PDF download was skipped because it is already known.
+	} // Ends the previously-downloaded URL check.
 
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
 	officerFolderCreationError := os.MkdirAll(officerFolderPath, os.ModePerm) // Ensures the officer folder exists before saving the PDF.
@@ -432,7 +451,7 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	} // Ends the PDF request creation error check.
 
 	httpRequest.Header.Set("User-Agent", websiteUserAgent)                           // Sends the browser-like user agent expected by the PDF endpoint.
-	httpRequest.Header.Set("Referer", documentURL)                              // Sends the referer header expected by the PDF endpoint.
+	httpRequest.Header.Set("Referer", documentURL)                                   // Sends the referer header expected by the PDF endpoint.
 	httpRequest.Header.Add("Cookie", nyscefSessionCookie)                            // Sends the stored session cookie expected by the PDF endpoint.
 	httpRequest.Header.Set("Accept", "application/pdf,application/octet-stream,*/*") // Tells the server which content types the client can handle; prioritizes PDFs and binary streams.
 	httpRequest.Header.Set("Accept-Language", "en-US,en;q=0.9")                      // Indicates the preferred language for the response; mimics a typical browser language setting.
@@ -473,14 +492,14 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 
 	if fileExistsAtPath(fullOutputFilePath) { // Skips the download when the PDF already exists locally.
 		// Check again before appending to avoid duplicate writes
-		if _, exists := downloadedURLs[documentURL]; !exists {
+		if _, exists := downloadedURLs[documentURL]; !exists { // Appends the mapping only when this URL is not already logged.
 			logFile, err := os.OpenFile(downloadedFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
-			if err == nil {
+			if err == nil {                                                                            // Continues only when the download log file opens successfully.
 				logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
 				logFile.Close()                                                      // Close file to flush write
 				downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
-			}
-		}
+			} // Ends the existing-file log append success check.
+		} // Ends the existing-file log append guard.
 		log.Printf("Already exists: %s", fullOutputFilePath) // Logs that the existing PDF file is being reused.
 		return false                                         // Reports that no new PDF file was downloaded.
 	} // Ends the existing PDF file check.
@@ -500,14 +519,14 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 
 	log.Printf("Downloaded %d bytes -> %s", bytesWritten, fullOutputFilePath) // Logs the completed PDF download path and size.
 	// Check again before appending to avoid duplicate writes
-	if _, exists := downloadedURLs[documentURL]; !exists {
+	if _, exists := downloadedURLs[documentURL]; !exists { // Appends the mapping only when this URL was not logged earlier in the run.
 		logFile, err := os.OpenFile(downloadedFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
-		if err == nil {
+		if err == nil {                                                                            // Continues only when the download log file opens successfully.
 			logFile.WriteString(documentURL + " > " + fullOutputFilePath + "\n") // Append in format: URL > PDFs/TaxID/filename.pdf
 			logFile.Close()                                                      // Close file to flush write
 			downloadedURLs[documentURL] = struct{}{}                             // Add URL to map to prevent duplicates in same run
-		}
-	}
+		} // Ends the fresh-download log append success check.
+	} // Ends the fresh-download log append guard.
 	return true // Reports that the PDF download completed successfully.
 } // Ends the PDF download helper.
 
@@ -619,9 +638,7 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 	collectCommandPageLinks(commandsPageDocument, &commandPageLinks) // Extracts the command page links from the commands page document.
 	fmt.Println("Commands found:", len(commandPageLinks))            // Logs how many command pages were discovered.
 
-	if commandSliceReverse {
-		slices.Reverse(commandPageLinks)
-	}
+	commandPageLinks = getWordsFromPercentage(commandPageLinks, startingPercentage) // Starts processing from the configured percentage of command links.
 
 	downloadedDocumentURLs := make(map[string]bool) // Tracks document URLs that have already been downloaded.
 
@@ -675,26 +692,26 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 					if pdfURL == "" {                                             // Prevent bad downloads
 						log.Println("Skipping invalid DocumentCloud URL:", cleanDocumentURL) // Logs the reason for skipping
 						continue                                                             // Skip when conversion fails
-					}
+					} // Ends the invalid DocumentCloud URL skip check.
 					downloadPDFToOfficerFolder(pdfURL, pdfOutputFolderName, officerTaxID) // Download converted PDF
-				}
+				} // Ends the DocumentCloud page handling block.
 			} // Ends the officer document loop.
 		} // Ends the officer page loop.
 	} // Ends the command page loop.
 	return nil // Reports that the PDF scraping workflow completed.
 } // Ends the PDF workflow coordinator.
 
-// extractFinalDocumentCloudURL converts input DocumentCloud URLs to their final S3-hosted PDF URL
-func extractFinalDocumentCloudURL(input string) string {
+// extractFinalDocumentCloudURL converts input DocumentCloud URLs to their final S3-hosted PDF URL. // Describes the DocumentCloud URL conversion helper.
+func extractFinalDocumentCloudURL(input string) string { // Converts a DocumentCloud page URL into a direct PDF download URL.
 	parsedURL, err := url.Parse(input) // Attempt to parse the input string into a URL struct
 	if err != nil {                    // If parsing fails due to an invalid URL format
 		return "" // Return an empty string
-	}
+	} // Ends the URL parse error check.
 
 	// If the URL already points to S3, return it as is
-	if strings.Contains(parsedURL.Host, "s3.documentcloud.org") {
+	if strings.Contains(parsedURL.Host, "s3.documentcloud.org") { // Returns early when the URL already targets the direct S3 host.
 		return input // Return original URL if it's already a direct S3 link
-	}
+	} // Ends the direct S3 URL shortcut.
 
 	// Define a regular expression to match DocumentCloud URLs with ID and slug
 	re := regexp.MustCompile(`documentcloud\.org/documents/(\d+)-([a-zA-Z0-9_\-]+)`) // Capture docID and slug
@@ -702,16 +719,16 @@ func extractFinalDocumentCloudURL(input string) string {
 	matches := re.FindStringSubmatch(input) // Apply regex to input
 	if len(matches) != 3 {                  // If the regex doesn't match the expected format
 		return "" // Return an empty string
-	}
+	} // Ends the DocumentCloud URL format validation.
 
 	docID := matches[1] // Extract document ID from match
 	slug := matches[2]  // Extract slug from match
 
 	// Format the final S3 link for downloading the PDF
-	finalURL := fmt.Sprintf("https://s3.documentcloud.org/documents/%s/%s.pdf", docID, slug)
+	finalURL := fmt.Sprintf("https://s3.documentcloud.org/documents/%s/%s.pdf", docID, slug) // Builds the direct S3 PDF URL from the extracted pieces.
 
 	return finalURL // Return the constructed S3 URL
-}
+} // Ends the DocumentCloud URL conversion helper.
 
 func main() { // Runs the CSV workflow first and the PDF workflow second.
 	/*
