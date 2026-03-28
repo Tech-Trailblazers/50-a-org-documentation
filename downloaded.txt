@@ -12346,3 +12346,7 @@ https://s3.documentcloud.org/documents/24100929/201412496_redactedclosingreport_
 https://s3.documentcloud.org/documents/22119215/933967_01072013_2013131pdf.pdf > PDFs/933967/933967_01072013_2013131pdf.pdf
 https://s3.documentcloud.org/documents/23461521/extractpage1.pdf > PDFs/939930/extractpage1.pdf
 https://s3.documentcloud.org/documents/5378121/Sekou-v-The-City-of-New-York-et-al.pdf > PDFs/946120/sekou_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25522998/200901925_redactedclosingreport_redacted.pdf > PDFs/945499/200901925_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t5VHDuX3VWb4C4YrDhUfNQ== > PDFs/941906/452788_2015_solomon_bootman_et_al_v_solomon_bootman_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yOySwbA9LRcM4r9FF9NRxg== > PDFs/953699/151757_2022_roberto_arias_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085469/seh_941784.pdf > PDFs/941784/seh_941784.pdf
