@@ -12352,3 +12352,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yOySwbA9LRcM4r9FF9
 https://s3.documentcloud.org/documents/22085469/seh_941784.pdf > PDFs/941784/seh_941784.pdf
 https://s3.documentcloud.org/documents/21023859/griffin-bbcd6aff0f436d8a5a6c1074ad16f7cb31480fd5.pdf > PDFs/950536/griffin_bbcd6aff0f436d8a5a6c1074ad16f7cb31480fd5.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3/3rCnBYpmvFNPd0qltSug== > PDFs/962564/152159_2021_patricia_j_sellitto_v_patricia_j_sellitto_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2XKbGTDzNO90XW7SD023/g== > PDFs/945009/722565_2021_stephen_tripp_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UqgJ5vdgld0TzERhqKJxzQ== > PDFs/965590/153205_2021_steven_rodriguez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525877/202104637.pdf > PDFs/969923/202104637.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LCFv6lOOwlxbGFrrhsQNwA== > PDFs/969719/532991_2023_kevin_goubotte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21031453/daf-williams942711.pdf > PDFs/942711/daf_williams942711.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zBGbjlz3A47qJ_PLUS_zF8kn3HQ== > PDFs/965039/160451_2023_robert_jenkins_v_city_of_new_york_et_al_summons_complaint_1.pdf
