@@ -5622,3 +5622,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JiUzvZnBlOL14Y2DU/
 https://s3.documentcloud.org/documents/21058921/walsh-955650-07-12-21.pdf > PDFs/955650/walsh_955650_07_12_21.pdf
 https://s3.documentcloud.org/documents/21057273/anderson-962925-12-09-20-giglio.pdf > PDFs/962925/anderson_962925_12_09_20_giglio.pdf
 https://s3.documentcloud.org/documents/21066500/giglio_lopez-966673-01-19-21.pdf > PDFs/966673/giglio_lopez_966673_01_19_21.pdf
+https://s3.documentcloud.org/documents/25523212/202106291_redactedclosingreport_redacted.pdf > PDFs/964474/202106291_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aMX56sbozNL0q_PLUS_ELf4a_PLUS_xw== > PDFs/964474/510592_2024_ladiyah_mullins_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=APJHqdfP35IqrE/G7tbxvQ== > PDFs/964474/504003_2023_stephen_pena_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086320/seh_964474.pdf > PDFs/964474/seh_964474.pdf
+https://s3.documentcloud.org/documents/23127422/zahid-965634_redacted.pdf > PDFs/964474/zahid_965634_redacted.pdf
+https://s3.documentcloud.org/documents/25520245/201905345_redactedclosingreport_redacted.pdf > PDFs/950096/201905345_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23873971/201803645_redactedclosingreport_redacted.pdf > PDFs/950096/201803645_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25501190/201401599-redactedclosingreport-redacted.pdf > PDFs/950096/201401599_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OSLeA9ya_PLUS_K4QK3EqtGqtbw== > PDFs/950096/525781_2022_sean_nelson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056188/giglio_boyle-950096-04-16-21.pdf > PDFs/950096/giglio_boyle_950096_04_16_21.pdf
