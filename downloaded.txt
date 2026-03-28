@@ -9608,3 +9608,17 @@ https://s3.documentcloud.org/documents/25523445/201610581_redactedclosingreport_
 https://s3.documentcloud.org/documents/25523729/201307652_redactedclosingreport_redacted.pdf > PDFs/928232/201307652_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25522293/200805989_redactedclosingreport_redacted.pdf > PDFs/928232/200805989_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25521314/200611858_redactedclosingreport_redacted.pdf > PDFs/928232/200611858_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522740/201101692_redactedclosingreport_redacted.pdf > PDFs/941306/201101692_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523039/200906271_redactedclosingreport_redacted.pdf > PDFs/941306/200906271_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525948/202107188.pdf > PDFs/962223/202107188.pdf
+https://s3.documentcloud.org/documents/23823943/202107188_tax962223_redacteddepartureletterpdf.pdf > PDFs/962223/202107188_tax962223_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/23823944/202107188_tax960342_redacteddepartureletterpdf.pdf > PDFs/960342/202107188_tax960342_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g90NKGXLbGULcvHCQPzSMg== > PDFs/937827/715958_2017_maryellen_dennis_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119242/942214_12272012_2012068pdf.pdf > PDFs/942214/942214_12272012_2012068pdf.pdf
+https://s3.documentcloud.org/documents/25525160/201801337.pdf > PDFs/949655/201801337.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=U1m10rMJy13ApNwGY1YZuw== > PDFs/949655/157903_2020_fatoumata_diallo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4924251/Malek-v-City-Of-New-York-et-al.pdf > PDFs/949655/malek_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920745/Ameruso-v-City-of-New-York-et-al.pdf > PDFs/949655/ameruso_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921221/In-the-Matter-of-the-Estate-of-Joseph-Priolo-et.pdf > PDFs/939935/in_the_matter_of_the_estate_of_joseph_priolo_et.pdf
+https://s3.documentcloud.org/documents/5379236/Chepilko-v-The-City-of-New-York-et-al.pdf > PDFs/954928/chepilko_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923276/King-v-The-City-of-New-York-et-al.pdf > PDFs/954928/king_v_the_city_of_new_york_et_al.pdf
