@@ -2028,3 +2028,16 @@ https://s3.documentcloud.org/documents/23741453/201805374_redactedclosingreport_
 https://s3.documentcloud.org/documents/25501253/201709310-redactedclosingreport-redacted.pdf > PDFs/939728/201709310_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4928500/DeJesus-et-al-v-Rogozinski-et-al.pdf > PDFs/935636/dejesus_et_al_v_rogozinski_et_al.pdf
 https://s3.documentcloud.org/documents/4928501/DeJesus-et-al-v-Rogozinski-et-al.pdf > PDFs/935636/dejesus_et_al_v_rogozinski_et_al.pdf
+https://s3.documentcloud.org/documents/25527601/201802118-redactedclosingreport-redacted.pdf > PDFs/935592/201802118_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21058744/rios-935592-06-18-20.pdf > PDFs/935592/rios_935592_06_18_20.pdf
+https://s3.documentcloud.org/documents/25525588/202004031.pdf > PDFs/956581/202004031.pdf
+https://s3.documentcloud.org/documents/25519886/200808569_closingreport.pdf > PDFs/927924/200808569_closingreport.pdf
+https://s3.documentcloud.org/documents/21019513/daf-beyrodt-927924.pdf > PDFs/927924/daf_beyrodt_927924.pdf
+https://s3.documentcloud.org/documents/21015450/daf-franzitta961769.pdf > PDFs/961769/daf_franzitta961769.pdf
+https://s3.documentcloud.org/documents/26182819/201707130_redactedclosingreportpdf.pdf > PDFs/953394/201707130_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23794971/201703230_redactedclosingreport_redacted.pdf > PDFs/953394/201703230_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085794/seh_953394.pdf > PDFs/953394/seh_953394.pdf
+https://s3.documentcloud.org/documents/21014810/daf-deaderick933732.pdf > PDFs/933732/daf_deaderick933732.pdf
+https://s3.documentcloud.org/documents/25525498/202003552.pdf > PDFs/956327/202003552.pdf
+https://s3.documentcloud.org/documents/23381136/202004819_redactedclosingreport_redacted.pdf > PDFs/956327/202004819_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21111317/walter-disclosure-letter.pdf > PDFs/956327/walter_disclosure_letter.pdf
