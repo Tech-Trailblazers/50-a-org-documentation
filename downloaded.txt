@@ -9876,3 +9876,5 @@ https://s3.documentcloud.org/documents/22102492/948679_02122021_2021002pdf.pdf >
 https://s3.documentcloud.org/documents/4921326/Jordan-v-City-of-New-York-et-al.pdf > PDFs/952928/jordan_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21057604/delahoz-965035-12-25-2019.pdf > PDFs/965035/delahoz_965035_12_25_2019.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jGvuI_PLUS_YnqdnISVdWFyrI_PLUS_A== > PDFs/951769/450654_2024_jude_samson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21024796/karban-06a6e4fcd0aed0723aea602a566673f29e70bb49.pdf > PDFs/954991/karban_06a6e4fcd0aed0723aea602a566673f29e70bb49.pdf
+https://s3.documentcloud.org/documents/22119188/951942_07272015_2015129pdf.pdf > PDFs/951942/951942_07272015_2015129pdf.pdf
