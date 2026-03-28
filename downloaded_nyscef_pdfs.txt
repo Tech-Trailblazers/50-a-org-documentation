@@ -4152,3 +4152,17 @@ https://s3.documentcloud.org/documents/23872290/lauzier96757120-16409.pdf > PDFs
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r98z/kGCkpDCqWBESp1GEg== > PDFs/959950/808800_2021e_gerard_luker_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/25525933/202106288.pdf > PDFs/961803/202106288.pdf
 https://s3.documentcloud.org/documents/23580570/202106288_tax961803_redacteddepartureletterpdf.pdf > PDFs/961803/202106288_tax961803_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dkv0qIZvsZnqQhqNziApdA== > PDFs/972053/524239_2024_robert_rubinshteyn_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921395/Dorceant-et-al-v-City-of-New-York-et-al.pdf > PDFs/953494/dorceant_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23685201/2018_dorceant_15cv07103.pdf > PDFs/953494/2018_dorceant_15cv07103.pdf
+https://s3.documentcloud.org/documents/21029583/triano-8dab9ef4195c63a739d3e80f64449338417201fa.pdf > PDFs/953494/triano_8dab9ef4195c63a739d3e80f64449338417201fa.pdf
+https://s3.documentcloud.org/documents/21058199/giglio_triano-953494-01-28-21.pdf > PDFs/953494/giglio_triano_953494_01_28_21.pdf
+https://s3.documentcloud.org/documents/21066488/giglio_heaphy-960650.pdf > PDFs/960650/giglio_heaphy_960650.pdf
+https://s3.documentcloud.org/documents/25897798/202104647_redactedclosingreportpdf.pdf > PDFs/965787/202104647_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25940022/202104647-tax965787-apu-final-documentspdf.pdf > PDFs/965787/202104647_tax965787_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25525380/202000485.pdf > PDFs/965787/202000485.pdf
+https://s3.documentcloud.org/documents/25525372/201911001.pdf > PDFs/965787/201911001.pdf
+https://s3.documentcloud.org/documents/21025394/mamedov-101c6749059b2237e649baed4ee13a58238f97d8.pdf > PDFs/965787/mamedov_101c6749059b2237e649baed4ee13a58238f97d8.pdf
+https://s3.documentcloud.org/documents/21058518/mamedov-965787-04-09-21.pdf > PDFs/965787/mamedov_965787_04_09_21.pdf
+https://s3.documentcloud.org/documents/22086395/seh_965787.pdf > PDFs/965787/seh_965787.pdf
+https://s3.documentcloud.org/documents/21023182/finn-700ac44dabeea9df299840c4e6b53ca4d6ffb358.pdf > PDFs/950414/finn_700ac44dabeea9df299840c4e6b53ca4d6ffb358.pdf
