@@ -3005,3 +3005,8 @@ https://s3.documentcloud.org/documents/25523018/201508964_redactedclosingreport_
 https://s3.documentcloud.org/documents/21574257/201507102-aybar.pdf > PDFs/955736/201507102_aybar.pdf
 https://s3.documentcloud.org/documents/25869298/201507102_interviewdetails.pdf > PDFs/955736/201507102_interviewdetails.pdf
 https://s3.documentcloud.org/documents/4928353/Smith-v-City-of-New-York-et-al.pdf > PDFs/955736/smith_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XD3VAvieeJuhaQKu5PsfMA== > PDFs/952272/34139_2019e_muhammad_addison_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525964/202107483.pdf > PDFs/967651/202107483.pdf
+https://s3.documentcloud.org/documents/25040809/202107483-tax967651-apu-final-documentspdf.pdf > PDFs/967651/202107483_tax967651_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25525885/202104849.pdf > PDFs/957851/202104849.pdf
+https://s3.documentcloud.org/documents/25522498/201905515_redactedclosingreport_redacted.pdf > PDFs/963048/201905515_redactedclosingreport_redacted.pdf
