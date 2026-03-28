@@ -323,3 +323,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sPqBU1mnI/QnbPLM4r
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=974PEqs6lHxQ5OjQAy1rcg== > PDFs/948783/157674_2016_david_cutlip_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Luf4WW7paYOlrjsIOrDbig== > PDFs/939856/29219_2020e_moises_fontanez_batista_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BL87UtbuSlVMNnkV/VQdFQ== > PDFs/962652/154363_2021_jesus_morel_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WZG4evHKKsXVY2fj/j6c9g== > PDFs/930062/151647_2024_mike_tong_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kHWO0ZKEcy3BsGTW78bkvw== > PDFs/950512/152400_2024_anthony_spurgeon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RIOrH8OTiWw8JdPqkMUgFw== > PDFs/960981/815509_2021e_rufino_mancebo_v_city_of_new_york_et_al_summons_complaint_1.pdf
