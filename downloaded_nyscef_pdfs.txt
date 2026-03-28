@@ -1919,3 +1919,12 @@ https://s3.documentcloud.org/documents/25525824/202103192.pdf > PDFs/946347/2021
 https://s3.documentcloud.org/documents/25536034/202103192-tax946347-apu-final-documentspdf.pdf > PDFs/946347/202103192_tax946347_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/25091977/946347_07242024_2024049pdf.pdf > PDFs/946347/946347_07242024_2024049pdf.pdf
 https://s3.documentcloud.org/documents/22085579/seh_946347.pdf > PDFs/946347/seh_946347.pdf
+https://s3.documentcloud.org/documents/22125334/201908369_redactedclosingreport_redacted.pdf > PDFs/950161/201908369_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23794933/201312000_redactedclosingreport_redacted.pdf > PDFs/950161/201312000_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085790/seh_953232.pdf > PDFs/953232/seh_953232.pdf
+https://s3.documentcloud.org/documents/4419098/nypd-cases-022.pdf > PDFs/938112/nypd_cases_022.pdf
+https://s3.documentcloud.org/documents/21417936/201900666_redactedclosingreport_redacted.pdf > PDFs/959902/201900666_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24100806/201610231_redactedclosingreport_redacted.pdf > PDFs/938604/201610231_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24101103/201709541_redactedclosingreport_redacted.pdf > PDFs/940279/201709541_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23794960/201609390_redactedclosingreport_redacted.pdf > PDFs/944687/201609390_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4419330/nypd-cases-316.pdf > PDFs/941642/nypd_cases_316.pdf
