@@ -8398,3 +8398,6 @@ https://s3.documentcloud.org/documents/22085958/seh_957891.pdf > PDFs/957891/seh
 https://s3.documentcloud.org/documents/25980304/201806813-redactedclosingreport-redacted.pdf > PDFs/956414/201806813_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25899164/201509070-redactedclosingreport-redacted.pdf > PDFs/956414/201509070_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21057331/barounis-956414.pdf > PDFs/956414/barounis_956414.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RS1VrmB8Y68GDRp3IeFgkQ== > PDFs/963010/816278_2021e_kelcey_marrero_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=l6x4_PLUS_LFKDhAN154Wmi1ovQ== > PDFs/926642/503836_2014_jeremy_germain_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vQ9HLfZ997ZOE072Twv8EQ== > PDFs/958722/520551_2019_james_ulysse_v_city_of_new_york_et_al_summons_complaint_1.pdf
