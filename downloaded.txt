@@ -7614,3 +7614,9 @@ https://s3.documentcloud.org/documents/5378157/Jackson-et-al-v-City-of-New-York-
 https://s3.documentcloud.org/documents/21020047/abreu-df3092023001a1c1a7538fb0cb18dbb3345031a2.pdf > PDFs/933590/abreu_df3092023001a1c1a7538fb0cb18dbb3345031a2.pdf
 https://s3.documentcloud.org/documents/21057237/abreu-933590.pdf > PDFs/933590/abreu_933590.pdf
 https://s3.documentcloud.org/documents/21057405/brito-957402-01-27-21.pdf > PDFs/957402/brito_957402_01_27_21.pdf
+https://s3.documentcloud.org/documents/21057977/giglio_espaillat-963975.pdf > PDFs/963975/giglio_espaillat_963975.pdf
+https://s3.documentcloud.org/documents/23871253/giglio_solomon-957183-22-4145-1.pdf > PDFs/960057/giglio_solomon_957183_22_4145_1.pdf
+https://s3.documentcloud.org/documents/21056827/ettienne-963507-03-16-21.pdf > PDFs/963507/ettienne_963507_03_16_21.pdf
+https://s3.documentcloud.org/documents/23871208/giglio_971149000_mohsin-971149-02-14-23.pdf > PDFs/971149/giglio_971149000_mohsin_971149_02_14_23.pdf
+https://s3.documentcloud.org/documents/21066529/henry-966101-04-21-21.pdf > PDFs/966101/henry_966101_04_21_21.pdf
+https://s3.documentcloud.org/documents/24441508/8047_bradygiglio_966101000_henry-966101-09-20-23.pdf > PDFs/966101/8047_bradygiglio_966101000_henry_966101_09_20_23.pdf
