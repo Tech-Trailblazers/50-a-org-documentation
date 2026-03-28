@@ -2865,3 +2865,17 @@ https://s3.documentcloud.org/documents/4922586/Simon-et-al-v-The-City-Of-New-Yor
 https://s3.documentcloud.org/documents/4921822/Paniagua-v-City-of-New-York.pdf > PDFs/943214/paniagua_v_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4419163/nypd-cases-149.pdf > PDFs/929498/nypd_cases_149.pdf
 https://s3.documentcloud.org/documents/25281669/201707619_redactedclosingreport_redacted.pdf > PDFs/946447/201707619_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21030693/df-caballero915385.pdf > PDFs/951385/df_caballero915385.pdf
+https://s3.documentcloud.org/documents/25520242/202004682_redactedclosingreport_redacted.pdf > PDFs/948203/202004682_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23469890/202004800_tax948203_redacteddepartureletterpdf.pdf > PDFs/948203/202004800_tax948203_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/25523500/202001725_redactedclosingreport_redacted.pdf > PDFs/948203/202001725_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25519921/201311583_redactedclosingreport_redacted.pdf > PDFs/948203/201311583_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520241/201309077_redactedclosingreport_redacted.pdf > PDFs/948203/201309077_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522558/201004235_redactedclosingreport_redacted.pdf > PDFs/948203/201004235_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21015461/daf-dones948203.pdf > PDFs/948203/daf_dones948203.pdf
+https://s3.documentcloud.org/documents/22085632/seh_948203.pdf > PDFs/948203/seh_948203.pdf
+https://s3.documentcloud.org/documents/26206432/202303584-tax960565-apu-final-documentspdf.pdf > PDFs/960565/202303584_tax960565_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25525999/202201741.pdf > PDFs/966287/202201741.pdf
+https://s3.documentcloud.org/documents/26473670/202300229_redactedclosingreportpdf.pdf > PDFs/949418/202300229_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25023284/201908344_redactedclosingreport_redacted.pdf > PDFs/949418/201908344_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25899151/201506055-redactedclosingreport-redacted.pdf > PDFs/949418/201506055_redactedclosingreport_redacted.pdf
