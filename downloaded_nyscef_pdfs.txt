@@ -6063,3 +6063,8 @@ https://s3.documentcloud.org/documents/4920184/Pruitt-v-The-City-of-New-York-et-
 https://s3.documentcloud.org/documents/21028160/rivera-ee1df7153439498fb81f60c56cafecacc7dd87d0.pdf > PDFs/947835/rivera_ee1df7153439498fb81f60c56cafecacc7dd87d0.pdf
 https://s3.documentcloud.org/documents/4920321/Holland-v-City-of-New-York-et-al.pdf > PDFs/950129/holland_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21054494/arora-954504-05-25-21.pdf > PDFs/954504/arora_954504_05_25_21.pdf
+https://s3.documentcloud.org/documents/4922800/Quinones-v-City-of-New-York-et-al.pdf > PDFs/944053/quinones_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922801/Quinones-v-City-of-New-York-et-al.pdf > PDFs/944053/quinones_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26180590/966066_08062025_2025034pdf.pdf > PDFs/966066/966066_08062025_2025034pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AKFvC0aWjkkLmu/h4h4LhA== > PDFs/964084/515567_2023_ramel_miller_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058383/kelly-964084-09-30-20giglio.pdf > PDFs/964084/kelly_964084_09_30_20giglio.pdf
