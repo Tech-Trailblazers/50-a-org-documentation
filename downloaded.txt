@@ -15539,3 +15539,7 @@ https://s3.documentcloud.org/documents/21029069/soliman-57d136d027e9459f4d973c87
 https://s3.documentcloud.org/documents/26284203/201410919-redactedclosingreport-redacted.pdf > PDFs/951031/201410919_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/26182882/201404540_redactedclosingreportpdf.pdf > PDFs/924257/201404540_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/23577617/2018_inzhin_17cv07047.pdf > PDFs/924257/2018_inzhin_17cv07047.pdf
+https://s3.documentcloud.org/documents/25521106/200401610_redactedclosingreport_redacted.pdf > PDFs/896674/200401610_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21028305/rubin-191d66ba5638f6618a608a841712fd9bf6ad5f22.pdf > PDFs/896674/rubin_191d66ba5638f6618a608a841712fd9bf6ad5f22.pdf
+https://s3.documentcloud.org/documents/21054317/giglio_abouabdallah-967736-04-28-21.pdf > PDFs/967736/giglio_abouabdallah_967736_04_28_21.pdf
+https://s3.documentcloud.org/documents/4921863/Burgess-v-The-City-of-New-York-et-al.pdf > PDFs/889639/burgess_v_the_city_of_new_york_et_al.pdf
