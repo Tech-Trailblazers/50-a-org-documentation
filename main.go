@@ -609,13 +609,13 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 		return commandsPageError // Returns the commands page fetch error to the caller.
 	} // Ends the commands page fetch error check.
 
-	if commandSliceReverse {
-		slices.Reverse(commandsPageDocument)
-	}
-
 	var commandPageLinks []string                                    // Stores every command page link found on the commands page.
 	collectCommandPageLinks(commandsPageDocument, &commandPageLinks) // Extracts the command page links from the commands page document.
 	fmt.Println("Commands found:", len(commandPageLinks))            // Logs how many command pages were discovered.
+
+	if commandSliceReverse {
+		slices.Reverse(commandPageLinks)
+	}
 
 	downloadedDocumentURLs := make(map[string]bool) // Tracks document URLs that have already been downloaded.
 
