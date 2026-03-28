@@ -11921,3 +11921,13 @@ https://s3.documentcloud.org/documents/4922496/Miles-v-City-of-New-York-et-al.pd
 https://s3.documentcloud.org/documents/21022365/dellatacoma-e4326b44d2acc7ef51ceb073a1eeb18441f9e085.pdf > PDFs/944465/dellatacoma_e4326b44d2acc7ef51ceb073a1eeb18441f9e085.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bbc1LJk1KcLko336LRF86Q== > PDFs/962475/808250_2022e_giovonna_brighthart_et_v_giovonna_brighthart_et_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21058052/giglio_kotake-959737-12-03-20.pdf > PDFs/959737/giglio_kotake_959737_12_03_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_4XSgV0XNEk7nyFAWEQpAg== > PDFs/962041/34166_2019e_santos_vilella_jr_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hltJwjAMrRRAgrToh89Adw== > PDFs/947635/704637_2015_frank_demartino_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/23846818/giglio_965649000_alam-965649-03-29-23.pdf > PDFs/965649/giglio_965649000_alam_965649_03_29_23.pdf
+https://s3.documentcloud.org/documents/23861693/giglio_alam-965649-21-27834_redacted.pdf > PDFs/965649/giglio_alam_965649_21_27834_redacted.pdf
+https://s3.documentcloud.org/documents/24179217/201905976_redactedclosingreport_redacted.pdf > PDFs/940737/201905976_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=O8jM4NH7yBnOfVVrtt8TSw== > PDFs/940737/160893_2023_romeo_vairo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921956/Gondola-v-City-of-New-York-et-al.pdf > PDFs/940737/gondola_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921957/Gondola-v-City-of-New-York-et-al.pdf > PDFs/940737/gondola_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23741491/201908928_redactedclosingreport_redacted.pdf > PDFs/953093/201908928_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522568/201206068_redactedclosingreport_redacted.pdf > PDFs/944245/201206068_redactedclosingreport_redacted.pdf
