@@ -3940,3 +3940,12 @@ https://s3.documentcloud.org/documents/5378146/Johnson-et-al-v-City-of-New-York-
 https://s3.documentcloud.org/documents/4919934/Watts-v-New-York-City-Police-Dept-et-al.pdf > PDFs/924458/watts_v_new_york_city_police_dept_et_al.pdf
 https://s3.documentcloud.org/documents/4918566/Carty-v-City-of-New-York-et-al.pdf > PDFs/924458/carty_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4918567/Carty-v-City-of-New-York-et-al.pdf > PDFs/924458/carty_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058116/giglio_owens-954201-05-17-21.pdf > PDFs/954201/giglio_owens_954201_05_17_21.pdf
+https://s3.documentcloud.org/documents/25023178/201503434_redactedclosingreport_redacted.pdf > PDFs/943244/201503434_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920737/Disisto-v-The-City-of-New-York-et-al.pdf > PDFs/943244/disisto_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21023231/florez-76f254c85e55645877c292e6d71216abc7927052.pdf > PDFs/943244/florez_76f254c85e55645877c292e6d71216abc7927052.pdf
+https://s3.documentcloud.org/documents/22085220/seh_924823.pdf > PDFs/924823/seh_924823.pdf
+https://s3.documentcloud.org/documents/25869342/201900230_closingreport.pdf > PDFs/944130/201900230_closingreport.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zkcE3RZaQXV8dI4SMBkYgg==&__cf_chl_rt_tk=Zqq4.M55PzgJa8FSiy4hL96pCszFmvP_6bKl7haSamI-1727214702-0.0.1.1-5716 > PDFs/944130/162273_2019_aaron_grissom_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21193687/dejesus_958484.pdf > PDFs/958484/dejesus_958484.pdf
+https://s3.documentcloud.org/documents/21015333/daf-dejesus958484.pdf > PDFs/958484/daf_dejesus958484.pdf
