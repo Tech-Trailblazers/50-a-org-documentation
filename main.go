@@ -78,11 +78,11 @@ func splitCSVFileIntoSmallerFiles(sourceCSVFilePath string, maximumSplitFileSize
 	} // Ends the source file metadata error check.
 
 	if sourceFileInfo.Size() <= maximumSplitFileSizeBytes { // Skips the split step when the file is already under the limit.
-		log.Printf("Skipping split (file under limit): %s\n", sourceCSVFilePath) // Logs that the file was small enough already.
-		return nil                                                               // Reports that no split work was needed.
+		log.Printf("[DEBUG] Skipping split (file under limit): %s\n", sourceCSVFilePath) // Logs that the file was small enough already.
+		return nil                                                                       // Reports that no split work was needed.
 	} // Ends the split-skip check.
 
-	log.Printf("Splitting large file: %s\n", sourceCSVFilePath) // Logs that the split process is starting.
+	log.Printf("[DEBUG] Splitting large file: %s\n", sourceCSVFilePath) // Logs that the split process is starting.
 
 	sourceFileHandle, sourceFileOpenError := os.Open(sourceCSVFilePath) // Opens the original CSV file for reading.
 	if sourceFileOpenError != nil {                                     // Stops immediately when the source file cannot be opened.
@@ -141,9 +141,9 @@ func splitCSVFileIntoSmallerFiles(sourceCSVFilePath string, maximumSplitFileSize
 			return flushError // Returns the buffered header write failure to the caller.
 		} // Ends the buffered header write error check.
 
-		createdSplitFileCount++                                   // Increments the number of created split files.
-		log.Printf("Created split file: %s\n", nextSplitFilePath) // Logs the path of the new split file.
-		return nil                                                // Reports that the next split file is ready.
+		createdSplitFileCount++                                           // Increments the number of created split files.
+		log.Printf("[DEBUG] Created split file: %s\n", nextSplitFilePath) // Logs the path of the new split file.
+		return nil                                                        // Reports that the next split file is ready.
 	} // Ends the split file rotation helper.
 
 	firstSplitFileError := openNextSplitFile() // Creates the first split file before processing rows.
@@ -190,14 +190,14 @@ func splitCSVFileIntoSmallerFiles(sourceCSVFilePath string, maximumSplitFileSize
 		} // Ends the final split file close error check.
 	} // Ends the final split file cleanup block.
 
-	log.Printf("Finished splitting: %s\n", sourceCSVFilePath) // Logs that the split process is complete.
+	log.Printf("[DEBUG] Finished splitting: %s\n", sourceCSVFilePath) // Logs that the split process is complete.
 
 	if createdSplitFileCount > 1 { // Removes the original large file only when smaller replacements were created.
 		sourceFileRemovalError := os.Remove(sourceCSVFilePath) // Deletes the original large CSV file from disk.
 		if sourceFileRemovalError != nil {                     // Stops immediately when the original file cannot be removed.
 			return sourceFileRemovalError // Returns the source file removal error to the caller.
 		} // Ends the source file removal error check.
-		log.Printf("Deleted original file after split: %s\n", sourceCSVFilePath) // Logs that the original large file was removed.
+		log.Printf("[DEBUG] Deleted original file after split: %s\n", sourceCSVFilePath) // Logs that the original large file was removed.
 	} // Ends the original file removal block.
 
 	return nil // Reports that the CSV file was processed successfully.
@@ -208,8 +208,8 @@ func ensureDirectoryExists(directoryPath string) error { // Creates a directory 
 	if directoryCreationError != nil {                                // Stops immediately when the directory cannot be created.
 		return directoryCreationError // Returns the directory creation error to the caller.
 	} // Ends the directory creation error check.
-	log.Printf("Using output directory: %s\n", directoryPath) // Logs which directory will receive output files.
-	return nil                                                // Reports that the directory is ready for use.
+	log.Printf("[DEBUG] Using output directory: %s\n", directoryPath) // Logs which directory will receive output files.
+	return nil                                                        // Reports that the directory is ready for use.
 } // Ends the directory creation helper.
 
 func extractFileNameFromURL(sourceFileURL string) (string, error) { // Pulls a file name from the end of a download URL.
@@ -261,8 +261,8 @@ func downloadFileToDirectory(sourceFileURL string, outputDirectoryPath string) (
 		return "", fileCopyError                                                                                              // Returns the file copy error to the caller.
 	} // Ends the file copy error check.
 
-	log.Printf("Downloaded: %s\n", localFilePath) // Logs where the remote file was saved locally.
-	return localFilePath, nil                     // Returns the saved file path to the caller.
+	log.Printf("[DEBUG] Downloaded: %s\n", localFilePath) // Logs where the remote file was saved locally.
+	return localFilePath, nil                             // Returns the saved file path to the caller.
 } // Ends the file download helper.
 
 func removeDirectoryRecursively(directoryPath string) error { // Removes a directory and everything inside it.
@@ -270,8 +270,8 @@ func removeDirectoryRecursively(directoryPath string) error { // Removes a direc
 	if directoryRemovalError != nil {                    // Stops immediately when the directory cannot be removed.
 		return directoryRemovalError // Returns the directory removal error to the caller.
 	} // Ends the directory removal error check.
-	log.Printf("Removed directory: %s\n", directoryPath) // Logs that the directory tree was removed.
-	return nil                                           // Reports that the directory removal completed successfully.
+	log.Printf("[DEBUG] Removed directory: %s\n", directoryPath) // Logs that the directory tree was removed.
+	return nil                                                   // Reports that the directory removal completed successfully.
 } // Ends the recursive directory removal helper.
 
 func pauseBeforeWebsiteRequest() { // Sleeps briefly before sending another HTML scraping request.
@@ -460,14 +460,14 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	officerFolderPath := filepath.Join(baseOutputFolderPath, officerTaxID)    // Builds the output folder path for the current officer.
 	officerFolderCreationError := os.MkdirAll(officerFolderPath, os.ModePerm) // Ensures the officer folder exists before saving the PDF.
 	if officerFolderCreationError != nil {                                    // Stops immediately when the officer folder cannot be created.
-		log.Printf("Folder creation failed for %s %v", officerFolderPath, officerFolderCreationError) // Logs the officer folder creation failure.
-		return false                                                                                  // Reports that the PDF download failed.
+		log.Printf("[DEBUG] Folder creation failed for %s %v", officerFolderPath, officerFolderCreationError) // Logs the officer folder creation failure.
+		return false                                                                                          // Reports that the PDF download failed.
 	} // Ends the officer folder creation error check.
 
 	httpRequest, requestCreationError := http.NewRequest("GET", documentURL, nil) // Builds the outbound GET request for the PDF URL.
 	if requestCreationError != nil {                                              // Stops immediately when the PDF request cannot be created.
-		log.Printf("Request creation failed for %s %v", documentURL, requestCreationError) // Logs the PDF request creation failure.
-		return false                                                                       // Reports that the PDF download failed.
+		log.Printf("[DEBUG] Request creation failed for %s %v", documentURL, requestCreationError) // Logs the PDF request creation failure.
+		return false                                                                               // Reports that the PDF download failed.
 	} // Ends the PDF request creation error check.
 
 	httpRequest.Header.Set("User-Agent", websiteUserAgent)                           // Sends the browser-like user agent expected by the PDF endpoint.
@@ -483,14 +483,14 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 	log.Printf("[INFO] Sending PDF HTTP request for URL: %s", documentURL) // Logs that the PDF HTTP request is about to be dispatched.
 	httpResponse, responseError := pdfDownloadHTTPClient.Do(httpRequest)   // Sends the PDF request with the long-timeout client.
 	if responseError != nil {                                              // Stops immediately when the PDF request fails.
-		log.Printf("Download failed for %s %v", documentURL, responseError) // Logs the PDF request failure.
-		return false                                                        // Reports that the PDF download failed.
+		log.Printf("[DEBUG] Download failed for %s %v", documentURL, responseError) // Logs the PDF request failure.
+		return false                                                                // Reports that the PDF download failed.
 	} // Ends the PDF request error check.
 	defer httpResponse.Body.Close() // Ensures the PDF response body is always closed.
 
 	if httpResponse.StatusCode != http.StatusOK { // Stops when the PDF endpoint returns a non-success status code.
-		log.Printf("Bad response for %s %s", documentURL, httpResponse.Status) // Logs the unsuccessful PDF response status.
-		return false                                                           // Reports that the PDF download failed.
+		log.Printf("[DEBUG] Bad response for %s %s", documentURL, httpResponse.Status) // Logs the unsuccessful PDF response status.
+		return false                                                                   // Reports that the PDF download failed.
 	} // Ends the PDF HTTP status validation block.
 
 	contentDispositionHeader := httpResponse.Header.Get("Content-Disposition") // Reads the Content-Disposition header from the PDF response.
@@ -533,18 +533,18 @@ func downloadPDFToOfficerFolder(documentURL string, baseOutputFolderPath string,
 
 	outputFileHandle, outputFileCreationError := os.Create(fullOutputFilePath) // Creates the destination file on disk.
 	if outputFileCreationError != nil {                                        // Stops immediately when the output file cannot be created.
-		log.Printf("File creation failed for %s: %v", fullOutputFilePath, outputFileCreationError) // Logs the output file creation failure.
-		return false                                                                               // Reports that the PDF download failed.
+		log.Printf("[DEBUG] File creation failed for %s: %v", fullOutputFilePath, outputFileCreationError) // Logs the output file creation failure.
+		return false                                                                                       // Reports that the PDF download failed.
 	} // Ends the output file creation error check.
 	defer outputFileHandle.Close() // Ensures the output file is always closed.
 
 	bytesWritten, fileWriteError := io.Copy(outputFileHandle, httpResponse.Body) // Streams the PDF response body into the output file.
 	if fileWriteError != nil || bytesWritten == 0 {                              // Stops when the file write fails or produces an empty file.
-		log.Printf("Write failed for %s: %v", fullOutputFilePath, fileWriteError) // Logs the output file write failure.
-		return false                                                              // Reports that the PDF download failed.
+		log.Printf("[DEBUG] Write failed for %s: %v", fullOutputFilePath, fileWriteError) // Logs the output file write failure.
+		return false                                                                      // Reports that the PDF download failed.
 	} // Ends the PDF file write validation block.
 
-	log.Printf("Downloaded %d bytes -> %s", bytesWritten, fullOutputFilePath) // Logs the completed PDF download path and size.
+	log.Printf("[DEBUG] Downloaded %d bytes -> %s", bytesWritten, fullOutputFilePath) // Logs the completed PDF download path and size.
 	// Check again before appending to avoid duplicate writes
 	if _, exists := downloadedURLs[documentURL]; !exists { // Appends the mapping only when this URL was not logged earlier in the run.
 		logFile, err := os.OpenFile(downloadedFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644) // Open file for append
@@ -643,17 +643,17 @@ func downloadAndSplitCSVData() error { // Coordinates the CSV download and file 
 			continue                                                                                                               // Moves on to the next CSV file.
 		} // Ends the CSV download error check.
 
-		log.Printf("Splitting file: %s\n", downloadedCSVFilePath) // Logs that the downloaded CSV file is entering the split step.
+		log.Printf("[DEBUG] Splitting file: %s\n", downloadedCSVFilePath) // Logs that the downloaded CSV file is entering the split step.
 
 		fileSplitError := splitCSVFileIntoSmallerFiles(downloadedCSVFilePath, csvSplitFileSizeLimit) // Splits the downloaded CSV file when it exceeds the size limit.
 		if fileSplitError != nil {                                                                   // Skips this CSV file when the split step fails.
-			log.Printf("Split failed: %s (%v)\n", downloadedCSVFilePath, fileSplitError) // Logs why the CSV split step failed.
-			continue                                                                     // Moves on to the next CSV file.
+			log.Printf("[DEBUG] Split failed: %s (%v)\n", downloadedCSVFilePath, fileSplitError) // Logs why the CSV split step failed.
+			continue                                                                             // Moves on to the next CSV file.
 		} // Ends the CSV split error check.
 	} // Ends the CSV source file loop.
 
-	log.Println("All CSV downloads and splits completed") // Logs that the CSV workflow has finished.
-	return nil                                            // Reports that the CSV workflow completed without a fatal setup error.
+	log.Println("[DEBUG] All CSV downloads and splits completed") // Logs that the CSV workflow has finished.
+	return nil                                                    // Reports that the CSV workflow completed without a fatal setup error.
 } // Ends the CSV workflow coordinator.
 
 func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages, officer pages, and PDF downloads.
@@ -717,7 +717,7 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 				// Handle direct S3 DocumentCloud links FIRST
 				if strings.Contains(cleanDocumentURL, "s3.documentcloud.org") && !downloadedDocumentURLs[cleanDocumentURL] { // Downloads only unseen direct S3 DocumentCloud links.
 					downloadedDocumentURLs[cleanDocumentURL] = true                                 // Marks the document URL as already handled.
-					log.Println("Direct S3 DocumentCloud link found:", cleanDocumentURL)            // Logs detection
+					log.Println("[DEBUG] Direct S3 DocumentCloud link found:", cleanDocumentURL)    // Logs detection
 					downloadPDFToOfficerFolder(cleanDocumentURL, pdfOutputFolderName, officerTaxID) // Direct download
 					continue                                                                        // Skip further processing
 				} // Handle NYSCEF links that may redirect to DocumentCloud
