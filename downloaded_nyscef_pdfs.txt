@@ -1520,3 +1520,11 @@ https://s3.documentcloud.org/documents/25281696/201905740_redactedclosingreport_
 https://s3.documentcloud.org/documents/21016924/daf-graf-946025.pdf > PDFs/964025/daf_graf_946025.pdf
 https://s3.documentcloud.org/documents/4928512/Hincapie-v-City-of-New-York-et-al.pdf > PDFs/937490/hincapie_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21031357/daf-santoro937490.pdf > PDFs/937490/daf_santoro937490.pdf
+https://s3.documentcloud.org/documents/22119492/943876_01282013_2013061pdf.pdf > PDFs/943876/943876_01282013_2013061pdf.pdf
+https://s3.documentcloud.org/documents/4419019/nypd-cases-434.pdf > PDFs/943876/nypd_cases_434.pdf
+https://s3.documentcloud.org/documents/25526125/202208613.pdf > PDFs/936506/202208613.pdf
+https://s3.documentcloud.org/documents/25345416/202208613-tax936506-apu-final-documentspdf.pdf > PDFs/936506/202208613_tax936506_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21574280/201610022-dono.pdf > PDFs/936506/201610022_dono.pdf
+https://s3.documentcloud.org/documents/23903648/201801585_redactedclosingreport_redacted.pdf > PDFs/936386/201801585_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23873996/201902715_redactedclosingreport_redacted.pdf > PDFs/951148/201902715_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25556054/201213946-redactedclosingreport-redacted.pdf > PDFs/951148/201213946_redactedclosingreport_redacted.pdf
