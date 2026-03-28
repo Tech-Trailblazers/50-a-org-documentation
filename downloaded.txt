@@ -11917,3 +11917,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YNlFCAEB0B72SdnmIz
 https://s3.documentcloud.org/documents/21017995/daf-westendorf941256.pdf > PDFs/941256/daf_westendorf941256.pdf
 https://s3.documentcloud.org/documents/5378196/Lee-v-Corneil-et-al.pdf > PDFs/928115/lee_v_corneil_et_al.pdf
 https://s3.documentcloud.org/documents/4921940/Rios-v-Mantellino-et-al.pdf > PDFs/920550/rios_v_mantellino_et_al.pdf
+https://s3.documentcloud.org/documents/4922496/Miles-v-City-of-New-York-et-al.pdf > PDFs/940948/miles_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21022365/dellatacoma-e4326b44d2acc7ef51ceb073a1eeb18441f9e085.pdf > PDFs/944465/dellatacoma_e4326b44d2acc7ef51ceb073a1eeb18441f9e085.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bbc1LJk1KcLko336LRF86Q== > PDFs/962475/808250_2022e_giovonna_brighthart_et_v_giovonna_brighthart_et_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058052/giglio_kotake-959737-12-03-20.pdf > PDFs/959737/giglio_kotake_959737_12_03_20.pdf
