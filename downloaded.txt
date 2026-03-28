@@ -6536,3 +6536,13 @@ https://s3.documentcloud.org/documents/21057326/baranek-953660-giglio.pdf > PDFs
 https://s3.documentcloud.org/documents/5379063/White-v-Silver.pdf > PDFs/942547/white_v_silver.pdf
 https://s3.documentcloud.org/documents/21025480/martell-c6d61b9dcd22a1822eb692a960afd2e7fdd20cbd.pdf > PDFs/940430/martell_c6d61b9dcd22a1822eb692a960afd2e7fdd20cbd.pdf
 https://s3.documentcloud.org/documents/21066539/kester-940332-03-23-21-giglio.pdf > PDFs/940332/kester_940332_03_23_21_giglio.pdf
+https://s3.documentcloud.org/documents/4419052/nypd-cases-419.pdf > PDFs/934005/nypd_cases_419.pdf
+https://s3.documentcloud.org/documents/4922690/Brown-v-City-of-New-York-et-al.pdf > PDFs/934005/brown_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21026618/mohip-54f1b7a946c2309f955e45bc3889e16f4585894b.pdf > PDFs/934005/mohip_54f1b7a946c2309f955e45bc3889e16f4585894b.pdf
+https://s3.documentcloud.org/documents/21056271/sneed-902427-12-25-19.pdf > PDFs/902427/sneed_902427_12_25_19.pdf
+https://s3.documentcloud.org/documents/24415537/7950_iab_prinston-954245-18-34908_redacted.pdf > PDFs/902427/7950_iab_prinston_954245_18_34908_redacted.pdf
+https://s3.documentcloud.org/documents/23824862/966961000_betesevic-966961-12-30-22.pdf > PDFs/966961/966961000_betesevic_966961_12_30_22.pdf
+https://s3.documentcloud.org/documents/24415663/7957_iab_prinston-954245-20-15913_redacted.pdf > PDFs/967789/7957_iab_prinston_954245_20_15913_redacted.pdf
+https://s3.documentcloud.org/documents/4921376/Ramoodit-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939967/ramoodit_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921378/Ramoodit-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939967/ramoodit_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921377/Ramoodit-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939967/ramoodit_et_al_v_the_city_of_new_york_et_al.pdf
