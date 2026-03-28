@@ -2954,3 +2954,4 @@ https://s3.documentcloud.org/documents/25522373/201301525_redactedclosingreport_
 https://s3.documentcloud.org/documents/25522632/201103767_redactedclosingreport_redacted.pdf > PDFs/944715/201103767_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22119148/944715_09232015_2015124pdf.pdf > PDFs/944715/944715_09232015_2015124pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bsOeKfF9_PLUS_jo7zHxUAXJbBw== > PDFs/943517/23970_2013e_ben_jordan_boaz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/H6Df5NHJ8lFbV5TDZvmwQ== > PDFs/960946/811252_2024e_donnie_mccray_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
