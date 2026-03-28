@@ -1624,3 +1624,14 @@ https://s3.documentcloud.org/documents/4419097/nypd-cases-036.pdf > PDFs/921326/
 https://s3.documentcloud.org/documents/4922202/Sherrard-v-City-of-New-York-et-al.pdf > PDFs/951803/sherrard_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922203/Sherrard-v-City-of-New-York-et-al.pdf > PDFs/951803/sherrard_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920919/Walston-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/953108/walston_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21615408/soldano_brady.pdf > PDFs/961311/soldano_brady.pdf
+https://s3.documentcloud.org/documents/25977739/201900499-redactedclosingreport-redacted.pdf > PDFs/930062/201900499_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525530/202003761.pdf > PDFs/968311/202003761.pdf
+https://s3.documentcloud.org/documents/22086499/seh_968311.pdf > PDFs/968311/seh_968311.pdf
+https://s3.documentcloud.org/documents/4418976/nypd-cases-152.pdf > PDFs/950025/nypd_cases_152.pdf
+https://s3.documentcloud.org/documents/4919201/Hernandez-v-City-of-New-York-et-al.pdf > PDFs/931768/hernandez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25525668/202005547.pdf > PDFs/964466/202005547.pdf
+https://s3.documentcloud.org/documents/26301172/9112-ccrb-202000114.pdf > PDFs/964466/9112_ccrb_202000114.pdf
+https://s3.documentcloud.org/documents/21039702/df-vargas921830.pdf > PDFs/921830/df_vargas921830.pdf
+https://s3.documentcloud.org/documents/21039617/daf-vargas921830.pdf > PDFs/921830/daf_vargas921830.pdf
+https://s3.documentcloud.org/documents/21039708/daf-mckinnon943553.pdf > PDFs/943553/daf_mckinnon943553.pdf
