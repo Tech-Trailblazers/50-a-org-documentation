@@ -11250,3 +11250,6 @@ https://s3.documentcloud.org/documents/25522368/201102756_redactedclosingreport_
 https://s3.documentcloud.org/documents/22118890/933677_02152011_2011051pdf.pdf > PDFs/933677/933677_02152011_2011051pdf.pdf
 https://s3.documentcloud.org/documents/21026825/munawar-21b3c15a574c0da2ee5c6b9c1253be81b92e5389.pdf > PDFs/948564/munawar_21b3c15a574c0da2ee5c6b9c1253be81b92e5389.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=os5niS_PLUS_ndTsTbnyCFTWbkg== > PDFs/942152/152858_2014_darnell_johnson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/5378235/Sanchez-v-City-of-New-York-Office-et-al.pdf > PDFs/923437/sanchez_v_city_of_new_york_office_et_al.pdf
+https://s3.documentcloud.org/documents/22090012/962238_12092021_2021074pdf.pdf > PDFs/962238/962238_12092021_2021074pdf.pdf
+https://s3.documentcloud.org/documents/21057324/baloch-962238-02-04-21.pdf > PDFs/962238/baloch_962238_02_04_21.pdf
