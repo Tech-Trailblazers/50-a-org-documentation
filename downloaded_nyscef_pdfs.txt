@@ -2548,3 +2548,12 @@ https://s3.documentcloud.org/documents/4923827/Reyes-et-al-v-City-of-New-York.pd
 https://s3.documentcloud.org/documents/5379238/Melvin-v-Navarro-et-al.pdf > PDFs/939253/melvin_v_navarro_et_al.pdf
 https://s3.documentcloud.org/documents/5379237/Parker-v-The-City-of-New-York-et-al.pdf > PDFs/939253/parker_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21019942/daf-baboolal924906.pdf > PDFs/924906/daf_baboolal924906.pdf
+https://s3.documentcloud.org/documents/25526178/202303046.pdf > PDFs/928984/202303046.pdf
+https://s3.documentcloud.org/documents/21016877/daf-morales963169.pdf > PDFs/963169/daf_morales963169.pdf
+https://s3.documentcloud.org/documents/26303028/202205410_redactedclosingreportpdf.pdf > PDFs/973117/202205410_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23380687/201907939_redactedclosingreport_redacted.pdf > PDFs/948412/201907939_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5378962/Blount-v-Puskas-et-al.pdf > PDFs/948412/blount_v_puskas_et_al.pdf
+https://s3.documentcloud.org/documents/25281698/201905887_redactedclosingreport_redacted.pdf > PDFs/961273/201905887_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522270/201808324_redactedclosingreport_redacted.pdf > PDFs/962682/201808324_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086225/seh_962682.pdf > PDFs/962682/seh_962682.pdf
+https://s3.documentcloud.org/documents/4921643/Patton-v-The-City-Of-New-York-et-al.pdf > PDFs/938339/patton_v_the_city_of_new_york_et_al.pdf
