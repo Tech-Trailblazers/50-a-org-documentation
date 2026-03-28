@@ -7112,3 +7112,5 @@ https://s3.documentcloud.org/documents/21022173/czech-e4fe2371fe3921d3357887d136
 https://s3.documentcloud.org/documents/21057592/davis-936439-07-01-20.pdf > PDFs/936439/davis_936439_07_01_20.pdf
 https://s3.documentcloud.org/documents/21057638/diggs-950324-04-19-21.pdf > PDFs/950324/diggs_950324_04_19_21.pdf
 https://s3.documentcloud.org/documents/21658478/giglio_giannantonio-956675-02-23-21.pdf > PDFs/956675/giglio_giannantonio_956675_02_23_21.pdf
+https://s3.documentcloud.org/documents/21027809/quinn-4de8eca3c822648f7dafd995bc169f7a19b7e597.pdf > PDFs/953281/quinn_4de8eca3c822648f7dafd995bc169f7a19b7e597.pdf
+https://s3.documentcloud.org/documents/21066779/suarez-963770-07-06-21.pdf > PDFs/963770/suarez_963770_07_06_21.pdf
