@@ -4166,3 +4166,15 @@ https://s3.documentcloud.org/documents/21025394/mamedov-101c6749059b2237e649baed
 https://s3.documentcloud.org/documents/21058518/mamedov-965787-04-09-21.pdf > PDFs/965787/mamedov_965787_04_09_21.pdf
 https://s3.documentcloud.org/documents/22086395/seh_965787.pdf > PDFs/965787/seh_965787.pdf
 https://s3.documentcloud.org/documents/21023182/finn-700ac44dabeea9df299840c4e6b53ca4d6ffb358.pdf > PDFs/950414/finn_700ac44dabeea9df299840c4e6b53ca4d6ffb358.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g4iUNSvwBqwg66i2kcBqaw== > PDFs/967769/511263_2022_michael_dankwah_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pxe65wIfWPOqQfUCAEsL4Q== > PDFs/967769/502576_2022_keemont_reynolds_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086485/seh_967769.pdf > PDFs/967769/seh_967769.pdf
+https://s3.documentcloud.org/documents/25977855/201903882-redactedclosingreport-redacted.pdf > PDFs/956595/201903882_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21022521/dicostanzo-b5ac39940efec056c692566197260ebb71f61138.pdf > PDFs/956595/dicostanzo_b5ac39940efec056c692566197260ebb71f61138.pdf
+https://s3.documentcloud.org/documents/25526138/202208801.pdf > PDFs/973212/202208801.pdf
+https://s3.documentcloud.org/documents/25040844/202208801-tax973212-apu-final-documentspdf.pdf > PDFs/973212/202208801_tax973212_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25522589/202104054_redactedclosingreport_redacted.pdf > PDFs/960834/202104054_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/LIX1Fyhd4vlM9/tD4vzew== > PDFs/960834/505407_2022_william_montalvo_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26187201/202007888_redactedclosingreportpdf.pdf > PDFs/959724/202007888_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23589471/2016_waldron_14cv08609.pdf > PDFs/945915/2016_waldron_14cv08609.pdf
+https://s3.documentcloud.org/documents/21024169/henry-2c9f66727ade67aae4631835466359ca61468361.pdf > PDFs/945915/henry_2c9f66727ade67aae4631835466359ca61468361.pdf
