@@ -10902,3 +10902,14 @@ https://s3.documentcloud.org/documents/4920635/Gordon-v-City-of-New-York-et-al.p
 https://s3.documentcloud.org/documents/4928071/McFarlane-v-City-Of-New-York-et-al.pdf > PDFs/947003/mcfarlane_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4928072/McFarlane-v-City-Of-New-York-et-al.pdf > PDFs/947003/mcfarlane_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920257/Glasgow-et-al-v-City-of-New-York-et-al.pdf > PDFs/947003/glasgow_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5378243/Brown-v-City-of-New-York-et-al.pdf > PDFs/957087/brown_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5378246/Brown-v-City-of-New-York-et-al.pdf > PDFs/957087/brown_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22085441/seh_940365.pdf > PDFs/940365/seh_940365.pdf
+https://s3.documentcloud.org/documents/21028153/rivera-0fa3fb8a0a7a67b8b3f7abd3a89cddedcbc4f0e2.pdf > PDFs/940365/rivera_0fa3fb8a0a7a67b8b3f7abd3a89cddedcbc4f0e2.pdf
+https://s3.documentcloud.org/documents/25897765/202206358_redactedclosingreportpdf.pdf > PDFs/962518/202206358_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CSjiyCmSgqUvplZ7uy1Rrw== > PDFs/962518/158586_2018_claudio_j_e_miranda_v_claudio_j_e_miranda_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26182831/201703794_redactedclosingreportpdf.pdf > PDFs/951753/201703794_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21057286/anton-952415-11-17-20.pdf > PDFs/952415/anton_952415_11_17_20.pdf
+https://s3.documentcloud.org/documents/21051882/arriaga-964894-01-07-20.pdf > PDFs/964894/arriaga_964894_01_07_20.pdf
+https://s3.documentcloud.org/documents/26301174/9099-ccrb-202000186.pdf > PDFs/924845/9099_ccrb_202000186.pdf
+https://s3.documentcloud.org/documents/22085221/seh_924845.pdf > PDFs/924845/seh_924845.pdf
