@@ -4513,3 +4513,6 @@ https://s3.documentcloud.org/documents/21058428/koncewicz-952945-10-09-20.pdf > 
 https://s3.documentcloud.org/documents/24767783/201505401_redactedclosingreport_redacted.pdf > PDFs/937209/201505401_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21058580/oggeri-937209-06-29-21.pdf > PDFs/937209/oggeri_937209_06_29_21.pdf
 https://s3.documentcloud.org/documents/21020079/acosta-02022b37989cd8b3d3c9112fd9cae55b9e177ebf.pdf > PDFs/949964/acosta_02022b37989cd8b3d3c9112fd9cae55b9e177ebf.pdf
+https://s3.documentcloud.org/documents/21058530/markarian-943522-1-17-20.pdf > PDFs/943522/markarian_943522_1_17_20.pdf
+https://s3.documentcloud.org/documents/21066502/giglio_nunez-966245-03-01-21.pdf > PDFs/966245/giglio_nunez_966245_03_01_21.pdf
+https://s3.documentcloud.org/documents/21058774/rodriguezpayano-967668-05-13-21.pdf > PDFs/967668/rodriguezpayano_967668_05_13_21.pdf
