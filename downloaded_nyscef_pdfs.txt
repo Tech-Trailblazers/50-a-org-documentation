@@ -3831,3 +3831,10 @@ https://s3.documentcloud.org/documents/25920589/201401653_redactedclosingreport_
 https://s3.documentcloud.org/documents/25920577/201012765_redactedclosingreport_redacted.pdf > PDFs/940835/201012765_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25920574/200818018_redactedclosingreport_redacted.pdf > PDFs/940835/200818018_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22085449/seh_940835.pdf > PDFs/940835/seh_940835.pdf
+https://s3.documentcloud.org/documents/4419313/nypd-cases-511.pdf > PDFs/937974/nypd_cases_511.pdf
+https://s3.documentcloud.org/documents/22089851/937974_12072011_2011002pdf.pdf > PDFs/937974/937974_12072011_2011002pdf.pdf
+https://s3.documentcloud.org/documents/25521001/200608201_redactedclosingreport_redacted.pdf > PDFs/919921/200608201_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0Mf_PLUS_bE6wS2/vK1ECB_PLUS_0/nA== > PDFs/898166/800095_2021e_yeltsin_beltran_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/5378928/Lloyd-v-Doe-et-al.pdf > PDFs/898166/lloyd_v_doe_et_al.pdf
+https://s3.documentcloud.org/documents/25897858/202002155_redactedclosingreportpdf.pdf > PDFs/967293/202002155_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6CUxm_PLUS_TMEcIPJe7Ly0OHvw== > PDFs/956830/21130_2018e_jay_vasquez_et_al_v_jay_vasquez_et_al_summons_complaint_1.pdf
