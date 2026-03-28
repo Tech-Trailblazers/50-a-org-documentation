@@ -3593,3 +3593,17 @@ https://s3.documentcloud.org/documents/21058827/sanchez-965504-01-08-21.pdf > PD
 https://s3.documentcloud.org/documents/22086019/seh_959324.pdf > PDFs/959324/seh_959324.pdf
 https://s3.documentcloud.org/documents/25091511/201904802_redactedclosingreport_redacted.pdf > PDFs/959220/201904802_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25023206/201609709_redactedclosingreport_redacted.pdf > PDFs/959220/201609709_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086243/seh_962943.pdf > PDFs/962943/seh_962943.pdf
+https://s3.documentcloud.org/documents/25525306/201907896.pdf > PDFs/959319/201907896.pdf
+https://s3.documentcloud.org/documents/23578244/201707857_redactedclosingreport_redacted.pdf > PDFs/959319/201707857_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922426/Treffy-v-The-City-of-New-York-et-al.pdf > PDFs/929051/treffy_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25525168/201803048.pdf > PDFs/959765/201803048.pdf
+https://s3.documentcloud.org/documents/25995207/201705336-redactedclosingreport-redacted.pdf > PDFs/959765/201705336_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26284171/201710181-redactedclosingreport-redacted.pdf > PDFs/959765/201710181_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=diOElokEN6oja/uhpZoTiw== > PDFs/959765/813877_2021e_jeremy_wiggins_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wbq30LUOMQ_PLUS_6e0fSoewXBw== > PDFs/952883/26944_2018e_lismarie_perez_morales_v_lismarie_perez_morales_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921328/McClellan-v-City-Of-New-York-et-al.pdf > PDFs/955811/mcclellan_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23690730/mcclellan-complaint.pdf > PDFs/955811/mcclellan_complaint.pdf
+https://s3.documentcloud.org/documents/23118549/201901322_redactedclosingreport_redacted.pdf > PDFs/956876/201901322_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25526086/202206430.pdf > PDFs/945241/202206430.pdf
+https://s3.documentcloud.org/documents/24520366/202206430_tax945241_redacteddepartureletterpdf.pdf > PDFs/945241/202206430_tax945241_redacteddepartureletterpdf.pdf
