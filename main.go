@@ -13,8 +13,9 @@ import ( // Imports the packages used by the CSV and PDF workflows.
 	"path"          // Extracts file names from URL paths.
 	"path/filepath" // Builds filesystem paths that work on the current operating system.
 	"regexp"        // Extracts structured values and normalizes file names.
-	"strings"       // Checks prefixes and normalizes string values.
-	"time"          // Controls sleep durations and network timeouts.
+	"slices"
+	"strings" // Checks prefixes and normalizes string values.
+	"time"    // Controls sleep durations and network timeouts.
 
 	"golang.org/x/net/html" // Parses HTML pages into traversable node trees.
 ) // Ends the import list.
@@ -49,6 +50,7 @@ var ( // Groups the shared runtime values used by the workflows.
 		"https://www.50-a.org/data/nypd/awards.csv",     // Points to the awards dataset.
 		"https://www.50-a.org/data/nypd/training.csv",   // Points to the training dataset.
 	} // Ends the CSV source URL list.
+	commandSliceReverse = true // Command slice reverse.
 ) // Ends the shared variable group.
 
 type countingFileWriter struct { // Tracks how many bytes have been written to the current split file.
@@ -606,6 +608,10 @@ func downloadOfficerPDFDocuments() error { // Coordinates scraping command pages
 	if commandsPageError != nil {                                                        // Stops immediately when the commands page cannot be fetched.
 		return commandsPageError // Returns the commands page fetch error to the caller.
 	} // Ends the commands page fetch error check.
+
+	if commandSliceReverse {
+		slices.Reverse(commandsPageDocument)
+	}
 
 	var commandPageLinks []string                                    // Stores every command page link found on the commands page.
 	collectCommandPageLinks(commandsPageDocument, &commandPageLinks) // Extracts the command page links from the commands page document.
