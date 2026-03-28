@@ -1888,3 +1888,17 @@ https://s3.documentcloud.org/documents/21615332/daf-dunn901496.pdf > PDFs/901496
 https://s3.documentcloud.org/documents/4419135/nypd-cases-170.pdf > PDFs/945762/nypd_cases_170.pdf
 https://s3.documentcloud.org/documents/24360804/945762_11102023_2023088pdf.pdf > PDFs/945762/945762_11102023_2023088pdf.pdf
 https://s3.documentcloud.org/documents/22119243/945762_02262015_2015142pdf.pdf > PDFs/945762/945762_02262015_2015142pdf.pdf
+https://s3.documentcloud.org/documents/21031287/daf-armand963854.pdf > PDFs/963854/daf_armand963854.pdf
+https://s3.documentcloud.org/documents/25525418/202002217.pdf > PDFs/941552/202002217.pdf
+https://s3.documentcloud.org/documents/24615639/202002217-tax941552-apu-final-documentspdf.pdf > PDFs/941552/202002217_tax941552_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25281661/201700423_redactedclosingreport_redacted.pdf > PDFs/941552/201700423_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24682206/941552_03152024_2024026pdf.pdf > PDFs/941552/941552_03152024_2024026pdf.pdf
+https://s3.documentcloud.org/documents/22085462/seh_941552.pdf > PDFs/941552/seh_941552.pdf
+https://s3.documentcloud.org/documents/24615638/202002217-tax947169-apu-final-documentspdf.pdf > PDFs/947169/202002217_tax947169_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22085598/seh_947169.pdf > PDFs/947169/seh_947169.pdf
+https://s3.documentcloud.org/documents/25897777/202200125_redactedclosingreportpdf.pdf > PDFs/963035/202200125_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21014713/df-freund963035.pdf > PDFs/963035/df_freund963035.pdf
+https://s3.documentcloud.org/documents/25999805/202300672_redactedclosingreportpdf.pdf > PDFs/938023/202300672_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035074/202300672-tax938023-apu-final-documentspdf.pdf > PDFs/938023/202300672_tax938023_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21418061/202004871_redactedclosingreport_redacted.pdf > PDFs/938023/202004871_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25920566/200605012_redactedclosingreport_redacted.pdf > PDFs/938023/200605012_redactedclosingreport_redacted.pdf
