@@ -15445,3 +15445,14 @@ https://s3.documentcloud.org/documents/26366338/939085_10172025_2025045pdf.pdf >
 https://s3.documentcloud.org/documents/25523106/201111817_redactedclosingreport_redacted.pdf > PDFs/940232/201111817_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kfkTVCSfKULxQI4slNaw2g== > PDFs/940232/705479_2017_the_city_of_new_york_v_the_city_of_new_york_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oTsXtnJH3GZ9cdicqoJzdw== > PDFs/965639/526561_2023_gaby_luzon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21013357/df-callahan948732.pdf > PDFs/948732/df_callahan948732.pdf
+https://s3.documentcloud.org/documents/21054014/giglio_neamtu-961000-01-21-21.pdf > PDFs/961000/giglio_neamtu_961000_01_21_21.pdf
+https://s3.documentcloud.org/documents/25040829/202207643-tax971619-apu-final-documentspdf.pdf > PDFs/971619/202207643_tax971619_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22086375/seh_965497.pdf > PDFs/965497/seh_965497.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Y5WUgfpPcu1KPVr9h/DrLQ== > PDFs/955032/714996_2021_darrell_hunter_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086183/seh_969256.pdf > PDFs/969256/seh_969256.pdf
+https://s3.documentcloud.org/documents/4919682/Nelson-vs-Collado-et-al.pdf > PDFs/947454/nelson_vs_collado_et_al.pdf
+https://s3.documentcloud.org/documents/4919683/Nelson-vs-Collado-et-al.pdf > PDFs/947454/nelson_vs_collado_et_al.pdf
+https://s3.documentcloud.org/documents/4919632/Simpson-v-City-of-New-York-et-al.pdf > PDFs/947454/simpson_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21028484/sanchez-f3fee632edfc93bb263a310fcb5049170fa16b2c.pdf > PDFs/947454/sanchez_f3fee632edfc93bb263a310fcb5049170fa16b2c.pdf
+https://s3.documentcloud.org/documents/21027429/paul-e81482e701b3907c77ae44fc82bf065d50dd1229.pdf > PDFs/944143/paul_e81482e701b3907c77ae44fc82bf065d50dd1229.pdf
