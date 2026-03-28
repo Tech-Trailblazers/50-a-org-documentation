@@ -7736,3 +7736,6 @@ https://s3.documentcloud.org/documents/4418833/nypd-cases-050.pdf > PDFs/921334/
 https://s3.documentcloud.org/documents/25920570/200700641_redactedclosingreport_redacted.pdf > PDFs/921334/200700641_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21023145/ferrer-07a28f1edcf6700e4da28a581c3886883bcec99d.pdf > PDFs/921334/ferrer_07a28f1edcf6700e4da28a581c3886883bcec99d.pdf
 https://s3.documentcloud.org/documents/21057753/ferrer-921334-04-26-21.pdf > PDFs/921334/ferrer_921334_04_26_21.pdf
+https://s3.documentcloud.org/documents/4923028/Wilson-v-City-of-New-York-et-al.pdf > PDFs/954500/wilson_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21057427/burnett-960294-03-01-21.pdf > PDFs/960294/burnett_960294_03_01_21.pdf
+https://s3.documentcloud.org/documents/4419190/nypd-cases-176.pdf > PDFs/929928/nypd_cases_176.pdf
