@@ -12231,3 +12231,10 @@ https://s3.documentcloud.org/documents/21056611/giglio_ward-939673.pdf > PDFs/93
 https://s3.documentcloud.org/documents/20974610/daf-gelber945754.pdf > PDFs/945754/daf_gelber945754.pdf
 https://s3.documentcloud.org/documents/4919570/Rodriguez-et-al-v-Winski-et-al.pdf > PDFs/940439/rodriguez_et_al_v_winski_et_al.pdf
 https://s3.documentcloud.org/documents/4923318/Ryan-v-New-York-et-al.pdf > PDFs/934355/ryan_v_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25447660/942402_10042024_2024071pdf.pdf > PDFs/942402/942402_10042024_2024071pdf.pdf
+https://s3.documentcloud.org/documents/25447652/951699_10042024_2024071pdf.pdf > PDFs/942402/951699_10042024_2024071pdf.pdf
+https://s3.documentcloud.org/documents/4922041/Melendez-v-City-Of-New-York-et-al.pdf > PDFs/917024/melendez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21057671/duliepre-941688-12-16-20.pdf > PDFs/941688/duliepre_941688_12_16_20.pdf
+https://s3.documentcloud.org/documents/27865655/958556_01232026_2026010pdf.pdf > PDFs/958556/958556_01232026_2026010pdf.pdf
+https://s3.documentcloud.org/documents/21056656/giglio_grantham-925383-12-21-20.pdf > PDFs/925383/giglio_grantham_925383_12_21_20.pdf
+https://s3.documentcloud.org/documents/21056723/krupa-964100.pdf > PDFs/964100/krupa_964100.pdf
