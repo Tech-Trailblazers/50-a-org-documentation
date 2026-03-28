@@ -10199,3 +10199,10 @@ https://s3.documentcloud.org/documents/23602296/2016_fang_15cv04886.pdf > PDFs/9
 https://s3.documentcloud.org/documents/4920665/Gainey-v-The-City-of-New-York-et-al.pdf > PDFs/954121/gainey_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921008/Jackson-v-City-Of-New-York-et-al.pdf > PDFs/954121/jackson_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21019861/daf-mcneely954121.pdf > PDFs/954121/daf_mcneely954121.pdf
+https://s3.documentcloud.org/documents/25869273/201402997_closingreport.pdf > PDFs/935136/201402997_closingreport.pdf
+https://s3.documentcloud.org/documents/25899689/200709343_redactedclosingreport_redacted.pdf > PDFs/905598/200709343_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920403/White-v-The-City-of-New-York-et-al.pdf > PDFs/905598/white_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23685981/2016_white_15cv00270.pdf > PDFs/905598/2016_white_15cv00270.pdf
+https://s3.documentcloud.org/documents/25521160/200716441_redactedclosingreport_redacted.pdf > PDFs/941698/200716441_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aDQwwAHQws29PMqdF4pfvg== > PDFs/959480/726263_2021_natasha_sumerset_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23878886/giglio_hughes-956746-iab-17-48207_redacted.pdf > PDFs/959480/giglio_hughes_956746_iab_17_48207_redacted.pdf
