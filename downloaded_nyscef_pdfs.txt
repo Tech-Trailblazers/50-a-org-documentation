@@ -1580,3 +1580,15 @@ https://s3.documentcloud.org/documents/25023188/201608055_redactedclosingreport_
 https://s3.documentcloud.org/documents/4418939/nypd-cases-108.pdf > PDFs/938918/nypd_cases_108.pdf
 https://s3.documentcloud.org/documents/22119412/934789_05032018_2018041pdf.pdf > PDFs/934789/934789_05032018_2018041pdf.pdf
 https://s3.documentcloud.org/documents/4922542/Gadpaille-v-City-Of-New-York-et-al.pdf > PDFs/953114/gadpaille_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26312293/201809337_redactedclosingreport_redacted.pdf > PDFs/948593/201809337_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25501254/201804102-redactedclosingreport-redacted.pdf > PDFs/956749/201804102_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5378203/Chepilko-v-Bushuyev-et-al.pdf > PDFs/947113/chepilko_v_bushuyev_et_al.pdf
+https://s3.documentcloud.org/documents/24100986/201804009_redactedclosingreport_redacted.pdf > PDFs/953149/201804009_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21026811/muldowney-a6fdcc8a2b9e3e5e8f2108d637d4ca47ea5560a2.pdf > PDFs/953149/muldowney_a6fdcc8a2b9e3e5e8f2108d637d4ca47ea5560a2.pdf
+https://s3.documentcloud.org/documents/21054215/muldowney-953149-08-31-20-1.pdf > PDFs/953149/muldowney_953149_08_31_20_1.pdf
+https://s3.documentcloud.org/documents/22085789/seh_953149.pdf > PDFs/953149/seh_953149.pdf
+https://s3.documentcloud.org/documents/26214450/9056-iab-c-2018-236.pdf > PDFs/953149/9056_iab_c_2018_236.pdf
+https://s3.documentcloud.org/documents/25525232/201809746.pdf > PDFs/950880/201809746.pdf
+https://s3.documentcloud.org/documents/23118520/201801280_redactedclosingreport_redacted.pdf > PDFs/956185/201801280_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26473645/202309271_redactedclosingreportpdf.pdf > PDFs/939747/202309271_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26515660/202309271-tax939747-apu-final-documentspdf.pdf > PDFs/939747/202309271_tax939747_apu_final_documentspdf.pdf
