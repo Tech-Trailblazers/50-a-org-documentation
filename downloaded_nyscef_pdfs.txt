@@ -3575,3 +3575,8 @@ https://s3.documentcloud.org/documents/24100866/201904881_redactedclosingreport_
 https://s3.documentcloud.org/documents/23381141/201405312_redactedclosingreport_redacted.pdf > PDFs/954097/201405312_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/24553670/201400753_redactedclosingreport_redacted.pdf > PDFs/954097/201400753_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/23118546/201900845_redactedclosingreport_redacted.pdf > PDFs/955092/201900845_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4923472/Giles-v-The-City-of-New-York-et-al.pdf > PDFs/932184/giles_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923473/Giles-v-The-City-of-New-York-et-al.pdf > PDFs/932184/giles_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26140909/201503521-redactedclosingreport-redacted.pdf > PDFs/952087/201503521_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23688715/2022_perdomo_20cv07195.pdf > PDFs/957796/2022_perdomo_20cv07195.pdf
+https://s3.documentcloud.org/documents/4921044/Hernandez-v-City-of-New-York-et-al.pdf > PDFs/921222/hernandez_v_city_of_new_york_et_al.pdf
