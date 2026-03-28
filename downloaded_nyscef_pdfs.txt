@@ -2669,3 +2669,17 @@ https://s3.documentcloud.org/documents/21021097/briggs-a6651654fa9802a00afc5e9d2
 https://s3.documentcloud.org/documents/21021096/briggs-d505d47b2d2de2b5435f2f7784624f0c0d28213a.pdf > PDFs/933555/briggs_d505d47b2d2de2b5435f2f7784624f0c0d28213a.pdf
 https://s3.documentcloud.org/documents/25540518/201900656_redactedclosingreport_redacted.pdf > PDFs/955203/201900656_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Ic65DdGXtx3g8Lg1MDUpbQ== > PDFs/971595/812942_2024e_travis_stewart_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25526035/202203603.pdf > PDFs/966991/202203603.pdf
+https://s3.documentcloud.org/documents/25501223/201902852-redactedclosingreport-redacted.pdf > PDFs/962115/201902852_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21029094/sosa-2f3e4758c7c670b2e7dd5d5eb7081809e870485d.pdf > PDFs/962115/sosa_2f3e4758c7c670b2e7dd5d5eb7081809e870485d.pdf
+https://s3.documentcloud.org/documents/4418984/nypd-cases-422.pdf > PDFs/946365/nypd_cases_422.pdf
+https://s3.documentcloud.org/documents/25995202/201700942-redactedclosingreport-redacted.pdf > PDFs/946365/201700942_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4923376/Isaac-v-City-of-New-York-et-al.pdf > PDFs/946365/isaac_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25984404/202401864_tax961516_redacteddepartureletterpdf.pdf > PDFs/961516/202401864_tax961516_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Pv4n1RsQhPkxdun0EhLrWw== > PDFs/960268/804816_2023e_ayesha_robinson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25999799/202304627_redactedclosingreportpdf.pdf > PDFs/973916/202304627_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25999818/202105455_redactedclosingreportpdf.pdf > PDFs/946704/202105455_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23578217/201406811_redactedclosingreport_redacted.pdf > PDFs/946704/201406811_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26050417/201110647_redactedclosingreport_redacted.pdf > PDFs/946704/201110647_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525721/202007629.pdf > PDFs/957549/202007629.pdf
+https://s3.documentcloud.org/documents/25869378/202006575_complaint245ccrbredacted_redacted.pdf > PDFs/957549/202006575_complaint245ccrbredacted_redacted.pdf
