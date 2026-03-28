@@ -5182,3 +5182,5 @@ https://s3.documentcloud.org/documents/21029753/vargas-e52797d6c7c84aa6c0716b1d3
 https://s3.documentcloud.org/documents/24630856/201609379_redactedclosingreport_redacted.pdf > PDFs/948689/201609379_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21021018/boyle-6598edc7062ada6d4f0cb012ab1ffc910d041b5d.pdf > PDFs/948689/boyle_6598edc7062ada6d4f0cb012ab1ffc910d041b5d.pdf
 https://s3.documentcloud.org/documents/21027376/parisi-8264410bf5b626dae5de9463378ffd92c59329ec.pdf > PDFs/953217/parisi_8264410bf5b626dae5de9463378ffd92c59329ec.pdf
+https://s3.documentcloud.org/documents/21057667/duarte-963016.pdf > PDFs/963016/duarte_963016.pdf
+https://s3.documentcloud.org/documents/21057765/freckelton-952750.pdf > PDFs/952750/freckelton_952750.pdf
