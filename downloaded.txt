@@ -12500,3 +12500,6 @@ https://s3.documentcloud.org/documents/23591650/2017_bradshaw_15cv02166.pdf > PD
 https://s3.documentcloud.org/documents/21019619/daf-malone935238.pdf > PDFs/935238/daf_malone935238.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qqQ/IUc0CFBvkENlhuq8Vw== > PDFs/947119/159268_2015_wesley_cooper_v_wesley_cooper_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HPJL8uyNFxsCBp48qsjBsQ== > PDFs/938068/153817_2015_wendell_baker_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419238/nypd-cases-515.pdf > PDFs/940021/nypd_cases_515.pdf
+https://s3.documentcloud.org/documents/4919168/Canelo-v-City-Of-New-York-et-al.pdf > PDFs/940021/canelo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919169/Canelo-v-City-Of-New-York-et-al.pdf > PDFs/940021/canelo_v_city_of_new_york_et_al.pdf
