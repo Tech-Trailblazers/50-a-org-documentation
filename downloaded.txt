@@ -14553,3 +14553,16 @@ https://s3.documentcloud.org/documents/21025051/kremer-37521161311f8d7b691096d2e
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g2q3cVEpNQXkvOrMPfTc4A== > PDFs/935727/150546_2018_likeita_mcgrier_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4919011/Cross-v-The-City-of-New-York-et-al.pdf > PDFs/923075/cross_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919010/Cross-v-The-City-of-New-York-et-al.pdf > PDFs/923075/cross_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=z1sHOn7hEFRTuysPkox09w== > PDFs/939152/801011_2022e_daquel_andrews_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6nJMFWJeCGFsTQTIeOWtEQ== > PDFs/939152/23057_2020e_daniel_vargas_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G7KmvA6u/ZEo2tmyvtr3CQ== > PDFs/941510/803123_2023e_dianelly_polanco_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4fpnkoCO8QaE3LCciGtibA== > PDFs/941510/806920_2022e_juan_cruz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t1OFuB2THJH6RLobQb66LA== > PDFs/941510/31114_2019e_zimmian_tabb_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oivBvdNJT4Z0WvTgroNVYg== > PDFs/928953/31770_2017e_majesty_hernandez_et_a_v_majesty_hernandez_et_a_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922982/Roman-et-al-v-City-of-New-York-et-al.pdf > PDFs/925501/roman_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922983/Roman-et-al-v-City-of-New-York-et-al.pdf > PDFs/925501/roman_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21023928/gugliucciello-94732795630883ffc538d76b2f4b41fb990bf2cd.pdf > PDFs/921406/gugliucciello_94732795630883ffc538d76b2f4b41fb990bf2cd.pdf
+https://s3.documentcloud.org/documents/21015332/daf-cox953787.pdf > PDFs/953787/daf_cox953787.pdf
+https://s3.documentcloud.org/documents/4928057/Jenkins-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/928203/jenkins_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4928058/Jenkins-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/928203/jenkins_et_al_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=PD2b5q2MU19pqrqGOF6NSg==&display=all&courtType=Kings%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/932880/documentlist_docketid_pd2b5q2mu19pqrqgof6nsg_display_all_courttype_kings_20county_20supreme_20court_resultspagenum_1.pdf
