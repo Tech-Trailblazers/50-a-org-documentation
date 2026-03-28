@@ -10656,3 +10656,12 @@ https://s3.documentcloud.org/documents/4921303/Springer-v-City-of-New-York-et-al
 https://s3.documentcloud.org/documents/21022627/dubitsky-fd07548188c11004f43d8f66f5536a628cd07f85.pdf > PDFs/934799/dubitsky_fd07548188c11004f43d8f66f5536a628cd07f85.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HCIlp8Llez85uQuj48g4mQ== > PDFs/949812/28485_2017e_justin_chandler_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vQ/suCsR95N/Iod2a_PLUS_Agsg== > PDFs/949750/519581_2018_nana_boakye_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25521037/200302793_redactedclosingreport_redacted.pdf > PDFs/931009/200302793_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21022528/digiacomo-1cc85cfdd0f2b101db84d05f83417d1a3f42c51d.pdf > PDFs/886836/digiacomo_1cc85cfdd0f2b101db84d05f83417d1a3f42c51d.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P0UOD_PLUS_OSSoOfC5nAoSjIcA== > PDFs/953659/151882_2015_brian_wilson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21615291/casiano954613.pdf > PDFs/954613/casiano954613.pdf
+https://s3.documentcloud.org/documents/21057473/casiano-954613-03-01-21.pdf > PDFs/954613/casiano_954613_03_01_21.pdf
+https://s3.documentcloud.org/documents/4922204/Murray-v-City-Of-New-York-et-al.pdf > PDFs/953874/murray_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922978/Rodriguez-v-City-of-New-York-et-al.pdf > PDFs/936733/rodriguez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922979/Rodriguez-v-City-of-New-York-et-al.pdf > PDFs/936733/rodriguez_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5qz9WAGgmU03cYjEcXDCCg== > PDFs/960694/150926_2022_abel_tirado_v_city_of_new_york_et_al_summons_complaint_1.pdf
