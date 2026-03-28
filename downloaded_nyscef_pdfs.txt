@@ -3971,3 +3971,10 @@ https://s3.documentcloud.org/documents/21418030/201907542_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/MrmSBw1uf_PLUS_UzSH/ZmVEaA== > PDFs/959717/153183_2020_eudy_torres_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/23620504/202004559_redactedclosingreport_redacted.pdf > PDFs/961635/202004559_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22085983/seh_958462.pdf > PDFs/958462/seh_958462.pdf
+https://s3.documentcloud.org/documents/25899159/201900361-redactedclosingreport-redacted.pdf > PDFs/951203/201900361_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25980272/201706652-redactedclosingreport-redacted.pdf > PDFs/952421/201706652_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25281674/201800149_redactedclosingreport_redacted.pdf > PDFs/950663/201800149_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24484630/952616_12152023_2023099pdf.pdf > PDFs/958546/952616_12152023_2023099pdf.pdf
+https://s3.documentcloud.org/documents/25899194/201508342-redactedclosingreport-redacted.pdf > PDFs/951457/201508342_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119258/946149_09132016_2016082pdf.pdf > PDFs/946149/946149_09132016_2016082pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=128BTWOY/ttQPqB6vt4O2A== > PDFs/934880/812464_2023e_christian_toledo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
