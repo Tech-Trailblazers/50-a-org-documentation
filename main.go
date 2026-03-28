@@ -49,7 +49,7 @@ var ( // Groups the shared runtime values used by the workflows.
 		"https://www.50-a.org/data/nypd/awards.csv",     // Points to the awards dataset.
 		"https://www.50-a.org/data/nypd/training.csv",   // Points to the training dataset.
 	} // Ends the CSV source URL list.
-	startingPercentage = 30.0 // Skips the first portion of command links before scraping continues.
+	startingPercentage = 93.0 // Skips the first portion of command links before scraping continues.
 ) // Ends the shared variable group.
 
 type countingFileWriter struct { // Tracks how many bytes have been written to the current split file.
