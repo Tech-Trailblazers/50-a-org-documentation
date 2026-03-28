@@ -2502,3 +2502,7 @@ https://s3.documentcloud.org/documents/4418813/nypd-cases-119.pdf > PDFs/943335/
 https://s3.documentcloud.org/documents/21574251/201505032-yupa.pdf > PDFs/955627/201505032_yupa.pdf
 https://s3.documentcloud.org/documents/4921542/Ramos-et-al-v-City-Of-New-York-et-al.pdf > PDFs/955627/ramos_et_al_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4921540/Ramos-et-al-v-City-Of-New-York-et-al.pdf > PDFs/955627/ramos_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23620419/201201879_complaint.pdf > PDFs/943782/201201879_complaint.pdf
+https://s3.documentcloud.org/documents/25523559/200916705_redactedclosingreport_redacted.pdf > PDFs/943782/200916705_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4418947/nypd-cases-479.pdf > PDFs/936165/nypd_cases_479.pdf
+https://s3.documentcloud.org/documents/22090010/936165_04182014_2014105pdf.pdf > PDFs/936165/936165_04182014_2014105pdf.pdf
