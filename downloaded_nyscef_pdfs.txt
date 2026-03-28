@@ -321,3 +321,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Mlc73GycUscccjp3a2
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PQElf5CcIk0wLqGVWsIBiw== > PDFs/974659/161328_2024_adrian_holliday_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sPqBU1mnI/QnbPLM4rCsTA== > PDFs/954047/159780_2015_saysha_segundo_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=974PEqs6lHxQ5OjQAy1rcg== > PDFs/948783/157674_2016_david_cutlip_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Luf4WW7paYOlrjsIOrDbig== > PDFs/939856/29219_2020e_moises_fontanez_batista_v_city_of_new_york_et_al_summons_complaint_1.pdf
