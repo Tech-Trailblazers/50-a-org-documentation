@@ -3023,3 +3023,12 @@ https://s3.documentcloud.org/documents/22086227/seh_962691.pdf > PDFs/962691/seh
 https://s3.documentcloud.org/documents/4928021/Ortiz-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/949466/ortiz_et_al_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25525441/202002720.pdf > PDFs/963568/202002720.pdf
 https://s3.documentcloud.org/documents/24441465/201700665_redactedclosingreport_redacted.pdf > PDFs/949072/201700665_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24425026/202202357-tax969177-apu-final-documentspdf.pdf > PDFs/969177/202202357_tax969177_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25964122/202311282_redactedclosingreportpdf.pdf > PDFs/955122/202311282_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25219876/8186_iab_c16-0548c-redacted_redacted.pdf > PDFs/948652/8186_iab_c16_0548c_redacted_redacted.pdf
+https://s3.documentcloud.org/documents/26220871/9063-iab-fi-2018-1507.pdf > PDFs/941197/9063_iab_fi_2018_1507.pdf
+https://s3.documentcloud.org/documents/26473656/202305394_redactedclosingreportpdf.pdf > PDFs/965415/202305394_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035082/202305394-tax965415-apu-final-documentspdf.pdf > PDFs/965415/202305394_tax965415_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26035073/202207360-tax965415-apu-final-documentspdf.pdf > PDFs/965415/202207360_tax965415_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25999814/202202283_redactedclosingreportpdf.pdf > PDFs/965415/202202283_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035065/202202283-tax965415-apu-final-documentspdf.pdf > PDFs/965415/202202283_tax965415_apu_final_documentspdf.pdf
