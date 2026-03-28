@@ -10355,3 +10355,14 @@ https://s3.documentcloud.org/documents/23578226/201507578_redactedclosingreport_
 https://s3.documentcloud.org/documents/21417943/201901208_redactedclosingreport_redacted.pdf > PDFs/956761/201901208_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/20528194/985.pdf > PDFs/956761/985.pdf
 https://s3.documentcloud.org/documents/23686754/2016_vazquez_16cv03375.pdf > PDFs/885451/2016_vazquez_16cv03375.pdf
+https://s3.documentcloud.org/documents/5379026/Shabtai-v-Levande-et-al.pdf > PDFs/885451/shabtai_v_levande_et_al.pdf
+https://s3.documentcloud.org/documents/4923133/Nansaram-v-The-City-of-New-York-et-al.pdf > PDFs/885451/nansaram_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119254/943590_09012015_2015161pdf.pdf > PDFs/943590/943590_09012015_2015161pdf.pdf
+https://s3.documentcloud.org/documents/25091542/201604976_redactedclosingreport_redacted.pdf > PDFs/934526/201604976_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nk7k4znFDRhOLZAoCMRklw== > PDFs/917254/711195_2015_robert_morety_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22089996/917254_04112011_2011101pdf.pdf > PDFs/917254/917254_04112011_2011101pdf.pdf
+https://s3.documentcloud.org/documents/22089997/917254_08072008_2008006pdf.pdf > PDFs/917254/917254_08072008_2008006pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C2Wv/0jOYtPWqS3HWIJ/iQ== > PDFs/942177/711062_2019_ray_carrion_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119179/920518_07222009_2009020pdf.pdf > PDFs/920518/920518_07222009_2009020pdf.pdf
+https://s3.documentcloud.org/documents/22119740/930766_07222009_2009020pdf.pdf > PDFs/920518/930766_07222009_2009020pdf.pdf
+https://s3.documentcloud.org/documents/25523139/201706565_redactedclosingreport_redacted.pdf > PDFs/948268/201706565_redactedclosingreport_redacted.pdf
