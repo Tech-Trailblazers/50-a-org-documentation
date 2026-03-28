@@ -14087,3 +14087,15 @@ https://s3.documentcloud.org/documents/4923264/Pearcew-v-Foder-et-al.pdf > PDFs/
 https://s3.documentcloud.org/documents/4923265/Pearcew-v-Foder-et-al.pdf > PDFs/933783/pearcew_v_foder_et_al.pdf
 https://s3.documentcloud.org/documents/21024941/kessler-32babbb0767a88233eec40a977901323eef588d4.pdf > PDFs/938764/kessler_32babbb0767a88233eec40a977901323eef588d4.pdf
 https://s3.documentcloud.org/documents/23461538/200301347_redactedclosingreport_redacted.pdf > PDFs/885669/200301347_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25964230/201810462_redactedclosingreportpdf.pdf > PDFs/940069/201810462_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25964255/201808486_redactedclosingreportpdf.pdf > PDFs/940069/201808486_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25944953/201502603_redactedclosingreport_redacted.pdf > PDFs/940069/201502603_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977782/201501386-redactedclosingreport-redacted.pdf > PDFs/940069/201501386_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25944946/201009735_redactedclosingreport_redacted.pdf > PDFs/940069/201009735_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25944944/200918127_redactedclosingreport_redacted.pdf > PDFs/940069/200918127_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25944942/200718145_redactedclosingreport_redacted.pdf > PDFs/940069/200718145_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019805/daf-biondolillo943374.pdf > PDFs/943374/daf_biondolillo943374.pdf
+https://s3.documentcloud.org/documents/21615327/daf-biondolillo943374.pdf > PDFs/943374/daf_biondolillo943374.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QB2xj4UqyYfGFqXEcR/XHg== > PDFs/961834/152963_2020_david_martin_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P6a/SgtiJbbJk5C_PLUS_lzC8Nw== > PDFs/963903/153227_2021_gabriel_veras_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RJVI_PLUS_ljoupbtvy7z24WERw== > PDFs/956934/152574_2018_robert_luna_v_the_city_of_new_york_et_al_complaint_2.pdf
