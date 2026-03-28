@@ -1782,3 +1782,4 @@ https://s3.documentcloud.org/documents/4918707/Kalfus-v-The-New-York-and-Presbyt
 https://s3.documentcloud.org/documents/23118516/201709146_redactedclosingreport_redacted.pdf > PDFs/951928/201709146_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4419091/nypd-cases-383.pdf > PDFs/904863/nypd_cases_383.pdf
 https://s3.documentcloud.org/documents/22119356/904863_12112014_2014093pdf.pdf > PDFs/904863/904863_12112014_2014093pdf.pdf
+https://s3.documentcloud.org/documents/4921548/Dawson-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/953904/dawson_et_al_v_the_city_of_new_york_et_al.pdf
