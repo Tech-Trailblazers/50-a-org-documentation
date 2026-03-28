@@ -2616,3 +2616,8 @@ https://s3.documentcloud.org/documents/25869352/201905294_closingreport.pdf > PD
 https://s3.documentcloud.org/documents/4418864/nypd-cases-330.pdf > PDFs/916333/nypd_cases_330.pdf
 https://s3.documentcloud.org/documents/22119274/916333_10152014_2014008pdf.pdf > PDFs/916333/916333_10152014_2014008pdf.pdf
 https://s3.documentcloud.org/documents/4923466/Jackson-v-City-Of-New-York-et-al.pdf > PDFs/946682/jackson_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26182849/201607201_redactedclosingreportpdf.pdf > PDFs/946194/201607201_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25869308/201602528_redactedclosingreport_redacted.pdf > PDFs/952959/201602528_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869307/201602528_complaint245ccrbredacted_redacted.pdf > PDFs/952959/201602528_complaint245ccrbredacted_redacted.pdf
+https://s3.documentcloud.org/documents/22048816/201508962_redactedclosingreport_redacted.pdf > PDFs/938412/201508962_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24630836/201400782_redactedclosingreport_redacted.pdf > PDFs/942293/201400782_redactedclosingreport_redacted.pdf
