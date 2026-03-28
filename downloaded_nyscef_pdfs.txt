@@ -3047,3 +3047,11 @@ https://s3.documentcloud.org/documents/25964157/202005450_redactedclosingreportp
 https://s3.documentcloud.org/documents/22076474/201903523_redactedclosingreport_redacted.pdf > PDFs/961171/201903523_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4924526/Britt-v-The-City-Of-New-York-et-al.pdf > PDFs/943505/britt_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25899139/201601217-redactedclosingreport-redacted.pdf > PDFs/954405/201601217_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119120/926992_07172020_2020010pdf.pdf > PDFs/926992/926992_07172020_2020010pdf.pdf
+https://s3.documentcloud.org/documents/22119147/930513_10062008_2008030pdf.pdf > PDFs/930513/930513_10062008_2008030pdf.pdf
+https://s3.documentcloud.org/documents/25523130/201510060_redactedclosingreport_redacted.pdf > PDFs/946109/201510060_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522746/201212970_redactedclosingreport_redacted.pdf > PDFs/946109/201212970_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4918632/Correa-v-City-of-New-York-et-al.pdf > PDFs/946109/correa_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119171/938857_03272018_2018025pdf.pdf > PDFs/938857/938857_03272018_2018025pdf.pdf
+https://s3.documentcloud.org/documents/22118963/948900_03202017_2017057pdf.pdf > PDFs/948900/948900_03202017_2017057pdf.pdf
+https://s3.documentcloud.org/documents/4921513/Laboy-v-City-Of-New-York-et-al.pdf > PDFs/902796/laboy_v_city_of_new_york_et_al.pdf
