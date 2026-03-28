@@ -9163,3 +9163,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=n4J2xA3if_PLUS_HYk
 https://s3.documentcloud.org/documents/4923310/Holiday-et-al-v-City-of-New-York-et-al.pdf > PDFs/948948/holiday_et_al_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4419292/nypd-cases-328.pdf > PDFs/938165/nypd_cases_328.pdf
 https://s3.documentcloud.org/documents/4419166/nypd-cases-405.pdf > PDFs/941342/nypd_cases_405.pdf
+https://s3.documentcloud.org/documents/4928382/Rodriguez-et-al-v-Bozzo-et-al.pdf > PDFs/952954/rodriguez_et_al_v_bozzo_et_al.pdf
+https://s3.documentcloud.org/documents/4928383/Rodriguez-et-al-v-Bozzo-et-al.pdf > PDFs/952954/rodriguez_et_al_v_bozzo_et_al.pdf
+https://s3.documentcloud.org/documents/22119202/938921_07232014_2014029pdf.pdf > PDFs/938921/938921_07232014_2014029pdf.pdf
+https://s3.documentcloud.org/documents/4925535/Liverpool-v-Cleveland-et-al.pdf > PDFs/925975/liverpool_v_cleveland_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XAIaEgSXVDthy9QRp82tPA== > PDFs/964742/714438_2019_gabriel_d_ortenzio_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
