@@ -8882,3 +8882,15 @@ https://s3.documentcloud.org/documents/26050408/201014588_redactedclosingreport_
 https://s3.documentcloud.org/documents/25523180/201015781_redactedclosingreport_redacted.pdf > PDFs/940973/201015781_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4919140/Pina-v-The-City-of-New-York-et-al.pdf > PDFs/935357/pina_v_the_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=npjNRJ/JgTZb3b4quz/KPw== > PDFs/936479/160886_2016_keith_g_richardson_v_keith_g_richardson_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22090005/938007_12162021_2021073pdf.pdf > PDFs/938007/938007_12162021_2021073pdf.pdf
+https://s3.documentcloud.org/documents/4921152/Tooley-v-City-of-New-York-et-al.pdf > PDFs/951545/tooley_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/24441224/8037_bradygiglio_958508000_digiuseppe-958508-06-24-22.pdf > PDFs/958508/8037_bradygiglio_958508000_digiuseppe_958508_06_24_22.pdf
+https://s3.documentcloud.org/documents/21054256/digiuseppe-958508-11-30-20.pdf > PDFs/958508/digiuseppe_958508_11_30_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RZd2U05fYd71OwfXRDyKPQ== > PDFs/956889/34304_2020e_mahamadou_sidibeh_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058818/salvatori-957127-03-11-21.pdf > PDFs/957127/salvatori_957127_03_11_21.pdf
+https://s3.documentcloud.org/documents/21056978/shakov-964288-03-25-21.pdf > PDFs/964288/shakov_964288_03_25_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qJ4t5eTp6CXK34UtJl/Xsw== > PDFs/945402/801137_2023e_maged_algutaini_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VaSfz0cGpjldXXy5keoACw== > PDFs/945402/501183_2017_lawrence_bookard_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1Kau2S4qJEbaKoZV5kD1OA== > PDFs/945402/500176_2017_irvin_summers_v_irvin_summers_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922516/Freeman-v-The-City-of-New-York-et-al.pdf > PDFs/945402/freeman_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921066/Conyers-v-City-of-New-York-et-al.pdf > PDFs/945402/conyers_v_city_of_new_york_et_al.pdf
