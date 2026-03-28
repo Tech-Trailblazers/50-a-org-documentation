@@ -9710,3 +9710,7 @@ https://s3.documentcloud.org/documents/4920983/Glover-v-City-of-New-York-et-al.p
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YuqegyuVEGThQU3_PLUS_xe0rUA== > PDFs/941724/501413_2015_aubrey_towler_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LTbq2tk_PLUS_ci7FbSeQ5lpufA== > PDFs/956469/718544_2020_christopher_battaglia_v_christopher_battaglia_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5Y64pUGNxVi_PLUS_WrdOJyd3kQ== > PDFs/956469/714590_2020_christopher_battaglia_v_christopher_battaglia_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4923419/Rodriguez-v-City-of-New-York-et-al.pdf > PDFs/941997/rodriguez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/24429110/7996_iab_deleon-950879-22-1720.pdf > PDFs/951669/7996_iab_deleon_950879_22_1720.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=y5bnEwDDDNlJ7Ix0fnBc8g== > PDFs/968394/723377_2024_george_munoz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CgcKmwmyB1rlBepH54hLtQ== > PDFs/937874/150026_2013_raheem_bert_lindwood_v_raheem_bert_lindwood_exhibit_s_21.pdf
