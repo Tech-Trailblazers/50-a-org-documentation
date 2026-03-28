@@ -11665,3 +11665,13 @@ https://s3.documentcloud.org/documents/4919895/Gearles-v-The-City-of-New-York-et
 https://s3.documentcloud.org/documents/4924599/Durham-v-Young-et-al.pdf > PDFs/935517/durham_v_young_et_al.pdf
 https://s3.documentcloud.org/documents/21058780/romano-939364-06-03-21.pdf > PDFs/939364/romano_939364_06_03_21.pdf
 https://s3.documentcloud.org/documents/26050413/201105073_redactedclosingreport_redacted.pdf > PDFs/934737/201105073_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23795092/ccrb_report_201103919.pdf > PDFs/939178/ccrb_report_201103919.pdf
+https://s3.documentcloud.org/documents/4919782/Akoto-v-City-of-New-York-et-al.pdf > PDFs/939178/akoto_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919783/Akoto-v-City-of-New-York-et-al.pdf > PDFs/939178/akoto_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921216/Shi-v-The-City-of-New-York-et-al.pdf > PDFs/948909/shi_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920149/Cherry-v-City-of-New-York-et-al.pdf > PDFs/934182/cherry_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919645/Greaves-v-City-of-New-York-et-al.pdf > PDFs/934182/greaves_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919644/Greaves-v-City-of-New-York-et-al.pdf > PDFs/934182/greaves_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919634/Luzincourt-v-The-City-of-New-York-et-al.pdf > PDFs/934182/luzincourt_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LEf_PLUS_IyBNnXkQgZhHJCa9rQ== > PDFs/942987/157815_2022_eric_bascon_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056665/garcia-938530.pdf > PDFs/938530/garcia_938530.pdf
