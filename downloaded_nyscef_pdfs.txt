@@ -330,3 +330,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=JESbQTbtNXIg0NAS3D
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C8WO_PLUS_lFAq9fynLnSJj/Xmw== > PDFs/969414/151347_2024_ebonie_powell_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=95OOkKyIK6kWY3kNKtrHGg== > PDFs/968718/161370_2024_curtayasia_taylor_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gp8kx/bcB0xghn7xKVrPFQ== > PDFs/936724/153310_2013_terry_tinsley_v_city_of_new_york_petition_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vQVotCtF2JQSm16vZ1cIQQ== > PDFs/951522/158412_2015_michael_schultz_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=w7xN/mM3_PLUS_WUDjZHKus5qYw== > PDFs/963260/157132_2018_patrick_mcdowell_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YMHYsDf2kOTEY2s3x_PLUS_ecvQ== > PDFs/945605/152963_2015_adams_richard_v_city_of_new_york_et_al_summons_complaint_1.pdf
