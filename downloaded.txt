@@ -10949,3 +10949,15 @@ https://s3.documentcloud.org/documents/4923725/Davis-v-City-of-New-York-et-al.pd
 https://s3.documentcloud.org/documents/5378854/Petway-v-City-of-New-York-et-al.pdf > PDFs/934597/petway_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922619/Petway-v-City-of-New-York-et-al.pdf > PDFs/934597/petway_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21057240/adorno-962200-02-02-21.pdf > PDFs/962200/adorno_962200_02_02_21.pdf
+https://s3.documentcloud.org/documents/4922845/Roberston-v-City-Of-New-York-et-al.pdf > PDFs/946690/roberston_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Yz2gcsZmLGmZl/wNo3RbvA== > PDFs/944101/519246_2019_joanne_hess_v_police_officer_nabil_laafar_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4920329/Fattah-v-City-of-New-York-et-al.pdf > PDFs/944101/fattah_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21025077/laafar-57c506ef49362203d78b4e7220faafd63988888c.pdf > PDFs/944101/laafar_57c506ef49362203d78b4e7220faafd63988888c.pdf
+https://s3.documentcloud.org/documents/23835958/201403844_redactedclosingreport_redacted.pdf > PDFs/927656/201403844_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21029996/walsh-d1862e0618040ebd8fecfd1db8bed0d0f94e682d.pdf > PDFs/927656/walsh_d1862e0618040ebd8fecfd1db8bed0d0f94e682d.pdf
+https://s3.documentcloud.org/documents/26301169/9101-ccrb-202202364.pdf > PDFs/945472/9101_ccrb_202202364.pdf
+https://s3.documentcloud.org/documents/26301168/9100-ccrb-202104951.pdf > PDFs/945472/9100_ccrb_202104951.pdf
+https://s3.documentcloud.org/documents/23381132/201908640_redactedclosingreport_redacted.pdf > PDFs/945472/201908640_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23469864/201908640_tax945472_redacteddepartureletterpdf.pdf > PDFs/945472/201908640_tax945472_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/26301173/9098-ccrb-201905763.pdf > PDFs/945472/9098_ccrb_201905763.pdf
+https://s3.documentcloud.org/documents/26301180/9097-ccrb-201904913.pdf > PDFs/945472/9097_ccrb_201904913.pdf
