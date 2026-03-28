@@ -3584,3 +3584,12 @@ https://s3.documentcloud.org/documents/25345434/202301290-tax960667-apu-final-do
 https://s3.documentcloud.org/documents/26473677/202207863_redactedclosingreportpdf.pdf > PDFs/950256/202207863_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/22085703/seh_950256.pdf > PDFs/950256/seh_950256.pdf
 https://s3.documentcloud.org/documents/22085891/seh_955923.pdf > PDFs/955923/seh_955923.pdf
+https://s3.documentcloud.org/documents/22085982/seh_958428.pdf > PDFs/958428/seh_958428.pdf
+https://s3.documentcloud.org/documents/25525747/202100211.pdf > PDFs/967892/202100211.pdf
+https://s3.documentcloud.org/documents/25523461/201013918_redactedclosingreport_redacted.pdf > PDFs/939912/201013918_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22102476/933636_02232016_2016069pdf.pdf > PDFs/939912/933636_02232016_2016069pdf.pdf
+https://s3.documentcloud.org/documents/25525262/201902427.pdf > PDFs/964107/201902427.pdf
+https://s3.documentcloud.org/documents/21058827/sanchez-965504-01-08-21.pdf > PDFs/965504/sanchez_965504_01_08_21.pdf
+https://s3.documentcloud.org/documents/22086019/seh_959324.pdf > PDFs/959324/seh_959324.pdf
+https://s3.documentcloud.org/documents/25091511/201904802_redactedclosingreport_redacted.pdf > PDFs/959220/201904802_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25023206/201609709_redactedclosingreport_redacted.pdf > PDFs/959220/201609709_redactedclosingreport_redacted.pdf
