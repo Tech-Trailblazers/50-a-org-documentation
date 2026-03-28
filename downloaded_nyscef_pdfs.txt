@@ -5184,3 +5184,8 @@ https://s3.documentcloud.org/documents/21021018/boyle-6598edc7062ada6d4f0cb012ab
 https://s3.documentcloud.org/documents/21027376/parisi-8264410bf5b626dae5de9463378ffd92c59329ec.pdf > PDFs/953217/parisi_8264410bf5b626dae5de9463378ffd92c59329ec.pdf
 https://s3.documentcloud.org/documents/21057667/duarte-963016.pdf > PDFs/963016/duarte_963016.pdf
 https://s3.documentcloud.org/documents/21057765/freckelton-952750.pdf > PDFs/952750/freckelton_952750.pdf
+https://s3.documentcloud.org/documents/21058531/marmontov-965305-04-01-21.pdf > PDFs/965305/marmontov_965305_04_01_21.pdf
+https://s3.documentcloud.org/documents/23871232/giglio_968554000_lafrancesca-968554-02-02-23.pdf > PDFs/968554/giglio_968554000_lafrancesca_968554_02_02_23.pdf
+https://s3.documentcloud.org/documents/21058556/ndubueze-962635-06-16-20-3.pdf > PDFs/962635/ndubueze_962635_06_16_20_3.pdf
+https://s3.documentcloud.org/documents/23835737/odessa-944857.pdf > PDFs/944857/odessa_944857.pdf
+https://s3.documentcloud.org/documents/21051854/su-959275-03-11-21-1.pdf > PDFs/959275/su_959275_03_11_21_1.pdf
