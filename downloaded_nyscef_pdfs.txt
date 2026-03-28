@@ -1390,3 +1390,11 @@ https://s3.documentcloud.org/documents/22119279/943628_09192017_2017041pdf.pdf >
 https://s3.documentcloud.org/documents/23741449/201710502_redactedclosingreport_redacted.pdf > PDFs/940031/201710502_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22048829/201609389_redactedclosingreport_redacted.pdf > PDFs/960274/201609389_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25553987/201003856_redactedclosingreport_redacted.pdf > PDFs/930241/201003856_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21015472/daf-secaira951229.pdf > PDFs/951229/daf_secaira951229.pdf
+https://s3.documentcloud.org/documents/24100817/201705685_redactedclosingreport_redacted.pdf > PDFs/960416/201705685_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019958/daf-carey958370.pdf > PDFs/958370/daf_carey958370.pdf
+https://s3.documentcloud.org/documents/24767774/201500154_redactedclosingreport_redacted.pdf > PDFs/950586/201500154_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5378975/Ritondo-v-City-of-New-York-et-al.pdf > PDFs/950586/ritondo_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4928313/Sullivan-v-The-City-of-New-York-et-al.pdf > PDFs/950586/sullivan_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21027738/prado-776a4c1cca54f7b035b87fe628fc60794758ba7e.pdf > PDFs/951078/prado_776a4c1cca54f7b035b87fe628fc60794758ba7e.pdf
+https://s3.documentcloud.org/documents/21075315/daf-prado951078.pdf > PDFs/951078/daf_prado951078.pdf
