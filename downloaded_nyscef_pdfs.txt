@@ -220,3 +220,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UuzNQvuHM/HoJSfYVF
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Kz1rskIIzSSa870A5J8C7A== > PDFs\933732\154567_2022_keith_wright_v_city_of_new_york_and_et_al_complaint_13.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4z6n7TtTpiY9rNg1Ketq0Q== > PDFs\956327\808843_2021e_armando_velasquez_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZNvjxUWRYpe92Crp0CmLPQ== > PDFs\953847\150971_2015_hassan_alto_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ux_PLUS_8rEDG4GCiU/KicPi1vQ== > PDFs\942107\153978_2014_reginald_james_et_al_v_reginald_james_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Bakby/0Jp1K5lJUtzK1m5Q== > PDFs\938282\153563_2018_ariantch_hicks_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oieIrJLQQZ0mYBY7RwbujQ== > PDFs\938282\154105_2017_theresa_howard_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yD/hJBjHCccBEybcANc_PLUS_fQ== > PDFs\938282\150895_2015_gary_cooper_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VHJpT8iABxaGlezdswZzLg== > PDFs\956040\150668_2023_frederick_willis_v_tyrone_thompson_et_al_summons_complaint_1.pdf
