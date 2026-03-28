@@ -3422,3 +3422,6 @@ https://s3.documentcloud.org/documents/23686281/15cv02584.pdf > PDFs/933931/15cv
 https://s3.documentcloud.org/documents/4920643/Robles-v-The-City-of-New-York-et-al.pdf > PDFs/933931/robles_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/25525945/202106922.pdf > PDFs/953656/202106922.pdf
 https://s3.documentcloud.org/documents/23809132/202106922_tax953656_redacteddepartureletterpdf.pdf > PDFs/953656/202106922_tax953656_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/4419186/nypd-cases-228.pdf > PDFs/946078/nypd_cases_228.pdf
+https://s3.documentcloud.org/documents/22119281/946078_03262015_2015036pdf.pdf > PDFs/946078/946078_03262015_2015036pdf.pdf
+https://s3.documentcloud.org/documents/23794932/201311232_redactedclosingreport_redacted.pdf > PDFs/937889/201311232_redactedclosingreport_redacted.pdf
