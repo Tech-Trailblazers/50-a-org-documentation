@@ -10206,3 +10206,6 @@ https://s3.documentcloud.org/documents/23685981/2016_white_15cv00270.pdf > PDFs/
 https://s3.documentcloud.org/documents/25521160/200716441_redactedclosingreport_redacted.pdf > PDFs/941698/200716441_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aDQwwAHQws29PMqdF4pfvg== > PDFs/959480/726263_2021_natasha_sumerset_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/23878886/giglio_hughes-956746-iab-17-48207_redacted.pdf > PDFs/959480/giglio_hughes_956746_iab_17_48207_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NtkjYGTjDidEtkSM4eWoBg== > PDFs/971955/726651_2022_rae_ann_stanberry_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4918747/Muratovic-v-The-City-of-New-York-et-al.pdf > PDFs/938830/muratovic_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4419075/nypd-cases-194.pdf > PDFs/941284/nypd_cases_194.pdf
