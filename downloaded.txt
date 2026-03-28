@@ -15440,3 +15440,8 @@ https://s3.documentcloud.org/documents/25521187/200504190_redactedclosingreport_
 https://s3.documentcloud.org/documents/25521159/200307723_redactedclosingreport_redacted.pdf > PDFs/905151/200307723_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25520834/9702500_closingreportedms_redacted.pdf > PDFs/905151/9702500_closingreportedms_redacted.pdf
 https://s3.documentcloud.org/documents/21057718/fody-941769-12-25-19.pdf > PDFs/941769/fody_941769_12_25_19.pdf
+https://s3.documentcloud.org/documents/4922942/Syed-v-City-Of-New-York-et-al.pdf > PDFs/917140/syed_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/26366338/939085_10172025_2025045pdf.pdf > PDFs/939085/939085_10172025_2025045pdf.pdf
+https://s3.documentcloud.org/documents/25523106/201111817_redactedclosingreport_redacted.pdf > PDFs/940232/201111817_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kfkTVCSfKULxQI4slNaw2g== > PDFs/940232/705479_2017_the_city_of_new_york_v_the_city_of_new_york_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oTsXtnJH3GZ9cdicqoJzdw== > PDFs/965639/526561_2023_gaby_luzon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
