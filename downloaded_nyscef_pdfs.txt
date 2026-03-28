@@ -2303,3 +2303,14 @@ https://s3.documentcloud.org/documents/4927942/Jones-v-Doe-1-et-al.pdf > PDFs/93
 https://s3.documentcloud.org/documents/4927943/Jones-v-Doe-1-et-al.pdf > PDFs/931772/jones_v_doe_1_et_al.pdf
 https://s3.documentcloud.org/documents/21025050/kreitzberg-8d4f707e9c3c11892da9c6d9ea4d10ff0d49e7b4.pdf > PDFs/931772/kreitzberg_8d4f707e9c3c11892da9c6d9ea4d10ff0d49e7b4.pdf
 https://s3.documentcloud.org/documents/21615339/daf-mathelierpotter936592.pdf > PDFs/936592/daf_mathelierpotter936592.pdf
+https://s3.documentcloud.org/documents/21019967/daf-saha969346.pdf > PDFs/969346/daf_saha969346.pdf
+https://s3.documentcloud.org/documents/25526207/202306511.pdf > PDFs/968628/202306511.pdf
+https://s3.documentcloud.org/documents/25536816/202306511-tax968628-apu-final-documentspdf.pdf > PDFs/968628/202306511_tax968628_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25522966/202007247_redactedclosingreport_redacted.pdf > PDFs/929740/202007247_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525361/201910059.pdf > PDFs/929740/201910059.pdf
+https://s3.documentcloud.org/documents/23381200/201902829_redactedclosingreport_redacted.pdf > PDFs/929740/201902829_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23381189/201804771_redactedclosingreport_redacted.pdf > PDFs/929740/201804771_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522686/201609410_redactedclosingreport_redacted.pdf > PDFs/929740/201609410_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23698866/201608992_redactedclosingreport_redacted.pdf > PDFs/929740/201608992_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25521300/200306755_redactedclosingreport_redacted.pdf > PDFs/929740/200306755_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085251/seh_929740.pdf > PDFs/929740/seh_929740.pdf
