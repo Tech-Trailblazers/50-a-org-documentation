@@ -7448,3 +7448,13 @@ https://s3.documentcloud.org/documents/21024739/julien-bd34737fe8675bfa56787eeed
 https://s3.documentcloud.org/documents/21058413/julien-949152-02-08-21.pdf > PDFs/949152/julien_949152_02_08_21.pdf
 https://s3.documentcloud.org/documents/21057577/daguanno-957506-01-18-21.pdf > PDFs/957506/daguanno_957506_01_18_21.pdf
 https://s3.documentcloud.org/documents/21057751/fermin-958582-03-11-21.pdf > PDFs/958582/fermin_958582_03_11_21.pdf
+https://s3.documentcloud.org/documents/25519918/201907783_redactedclosingreport_redacted.pdf > PDFs/960147/201907783_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21417996/201906941_redactedclosingreport_redacted.pdf > PDFs/960147/201906941_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24100834/201805607_redactedclosingreport_redacted.pdf > PDFs/960147/201805607_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25995187/201701698-redactedclosingreport-redacted.pdf > PDFs/960147/201701698_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21020238/ali-869ef83ae5a373b5c5d2bcdd6cbf6d74b0e38b29.pdf > PDFs/960147/ali_869ef83ae5a373b5c5d2bcdd6cbf6d74b0e38b29.pdf
+https://s3.documentcloud.org/documents/21066439/ali-960147.pdf > PDFs/960147/ali_960147.pdf
+https://s3.documentcloud.org/documents/4923087/Cruz-v-City-of-New-York-et-al.pdf > PDFs/951748/cruz_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21023367/funaro-2c19643933707b23d71ccdfa7a3a2f79fa004d34.pdf > PDFs/951748/funaro_2c19643933707b23d71ccdfa7a3a2f79fa004d34.pdf
+https://s3.documentcloud.org/documents/23825167/iab_2022_9500.pdf > PDFs/972712/iab_2022_9500.pdf
+https://s3.documentcloud.org/documents/21057527/ciulla-964996-06-15-21.pdf > PDFs/964996/ciulla_964996_06_15_21.pdf
