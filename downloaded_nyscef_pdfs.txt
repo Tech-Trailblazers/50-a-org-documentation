@@ -1579,3 +1579,4 @@ https://s3.documentcloud.org/documents/24100825/201709632_redactedclosingreport_
 https://s3.documentcloud.org/documents/25023188/201608055_redactedclosingreport_redacted.pdf > PDFs/953198/201608055_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4418939/nypd-cases-108.pdf > PDFs/938918/nypd_cases_108.pdf
 https://s3.documentcloud.org/documents/22119412/934789_05032018_2018041pdf.pdf > PDFs/934789/934789_05032018_2018041pdf.pdf
+https://s3.documentcloud.org/documents/4922542/Gadpaille-v-City-Of-New-York-et-al.pdf > PDFs/953114/gadpaille_v_city_of_new_york_et_al.pdf
