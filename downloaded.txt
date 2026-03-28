@@ -11703,3 +11703,5 @@ https://s3.documentcloud.org/documents/21054241/metelus-950094-06-29-21.pdf > PD
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OgJZ6/Xh5FCpLKxqzlqWbg== > PDFs/930761/952379_2023_harper_kaye_hendrickson_v_city_of_new_york_et_al_complaint_5.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qBpaAomU9OTqZBZQarbeMw== > PDFs/966234/510901_2023_jerome_williams_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21057009/gigliomoses-966234-12-17-20.pdf > PDFs/966234/gigliomoses_966234_12_17_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UrHoro/zhZ1WqwYQJ0WrWA== > PDFs/951153/522259_2020_deontae_cooper_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Zfszf2dOI1jzc8ovY4Hq_PLUS_Q== > PDFs/951188/159424_2013_taiwa_osborne_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
