@@ -11681,3 +11681,6 @@ https://s3.documentcloud.org/documents/25520874/200412172_redactedclosingreport_
 https://s3.documentcloud.org/documents/25522910/200203944_redactedclosingreport_redacted.pdf > PDFs/929389/200203944_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nNI69idigWgWVpIHJxNhhA== > PDFs/929389/504496_2020_travis_alonzo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_ltT08Vpx07F8Ru3Sk94vw== > PDFs/893935/156830_2014_maliki_cottrell_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TX8ASTZWJoSXwt9ntygaag== > PDFs/934531/161755_2014_mark_fam_v_the_city_of_new_york_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921059/Graham-v-City-of-New-York-et-al.pdf > PDFs/947724/graham_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920089/Luckey-v-City-of-New-York-et-al.pdf > PDFs/952595/luckey_v_city_of_new_york_et_al.pdf
