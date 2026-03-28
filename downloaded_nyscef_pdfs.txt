@@ -2879,3 +2879,11 @@ https://s3.documentcloud.org/documents/25525999/202201741.pdf > PDFs/966287/2022
 https://s3.documentcloud.org/documents/26473670/202300229_redactedclosingreportpdf.pdf > PDFs/949418/202300229_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/25023284/201908344_redactedclosingreport_redacted.pdf > PDFs/949418/201908344_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25899151/201506055-redactedclosingreport-redacted.pdf > PDFs/949418/201506055_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525404/202001357.pdf > PDFs/960034/202001357.pdf
+https://s3.documentcloud.org/documents/23469869/202001357_tax960034_redacteddepartureletterpdf.pdf > PDFs/960034/202001357_tax960034_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/22086054/seh_960034.pdf > PDFs/960034/seh_960034.pdf
+https://s3.documentcloud.org/documents/25879643/961964_02072025_2025010pdf.pdf > PDFs/961964/961964_02072025_2025010pdf.pdf
+https://s3.documentcloud.org/documents/25879644/964254_02072025_2025010pdf.pdf > PDFs/961964/964254_02072025_2025010pdf.pdf
+https://s3.documentcloud.org/documents/25999831/202003715_redactedclosingreportpdf.pdf > PDFs/965797/202003715_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26182861/201602031_redactedclosingreportpdf.pdf > PDFs/946961/201602031_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/5378284/Nix-v-NYPD-42nd-Precinct-et-al.pdf > PDFs/946961/nix_v_nypd_42nd_precinct_et_al.pdf
