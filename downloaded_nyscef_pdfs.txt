@@ -2241,3 +2241,17 @@ https://s3.documentcloud.org/documents/25520994/200801934_redactedclosingreport_
 https://s3.documentcloud.org/documents/25964127/202305191_redactedclosingreportpdf.pdf > PDFs/954186/202305191_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/21016821/daf-mileew-962619.pdf > PDFs/962619/daf_mileew_962619.pdf
 https://s3.documentcloud.org/documents/23578235/201701719_redactedclosingreport_redacted.pdf > PDFs/946271/201701719_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26303036/202105004_redactedclosingreportpdf.pdf > PDFs/970165/202105004_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26187175/202303212_redactedclosingreportpdf.pdf > PDFs/972617/202303212_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25526003/202202133.pdf > PDFs/944092/202202133.pdf
+https://s3.documentcloud.org/documents/23973389/202202133_tax944092_redacteddepartureletterpdf.pdf > PDFs/944092/202202133_tax944092_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/23973390/202202133_tax970073_redacteddepartureletterpdf.pdf > PDFs/944092/202202133_tax970073_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/26303055/202102431_redactedclosingreportpdf.pdf > PDFs/944092/202102431_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25955978/201904350_redactedclosingreport_redacted.pdf > PDFs/944092/201904350_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25955973/201115981_redactedclosingreport_redacted.pdf > PDFs/944092/201115981_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25955969/200903936_redactedclosingreport_redacted.pdf > PDFs/944092/200903936_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977834/201901073-redactedclosingreport-redacted.pdf > PDFs/943480/201901073_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24100796/201410500_redactedclosingreport_redacted.pdf > PDFs/943480/201410500_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921300/Perez-v-City-of-New-York-et-al.pdf > PDFs/943480/perez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/23724889/daly.pdf > PDFs/943480/daly.pdf
+https://s3.documentcloud.org/documents/20528116/827.pdf > PDFs/943480/827.pdf
