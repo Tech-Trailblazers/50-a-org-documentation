@@ -9869,3 +9869,10 @@ https://s3.documentcloud.org/documents/21022527/diggs-c85013833c55914cdacf95a591
 https://s3.documentcloud.org/documents/21057637/diggs-948890.pdf > PDFs/948890/diggs_948890.pdf
 https://s3.documentcloud.org/documents/22085182/seh_905154.pdf > PDFs/905154/seh_905154.pdf
 https://s3.documentcloud.org/documents/24441303/201908464_redactedclosingreport_redacted.pdf > PDFs/958934/201908464_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22076472/201902365_redactedclosingreport_redacted.pdf > PDFs/946530/201902365_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977777/201803061-redactedclosingreport-redacted.pdf > PDFs/948679/201803061_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23689489/2022_babadaglian_19cv04136.pdf > PDFs/948679/2022_babadaglian_19cv04136.pdf
+https://s3.documentcloud.org/documents/22102492/948679_02122021_2021002pdf.pdf > PDFs/948679/948679_02122021_2021002pdf.pdf
+https://s3.documentcloud.org/documents/4921326/Jordan-v-City-of-New-York-et-al.pdf > PDFs/952928/jordan_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21057604/delahoz-965035-12-25-2019.pdf > PDFs/965035/delahoz_965035_12_25_2019.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jGvuI_PLUS_YnqdnISVdWFyrI_PLUS_A== > PDFs/951769/450654_2024_jude_samson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
