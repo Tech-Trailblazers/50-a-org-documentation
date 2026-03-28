@@ -9549,3 +9549,10 @@ https://s3.documentcloud.org/documents/26284230/201507272-redactedclosingreport-
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wheDxq9CjBbdvj7uhsrp7w== > PDFs/935905/511165_2014_james_marshall_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/25527648/201810238-redactedclosingreport-redacted.pdf > PDFs/957324/201810238_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xzumfJv3vq6h1Aab06cxvA== > PDFs/957324/708010_2023_todd_rivers_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086230/seh_962721.pdf > PDFs/962721/seh_962721.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1mhp660zo5pylCGVyVnZ0A== > PDFs/969131/724218_2023_nelly_lopez_v_nelly_lopez_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24097631/202103206-tax965798-apu-final-documentspdf.pdf > PDFs/965798/202103206_tax965798_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21066631/mirza-965798-07-12-21.pdf > PDFs/965798/mirza_965798_07_12_21.pdf
+https://s3.documentcloud.org/documents/23776954/935308_12292022_2022067pdf.pdf > PDFs/935308/935308_12292022_2022067pdf.pdf
+https://s3.documentcloud.org/documents/25522525/201308911_redactedclosingreport_redacted.pdf > PDFs/953084/201308911_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21025640/mcevoy-14718f175be0e6637fdb10ec180fa3c593df0b4b.pdf > PDFs/953084/mcevoy_14718f175be0e6637fdb10ec180fa3c593df0b4b.pdf
