@@ -6992,3 +6992,6 @@ https://s3.documentcloud.org/documents/23578239/201706490_redactedclosingreport_
 https://s3.documentcloud.org/documents/4923411/Pearson-v-City-of-New-York-et-al.pdf > PDFs/951237/pearson_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/23685924/2016_king_15cv00497.pdf > PDFs/951237/2016_king_15cv00497.pdf
 https://s3.documentcloud.org/documents/21028765/sferrazza-72b1c6ce1864c478aebb4281fa77dff88a5934ea.pdf > PDFs/951237/sferrazza_72b1c6ce1864c478aebb4281fa77dff88a5934ea.pdf
+https://s3.documentcloud.org/documents/21056918/giglio-disclosure-bailey-929671.pdf > PDFs/929671/giglio_disclosure_bailey_929671.pdf
+https://s3.documentcloud.org/documents/22086067/seh_960281.pdf > PDFs/960281/seh_960281.pdf
+https://s3.documentcloud.org/documents/4922528/Sommerville-v-City-of-New-York-et-al.pdf > PDFs/941614/sommerville_v_city_of_new_york_et_al.pdf
