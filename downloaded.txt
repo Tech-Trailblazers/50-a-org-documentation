@@ -19046,3 +19046,15 @@ https://s3.documentcloud.org/documents/26473763/201502134_redactedclosingreportp
 https://s3.documentcloud.org/documents/21574216/201401986-mikalinis-and-cooney.pdf > PDFs/945165/201401986_mikalinis_and_cooney.pdf
 https://s3.documentcloud.org/documents/4919539/Smith-v-City-of-New-York-et-al.pdf > PDFs/945165/smith_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919538/Smith-v-City-of-New-York-et-al.pdf > PDFs/945165/smith_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Od2Sl/G4CgLhTfkzcUQBmw== > PDFs/953466/517243_2022_sheridan_smith_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086452/seh_966932.pdf > PDFs/966932/seh_966932.pdf
+https://s3.documentcloud.org/documents/4928175/Fowler-v-New-York-City-Police-Officer-Travis.pdf > PDFs/945262/fowler_v_new_york_city_police_officer_travis.pdf
+https://s3.documentcloud.org/documents/21026873/mussaw-b145ca788645cccd94711cf4a12d298f8cab6058.pdf > PDFs/945262/mussaw_b145ca788645cccd94711cf4a12d298f8cab6058.pdf
+https://s3.documentcloud.org/documents/4918583/Crooks-v-City-of-New-York-et-al.pdf > PDFs/923715/crooks_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918584/Crooks-v-City-of-New-York-et-al.pdf > PDFs/923715/crooks_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25023354/201907255_redactedclosingreport_redacted.pdf > PDFs/959649/201907255_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525159/201801216.pdf > PDFs/959649/201801216.pdf
+https://s3.documentcloud.org/documents/23381199/201901811_redactedclosingreport_redacted.pdf > PDFs/949074/201901811_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21573811/201508189_redactedclosingreport_redacted.pdf > PDFs/949074/201508189_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/20528142/871.pdf > PDFs/949074/871.pdf
+https://s3.documentcloud.org/documents/20528253/1472.pdf > PDFs/949074/1472.pdf
