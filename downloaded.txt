@@ -18518,3 +18518,13 @@ https://s3.documentcloud.org/documents/21021594/chacko-744deafdfa83dc42bf40ce652
 https://s3.documentcloud.org/documents/22085589/seh_946848.pdf > PDFs/946848/seh_946848.pdf
 https://s3.documentcloud.org/documents/23578281/201906262_redactedclosingreport_redacted.pdf > PDFs/940221/201906262_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21066526/grubert-940221-11-30-20.pdf > PDFs/940221/grubert_940221_11_30_20.pdf
+https://s3.documentcloud.org/documents/21573852/201810466_redactedclosingreport_redacted.pdf > PDFs/953734/201810466_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21022616/droz-eb4b4798bab980f9253a5a514f3f5f27b1616afc.pdf > PDFs/952698/droz_eb4b4798bab980f9253a5a514f3f5f27b1616afc.pdf
+https://s3.documentcloud.org/documents/25523316/201308155_redactedclosingreport_redacted.pdf > PDFs/941988/201308155_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mlewWe5AslHz3u1P48u_PLUS_eg== > PDFs/941988/809270_2023e_anderson_lantigua_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419157/nypd-cases-203.pdf > PDFs/941061/nypd_cases_203.pdf
+https://s3.documentcloud.org/documents/22119192/941061_10102017_2017032pdf.pdf > PDFs/941061/941061_10102017_2017032pdf.pdf
+https://s3.documentcloud.org/documents/21025315/luperon-3b586897960cb8b79f797a0dcf807fd0658200f6.pdf > PDFs/941061/luperon_3b586897960cb8b79f797a0dcf807fd0658200f6.pdf
+https://s3.documentcloud.org/documents/21057788/garcia-963251-03-20-20.pdf > PDFs/963251/garcia_963251_03_20_20.pdf
+https://s3.documentcloud.org/documents/21023713/gomez-bca0b04e4e2daf38214d266db8e1a094344928a1.pdf > PDFs/944070/gomez_bca0b04e4e2daf38214d266db8e1a094344928a1.pdf
+https://s3.documentcloud.org/documents/21056607/giglio_gomez-944070.pdf > PDFs/944070/giglio_gomez_944070.pdf
