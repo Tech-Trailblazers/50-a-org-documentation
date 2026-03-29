@@ -17668,3 +17668,16 @@ https://s3.documentcloud.org/documents/21024907/keegan-052dbf507ddbe8d1de722f4c6
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MMcVy9Aog4NKDSDaUVnrIA== > PDFs/958074/701071_2017_rashard_barnes_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22085485/seh_942549.pdf > PDFs/942549/seh_942549.pdf
 https://s3.documentcloud.org/documents/22086285/seh_963620.pdf > PDFs/963620/seh_963620.pdf
+https://s3.documentcloud.org/documents/21010241/daf-hartigan960638.pdf > PDFs/960638/daf_hartigan960638.pdf
+https://s3.documentcloud.org/documents/21031406/daf-hartigan-960638.pdf > PDFs/960638/daf_hartigan_960638.pdf
+https://s3.documentcloud.org/documents/21418051/202003975_redactedclosingreport_redacted_1.pdf > PDFs/962964/202003975_redactedclosingreport_redacted_1.pdf
+https://s3.documentcloud.org/documents/26055285/201605106-redactedclosingreport-redacted.pdf > PDFs/945823/201605106_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21028726/seidigbamuse-3235f808679dccd326a3918385a65d5a9c8c36ff.pdf > PDFs/961267/seidigbamuse_3235f808679dccd326a3918385a65d5a9c8c36ff.pdf
+https://s3.documentcloud.org/documents/21054002/seidigbamuse-961267-01-07-20.pdf > PDFs/961267/seidigbamuse_961267_01_07_20.pdf
+https://s3.documentcloud.org/documents/22086143/seh_961267.pdf > PDFs/961267/seh_961267.pdf
+https://s3.documentcloud.org/documents/23741481/201906955_redactedclosingreport_redacted.pdf > PDFs/941689/201906955_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9G/DaKKcK0oc_PLUS_uyATadCmQ== > PDFs/941689/702316_2014_efrain_lopez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086076/seh_960436.pdf > PDFs/960436/seh_960436.pdf
+https://s3.documentcloud.org/documents/25539523/8203_iab_c21-0063c-r_redacted.pdf > PDFs/962875/8203_iab_c21_0063c_r_redacted.pdf
+https://s3.documentcloud.org/documents/27263124/201700007_redactedclosingreportpdf.pdf > PDFs/943409/201700007_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/4920273/Brown-v-Johnson-et-al.pdf > PDFs/943409/brown_v_johnson_et_al.pdf
