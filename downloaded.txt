@@ -17478,3 +17478,12 @@ https://s3.documentcloud.org/documents/26206428/202300828-tax962694-apu-final-do
 https://s3.documentcloud.org/documents/25977676/201708379-redactedclosingreport-redacted.pdf > PDFs/962694/201708379_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21828245/201902470_redactedclosingreport_redacted.pdf > PDFs/961312/201902470_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=N69Y4JaVlwFVQvXjCVwI8w== > PDFs/960729/160835_2021_emily_hagan_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086218/seh_962561.pdf > PDFs/962561/seh_962561.pdf
+https://s3.documentcloud.org/documents/22085911/seh_956472.pdf > PDFs/956472/seh_956472.pdf
+https://s3.documentcloud.org/documents/4419137/nypd-cases-428.pdf > PDFs/940038/nypd_cases_428.pdf
+https://s3.documentcloud.org/documents/25345415/202208240-tax940038-apu-final-documentspdf.pdf > PDFs/940038/202208240_tax940038_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25977669/201704008-redactedclosingreport-redacted.pdf > PDFs/951287/201704008_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977677/201703007-redactedclosingreport-redacted.pdf > PDFs/951287/201703007_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25525881/202104748.pdf > PDFs/933395/202104748.pdf
+https://s3.documentcloud.org/documents/23601664/202104748_tax933395_redacteddepartureletterpdf.pdf > PDFs/933395/202104748_tax933395_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/22086021/seh_959359.pdf > PDFs/959359/seh_959359.pdf
