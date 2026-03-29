@@ -22303,3 +22303,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FCVFMFdpt2HJhwlzHd
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DsKH3DBauWrcnVcitjSMA== > PDFs/969935/535677_2023_david_ashby_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NiUrfqr61_PLUS_ko2H8sizOnFQ== > PDFs/932511/518344_2019_william_casado_jr_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=77mprihR/LHCp//sSms3ww== > PDFs/967612/522820_2023_ali_farid_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922227/202106772_redactedclosingreportpdf.pdf > PDFs/968178/202106772_redactedclosingreportpdf.pdf
