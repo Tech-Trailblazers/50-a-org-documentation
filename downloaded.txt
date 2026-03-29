@@ -17465,3 +17465,16 @@ https://s3.documentcloud.org/documents/25980294/201800354-redactedclosingreport-
 https://s3.documentcloud.org/documents/4921931/Azeez-v-The-City-of-New-York.pdf > PDFs/943848/azeez_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/22085518/seh_943848.pdf > PDFs/943848/seh_943848.pdf
 https://s3.documentcloud.org/documents/22085922/seh_956784.pdf > PDFs/956784/seh_956784.pdf
+https://s3.documentcloud.org/documents/23311539/934145_09022022_2022046pdf.pdf > PDFs/943459/934145_09022022_2022046pdf.pdf
+https://s3.documentcloud.org/documents/22085508/seh_943459.pdf > PDFs/943459/seh_943459.pdf
+https://s3.documentcloud.org/documents/21021901/colletti-8468ffa9bf69ebf646519f343b068d237b79e292.pdf > PDFs/963461/colletti_8468ffa9bf69ebf646519f343b068d237b79e292.pdf
+https://s3.documentcloud.org/documents/22086275/seh_963461.pdf > PDFs/963461/seh_963461.pdf
+https://s3.documentcloud.org/documents/26035040/201909287-tax947981-apu-final-documentspdf.pdf > PDFs/947981/201909287_tax947981_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21020630/barhold-b1ebf725b522c7f41a7606ae96cb5489317887c4.pdf > PDFs/947981/barhold_b1ebf725b522c7f41a7606ae96cb5489317887c4.pdf
+https://s3.documentcloud.org/documents/22085622/seh_947981.pdf > PDFs/947981/seh_947981.pdf
+https://s3.documentcloud.org/documents/22086209/seh_962436.pdf > PDFs/962436/seh_962436.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SnuUMmnydLnZ8TsOnn5Wgw== > PDFs/950196/725895_2023_nancy_bayona_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26206428/202300828-tax962694-apu-final-documentspdf.pdf > PDFs/962694/202300828_tax962694_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25977676/201708379-redactedclosingreport-redacted.pdf > PDFs/962694/201708379_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21828245/201902470_redactedclosingreport_redacted.pdf > PDFs/961312/201902470_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=N69Y4JaVlwFVQvXjCVwI8w== > PDFs/960729/160835_2021_emily_hagan_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
