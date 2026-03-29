@@ -22226,3 +22226,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M/_PLUS_S/6tHPBDU_
 https://s3.documentcloud.org/documents/27922221/202409491_tax942673_redacteddepartureletterpdf.pdf > PDFs/942673/202409491_tax942673_redacteddepartureletterpdf.pdf
 https://s3.documentcloud.org/documents/27922220/202409491_tax966144_redacteddepartureletterpdf.pdf > PDFs/966144/202409491_tax966144_redacteddepartureletterpdf.pdf
 https://s3.documentcloud.org/documents/27922282/201402954_redactedclosingreportpdf.pdf > PDFs/954078/201402954_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_nlv8Mjwvb7qaj22wgdvDg== > PDFs/963996/33666_2019e_aly_keita_v_the_city_of_new_york_et_al_complaint_6.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NWPBbAcEFkzHANeNQ4amxg== > PDFs/958892/26259_2020e_jordan_gulley_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OxhW30Qgjtz3hs/_PLUS_Mu43Sw== > PDFs/944827/22258_2018e_david_schlett_v_david_schlett_summons_complaint_1.pdf
