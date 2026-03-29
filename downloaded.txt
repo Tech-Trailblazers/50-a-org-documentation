@@ -17817,3 +17817,5 @@ https://s3.documentcloud.org/documents/22125352/201603615_redactedclosingreport_
 https://s3.documentcloud.org/documents/25521084/200701433_redactedclosingreport_redacted.pdf > PDFs/936104/200701433_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25521025/200610536_redactedclosingreport_redacted.pdf > PDFs/936104/200610536_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vI71Orgixn/HD3FHBvaRsQ== > PDFs/936104/503540_2016_mohamed_g_ahmed_v_mohamed_g_ahmed_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921154/Defendini-v-The-City-of-New-York-et-al.pdf > PDFs/946181/defendini_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/20527980/44.pdf > PDFs/938004/44.pdf
