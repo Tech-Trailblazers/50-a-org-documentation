@@ -20575,3 +20575,12 @@ https://s3.documentcloud.org/documents/25977687/201709192-redactedclosingreport-
 https://s3.documentcloud.org/documents/24101094/201708792_redactedclosingreport_redacted.pdf > PDFs/944470/201708792_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4419017/nypd-cases-435.pdf > PDFs/948444/nypd_cases_435.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wc24U_PLUS_02kSlVsF1sHUb7Kw== > PDFs/955771/31937_2017e_joseph_cheathem_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21030069/wells-75c1aeeb8a49dbeac89bd0100cb834d9aa874fff.pdf > PDFs/920962/wells_75c1aeeb8a49dbeac89bd0100cb834d9aa874fff.pdf
+https://s3.documentcloud.org/documents/26284169/201507899-redactedclosingreport-redacted.pdf > PDFs/937921/201507899_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=j/Z6J0qtEuT_PLUS_tA9WraiEPg== > PDFs/945234/24195_2017e_miguel_rodriguez_v_miguel_rodriguez_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zxp4qvLaLTBTJY5XSdDSNA== > PDFs/945234/21591_2016e_christian_rivera_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25522792/201411106_redactedclosingreport_redacted.pdf > PDFs/953601/201411106_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25246184/201504152_redactedclosingreport_redacted.pdf > PDFs/951091/201504152_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055253/201504565-redactedclosingreport-redacted.pdf > PDFs/938046/201504565_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25246183/201503103_redactedclosingreport_redacted.pdf > PDFs/938046/201503103_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22102479/938046_06082017_2017060pdf.pdf > PDFs/938046/938046_06082017_2017060pdf.pdf
