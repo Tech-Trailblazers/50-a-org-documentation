@@ -17038,3 +17038,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qI5xzcl5YwMnxVKLUr
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wa532pCeQTrtLDpMVtiC9Q== > PDFs/959420/516977_2021_cassandra_greene_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EFfh9ILTRsYlO4V3asmS0g== > PDFs/937388/501874_2016_max_balsam_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sIZwIrvm4smPHyOIsR1y_PLUS_Q== > PDFs/933590/524721_2020_michael_candelario_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rh6znOsv2FThw2oQs9a3/Q== > PDFs/972102/521191_2024_stetfon_moore_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M5gSZkoYIga1RNA3o8BhJw== > PDFs/970442/512565_2024_chelsea_alston_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RYEemHPkfM51ZaOS2nttyg== > PDFs/945633/505512_2017_michael_matias_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=L61IbLQvQfkT/U61dgJdNQ== > PDFs/949137/508559_2018_john_paul_piecyk_v_john_paul_piecyk_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MrjNTL4io8EN_PLUS_Yvg6o_PLUS_ncw== > PDFs/949153/507622_2020_keshon_george_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mUo4gzbVahvqpoQrImsWmA== > PDFs/949153/509488_2016_jasmin_colon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
