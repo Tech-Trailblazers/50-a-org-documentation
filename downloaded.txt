@@ -16230,3 +16230,6 @@ https://s3.documentcloud.org/documents/21027113/oconnell-4daa9e21efbe52cc51eb91d
 https://s3.documentcloud.org/documents/4419169/nypd-cases-439.pdf > PDFs/942734/nypd_cases_439.pdf
 https://s3.documentcloud.org/documents/21020174/akins-a8ed232ad091454adafa424b34509dcf7b66a100.pdf > PDFs/934376/akins_a8ed232ad091454adafa424b34509dcf7b66a100.pdf
 https://s3.documentcloud.org/documents/21054093/mamelko-959780.pdf > PDFs/959780/mamelko_959780.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OQyzm/06/BuO66sC0FB11w== > PDFs/953726/503872_2017_kristy_norris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23835910/cardenas-953726-giglio.pdf > PDFs/953726/cardenas_953726_giglio.pdf
+https://s3.documentcloud.org/documents/21057973/giglio_dutan-963019.pdf > PDFs/963019/giglio_dutan_963019.pdf
