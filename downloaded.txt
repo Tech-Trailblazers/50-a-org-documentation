@@ -16778,3 +16778,9 @@ https://s3.documentcloud.org/documents/25345397/202104849-tax945774-apu-final-do
 https://s3.documentcloud.org/documents/21418160/201707472_redactedclosingreport_redacted.pdf > PDFs/950610/201707472_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21024445/ibrahim-be8971a229fa0eb7fe2b8d4bb2fb2cd9875629e7.pdf > PDFs/950610/ibrahim_be8971a229fa0eb7fe2b8d4bb2fb2cd9875629e7.pdf
 https://s3.documentcloud.org/documents/21025047/kravchik-ac4234b3bbc26d8a0198bb7778e1100062d6417c.pdf > PDFs/945889/kravchik_ac4234b3bbc26d8a0198bb7778e1100062d6417c.pdf
+https://s3.documentcloud.org/documents/26284186/201709507-redactedclosingreport-redacted.pdf > PDFs/939175/201709507_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23881893/giglio_cusmano-963940-19-02158_redacted.pdf > PDFs/941944/giglio_cusmano_963940_19_02158_redacted.pdf
+https://s3.documentcloud.org/documents/24441410/201507246_redactedclosingreport_redacted.pdf > PDFs/949038/201507246_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4923553/McAuliffe-v-The-City-of-New-York-et-al.pdf > PDFs/943982/mcauliffe_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923158/Simmons-v-New-York-et-al.pdf > PDFs/903823/simmons_v_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=Q6krIXSpMScgx0GulJs6JA==&display=all&courtType=New%20York%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/952952/documentlist_docketid_q6krixspmscgx0guljs6ja_display_all_courttype_new_20york_20county_20supreme_20court_resultspagenum_1.pdf
