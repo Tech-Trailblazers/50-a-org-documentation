@@ -20620,3 +20620,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ngUY1oyAHtA9XozKQB
 https://s3.documentcloud.org/documents/21023498/gardner-0e543f4bd0808e056fcc046ed5246dd15c4ea8ec.pdf > PDFs/890060/gardner_0e543f4bd0808e056fcc046ed5246dd15c4ea8ec.pdf
 https://s3.documentcloud.org/documents/21057498/chen-952576-12-03-20.pdf > PDFs/952576/chen_952576_12_03_20.pdf
 https://s3.documentcloud.org/documents/22118944/927864_09022015_2015016pdf.pdf > PDFs/945171/927864_09022015_2015016pdf.pdf
+https://s3.documentcloud.org/documents/4419140/nypd-cases-372.pdf > PDFs/941004/nypd_cases_372.pdf
