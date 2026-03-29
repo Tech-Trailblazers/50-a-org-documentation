@@ -22443,3 +22443,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DIiBOw_PLUS_56hsqD
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IhpSkeUkj9O4W23C353blA== > PDFs/949601/530886_2023_amanda_destefano_v_the_city_of_new_york_et_al_summons_complaint_3.pdf
 https://s3.documentcloud.org/documents/27922280/201404531_redactedclosingreportpdf.pdf > PDFs/940482/201404531_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AOOFdBzDhISYkA1a/B/2DA== > PDFs/968895/523995_2023_max_d_francis_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922226/202202310_redactedclosingreportpdf.pdf > PDFs/951648/202202310_redactedclosingreportpdf.pdf
