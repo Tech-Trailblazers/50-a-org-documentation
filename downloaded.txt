@@ -16349,3 +16349,14 @@ https://s3.documentcloud.org/documents/25933037/200609865_redactedclosingreport_
 https://s3.documentcloud.org/documents/21021308/calderone-a12f135c2fb144e0eefb11fde25074ca1c0f80ef.pdf > PDFs/936038/calderone_a12f135c2fb144e0eefb11fde25074ca1c0f80ef.pdf
 https://s3.documentcloud.org/documents/21022623/drysdale-1bf08dbe2b15495e1c0064edd28d5652508abd8d.pdf > PDFs/941684/drysdale_1bf08dbe2b15495e1c0064edd28d5652508abd8d.pdf
 https://s3.documentcloud.org/documents/21021889/coleman-d76b844445bce8f624a9a14a725bff0d04a38e27.pdf > PDFs/950218/coleman_d76b844445bce8f624a9a14a725bff0d04a38e27.pdf
+https://s3.documentcloud.org/documents/23794992/201804908_redactedclosingreport_redacted.pdf > PDFs/946861/201804908_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019835/daf-nieves953174.pdf > PDFs/953174/daf_nieves953174.pdf
+https://s3.documentcloud.org/documents/24441448/201603042_redactedclosingreport_redacted.pdf > PDFs/948346/201603042_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rj3Y8vMJL/sv1iNgb2/6PA== > PDFs/948346/156548_2018_iris_andino_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OTu0e/GozzjwLRuj/XMwJA== > PDFs/948346/159257_2017_john_grant_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/4418995/nypd-cases-190.pdf > PDFs/944757/nypd_cases_190.pdf
+https://s3.documentcloud.org/documents/24441426/201509650_redactedclosingreport_redacted.pdf > PDFs/950037/201509650_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921865/Natoo-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/942215/natoo_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058579/officer-reyes-946156-giglio.pdf > PDFs/946156/officer_reyes_946156_giglio.pdf
+https://s3.documentcloud.org/documents/25523794/200906048_redactedclosingreport_redacted.pdf > PDFs/946685/200906048_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119167/917864_11232009_2009069pdf.pdf > PDFs/917864/917864_11232009_2009069pdf.pdf
