@@ -22444,3 +22444,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IhpSkeUkj9O4W23C35
 https://s3.documentcloud.org/documents/27922280/201404531_redactedclosingreportpdf.pdf > PDFs/940482/201404531_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AOOFdBzDhISYkA1a/B/2DA== > PDFs/968895/523995_2023_max_d_francis_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922226/202202310_redactedclosingreportpdf.pdf > PDFs/951648/202202310_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ItXZWi1FYhU8bEwzqYk/8Q== > PDFs/942615/25640_2019e_quendre_hodges_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1RrcKOtjFJudozaljsIU9Q== > PDFs/929599/509410_2015_jocelyn_velez_et_al_v_jocelyn_velez_et_al_summons_complaint_1.pdf
