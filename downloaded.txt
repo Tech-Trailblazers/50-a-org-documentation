@@ -22440,3 +22440,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gDG8O//kHkhFLj1S_P
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ATxzNrXGGwhfUmxa4ixy8g== > PDFs/966993/531328_2022_fabian_macdonald_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1LUqTvednU8O9D5tYZ_PLUS_6ZA== > PDFs/960709/502306_2022_jeremy_cleveland_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DIiBOw_PLUS_56hsqD0QKmki2cA== > PDFs/944393/505802_2014_valerie_smith_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IhpSkeUkj9O4W23C353blA== > PDFs/949601/530886_2023_amanda_destefano_v_the_city_of_new_york_et_al_summons_complaint_3.pdf
