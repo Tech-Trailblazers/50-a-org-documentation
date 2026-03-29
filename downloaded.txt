@@ -17907,3 +17907,12 @@ https://s3.documentcloud.org/documents/4922695/Annan-v-City-of-New-York-et-al.pd
 https://s3.documentcloud.org/documents/4923546/Lewis-v-City-of-New-York-et-al.pdf > PDFs/944479/lewis_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/20528048/527.pdf > PDFs/944479/527.pdf
 https://s3.documentcloud.org/documents/26140925/201809964-redactedclosingreport-redacted.pdf > PDFs/943988/201809964_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523591/201609569_redactedclosingreport_redacted.pdf > PDFs/936251/201609569_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523423/201309784_redactedclosingreport_redacted.pdf > PDFs/936251/201309784_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522887/201305138_redactedclosingreport_redacted.pdf > PDFs/936251/201305138_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522396/201301148_redactedclosingreport_redacted.pdf > PDFs/936251/201301148_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25519969/201310159_redactedclosingreport_redacted.pdf > PDFs/936251/201310159_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921928/Young-v-City-of-New-York-et-al.pdf > PDFs/936251/young_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22118913/944032_02262015_2015152pdf.pdf > PDFs/944032/944032_02262015_2015152pdf.pdf
+https://s3.documentcloud.org/documents/21119864/daf-colon960381.pdf > PDFs/960381/daf_colon960381.pdf
+https://s3.documentcloud.org/documents/4920940/Campos-v-Capofari-et-al.pdf > PDFs/951680/campos_v_capofari_et_al.pdf
