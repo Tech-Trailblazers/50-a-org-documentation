@@ -16818,3 +16818,10 @@ https://s3.documentcloud.org/documents/24695097/8390_ccrb_8changeme771735924-mis
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NDZQJnW1BuG3Nv/VrU2ytA== > PDFs/943832/704578_2014_sayyid_d_muhammadali_v_sayyid_d_muhammadali_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/5379235/Muhammadali-v-City-of-New-York-et-al.pdf > PDFs/943832/muhammadali_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/24736414/8387_bradygiglio_9changeme771735924-miscellaneous_file_2809761.pdf > PDFs/943832/8387_bradygiglio_9changeme771735924_miscellaneous_file_2809761.pdf
+https://s3.documentcloud.org/documents/26055226/201503977-redactedclosingreport-redacted.pdf > PDFs/936405/201503977_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920620/Scurry-v-City-of-New-York-et-al.pdf > PDFs/936405/scurry_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920900/Tucker-v-City-of-New-York-et-al.pdf > PDFs/936405/tucker_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4921275/Simmons-v-New-York-City-et-al.pdf > PDFs/956878/simmons_v_new_york_city_et_al.pdf
+https://s3.documentcloud.org/documents/4921276/Simmons-v-New-York-City-et-al.pdf > PDFs/956878/simmons_v_new_york_city_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/OULA6SHo_PLUS_Mi/eHadyR60Q== > PDFs/897890/153351_2021_ivan_leedee_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085941/seh_957464.pdf > PDFs/957464/seh_957464.pdf
