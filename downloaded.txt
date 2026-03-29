@@ -22232,3 +22232,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OxhW30Qgjtz3hs/_PL
 https://s3.documentcloud.org/documents/27922255/201601612_redactedclosingreportpdf.pdf > PDFs/945627/201601612_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lYmI2tkA7rW5Q/itpmHokw== > PDFs/945023/36073_2017e_daryl_may_jr_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922285/201311189_redactedclosingreportpdf.pdf > PDFs/917272/201311189_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/27922214/202407850_tax978733_redacteddepartureletterpdf.pdf > PDFs/978733/202407850_tax978733_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EYq4wBbN64zS1CoeWj8ODA== > PDFs/942504/24453_2018e_renault_patterson_v_city_of_new_york_et_al_summons_complaint_1.pdf
