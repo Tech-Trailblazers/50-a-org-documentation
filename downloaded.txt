@@ -22345,3 +22345,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1ybEt_PLUS_/Ta1K1K
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dBwin2d1OQp/wtrZ1dwHvA== > PDFs/972392/512534_2024_patricia_charles_as_g_v_patricia_charles_as_g_petition_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IjBL4rjkTy4tw1rulHsHpw== > PDFs/972359/504130_2023_stafeld_sylvain_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4GpaWpuHpQIzKDQQGYhFdQ== > PDFs/966673/517549_2021_ishmail_knight_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922247/201606455_redactedclosingreportpdf.pdf > PDFs/956307/201606455_redactedclosingreportpdf.pdf
