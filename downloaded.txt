@@ -16887,3 +16887,17 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=49aCJzMGXmbir87ZZ9
 https://s3.documentcloud.org/documents/21020958/bonavita-bbe1c7a8d3aedc8b25629c76ea86aa80f9436c26.pdf > PDFs/952480/bonavita_bbe1c7a8d3aedc8b25629c76ea86aa80f9436c26.pdf
 https://s3.documentcloud.org/documents/21030638/daf-bonavita952480.pdf > PDFs/952480/daf_bonavita952480.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Y24cV_PLUS_CrGhRs0ORuNY8fmQ== > PDFs/932792/713597_2016_guy_mceachin_v_guy_mceachin_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=o1aYfEIV7sZ_PLUS_7MP7Ni1GSg== > PDFs/956609/722420_2023_andrew_smalls_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921895/McLeod-v-The-City-of-New-York-et-al.pdf > PDFs/951144/mcleod_v_the_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5CfeB/wJZbeiXJRcgQVCrA== > PDFs/940234/701642_2014_bill_lin_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922647/Lin-et-al-v-City-of-New-York-et-al.pdf > PDFs/940234/lin_et_al_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4W9L_PLUS_cHD58wgAHNJ5QFFag== > PDFs/933786/702866_2023_victor_mendeng_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23586738/2018_white_15cv03321.pdf > PDFs/933786/2018_white_15cv03321.pdf
+https://s3.documentcloud.org/documents/21023316/franklyn-5fb16a897a51897c2f21dec3a20a7cdb3d0bf46e.pdf > PDFs/933786/franklyn_5fb16a897a51897c2f21dec3a20a7cdb3d0bf46e.pdf
+https://s3.documentcloud.org/documents/21039710/daf-franklyn933786.pdf > PDFs/933786/daf_franklyn933786.pdf
+https://s3.documentcloud.org/documents/25526002/202202061.pdf > PDFs/946402/202202061.pdf
+https://s3.documentcloud.org/documents/25040821/202202061-tax946402-apu-final-documentspdf.pdf > PDFs/946402/202202061_tax946402_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21020194/albert-9b29de623a3e682a6fb3127eaf90b59ff1b61d98.pdf > PDFs/940929/albert_9b29de623a3e682a6fb3127eaf90b59ff1b61d98.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=G5o2qz9_PLUS_HqZo1hHzJdDCAQ== > PDFs/956095/511949_2021_jerry_province_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23698812/201907687_redactedclosingreport_redacted.pdf > PDFs/955949/201907687_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21023617/giglia-6877bdac8252bbe180f243d66587ca19fec16857.pdf > PDFs/955949/giglia_6877bdac8252bbe180f243d66587ca19fec16857.pdf
