@@ -18736,3 +18736,9 @@ https://s3.documentcloud.org/documents/4923722/Padhy-et-al-v-City-of-New-York-et
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B3v2s40U3lq2pfgYrDM81A== > PDFs/920354/500375_2017_cesar_castro_vasquez_v_cesar_castro_vasquez_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ybwyLQOY8UnHnvAS9bgp8Q== > PDFs/942856/501439_2014_william_suriel_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21023529/gavars-bd31501e1b1032e9faf8c4d66f512cef18f8d1ef.pdf > PDFs/945370/gavars_bd31501e1b1032e9faf8c4d66f512cef18f8d1ef.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=83qn2jL27T9PCw8tQSqIaA== > PDFs/976238/534036_2024_wade_noel_v_police_officer_eduardo_lopez_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nYJ5IdjuuxvBVnEI3sVmpA== > PDFs/976238/801298_2024e_travis_williams_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056084/ocasio-949408-04-27-21.pdf > PDFs/949408/ocasio_949408_04_27_21.pdf
+https://s3.documentcloud.org/documents/5379160/Lebron-v-City-of-New-York-et-al.pdf > PDFs/949567/lebron_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5379159/Lebron-v-City-of-New-York-et-al.pdf > PDFs/949567/lebron_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21193704/roman.pdf > PDFs/949567/roman.pdf
