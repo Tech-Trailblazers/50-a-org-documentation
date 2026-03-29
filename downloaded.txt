@@ -22305,3 +22305,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NiUrfqr61_PLUS_ko2
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=77mprihR/LHCp//sSms3ww== > PDFs/967612/522820_2023_ali_farid_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922227/202106772_redactedclosingreportpdf.pdf > PDFs/968178/202106772_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XcRgAbcRzJd5tJz4wQDWog== > PDFs/967912/514207_2024_ranardo_bowen_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XB8_PLUS_0e_PLUS_g2WGuUHdtFH9neg== > PDFs/943190/519610_2021_jean_pierre_v_city_of_new_york_et_al_summons_complaint_1.pdf
