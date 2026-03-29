@@ -15984,3 +15984,11 @@ https://s3.documentcloud.org/documents/21021784/chung-6277e2b0792b37d159ee99f865
 https://s3.documentcloud.org/documents/21057520/chung-940004-04-19-21.pdf > PDFs/940004/chung_940004_04_19_21.pdf
 https://s3.documentcloud.org/documents/4922368/Hatcher-v-City-of-New-York-et-al.pdf > PDFs/923244/hatcher_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922369/Hatcher-v-City-of-New-York-et-al.pdf > PDFs/923244/hatcher_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21051979/assing-946754-09-28-20.pdf > PDFs/946754/assing_946754_09_28_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yLYxZ5eB1uxIlIVMQ75c8Q== > PDFs/962289/520005_2022_lionel_hudson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=350ayTFMjhNR7QLCdv0N9g== > PDFs/962289/513513_2022_dennis_huff_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4418810/nypd-cases-079.pdf > PDFs/931592/nypd_cases_079.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WRn5MLb7N4KgIfBXGY6bCw== > PDFs/931592/507545_2016_douglas_n_cooper_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057555/cotto-953786-07-01-21.pdf > PDFs/953786/cotto_953786_07_01_21.pdf
+https://s3.documentcloud.org/documents/21058730/reinoso-957076-02-22-21-1.pdf > PDFs/957076/reinoso_957076_02_22_21_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vE5LVt8HaDylzSuGiyooMw== > PDFs/968427/529450_2023_darwin_ramirez_v_city_of_new_york_et_al_summons_complaint_1.pdf
