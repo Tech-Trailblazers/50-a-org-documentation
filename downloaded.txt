@@ -17223,3 +17223,15 @@ https://s3.documentcloud.org/documents/26312285/200600184_redactedclosingreport_
 https://s3.documentcloud.org/documents/21028730/seletski-f0521840d872c86f1a6ebf88213fd5d2cd8658a0.pdf > PDFs/931201/seletski_f0521840d872c86f1a6ebf88213fd5d2cd8658a0.pdf
 https://s3.documentcloud.org/documents/21057993/giglio_galvez-969082.pdf > PDFs/969082/giglio_galvez_969082.pdf
 https://s3.documentcloud.org/documents/4918457/Luis-SEPULVEDA-Joshua-Rodriguez-Franklyn-Gomez.pdf > PDFs/955415/luis_sepulveda_joshua_rodriguez_franklyn_gomez.pdf
+https://s3.documentcloud.org/documents/21056245/vargas-962146-giglio.pdf > PDFs/962146/vargas_962146_giglio.pdf
+https://s3.documentcloud.org/documents/25523568/201710412_redactedclosingreport_redacted.pdf > PDFs/954081/201710412_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21025287/lovera-ded1f4b5dfec911af2ca1687cbb820157996b909.pdf > PDFs/954081/lovera_ded1f4b5dfec911af2ca1687cbb820157996b909.pdf
+https://s3.documentcloud.org/documents/21058499/lovera-954081.pdf > PDFs/954081/lovera_954081.pdf
+https://s3.documentcloud.org/documents/22085819/seh_954081.pdf > PDFs/954081/seh_954081.pdf
+https://s3.documentcloud.org/documents/4928565/Hoffman-et-al-v-Castro-et-al.pdf > PDFs/960341/hoffman_et_al_v_castro_et_al.pdf
+https://s3.documentcloud.org/documents/21058121/giglio_pavlovici-935475.pdf > PDFs/935475/giglio_pavlovici_935475.pdf
+https://s3.documentcloud.org/documents/25525939/202106546.pdf > PDFs/956628/202106546.pdf
+https://s3.documentcloud.org/documents/25536046/202106546-tax956628-apu-final-documentspdf.pdf > PDFs/956628/202106546_tax956628_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21058261/goodwin-941838-12-09-2019.pdf > PDFs/941838/goodwin_941838_12_09_2019.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mXVl1wCeTbV7hfVtmORe5A== > PDFs/969668/817510_2023e_yitzhak_ortiz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=o9gW1Em5OWVqRcWN_PLUS_RS2ZQ== > PDFs/969411/805533_2023e_danyal_sorel_v_city_of_new_york_et_al_summons_complaint_1.pdf
