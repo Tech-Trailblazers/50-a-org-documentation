@@ -16360,3 +16360,6 @@ https://s3.documentcloud.org/documents/4921865/Natoo-et-al-v-The-City-Of-New-Yor
 https://s3.documentcloud.org/documents/21058579/officer-reyes-946156-giglio.pdf > PDFs/946156/officer_reyes_946156_giglio.pdf
 https://s3.documentcloud.org/documents/25523794/200906048_redactedclosingreport_redacted.pdf > PDFs/946685/200906048_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22119167/917864_11232009_2009069pdf.pdf > PDFs/917864/917864_11232009_2009069pdf.pdf
+https://s3.documentcloud.org/documents/22118971/938395_05232016_2016075pdf.pdf > PDFs/938395/938395_05232016_2016075pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M7qXdPHxpU_PLUS_WWBphqs5GGQ== > PDFs/966623/816581_2023e_jayden_fernandez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cd4vAkwGXa8OIPbr8iLYFw== > PDFs/966623/810508_2022e_brahima_djalo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
