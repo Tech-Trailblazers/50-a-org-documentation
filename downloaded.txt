@@ -22413,3 +22413,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mHqh89BxZdGOetE7Vn
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9bMnKe/dFT5DXG7gX9WxlQ== > PDFs/959782/520206_2019_miguel_perez_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jJ/gVcoyUqTzEpm1VmoiWg== > PDFs/933698/517884_2023_calvin_alexander_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7HBzCIG8pIG6Y7BS/OvxZw== > PDFs/963247/500945_2018_james_veronico_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vpVue6ZQeLFB4ophH3SNDQ== > PDFs/957404/511234_2023_eric_cummings_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
