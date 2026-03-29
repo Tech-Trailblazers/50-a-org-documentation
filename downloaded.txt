@@ -16535,3 +16535,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dKIe7HoDBrPOxLoNHz
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Se1uWtk2TzxVJSCRYwxaMw== > PDFs/963213/804182_2022e_robert_collins_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vsxoz8O6NyvNxLIzHKLMAg== > PDFs/966305/809709_2021e_jerry_simmons_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZB8qs8I9bRFnyfCH3kjjEA== > PDFs/966305/27414_2019e_roy_reyes_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2t0t7mmInbSzq3YUKbXqpw== > PDFs/962770/22092_2020e_marcus_chavis_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
