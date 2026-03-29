@@ -16598,3 +16598,7 @@ https://s3.documentcloud.org/documents/4928165/Turner-v-City-of-New-York-et-al.p
 https://s3.documentcloud.org/documents/22119523/918428_11122013_2013062pdf.pdf > PDFs/918428/918428_11122013_2013062pdf.pdf
 https://s3.documentcloud.org/documents/25520860/200712664_redactedclosingreport_redacted.pdf > PDFs/936664/200712664_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pEViy4_PLUS_dGHhd8h5nil1d3Q== > PDFs/978881/818870_2024e_james_jenkins_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9y9ICIAiGfxDBhaZqbf0dw== > PDFs/949561/22701_2018e_tressie_lane_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OH6Jybu/0RiJWOPOCaIx7g== > PDFs/955638/813008_2023e_ashaun_bryant_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SUuLegpjtn6DikDDG_PLUS_pHPA== > PDFs/955638/816072_2021e_brandee_isom_v_nypd_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4923795/Luna-v-The-City-Of-New-York-et-al.pdf > PDFs/955638/luna_v_the_city_of_new_york_et_al.pdf
