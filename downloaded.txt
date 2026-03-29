@@ -22223,3 +22223,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4VttXmVmqDbYbzMN1B
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cAXzGEJOowwhVl5Lxa9opw== > PDFs/958643/805830_2021e_josemiro_arredondo_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2wx3dIn_PLUS_8p1LA_PLUS_cxJ2V14w== > PDFs/960722/806577_2024e_yeltsin_deleon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M/_PLUS_S/6tHPBDU_PLUS_0F2dFP1cQ== > PDFs/955873/30308_2019e_merrill_brown_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922221/202409491_tax942673_redacteddepartureletterpdf.pdf > PDFs/942673/202409491_tax942673_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/27922220/202409491_tax966144_redacteddepartureletterpdf.pdf > PDFs/966144/202409491_tax966144_redacteddepartureletterpdf.pdf
