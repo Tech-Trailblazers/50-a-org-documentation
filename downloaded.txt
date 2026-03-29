@@ -18365,3 +18365,8 @@ https://s3.documentcloud.org/documents/25246231/201710196_redactedclosingreport_
 https://s3.documentcloud.org/documents/4922745/Patella-v-Anzalone-et-al.pdf > PDFs/944415/patella_v_anzalone_et_al.pdf
 https://s3.documentcloud.org/documents/21022334/delacruz-13dfc14381ff534fdcbc5f2f6112fcb4a41274b1.pdf > PDFs/934736/delacruz_13dfc14381ff534fdcbc5f2f6112fcb4a41274b1.pdf
 https://s3.documentcloud.org/documents/25521061/200307393_redactedclosingreport_redacted.pdf > PDFs/924129/200307393_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=73hY9RCEjpKwjP1vaqQe8g== > PDFs/950692/705247_2017_cham_whang_v_cham_whang_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25246221/201705513_redactedclosingreport_redacted.pdf > PDFs/945359/201705513_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920743/Sessoms-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/950484/sessoms_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919935/Ferriera-v-The-City-of-New-York.pdf > PDFs/937613/ferriera_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4418843/nypd-cases-291.pdf > PDFs/952199/nypd_cases_291.pdf
