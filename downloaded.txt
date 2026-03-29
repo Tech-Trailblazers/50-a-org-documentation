@@ -16368,3 +16368,8 @@ https://s3.documentcloud.org/documents/4928465/Westchester-County-Health-Care-Co
 https://s3.documentcloud.org/documents/4928464/Westchester-County-Health-Care-Corporation-v.pdf > PDFs/935415/westchester_county_health_care_corporation_v.pdf
 https://s3.documentcloud.org/documents/22119272/935415_01092017_2017067pdf.pdf > PDFs/935415/935415_01092017_2017067pdf.pdf
 https://s3.documentcloud.org/documents/22119273/935415_01092013_2013108pdf.pdf > PDFs/935415/935415_01092013_2013108pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CKMGeUPtg8kX2TrCiEt00Q== > PDFs/942899/30728_2020e_albert_mcintosh_v_the_city_of_new_york_et_al_complaint_amended_33.pdf
+https://s3.documentcloud.org/documents/22119072/942899_06122013_2013119pdf.pdf > PDFs/942899/942899_06122013_2013119pdf.pdf
+https://s3.documentcloud.org/documents/25281665/201706380_redactedclosingreport_redacted.pdf > PDFs/937879/201706380_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25895851/937879_02182025_2025009pdf.pdf > PDFs/937879/937879_02182025_2025009pdf.pdf
+https://s3.documentcloud.org/documents/22119208/937879_05012015_2015199pdf.pdf > PDFs/937879/937879_05012015_2015199pdf.pdf
