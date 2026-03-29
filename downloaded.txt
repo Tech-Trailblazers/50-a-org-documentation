@@ -16765,3 +16765,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TkQs9tIDHmy843MoMf
 https://s3.documentcloud.org/documents/21015443/daf-lee964112.pdf > PDFs/964112/daf_lee964112.pdf
 https://s3.documentcloud.org/documents/4920209/Kaplan-v-The-City-Of-New-York-et-al.pdf > PDFs/947222/kaplan_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21058745/rios-945293-05-13-21.pdf > PDFs/945293/rios_945293_05_13_21.pdf
+https://s3.documentcloud.org/documents/4419249/nypd-cases-098.pdf > PDFs/943773/nypd_cases_098.pdf
+https://s3.documentcloud.org/documents/4920850/Allen-v-City-of-New-York-et-al.pdf > PDFs/952636/allen_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920851/Allen-v-City-of-New-York-et-al.pdf > PDFs/952636/allen_v_city_of_new_york_et_al.pdf
