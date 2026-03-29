@@ -16238,3 +16238,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r4KvLKmSoMOynZCalC
 https://s3.documentcloud.org/documents/4919939/Stokes-v-City-of-New-York-et-al.pdf > PDFs/951896/stokes_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919938/Stokes-v-City-of-New-York-et-al.pdf > PDFs/951896/stokes_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21026804/muhammad-77041d7780dfd8819c7104e493fd2acfa740a2e2.pdf > PDFs/955229/muhammad_77041d7780dfd8819c7104e493fd2acfa740a2e2.pdf
+https://s3.documentcloud.org/documents/21066505/giglio_pesantez-959150-02-06-20.pdf > PDFs/959150/giglio_pesantez_959150_02_06_20.pdf
