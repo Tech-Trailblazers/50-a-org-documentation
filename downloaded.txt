@@ -17221,3 +17221,5 @@ https://s3.documentcloud.org/documents/21054509/ubavin-937851-12-14-20.pdf > PDF
 https://s3.documentcloud.org/documents/22085378/seh_937851.pdf > PDFs/937851/seh_937851.pdf
 https://s3.documentcloud.org/documents/26312285/200600184_redactedclosingreport_redacted.pdf > PDFs/931201/200600184_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21028730/seletski-f0521840d872c86f1a6ebf88213fd5d2cd8658a0.pdf > PDFs/931201/seletski_f0521840d872c86f1a6ebf88213fd5d2cd8658a0.pdf
+https://s3.documentcloud.org/documents/21057993/giglio_galvez-969082.pdf > PDFs/969082/giglio_galvez_969082.pdf
+https://s3.documentcloud.org/documents/4918457/Luis-SEPULVEDA-Joshua-Rodriguez-Franklyn-Gomez.pdf > PDFs/955415/luis_sepulveda_joshua_rodriguez_franklyn_gomez.pdf
