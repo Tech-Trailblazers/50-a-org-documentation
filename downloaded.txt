@@ -19425,3 +19425,13 @@ https://s3.documentcloud.org/documents/25522507/201405984_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fiykg_PLUS_49gCfofNo0Chpdxg== > PDFs/898342/701852_2020_sven_ruppaner_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22119346/898342_11152015_2015042pdf.pdf > PDFs/898342/898342_11152015_2015042pdf.pdf
 https://s3.documentcloud.org/documents/24615677/202104163-tax959342-apu-final-documentspdf.pdf > PDFs/959342/202104163_tax959342_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25501214/201902083-redactedclosingreport-redacted.pdf > PDFs/954788/201902083_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24101105/201802530_redactedclosingreport_redacted.pdf > PDFs/934998/201802530_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055277/201604265-redactedclosingreport-redacted.pdf > PDFs/942502/201604265_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523808/201014129_redactedclosingreport_redacted.pdf > PDFs/942502/201014129_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_rhfeJv1UQLflbfPoS3Idw== > PDFs/942502/21310_2018e_katherine_aponte_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uL0ZkhdVOfwXrLvpf_PLUS_2l9Q== > PDFs/942502/20708_2014e_hector_palermo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4927969/Garcia-v-The-City-of-New-York-et-al.pdf > PDFs/951988/garcia_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922766/Katwaru-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939234/katwaru_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25522847/201106250_redactedclosingreport_redacted.pdf > PDFs/948994/201106250_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21019631/daf-alcantara927837.pdf > PDFs/927837/daf_alcantara927837.pdf
