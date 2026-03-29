@@ -17235,3 +17235,10 @@ https://s3.documentcloud.org/documents/25536046/202106546-tax956628-apu-final-do
 https://s3.documentcloud.org/documents/21058261/goodwin-941838-12-09-2019.pdf > PDFs/941838/goodwin_941838_12_09_2019.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mXVl1wCeTbV7hfVtmORe5A== > PDFs/969668/817510_2023e_yitzhak_ortiz_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=o9gW1Em5OWVqRcWN_PLUS_RS2ZQ== > PDFs/969411/805533_2023e_danyal_sorel_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085782/seh_952972.pdf > PDFs/952972/seh_952972.pdf
+https://s3.documentcloud.org/documents/24449738/201908455_redactedclosingreport_redacted.pdf > PDFs/952972/201908455_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_xsbej9Zg2i/1GGsJwecaw== > PDFs/952972/151314_2024_jahmel_montague_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21027549/permauloo-6c88d68269dd56553e1e74c4467da6409d89b6e6.pdf > PDFs/962684/permauloo_6c88d68269dd56553e1e74c4467da6409d89b6e6.pdf
+https://s3.documentcloud.org/documents/21058653/permauloo-962684-01-08-21.pdf > PDFs/962684/permauloo_962684_01_08_21.pdf
+https://s3.documentcloud.org/documents/25526030/202203431.pdf > PDFs/972365/202203431.pdf
+https://s3.documentcloud.org/documents/24124494/202203431_tax935069_redacteddepartureletterpdf.pdf > PDFs/935069/202203431_tax935069_redacteddepartureletterpdf.pdf
