@@ -22346,3 +22346,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=dBwin2d1OQp/wtrZ1d
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IjBL4rjkTy4tw1rulHsHpw== > PDFs/972359/504130_2023_stafeld_sylvain_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4GpaWpuHpQIzKDQQGYhFdQ== > PDFs/966673/517549_2021_ishmail_knight_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922247/201606455_redactedclosingreportpdf.pdf > PDFs/956307/201606455_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WB750fTfr9K78Znw2ClyoA== > PDFs/964733/530120_2022_patrick_dawkins_as_th_v_patrick_dawkins_as_th_summons_complaint_1.pdf
