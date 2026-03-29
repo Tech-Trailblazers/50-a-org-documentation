@@ -18045,3 +18045,14 @@ https://s3.documentcloud.org/documents/20528966/3688.pdf > PDFs/949286/3688.pdf
 https://s3.documentcloud.org/documents/4922261/Bowen-v-The-City-of-New-York-et-al.pdf > PDFs/938646/bowen_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922260/Bowen-v-The-City-of-New-York-et-al.pdf > PDFs/938646/bowen_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/20528105/811.pdf > PDFs/941186/811.pdf
+https://s3.documentcloud.org/documents/22086263/seh_963321.pdf > PDFs/963321/seh_963321.pdf
+https://s3.documentcloud.org/documents/21054298/iversen-959707-07-22-21.pdf > PDFs/959707/iversen_959707_07_22_21.pdf
+https://s3.documentcloud.org/documents/4920595/Gillis-v-City-of-New-York-et-al.pdf > PDFs/947974/gillis_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/20528051/532.pdf > PDFs/947974/532.pdf
+https://s3.documentcloud.org/documents/20528052/533.pdf > PDFs/947974/533.pdf
+https://s3.documentcloud.org/documents/21021203/buono-074d896414ecb35508ecbe9e8d07af1e4e105728.pdf > PDFs/954578/buono_074d896414ecb35508ecbe9e8d07af1e4e105728.pdf
+https://s3.documentcloud.org/documents/21057418/buono-954578-07-12-21.pdf > PDFs/954578/buono_954578_07_12_21.pdf
+https://s3.documentcloud.org/documents/20528309/1942.pdf > PDFs/954578/1942.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xiXBTvq2nGp8Byn7PLcFrA==&__cf_chl_rt_tk=MBYqOR9vmrZmDQEbQb7K9nRqeaqHLn7RinswAW5Ovvs-1726758621-0.0.1.1-5118 > PDFs/951120/150627_2020_kishia_smith_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922114/Adonis-v-City-of-New-York-et-al.pdf > PDFs/951120/adonis_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/20528169/930.pdf > PDFs/951120/930.pdf
