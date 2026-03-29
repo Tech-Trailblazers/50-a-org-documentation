@@ -16233,3 +16233,8 @@ https://s3.documentcloud.org/documents/21054093/mamelko-959780.pdf > PDFs/959780
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OQyzm/06/BuO66sC0FB11w== > PDFs/953726/503872_2017_kristy_norris_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/23835910/cardenas-953726-giglio.pdf > PDFs/953726/cardenas_953726_giglio.pdf
 https://s3.documentcloud.org/documents/21057973/giglio_dutan-963019.pdf > PDFs/963019/giglio_dutan_963019.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a2GibFyoTM9c0fWqvxhaWg== > PDFs/963592/516577_2018_stephanie_saby_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r4KvLKmSoMOynZCalCp3/A== > PDFs/951896/509398_2020_chelsea_rojas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4919939/Stokes-v-City-of-New-York-et-al.pdf > PDFs/951896/stokes_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919938/Stokes-v-City-of-New-York-et-al.pdf > PDFs/951896/stokes_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21026804/muhammad-77041d7780dfd8819c7104e493fd2acfa740a2e2.pdf > PDFs/955229/muhammad_77041d7780dfd8819c7104e493fd2acfa740a2e2.pdf
