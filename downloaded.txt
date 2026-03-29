@@ -17613,3 +17613,4 @@ https://s3.documentcloud.org/documents/21057047/scraper-948675-01-14-21-giglio.p
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XIx0xvKNed9MTwaN8LHJvQ== > PDFs/935080/704078_2017_robert_walton_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s79mKLTV_PLUS_V9MhXQnQ9yuCA== > PDFs/955883/723084_2023_ray_brown_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/25523620/200913227_redactedclosingreport_redacted.pdf > PDFs/922938/200913227_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21058281/guillaume-948216-11-16-20.pdf > PDFs/948216/guillaume_948216_11_16_20.pdf
