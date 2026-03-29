@@ -16643,3 +16643,12 @@ https://s3.documentcloud.org/documents/26206394/201910363-tax949478-apu-final-do
 https://s3.documentcloud.org/documents/26132816/persaud_09182025pdf.pdf > PDFs/949478/persaud_09182025pdf.pdf
 https://s3.documentcloud.org/documents/22085673/seh_949478.pdf > PDFs/949478/seh_949478.pdf
 https://s3.documentcloud.org/documents/22048846/201808418_redactedclosingreport_redacted.pdf > PDFs/955819/201808418_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922059/3907.pdf > PDFs/945181/3907.pdf
+https://s3.documentcloud.org/documents/21066512/giglio_singh-963759.pdf > PDFs/963759/giglio_singh_963759.pdf
+https://s3.documentcloud.org/documents/24100848/201809776_redactedclosingreport_redacted.pdf > PDFs/953062/201809776_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24021482/953062_08012023_2023054pdf.pdf > PDFs/953062/953062_08012023_2023054pdf.pdf
+https://s3.documentcloud.org/documents/22119224/953062_06232016_2016128pdf.pdf > PDFs/953062/953062_06232016_2016128pdf.pdf
+https://s3.documentcloud.org/documents/25023215/201800448_redactedclosingreport_redacted.pdf > PDFs/946859/201800448_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=IwNwwWKNSNg8DeDhxZnK6A== > PDFs/946859/700878_2023_robert_harrison_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nYs1zmj/k6D4LHw5lVap/g== > PDFs/948173/161959_2013_rabin_nickens_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21020012/abadia-4183fc6eedc0dd7b55df2bcc00419b343356e124.pdf > PDFs/948173/abadia_4183fc6eedc0dd7b55df2bcc00419b343356e124.pdf
