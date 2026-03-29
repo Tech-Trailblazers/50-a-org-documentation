@@ -17060,3 +17060,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4ZH1yuEtcYNNA7fTjm
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=96Pj66ZBvfLESkZya693IA== > PDFs/933724/507062_2022_gary_parker_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GJkbInccFOt5frkaPgiCTQ== > PDFs/965684/534958_2023_dennis_white_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KelqNsMxf8EoBKi4ZCbHrw== > PDFs/960824/515334_2020_charles_breland_et_al_v_charles_breland_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x3oqPCMZE4ESKTCil1dynw== > PDFs/941118/516563_2018_shanon_baptiste_v_shanon_baptiste_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oQ/hmDwUoQRLdK3HU_PLUS_ZuFg== > PDFs/966390/505496_2021_kendell_leben_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xd10tjQRI_PLUS_p5fKK71PySzA== > PDFs/941927/528927_2022_rayshawn_deloatch_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cM1rRPjpAeoswhKYVhJFMg== > PDFs/941927/528928_2022_rayshawn_deloatch_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
