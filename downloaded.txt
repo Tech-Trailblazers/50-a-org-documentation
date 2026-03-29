@@ -16768,3 +16768,13 @@ https://s3.documentcloud.org/documents/21058745/rios-945293-05-13-21.pdf > PDFs/
 https://s3.documentcloud.org/documents/4419249/nypd-cases-098.pdf > PDFs/943773/nypd_cases_098.pdf
 https://s3.documentcloud.org/documents/4920850/Allen-v-City-of-New-York-et-al.pdf > PDFs/952636/allen_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920851/Allen-v-City-of-New-York-et-al.pdf > PDFs/952636/allen_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058151/giglio_rodriguez-959939-08-04-20.pdf > PDFs/959939/giglio_rodriguez_959939_08_04_20.pdf
+https://s3.documentcloud.org/documents/23903625/201709654_redactedclosingreport_redacted.pdf > PDFs/948287/201709654_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085633/seh_948287.pdf > PDFs/948287/seh_948287.pdf
+https://s3.documentcloud.org/documents/22048806/201408836_redactedclosingreport_redacted.pdf > PDFs/950632/201408836_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ACX1DaB9eSLiUjC25xNEYQ== > PDFs/959160/531640_2022_shawn_evans_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4418989/nypd-cases-379.pdf > PDFs/945774/nypd_cases_379.pdf
+https://s3.documentcloud.org/documents/25345397/202104849-tax945774-apu-final-documentspdf.pdf > PDFs/945774/202104849_tax945774_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21418160/201707472_redactedclosingreport_redacted.pdf > PDFs/950610/201707472_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21024445/ibrahim-be8971a229fa0eb7fe2b8d4bb2fb2cd9875629e7.pdf > PDFs/950610/ibrahim_be8971a229fa0eb7fe2b8d4bb2fb2cd9875629e7.pdf
+https://s3.documentcloud.org/documents/21025047/kravchik-ac4234b3bbc26d8a0198bb7778e1100062d6417c.pdf > PDFs/945889/kravchik_ac4234b3bbc26d8a0198bb7778e1100062d6417c.pdf
