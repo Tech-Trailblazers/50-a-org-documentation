@@ -19618,3 +19618,7 @@ https://s3.documentcloud.org/documents/22089825/942926_03252014_2014096pdf.pdf >
 https://s3.documentcloud.org/documents/21020065/acevedo-f40af8babaccd13e387319f6cbfc46260353ee3d.pdf > PDFs/942926/acevedo_f40af8babaccd13e387319f6cbfc46260353ee3d.pdf
 https://s3.documentcloud.org/documents/25944941/200609687_redactedclosingreport_redacted.pdf > PDFs/932777/200609687_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AaeAnyOYxWOBi/NM59jTng== > PDFs/950181/714469_2022_stacey_collado_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZVtMjYUxMym9vrl_PLUS_/6xfXw== > PDFs/937370/152742_2016_michael_maiglow_v_the_city_of_new_york_et_al_petition_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B6KbfT2ZsYYjDfQWfCCWNw== > PDFs/935296/30300_2017e_patrick_walker_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25980243/201508473-redactedclosingreport-redacted.pdf > PDFs/940446/201508473_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/5378188/Labidou-v-The-City-of-New-York.pdf > PDFs/936113/labidou_v_the_city_of_new_york.pdf
