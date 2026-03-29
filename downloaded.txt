@@ -22234,3 +22234,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lYmI2tkA7rW5Q/itpm
 https://s3.documentcloud.org/documents/27922285/201311189_redactedclosingreportpdf.pdf > PDFs/917272/201311189_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/27922214/202407850_tax978733_redacteddepartureletterpdf.pdf > PDFs/978733/202407850_tax978733_redacteddepartureletterpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EYq4wBbN64zS1CoeWj8ODA== > PDFs/942504/24453_2018e_renault_patterson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Elg7AQPkH5gQP1fV/QRUhA== > PDFs/946789/23929_2018e_abraham_peguero_v_city_of_new_york_et_al_petition_1.pdf
+https://s3.documentcloud.org/documents/27919665/cruz_03192026pdf.pdf > PDFs/951644/cruz_03192026pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=QXvJEOG2ORX_PLUS_Fqj1ox/jPw==&display=all&courtType=Bronx%20County%20Supreme%20Court&resultsPageNum=1 > PDFs/955258/jpw_display_all_courttype_bronx_20county_20supreme_20court_resultspagenum_1.pdf
