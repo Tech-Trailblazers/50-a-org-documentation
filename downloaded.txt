@@ -22446,3 +22446,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AOOFdBzDhISYkA1a/B
 https://s3.documentcloud.org/documents/27922226/202202310_redactedclosingreportpdf.pdf > PDFs/951648/202202310_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ItXZWi1FYhU8bEwzqYk/8Q== > PDFs/942615/25640_2019e_quendre_hodges_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1RrcKOtjFJudozaljsIU9Q== > PDFs/929599/509410_2015_jocelyn_velez_et_al_v_jocelyn_velez_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4/6tqixHwlzMtm0bUhF6yA== > PDFs/958165/521973_2024_kendall_claggett_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XpynX7FOs/ZApfRUIyPgZQ== > PDFs/969668/811493_2024e_el_aphdal_bawa_v_city_of_new_york_et_al_summons_complaint_1.pdf
