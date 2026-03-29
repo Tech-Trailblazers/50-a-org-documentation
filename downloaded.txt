@@ -18809,3 +18809,10 @@ https://s3.documentcloud.org/documents/24179225/201404667_redactedclosingreport_
 https://s3.documentcloud.org/documents/25521194/200700538_redactedclosingreport_redacted.pdf > PDFs/927936/200700538_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4922031/Seacrist-v-City-of-New-York-et-al.pdf > PDFs/927936/seacrist_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21022535/dinham-4f398aac7a65a5c335b6976fcc3ad6896e209e23.pdf > PDFs/952688/dinham_4f398aac7a65a5c335b6976fcc3ad6896e209e23.pdf
+https://s3.documentcloud.org/documents/4923492/Johnson-et-al-v-The-City-of-New-York-N-Y-P-D.pdf > PDFs/932263/johnson_et_al_v_the_city_of_new_york_n_y_p_d.pdf
+https://s3.documentcloud.org/documents/4923491/Johnson-et-al-v-The-City-of-New-York-N-Y-P-D.pdf > PDFs/932263/johnson_et_al_v_the_city_of_new_york_n_y_p_d.pdf
+https://s3.documentcloud.org/documents/21021883/colangelo-bd0d5d1b6bc875ac43bc899ff1f1ae93efce2c59.pdf > PDFs/951625/colangelo_bd0d5d1b6bc875ac43bc899ff1f1ae93efce2c59.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=S5i6NQedUe2tA8XwJ53ieg== > PDFs/954843/153841_2021_michael_linton_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21054081/giglio_haas-964038-01-20-21.pdf > PDFs/964038/giglio_haas_964038_01_20_21.pdf
+https://s3.documentcloud.org/documents/25955971/201105323_redactedclosingreport_redacted.pdf > PDFs/946868/201105323_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23690276/depew-complaint.pdf > PDFs/946868/depew_complaint.pdf
