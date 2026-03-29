@@ -19416,3 +19416,12 @@ https://s3.documentcloud.org/documents/4919354/Delgrosso-v-City-of-New-York.pdf 
 https://s3.documentcloud.org/documents/4418804/nypd-cases-247.pdf > PDFs/939977/nypd_cases_247.pdf
 https://s3.documentcloud.org/documents/22118888/939977_01262015_2015155pdf.pdf > PDFs/939977/939977_01262015_2015155pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LsPrffo4UNIrOzPhK6SPeg== > PDFs/938594/507813_2019_felton_durant_v_megan_o_malley_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23589430/2017-hall-sandra-vs-city-of-new-york-et-al-docket-16cv06324-court-us-district-court-eastern-district-ny-disposition.pdf > PDFs/956769/2017_hall_sandra_vs_city_of_new_york_et_al_docket_16cv06324_court_us_district_court_eastern_district_ny_disposition.pdf
+https://s3.documentcloud.org/documents/21010139/daf-moncayo942226.pdf > PDFs/942226/daf_moncayo942226.pdf
+https://s3.documentcloud.org/documents/25525695/202006325.pdf > PDFs/947085/202006325.pdf
+https://s3.documentcloud.org/documents/21573810/201505026_redactedclosingreport_redacted.pdf > PDFs/898342/201505026_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21573808/201502218_redactedclosingreport_redacted.pdf > PDFs/898342/201502218_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522507/201405984_redactedclosingreport_redacted.pdf > PDFs/898342/201405984_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fiykg_PLUS_49gCfofNo0Chpdxg== > PDFs/898342/701852_2020_sven_ruppaner_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119346/898342_11152015_2015042pdf.pdf > PDFs/898342/898342_11152015_2015042pdf.pdf
+https://s3.documentcloud.org/documents/24615677/202104163-tax959342-apu-final-documentspdf.pdf > PDFs/959342/202104163_tax959342_apu_final_documentspdf.pdf
