@@ -17504,3 +17504,7 @@ https://s3.documentcloud.org/documents/21015326/daf-foley955029.pdf > PDFs/95502
 https://s3.documentcloud.org/documents/21075312/daf-foley955029.pdf > PDFs/955029/daf_foley955029.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uuJQplh9IO3aZoZR6Krcdg== > PDFs/942022/719908_2018_nadine_mcdaniels_et_al_v_nadine_mcdaniels_et_al_complaint_amended_40.pdf
 https://s3.documentcloud.org/documents/22119238/942203_09112013_2013036pdf.pdf > PDFs/942203/942203_09112013_2013036pdf.pdf
+https://s3.documentcloud.org/documents/26515569/202300659-tax967967-apu-final-documentspdf.pdf > PDFs/967967/202300659_tax967967_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/23469927/202102029_tax925811_redacteddepartureletterpdf.pdf > PDFs/925811/202102029_tax925811_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/25521114/200305644_redactedclosingreport_redacted.pdf > PDFs/925811/200305644_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GHoW_PLUS_EBt5yKqIZIjo8xYDQ== > PDFs/925811/722433_2023_jeremy_zabala_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
