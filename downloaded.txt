@@ -17007,3 +17007,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=unO4MUqsZSDrvg8TwL
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RUftqIiDmjwID/p46Vbztw== > PDFs/948206/502850_2017_thomas_jenkins_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pLtHzAhFgNCpTjfmMkn6vA== > PDFs/937285/523228_2018_christopher_ellis_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=o2VlvYe/7kfFFJn8UMcwGw== > PDFs/941280/505201_2017_kito_penn_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CfTZjlWxxcUCbiAb2AEb8w== > PDFs/954492/515708_2018_joseph_wagner_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9xIVdK1zLfZbEWySfYpWBQ== > PDFs/955370/510559_2021_kenneth_bacote_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Cg5mkw3rRtTyN0fsKireMQ== > PDFs/954390/503475_2022_aziz_coleman_v_city_of_new_york_et_al_summons_complaint_1.pdf
