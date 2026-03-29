@@ -16602,3 +16602,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9y9ICIAiGfxDBhaZqb
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OH6Jybu/0RiJWOPOCaIx7g== > PDFs/955638/813008_2023e_ashaun_bryant_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SUuLegpjtn6DikDDG_PLUS_pHPA== > PDFs/955638/816072_2021e_brandee_isom_v_nypd_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4923795/Luna-v-The-City-Of-New-York-et-al.pdf > PDFs/955638/luna_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25526012/202202712.pdf > PDFs/958146/202202712.pdf
+https://s3.documentcloud.org/documents/21418033/201907732_redactedclosingreport_redacted.pdf > PDFs/958146/201907732_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4419221/nypd-cases-104.pdf > PDFs/939271/nypd_cases_104.pdf
+https://s3.documentcloud.org/documents/25991327/939271_05162025_2025019pdf.pdf > PDFs/939271/939271_05162025_2025019pdf.pdf
+https://s3.documentcloud.org/documents/21418048/201909418_redactedclosingreport_redacted.pdf > PDFs/955120/201909418_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xRBcF51gba1k/qNhtKylgQ== > PDFs/961732/805866_2022e_luis_cabrera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
