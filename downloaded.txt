@@ -16294,3 +16294,17 @@ https://s3.documentcloud.org/documents/25525505/202003642.pdf > PDFs/964497/2020
 https://s3.documentcloud.org/documents/26451752/964497_11142025_2025051pdf.pdf > PDFs/964497/964497_11142025_2025051pdf.pdf
 https://s3.documentcloud.org/documents/21022642/dulcey-97726912a1b771a3c678ed13c567e056a0094af7.pdf > PDFs/964497/dulcey_97726912a1b771a3c678ed13c567e056a0094af7.pdf
 https://s3.documentcloud.org/documents/21057972/giglio_dulcey-964497.pdf > PDFs/964497/giglio_dulcey_964497.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Qw4Wx0d6opZu1SGDgHOA5A== > PDFs/978331/159145_2024_chassidy_rodriguez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119102/947089_07092021_2021033pdf.pdf > PDFs/947089/947089_07092021_2021033pdf.pdf
+https://s3.documentcloud.org/documents/25525779/202101248.pdf > PDFs/967022/202101248.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DbDO7ItYhS34/kQbnacawA== > PDFs/967022/806171_2023e_haashim_pierson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1pjaiTDYZHUo2zlWKMrKfA== > PDFs/967022/815286_2022e_mamadou_diallo_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/DocumentList?docketId=UScvJWcCzkTVHW3tOLv3ow%3D%3D&narrow=true > PDFs/967022/documentlist_docketid_uscvjwcczktvhw3tolv3ow_3d_3d_narrow_true.pdf
+https://s3.documentcloud.org/documents/26303032/202201091_redactedclosingreportpdf.pdf > PDFs/966465/202201091_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/4923742/Vanduyne-v-City-of-New-York-et-al.pdf > PDFs/945429/vanduyne_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K1t7IRxMIqvBDJE5Zapvtw== > PDFs/945429/161247_2013_chantay_boykin_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=T0LqRwfJYtKrTCEJIhKr/w== > PDFs/947941/506682_2015_tarari_white_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9BZUVbhvSzHH3DXe2GwLbg== > PDFs/944680/22356_2017e_darius_trotman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zWG9tgkTY2dfbc8P0we3MA== > PDFs/944680/21648_2015e_darius_trotman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23578290/202003381_redactedclosingreport_redacted.pdf > PDFs/964078/202003381_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522934/201908917_redactedclosingreport_redacted.pdf > PDFs/964078/201908917_redactedclosingreport_redacted.pdf
