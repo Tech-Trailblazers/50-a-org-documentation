@@ -19329,3 +19329,14 @@ https://s3.documentcloud.org/documents/21031419/daf-batista958294.pdf > PDFs/958
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jYcsIv0CrDN_PLUS_I/LWCg1/DQ== > PDFs/939564/32984_2018e_jake_maldonado_et_al_v_jake_maldonado_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/23690333/enang-complaint.pdf > PDFs/934893/enang_complaint.pdf
 https://s3.documentcloud.org/documents/4921266/Hardy-v-The-City-of-New-York-et-al.pdf > PDFs/942953/hardy_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25526202/202304785.pdf > PDFs/944095/202304785.pdf
+https://s3.documentcloud.org/documents/4418869/nypd-cases-319.pdf > PDFs/943353/nypd_cases_319.pdf
+https://s3.documentcloud.org/documents/24034604/943353_09122023_2023061pdf.pdf > PDFs/943353/943353_09122023_2023061pdf.pdf
+https://s3.documentcloud.org/documents/21030354/yuen-aa940363c9298767b6b4096754f7e13b2497cc02.pdf > PDFs/945125/yuen_aa940363c9298767b6b4096754f7e13b2497cc02.pdf
+https://s3.documentcloud.org/documents/21058971/yuen-945125-12-18-20.pdf > PDFs/945125/yuen_945125_12_18_20.pdf
+https://s3.documentcloud.org/documents/26055302/201707031-redactedclosingreport-redacted.pdf > PDFs/948201/201707031_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0TaYAtVNKd1/95MsnWtXkA== > PDFs/948201/32037_2019e_ritchy_asamani_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ricB6QWiNylH5DvCndWM7A== > PDFs/938414/506443_2015_george_gittens_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085551/seh_945471.pdf > PDFs/945471/seh_945471.pdf
+https://s3.documentcloud.org/documents/25521099/200715888_redactedclosingreport_redacted.pdf > PDFs/936833/200715888_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869189/200914700_redactedclosingreport_redacted.pdf > PDFs/933837/200914700_redactedclosingreport_redacted.pdf
