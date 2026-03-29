@@ -22428,3 +22428,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=U9NP28xAqV7RuddgzM
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HOGCFpBlYW4ftuWlYYjCXw== > PDFs/946824/704546_2014_jamel_coleman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8BUTu6yOySSXJ_PLUS_n/B8xdUA== > PDFs/958126/503637_2022_jacob_job_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0X6ZCE032pbVSU5Q8DtyeA== > PDFs/953816/511995_2017_brandon_woods_v_brandon_woods_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=6dyUPk7MfnRCyVtqx/joxQ== > PDFs/945512/510336_2024_darrell_ramos_et_al_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rZW7nTQsAVOSVdug85KXYA== > PDFs/945235/511681_2020_tommy_jones_v_city_of_new_york_et_al_summons_complaint_1.pdf
