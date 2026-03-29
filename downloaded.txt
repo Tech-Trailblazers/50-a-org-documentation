@@ -17508,3 +17508,16 @@ https://s3.documentcloud.org/documents/26515569/202300659-tax967967-apu-final-do
 https://s3.documentcloud.org/documents/23469927/202102029_tax925811_redacteddepartureletterpdf.pdf > PDFs/925811/202102029_tax925811_redacteddepartureletterpdf.pdf
 https://s3.documentcloud.org/documents/25521114/200305644_redactedclosingreport_redacted.pdf > PDFs/925811/200305644_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GHoW_PLUS_EBt5yKqIZIjo8xYDQ== > PDFs/925811/722433_2023_jeremy_zabala_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YGjPDY7A6OapXVVvAeNjaw== > PDFs/958823/709216_2019_waldo_r_melara_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GOcE9LXED104stWIfqNQng== > PDFs/960675/153386_2022_carzell_benton_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086449/seh_966923.pdf > PDFs/966923/seh_966923.pdf
+https://s3.documentcloud.org/documents/26473693/202107117_redactedclosingreportpdf.pdf > PDFs/966549/202107117_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23933423/202107117-tax966549-apu-final-documentspdf.pdf > PDFs/966549/202107117_tax966549_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/24101055/202001336_redactedclosingreport_redacted.pdf > PDFs/966549/202001336_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086433/seh_966549.pdf > PDFs/966549/seh_966549.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MgJCGa0M3tXmfLtRDBUQTw== > PDFs/974305/711093_2024_janet_sanon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ANz9WOHwsA_PLUS_RJW/w43ftEA== > PDFs/973626/726195_2023_prakash_churaman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26187185/202201517_redactedclosingreportpdf.pdf > PDFs/964200/202201517_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26206419/202201517-tax964200-apu-final-documentspdf.pdf > PDFs/964200/202201517_tax964200_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21418037/201907845_redactedclosingreport_redacted.pdf > PDFs/964200/201907845_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21058823/samuels-946550-12-13-19-1.pdf > PDFs/946550/samuels_946550_12_13_19_1.pdf
