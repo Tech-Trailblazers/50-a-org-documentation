@@ -22275,3 +22275,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=T0lsnxjslvRe2Ziz5u
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LvhfFJXrdbkc2BNFh/AJKA== > PDFs/960323/805252_2022e_audley_muschette_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K4mvW85ufbyLZ0Klu9Se3g== > PDFs/959816/510752_2021_alfredo_dallas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=W7uMZTTzIFrMa6QYO6GE_PLUS_A== > PDFs/941170/819573_2023e_kelvin_hernandez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27919666/larocchia_03192026pdf.pdf > PDFs/970653/larocchia_03192026pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vC57fDJQBM1nG9S/QOOjCA== > PDFs/964762/34846_2019e_amir_dalley_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SGduIifU1U8rv9g8IexFYw== > PDFs/960173/35773_2020e_ousmane_diallo_v_city_of_new_york_et_al_summons_complaint_1.pdf
