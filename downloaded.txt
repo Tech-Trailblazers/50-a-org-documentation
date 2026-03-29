@@ -19140,3 +19140,14 @@ https://s3.documentcloud.org/documents/25995189/201701964-redactedclosingreport-
 https://s3.documentcloud.org/documents/21574252/201505360-amador.pdf > PDFs/942535/201505360_amador.pdf
 https://s3.documentcloud.org/documents/4920866/Teitell-v-City-of-New-York-et-al.pdf > PDFs/942535/teitell_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21028748/serpani-b73c8e8ee6997495af5d3c81292bed39b294c08b.pdf > PDFs/942535/serpani_b73c8e8ee6997495af5d3c81292bed39b294c08b.pdf
+https://s3.documentcloud.org/documents/22118874/950147_09132021_2021049pdf.pdf > PDFs/950147/950147_09132021_2021049pdf.pdf
+https://s3.documentcloud.org/documents/21021344/campbell-650edf74198e53ad49a246894fd32e9c1e91e05c.pdf > PDFs/950147/campbell_650edf74198e53ad49a246894fd32e9c1e91e05c.pdf
+https://s3.documentcloud.org/documents/4419066/nypd-cases-035.pdf > PDFs/945634/nypd_cases_035.pdf
+https://s3.documentcloud.org/documents/22118938/945634_01072013_2013039pdf.pdf > PDFs/945634/945634_01072013_2013039pdf.pdf
+https://s3.documentcloud.org/documents/25522541/201704488_redactedclosingreport_redacted.pdf > PDFs/934855/201704488_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qqEzd_PLUS_J67AMXsf05YjjscQ== > PDFs/934855/150916_2022_alfred_bastone_v_alfred_bastone_complaint_amended_17.pdf
+https://s3.documentcloud.org/documents/25523140/201102773_redactedclosingreport_redacted.pdf > PDFs/932915/201102773_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920063/Daniels-v-The-City-of-New-York.pdf > PDFs/946695/daniels_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4920062/Daniels-v-The-City-of-New-York.pdf > PDFs/946695/daniels_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/22118994/930133_08062021_2021042pdf.pdf > PDFs/930133/930133_08062021_2021042pdf.pdf
+https://s3.documentcloud.org/documents/25220086/8187_iab_c16-0668c-redacted_redacted.pdf > PDFs/930133/8187_iab_c16_0668c_redacted_redacted.pdf
