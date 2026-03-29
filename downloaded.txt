@@ -17029,3 +17029,12 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NpNMY_PLUS_QiQp2df
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Arg3gyco1Cr54_PLUS_CvlXulPg== > PDFs/947994/508404_2018_raymond_vasquez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5idmRQnDKRmHPRdPKGYFVg== > PDFs/962507/521671_2018_ileen_ortiz_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TlqI0DNkORhtOcmI7sKWUg== > PDFs/960884/517769_2018_julia_burgos_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5WYDgM8u1eAUAlVojetcOg== > PDFs/951603/501766_2019_winston_harvey_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lSEQwEOStwviUs9t92oOAg== > PDFs/945022/516338_2018_benjamin_squires_et_al_v_benjamin_squires_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EH9Me81RGlWbcQe_PLUS_nkS2vw== > PDFs/940762/700859_2014_kevin_smith_v_rachel_gosine_et_al_complaint_amended_3.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aB3D/RkBGIua/Xh/EHNQPw== > PDFs/944886/537109_2023_joel_salas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P7GNTdAdNIhuZTvyIY1M5Q== > PDFs/944886/527264_2022_mickeal_small_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qI5xzcl5YwMnxVKLUr68AQ== > PDFs/959420/518853_2024_michael_wilds_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wa532pCeQTrtLDpMVtiC9Q== > PDFs/959420/516977_2021_cassandra_greene_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EFfh9ILTRsYlO4V3asmS0g== > PDFs/937388/501874_2016_max_balsam_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sIZwIrvm4smPHyOIsR1y_PLUS_Q== > PDFs/933590/524721_2020_michael_candelario_v_city_of_new_york_et_al_summons_complaint_1.pdf
