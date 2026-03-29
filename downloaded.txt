@@ -22220,3 +22220,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WC7BelbFaXy6bu2kWj
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mKOXgThyn3vANwoEXu4Tww== > PDFs/965073/812893_2024e_elijah_pelzer_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=m4rVYrwG8XZQ3mczIGIGIA== > PDFs/967256/807335_2024e_krystal_suazo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4VttXmVmqDbYbzMN1BLkBg== > PDFs/946452/813768_2022e_patrick_green_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cAXzGEJOowwhVl5Lxa9opw== > PDFs/958643/805830_2021e_josemiro_arredondo_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2wx3dIn_PLUS_8p1LA_PLUS_cxJ2V14w== > PDFs/960722/806577_2024e_yeltsin_deleon_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
