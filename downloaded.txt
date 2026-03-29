@@ -17269,3 +17269,7 @@ https://s3.documentcloud.org/documents/24736417/8393_bradygiglio_10changeme77173
 https://s3.documentcloud.org/documents/23201636/disclousure-letter-thompson-jeffrey.pdf > PDFs/955577/disclousure_letter_thompson_jeffrey.pdf
 https://s3.documentcloud.org/documents/21028918/singh-5cfbc6c2c69d787233ee81841f4369191d46a504.pdf > PDFs/948915/singh_5cfbc6c2c69d787233ee81841f4369191d46a504.pdf
 https://s3.documentcloud.org/documents/22119490/939580_07242015_2015091pdf.pdf > PDFs/939580/939580_07242015_2015091pdf.pdf
+https://s3.documentcloud.org/documents/24100835/201805899_redactedclosingreport_redacted.pdf > PDFs/945962/201805899_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922632/Biz-v-The-City-of-New-York-et-al.pdf > PDFs/933471/biz_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918617/Taveras-v-City-of-New-York-et-al.pdf > PDFs/945832/taveras_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21026101/licul-f2c4328608dd482b8d627568e0161bd0bee82141.pdf > PDFs/954066/licul_f2c4328608dd482b8d627568e0161bd0bee82141.pdf
