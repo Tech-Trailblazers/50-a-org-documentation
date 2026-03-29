@@ -18043,3 +18043,5 @@ https://s3.documentcloud.org/documents/23597588/2016_tan_15cv03326.pdf > PDFs/94
 https://s3.documentcloud.org/documents/20528058/561.pdf > PDFs/949286/561.pdf
 https://s3.documentcloud.org/documents/20528966/3688.pdf > PDFs/949286/3688.pdf
 https://s3.documentcloud.org/documents/4922261/Bowen-v-The-City-of-New-York-et-al.pdf > PDFs/938646/bowen_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922260/Bowen-v-The-City-of-New-York-et-al.pdf > PDFs/938646/bowen_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/20528105/811.pdf > PDFs/941186/811.pdf
