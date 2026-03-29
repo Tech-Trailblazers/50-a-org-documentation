@@ -16956,3 +16956,6 @@ https://s3.documentcloud.org/documents/21029296/szebenyi-b9c0a6874e817ee533fe07d
 https://s3.documentcloud.org/documents/21055998/szebenyi-939549-06-26-20.pdf > PDFs/939549/szebenyi_939549_06_26_20.pdf
 https://s3.documentcloud.org/documents/21056276/giglio_furia-936627-06-18-20.pdf > PDFs/936627/giglio_furia_936627_06_18_20.pdf
 https://s3.documentcloud.org/documents/21058257/gonzalez-932728-03-17-21.pdf > PDFs/932728/gonzalez_932728_03_17_21.pdf
+https://s3.documentcloud.org/documents/4918545/Best-v-The-City-of-New-York.pdf > PDFs/925820/best_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/21026919/natal-6aaba6f63aed899045bb47f71230fc95d6494e2a.pdf > PDFs/925820/natal_6aaba6f63aed899045bb47f71230fc95d6494e2a.pdf
+https://s3.documentcloud.org/documents/21056209/natal-925820_1.pdf > PDFs/925820/natal_925820_1.pdf
