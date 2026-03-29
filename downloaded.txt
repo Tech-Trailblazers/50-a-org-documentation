@@ -16526,3 +16526,8 @@ https://s3.documentcloud.org/documents/21022822/cleri-c20b23e12fc2bf856fb48c16a6
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgZAYmoyZwYn8CrUkrDSMQ== > PDFs/941948/26831_2018e_khayree_stewart_v_the_city_of_new_york_petition_1.pdf
 https://s3.documentcloud.org/documents/24180377/960150_10182023_2023072pdf.pdf > PDFs/960150/960150_10182023_2023072pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XTEiwTWSl5Vyz8QusI02fw== > PDFs/956485/20422_2017e_harry_wilson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=I8YJ2bGUbNOtNljyuXbXJg== > PDFs/966511/157887_2024_khari_scarborough_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419289/nypd-cases-300.pdf > PDFs/943122/nypd_cases_300.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hIz9W9hTkkkTj3GlAI1bRw== > PDFs/962352/161592_2024_patrick_melton_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aBV40px2k1u218XVxg60TQ== > PDFs/958510/27731_2020e_edwardo_calderon_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RB/mkZMTtzGksfI1hL3HlA== > PDFs/954678/34630_2019e_nadiyah_nunnally_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
