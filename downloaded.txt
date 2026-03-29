@@ -20444,3 +20444,12 @@ https://s3.documentcloud.org/documents/21028673/schultz-e9f0eccd15283070e1e48211
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2ttWbowPMMwz7BoZYvL4lg== > PDFs/940971/158877_2016_tiasha_taylor_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4419278/nypd-cases-274.pdf > PDFs/924134/nypd_cases_274.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=94SqOU2jlyUcIsf4ahraEw== > PDFs/958211/28273_2018e_eric_montalvo_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=i1aAyW9c13/YBzhXjRYJXA== > PDFs/962954/32413_2020e_maikoll_soriano_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057400/breidenbach-948307.pdf > PDFs/948307/breidenbach_948307.pdf
+https://s3.documentcloud.org/documents/22085588/seh_946807.pdf > PDFs/946807/seh_946807.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AFoY8pTLTBjdVHe/CjvIpA== > PDFs/944471/159811_2013_dylan_armstrong_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TjKabwo2jH7vr9SOGZQd2A== > PDFs/948824/722235_2022_christopher_roper_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DxRYq3GcMO4vpNiGIv1_PLUS_zw== > PDFs/938503/507353_2018_alesha_duffy_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pJQwrtZ6enh24sM7FEqk9g== > PDFs/941821/161163_2014_lexie_andre_peak_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21045948/daf-goenner941821.pdf > PDFs/941821/daf_goenner941821.pdf
+https://s3.documentcloud.org/documents/21051983/ingoglia-956759.pdf > PDFs/956759/ingoglia_956759.pdf
