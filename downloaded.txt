@@ -19365,3 +19365,17 @@ https://s3.documentcloud.org/documents/21020299/alvarado-0c7fce3a54a6d5cb69d4a17
 https://s3.documentcloud.org/documents/21056178/giglio_alvarado-933607-09-10-20.pdf > PDFs/933607/giglio_alvarado_933607_09_10_20.pdf
 https://s3.documentcloud.org/documents/21056236/barnes-959475-giglio.pdf > PDFs/959475/barnes_959475_giglio.pdf
 https://s3.documentcloud.org/documents/21058672/postiglione-966783.pdf > PDFs/966783/postiglione_966783.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s9sz2_PLUS_77_PLUS_sorCEyiZgRw_PLUS_Q== > PDFs/959250/509359_2018_symantha_rhodes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057684/giglio-disclosure-letter-skomina-959250-10-23-20.pdf > PDFs/959250/giglio_disclosure_letter_skomina_959250_10_23_20.pdf
+https://s3.documentcloud.org/documents/21029187/stewart-b9a2ff8ab23e2f05cdb1a917463121911248de00.pdf > PDFs/947518/stewart_b9a2ff8ab23e2f05cdb1a917463121911248de00.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tcO0rz/Lnp_PLUS_M3_PLUS_Ve4zZIXw== > PDFs/950820/507366_2013_maurice_gillespie_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057842/giglio-disclosure-letter-maher-955113-12-08-20.pdf > PDFs/955113/giglio_disclosure_letter_maher_955113_12_08_20.pdf
+https://s3.documentcloud.org/documents/23381142/201408712_redactedclosingreport_redacted.pdf > PDFs/935678/201408712_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26473635/202408109_redactedclosingreportpdf.pdf > PDFs/916748/202408109_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25559996/200105862_redactedclosingreport_redacted.pdf > PDFs/916748/200105862_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25559995/200101696_redactedclosingreport_redacted.pdf > PDFs/916748/200101696_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25560016/9802869_closingreportedms_redacted.pdf > PDFs/916748/9802869_closingreportedms_redacted.pdf
+https://s3.documentcloud.org/documents/23687288/2016_evans_16cv02513.pdf > PDFs/951047/2016_evans_16cv02513.pdf
+https://s3.documentcloud.org/documents/22090013/953658_05202022_2022023pdf.pdf > PDFs/953658/953658_05202022_2022023pdf.pdf
+https://s3.documentcloud.org/documents/21057209/-banks-953658.pdf > PDFs/953658/banks_953658.pdf
+https://s3.documentcloud.org/documents/23698827/201404614_redactedclosingreport_redacted.pdf > PDFs/950310/201404614_redactedclosingreport_redacted.pdf
