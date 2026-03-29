@@ -19413,3 +19413,6 @@ https://s3.documentcloud.org/documents/4919501/Grigger-v-City-of-New-York-et-al.
 https://s3.documentcloud.org/documents/4919502/Grigger-v-City-of-New-York-et-al.pdf > PDFs/938576/grigger_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919353/Delgrosso-v-City-of-New-York.pdf > PDFs/938576/delgrosso_v_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/4919354/Delgrosso-v-City-of-New-York.pdf > PDFs/938576/delgrosso_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4418804/nypd-cases-247.pdf > PDFs/939977/nypd_cases_247.pdf
+https://s3.documentcloud.org/documents/22118888/939977_01262015_2015155pdf.pdf > PDFs/939977/939977_01262015_2015155pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LsPrffo4UNIrOzPhK6SPeg== > PDFs/938594/507813_2019_felton_durant_v_megan_o_malley_et_al_summons_complaint_1.pdf
