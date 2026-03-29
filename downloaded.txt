@@ -16363,3 +16363,8 @@ https://s3.documentcloud.org/documents/22119167/917864_11232009_2009069pdf.pdf >
 https://s3.documentcloud.org/documents/22118971/938395_05232016_2016075pdf.pdf > PDFs/938395/938395_05232016_2016075pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=M7qXdPHxpU_PLUS_WWBphqs5GGQ== > PDFs/966623/816581_2023e_jayden_fernandez_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cd4vAkwGXa8OIPbr8iLYFw== > PDFs/966623/810508_2022e_brahima_djalo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/AoXXmIzby3JpCDRrQ6utQ== > PDFs/953105/156424_2015_jamal_downes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4928465/Westchester-County-Health-Care-Corporation-v.pdf > PDFs/935415/westchester_county_health_care_corporation_v.pdf
+https://s3.documentcloud.org/documents/4928464/Westchester-County-Health-Care-Corporation-v.pdf > PDFs/935415/westchester_county_health_care_corporation_v.pdf
+https://s3.documentcloud.org/documents/22119272/935415_01092017_2017067pdf.pdf > PDFs/935415/935415_01092017_2017067pdf.pdf
+https://s3.documentcloud.org/documents/22119273/935415_01092013_2013108pdf.pdf > PDFs/935415/935415_01092013_2013108pdf.pdf
