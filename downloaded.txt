@@ -22257,3 +22257,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xzLltCuJstMQgK3f4c
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MTgIpBXT1igEdvNA7HXpBg== > PDFs/955701/806210_2021e_marlon_young_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B2ahFHXXwbFG_PLUS_dHUNlzGcw== > PDFs/955056/25138_2018e_wayne_dirden_v_city_of_new_york_et_al_complaint_2.pdf
 https://s3.documentcloud.org/documents/27922218/202409326_tax972897_redacteddepartureletterpdf.pdf > PDFs/972897/202409326_tax972897_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/27922217/202409326_tax972768_redacteddepartureletterpdf.pdf > PDFs/972768/202409326_tax972768_redacteddepartureletterpdf.pdf
