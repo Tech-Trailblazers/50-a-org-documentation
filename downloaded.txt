@@ -18475,3 +18475,11 @@ https://s3.documentcloud.org/documents/5379211/Jordan-v-City-of-New-York-et-al.p
 https://s3.documentcloud.org/documents/4928361/Smith-v-City-of-New-York-et-al.pdf > PDFs/918429/smith_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4928363/Ruiz-v-City-of-New-York-et-al.pdf > PDFs/918429/ruiz_v_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RUHED2Fs2xvP9jWXGpEyBg== > PDFs/971923/803372_2024e_shoshana_govan_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4920028/Marshall-v-City-of-New-York.pdf > PDFs/952057/marshall_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4920029/Marshall-v-City-of-New-York.pdf > PDFs/952057/marshall_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4928509/Collins-v-Rosario-et-al.pdf > PDFs/947435/collins_v_rosario_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WrB2TS4cTj9ntjkPxCy34Q== > PDFs/945061/30919_2018e_francisco_padilla_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=nQP9OEQ5PofslUMlriFFGg== > PDFs/936058/521859_2020_stephon_baines_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922755/Ungar-v-The-City-of-New-York-et-al.pdf > PDFs/936058/ungar_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922756/Ungar-v-The-City-of-New-York-et-al.pdf > PDFs/936058/ungar_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22070000/201902212_redactedclosingreport_redacted.pdf > PDFs/959925/201902212_redactedclosingreport_redacted.pdf
