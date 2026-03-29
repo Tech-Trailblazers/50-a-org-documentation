@@ -22388,3 +22388,13 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xp4qBC1h3XeBMn58hN
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HZvnxZ7oGfpsvVVXFT7M7Q== > PDFs/941303/514964_2020_lateia_pompey_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bbU_PLUS_Gxg4tTNuZXfZJkNSKw== > PDFs/960759/512960_2018_david_rodriguez_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KamG8QRh0Jm3jnZcw8ujWQ== > PDFs/954332/156275_2024_michael_reed_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DWicTZml6A2WO6KlGaBeEw== > PDFs/957246/506630_2024_tiffany_teague_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P1od6Wh9Vcy1_PLUS_98baV9kew== > PDFs/957246/509143_2020_a_b_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Sl4EukuP8yPNbW9znkEjAA== > PDFs/957246/503786_2018_billy_sigue_et_al_v_billy_sigue_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Ja1xlfeczekYzvXT7E9MqA== > PDFs/920284/518424_2022_christina_alvarado_et_v_christina_alvarado_et_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GIC_PLUS_wEnnOEBhe6wWQHUm5A== > PDFs/954409/519251_2024_gary_parker_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zTpdhlq/2W2jk69q_PLUS_4txNw== > PDFs/963215/801436_2023e_jose_serrano_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=idm2k5L1xwZvR3fCqT2dLA== > PDFs/963215/810218_2022e_edras_rivera_rodriguez_v_edras_rivera_rodriguez_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=93tiDgboPUQGSc4bwlyucQ== > PDFs/963215/806022_2022e_robert_bailey_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=h23DN3vzzFNSxLjCHvA2oQ== > PDFs/963215/800402_2021e_benjamin_fair_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9j8VpYbUfRGOPU/BeDQtFA== > PDFs/936859/514644_2018_june_mabry_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
