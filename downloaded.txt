@@ -19154,3 +19154,14 @@ https://s3.documentcloud.org/documents/25220086/8187_iab_c16-0668c-redacted_reda
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3EwXDk1TzIz0x7_PLUS_ioqjlzw== > PDFs/944669/153409_2015_kwasi_asafo_adjei_v_kwasi_asafo_adjei_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=l7pjMr5tiW9mDWqqRNso6g== > PDFs/955138/800035_2021e_steven_aponte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ipGZqT/RsEwMRLT/LzL_PLUS_oA== > PDFs/955138/22010_2019e_derrick_benitez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419149/nypd-cases-165.pdf > PDFs/949513/nypd_cases_165.pdf
+https://s3.documentcloud.org/documents/4920368/Moreno-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/953295/moreno_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918679/Grose-v-City-of-New-York-et-al.pdf > PDFs/948802/grose_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918680/Grose-v-City-of-New-York-et-al.pdf > PDFs/948802/grose_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918832/McLarty-v-City-Of-New-York-et-al.pdf > PDFs/948802/mclarty_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21025405/mangd-33ed76f6bce2f4209391b78d50bfa4565f8ab24e.pdf > PDFs/956060/mangd_33ed76f6bce2f4209391b78d50bfa4565f8ab24e.pdf
+https://s3.documentcloud.org/documents/26473721/202003901_redactedclosingreportpdf.pdf > PDFs/938484/202003901_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26515581/202003901-tax938484-apu-final-documentspdf.pdf > PDFs/938484/202003901_tax938484_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26196138/fitts_10_21_2025pdf.pdf > PDFs/938484/fitts_10_21_2025pdf.pdf
+https://s3.documentcloud.org/documents/22085389/seh_938484.pdf > PDFs/938484/seh_938484.pdf
+https://s3.documentcloud.org/documents/21026586/miroshnyk-f74cc5d617835d2f3e20dd07173b1367c549eed7.pdf > PDFs/963654/miroshnyk_f74cc5d617835d2f3e20dd07173b1367c549eed7.pdf
