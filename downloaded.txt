@@ -22363,3 +22363,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UxAKBfBNTpDzqDFVLO
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=e9CW5CmNlwhthFxIuANtmw== > PDFs/936628/708599_2014_ling_ho_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rJJFas3PiPp6t5lwFygDgQ== > PDFs/946449/517057_2017_darnell_boomer_v_darnell_boomer_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tdPIHbuj0slu68V9KIQfKg== > PDFs/964084/514223_2024_tralize_haynes_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922239/201607667_redactedclosingreportpdf.pdf > PDFs/961068/201607667_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/xtV/pdtpNyqfXDWZf_PLUS_XuA== > PDFs/929125/505515_2024_devalle_smith_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=04hClN3cyXeidFUH6WB5Iw== > PDFs/947985/524294_2019_leroy_dunn_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=E9G7ihk0yThVFeY7mJA_PLUS_NA== > PDFs/935599/503964_2015_david_jones_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kuTbj/KsaOuHsmQd2dfLMg== > PDFs/952559/512992_2015_carver_marshall_v_the_city_of_new_york_et_al_complaint_2.pdf
