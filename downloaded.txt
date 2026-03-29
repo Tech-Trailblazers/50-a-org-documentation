@@ -17058,3 +17058,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AFwbAZWvce13QfXPOt
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3ED1ZUQp2dS3nEZ6f96M7g== > PDFs/929106/509448_2016_deivis_pichardo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4ZH1yuEtcYNNA7fTjm6gWw== > PDFs/975254/507633_2024_daunte_c_gray_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=96Pj66ZBvfLESkZya693IA== > PDFs/933724/507062_2022_gary_parker_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GJkbInccFOt5frkaPgiCTQ== > PDFs/965684/534958_2023_dennis_white_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KelqNsMxf8EoBKi4ZCbHrw== > PDFs/960824/515334_2020_charles_breland_et_al_v_charles_breland_et_al_summons_complaint_1.pdf
