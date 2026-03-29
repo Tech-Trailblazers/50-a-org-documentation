@@ -17500,3 +17500,7 @@ https://s3.documentcloud.org/documents/25521054/200509501_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cz9Q_PLUS_v7xucvqoJgWm0PTKw== > PDFs/933304/704652_2015_tony_urena_v_new_york_city_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4921850/Adelman-v-Ramoodit.pdf > PDFs/948591/adelman_v_ramoodit.pdf
 https://s3.documentcloud.org/documents/21020103/adelman-be379a14fcd40d6afa6272728220879f40bfaeed.pdf > PDFs/948591/adelman_be379a14fcd40d6afa6272728220879f40bfaeed.pdf
+https://s3.documentcloud.org/documents/21015326/daf-foley955029.pdf > PDFs/955029/daf_foley955029.pdf
+https://s3.documentcloud.org/documents/21075312/daf-foley955029.pdf > PDFs/955029/daf_foley955029.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uuJQplh9IO3aZoZR6Krcdg== > PDFs/942022/719908_2018_nadine_mcdaniels_et_al_v_nadine_mcdaniels_et_al_complaint_amended_40.pdf
+https://s3.documentcloud.org/documents/22119238/942203_09112013_2013036pdf.pdf > PDFs/942203/942203_09112013_2013036pdf.pdf
