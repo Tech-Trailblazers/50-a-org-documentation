@@ -1,0 +1,1119 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <title>Document List</title>
+
+
+  <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/nyscefStyles_1.css?refreshcss=1" />
+  <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/oca_Print.css" media="print" />
+  <style type="text/css" media="all">
+  <!--    
+      #menu {width: 185px}
+      #pageContent {border-left:185px solid #e1d7c6}
+      #UCS_Title {text-indent:8.4em}
+      #UCS_Application {text-indent:10.5em}
+
+  -->
+  </style>
+
+  <script type="text/javascript" src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/DisableSubmitButton.js"></script>
+  <script type="text/javascript" src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/InitialFiling.js"></script>
+
+    <script type="text/javascript" src="javascript/nyscef/calendar.js"></script>
+    <script type="text/javascript" src="javascript/nyscef/calendar-en.js"></script>
+    <script type="text/javascript" src="javascript/nyscef/calendar-setup.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="common/css/calendar.css" title="win2k-cold-1" />
+    <script src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/float-panel.js"></script>
+    <style type="text/css" media="all">
+      #backtop {position:fixed;left:auto;right:20px;top:auto;bottom:20px;outline:none;overflow:hidden;color:#fff;
+      text-align:center;background-color:rgba(49,79,96,0.84);height:40px;width:40px;line-height:40px;font-size:14px;
+      border-radius:2px;cursor:pointer;transition:all 0.3s linear;z-index:999999;opacity:1;display:none}
+      #backtop:hover {background-color:#27CFC3}
+      #backtop.mcOut {opacity:0}
+    </style>
+  <script type="text/javascript">
+  <!--
+    if(navigator.userAgent.toLowerCase().indexOf('chrome') > 0) {
+      document.write('<link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_Chrome.css" />');
+    }
+    if(navigator.userAgent.toLowerCase().indexOf('edge') > 0) {
+      document.write('<link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_9.css" />');
+    }
+  -->
+  </script>
+  <!--[if IE 8.0]>
+    <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_8.css" />
+  <![endif]-->
+  <!--[if IE 9.0]>
+    <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_9.css" />
+  <![endif]-->
+
+</head>
+<body>
+
+  <div id="UCS_Header" role="header">
+    <div id="UCS_AccessibilityLinks">
+      Skip To: <a href="#content" title="skip to content">Content</a>
+      <a href="#nav" title="skip to navigation">Navigation</a>
+      <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/accessibility.htm" title="skip to accessibility" target="_blank">Accessibility</a>
+    </div>
+    <a href="http://www.nycourts.gov" id="UCS_Title" target="_blank">New York State Unified Court System</a>
+  </div>
+  <div id="UCS_Application">
+      <a href="HomePage" id="UCS_ApplicationName">
+      NYSCEF -</a> <a href="SupremeHome" id="UCS_SubApplicationName">New York State Courts Electronic Filing</a>
+      <span class="teal">
+        (Live System)
+    </span>
+  </div>
+  <div id="container">
+      <div id="menu"><nav>
+        <ul>
+          <li><a class="home" href="HomePage"><span style="color:black;"><strong>Home</strong><br />NYSCEF</span></a></li>
+          <li><a class="home" href="UnRepresentedHome"><span style="color:#5A5F68"><strong>Home</strong><br />Unrepresented Litigants</span></a></li>
+        </ul>
+        <span class="menuHeader">Account</span>
+        <ul>
+          <li><a href="CreateAccount">Create an Account</a></li>
+          <li><a href="Login">Login</a></li>
+          <li><a href="CaseSearch">Search as Guest</a></li>
+        </ul>
+        <span class="menuHeader">Resources</span>
+        <ul>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm" target="_blank">Forms</a></li>
+          <li><a href="AuthorizedCaseType" target="_blank">Authorized Courts</a></li>
+          <li><a href="AvailableDocumentTypes" target="_blank">Available Documents</a></li>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm" target="_blank">Rules &amp; Legislation</a></li>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm" target="_blank">Protocols</a></li>
+        </ul>
+      </nav></div>
+      <div id="pageContent"><main>
+
+<style type="text/css" media="all">
+  <!--
+    .hidden {display:none}
+    .MsgBox_Warning {margin-bottom:1em}
+    .returnLink {font-size:.8em;margin:.5em 0 1.5em 0;display:block;color:#867250;font-style:italic}
+    span.redItalic {font-size:1em}
+    span.yellow {color:#89601A;font-style:italic}
+    img.dateBox {width:1.5em;vertical-align:middle}
+
+    #linkText {color:#808080;cursor:pointer}
+    #tabs {margin-top:0}
+    select {width:20em;margin-bottom:.5em;padding-bottom:.2em}
+    input[type="text"] {padding-bottom:.2em}
+
+    div.tabBody div.MessageBox_RightText {padding-top:.2em;padding-bottom:0em}
+    div.tabBody div.DataEntry_InnerBox {padding-left:0em;padding-bottom:.75em}
+    div.tabBody h2 {font-size:.75em}
+
+    div.tableHeading {text-align:left;margin-top:.5em}
+    div.tableHeading select {width:10em;margin-bottom:0}
+    div.tableHeading span.pageNumbersInCaption {width:50%;margin-right:0;font-size:.8em;padding-top:.25em}
+    div.tableHeading span.tableSort {width:50%;margin-bottom:.25em}
+
+    table.NewSearchResults tr td, table.NewSearchResults tr td.changeColor {padding:.5em 0 .5em .35em;line-height:1.4em}
+    table.NewSearchResults tr th {padding:.5em 0 .35em .35em}
+  -->
+</style>
+
+<script type="text/javascript" src="common/javascript/browser_detect.js"></script>
+<script type="text/javascript" src="common/javascript/common.js"></script>
+<script type="text/javascript" src="common/javascript/xp_progress.js"></script>
+<script type="text/javascript">addStatusBar(null, 'Request in progress...');</script>
+
+<form name="form" id="form" method="post" onSubmit="switchFormDisplay('showForm',null,'showProgress')">
+
+	<span class="returnLink"><< Return to <a href="CaseSearchResults?PageNum=1"><b>Search Results</b></a></span>
+
+<div class="TabsRightText" style="margin-bottom:-3.25em;">
+	<a href="https://iappscontent.courts.state.ny.us/NYSCEF/live/help/efile Document List.pdf" class="helpLink" target="_blank" aria-label="opens a pdf document in a new tab">Help</a>
+</div>
+<h1 class="PageHeading">
+  <a class="skipTo" id="content">816851/2023E</a> - <span class="PageHeadingDesc">Bronx County Supreme Court</span>
+</h1>
+
+
+
+  <div class="CaseSummary">
+    <span class="row">
+      <span style="vertical-align:top">Short Caption:&nbsp;</span>
+      <span style="width:59em;font-weight:bold"><span class="captionText">EMELY PLACENCIA et al v. CITY OF NEW YORK et al</span></span>
+    </span>
+    <span class="row"><span>Case Type:&nbsp;<strong>Torts - Other (FALSE ARREST)</strong></span></span><br />
+		<span class="row"><span>Case Status:&nbsp;<strong>Active</strong></span></span><br />
+    <span class="row"><span>eFiling Status:&nbsp;    <strong><a title="One or more parties have not recorded their participation in e-filing. E-filing parties must serve documents on non-participating parties in hard copy and e-file proof of such service [see Uniform Rule &sect; 202.5-b(b)(2) and 202.5-bb(e)(5)]." style="cursor:help" style="pointer-events:none;">Partial Participation Recorded</a></strong>
+</span></span><br/>
+      <span class="row"><span>Assigned Judge:&nbsp;<span style="float:none;font-weight:bold">Myrna Socorro</span></span></span>
+  </div>
+
+
+<div id="tabs">
+  <ul>
+    <li id="current"><a href="SearchDocuments?docketId=eRVORmkUCJuq621rB9fByw&#61;&#61;"><span>Document List</span></a></li>
+  			<li><a href="CaseDetails?docketId=eRVORmkUCJuq621rB9fByw&#61;&#61;"><span>Case Detail</span></a></li>
+	</ul>
+</div>
+<div class="tabBody" style="padding-top:0">
+
+
+    <div class="Document_Row" style="margin:0 1em 3em 0;padding-top:0">
+
+      <span class="printLink">
+        <a href="DocumentList?docketId=eRVORmkUCJuq621rB9fByw&#61;&#61;&amp;display=all&amp;pdf=y&amp;flst=y&amp;narrow=" target="_blank">
+            Print Document List
+        </a>
+      </span>
+    </div>
+
+		<h2>Narrow By Options</h2>
+		<div class="DataEntry_InnerBox">
+
+  		<div class="Document_Row">
+    		<span style="width:8.6em">
+    		  <label for="selDocumentType">Document Type:</label>
+    		</span>
+        <select name="selDocumentType" id="selDocumentType">
+    					<option value="-1" selected="SELECTED"></option>
+    					<option value="1225" >ADJOURNMENT OF MOTION -REQUEST</option>
+    					<option value="1010" >AFFIDAVIT OR AFFIRMATION IN OPPOSITION TO MOTION</option>
+    					<option value="1427" >AFFIDAVIT OR AFFIRMATION IN SUPPORT</option>
+    					<option value="1012" >AFFIDAVIT OR AFFIRMATION IN SUPPORT OF MOTION</option>
+    					<option value="1015" >AFFIRMATION/AFFIDAVIT OF SERVICE</option>
+    					<option value="1027" >ANSWER</option>
+    					<option value="1016" >ANSWER (AMENDED)</option>
+    					<option value="1095" >EXHIBIT(S)</option>
+    					<option value="1132" >NO FEE AUTHORIZATION (LETTER/ORDER/AFFIRMATION)</option>
+    					<option value="1157" >NOTICE OF MOTION</option>
+    					<option value="1049" >ORDER - CASE SCHEDULING</option>
+    					<option value="1057" >ORDER - COMPLIANCE CONFERENCE</option>
+    					<option value="1192" >ORDER - OTHER</option>
+    					<option value="1226" >PRELIMINARY CONFERENCE REQUEST</option>
+    					<option value="1237" >RJI -RE: REQUEST FOR PRELIMINARY CONFERENCE</option>
+    					<option value="1868" >STIPULATION - DISCOVERY ( REQUEST TO SO ORDER )</option>
+    					<option value="1243" >STIPULATION - SO ORDERED</option>
+    					<option value="1260" >SUMMONS + COMPLAINT</option>
+    		</select>
+
+        <span style="width:5.8em;margin-left:1.5em">
+          <label for="selFiler">Filed By:</label>
+        </span>
+        <select name="selFiler" id="selFiler" style="width:19em">
+    					<option value="-1" selected="SELECTED"></option>
+    					<option value="15229624" >ANUMONWO, FRANCESCA OBIAGELI</option>
+    					<option value="19484994" >Colon, Ann</option>
+    					<option value="3130616" >Counsel, Corporation</option>
+    					<option value="4271258" >D'AGOSTINO, STEPHANIE</option>
+    					<option value="3919605" >Matos, Rosa E</option>
+    					<option value="925040" >RiveraLopez, Sandra</option>
+    					<option value="3457071" >Rodriguez, Lissette</option>
+    					<option value="842163" >WOLLERSTEIN, NEIL DAVID</option>
+    		</select>
+    		<input type="hidden" name="docketId" value="eRVORmkUCJuq621rB9fByw&#61;&#61;" id="row">
+    		<input type="hidden" name="narrow" value="true" id="narrow">
+      </div>
+
+        <div class="Document_Row" style="padding-top:0">
+          <span style="width:8.6em">
+            <label for="selMotionNum">Motion Info:</label>
+          </span>
+          <select name="selMotionNum" id="selMotionNum" >
+      						<option value="zo0QLhUqMsw0vxcnE5cCAQ==" selected></option>
+      						<option value="xIc1ZsQp3w2R3h1Ojf_PLUS_Jmg==" >1 - JUDGMENT - DEFAULT - Wollerstein, N.</option>
+      						<option value="jgcd46Z9uR1/LSlPHupRNA==" >2 - OTHER RELIEF - D'Agostino, S.</option>
+    		  </select>
+    			<span style="width:5.8em;margin-left:1.5em">
+    			  <label for="txtFilingDateFrom">Filed Date:</label>
+    			</span>
+          <input type="text" name="txtFilingDateFrom" id="txtFilingDateFrom" value="" size="6" maxlength="10" />
+    			<img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/NYSCEF/calendar.png" id="btnFromDate" title="Date Selector" alt="calendar" class="dateBox" />
+    			<script type="text/javascript">
+    				<!--
+    				Calendar.setup({inputField:"txtFilingDateFrom",ifFormat:"%m/%d/%Y",button:"btnFromDate",align:"Tr",singleClick:true,electric:false});
+    				// -->
+    			</script>
+    			&nbsp; <label for="txtFilingDateTo">thru</label>&nbsp;
+          <input type="text" name="txtFilingDateTo" id="txtFilingDateTo" value="" size="6" maxlength="10" />
+          <img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/NYSCEF/calendar.png" id="btnToDate" title="Date Selector" alt="calendar" class="dateBox" />
+    			<script type="text/javascript">
+    					<!--
+    					Calendar.setup({inputField:"txtFilingDateTo",ifFormat:"%m/%d/%Y",button:"btnToDate",align:"Tr",singleClick:true,electric:false});
+    					// -->
+    			</script>
+        </div>
+        <div class="Document_Row" style="padding-top:0">
+    		  <span style="width:8.6em"><label for="txtDocNum">Document #:</label></span>
+          <input type="text" name="txtDocNum" id="txtDocNum" maxlength="10" size="5" value="" />
+        </div>
+
+      <div class="Document_Row">
+        <input value="Narrow Document List" name="btnNarrow" type="submit" style="font-size:.9em" />&nbsp;
+        <input value= "Clear" name="btnClear" type="submit" style="font-size:.9em" />&nbsp;
+
+          <img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/nyscef/folder.png" width="16" style="vertical-align:middle" alt="folder"></img>
+      			<a href="DocumentList?docketId=eRVORmkUCJuq621rB9fByw&#61;&#61;&amp;display=motion" style="font-size:1em" title="Any motion-related documents will not show on the list but will be accessible by clicking on the motion folder for each main motion">Show Motion Folders ONLY</a>
+	    </div>
+    </div>
+
+		<div class="tableHeading">
+			<span class="tableSort" style="margin-bottom:.25em"><label for="selDocumentSortBy">Sort By:</label>
+				<select name="selDocumentSortBy" id="selDocumentSortBy" style="width:10em;padding-bottom:0">
+						<option value="Type" >
+  						  Document Type
+						</option>
+						<option value="Document Number" selected="SELECTED">
+  						  Document #
+						</option>
+						<option value="Status" >
+  						  Status
+						</option>
+						<option value="Receive Date" >
+  						  Receive Date
+						</option>
+						<option value="Filing User" >
+  						  Filing User
+						</option>
+				</select>
+				<input value=" Sort " style="font-size:1em" name="btnSort" type="submit"/>
+			</span>
+		</div>
+
+    <table summary="all documents for case" class="NewSearchResults" style="margin-top:.25em">
+    <thead>
+    <tr>
+      <th scope="col" style="width:3em">#</th>
+      <th scope="col">Document</th>
+      <th scope="col" style="width:13em">Filed By</th>
+      <th scope="col" style="width:11em">Status</th>
+    </tr>
+    </thead>
+    <tbody>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              1
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=utMYw_PLUS_7TjKFG3B3OatKu7Q==" target="_blank">SUMMONS + COMPLAINT</a>
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 10/25/2023
+            <br/><span class="grayItalic">
+                Received: 10/25/2023
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=utMYw_PLUS_7TjKFG3B3OatKu7Q==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              2
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=Ej_PLUS_JkbxTXUKdDvYg4IqDnA==" target="_blank">AFFIRMATION/AFFIDAVIT OF SERVICE</a>
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 11/14/2023
+            <br/><span class="grayItalic">
+                Received: 11/14/2023
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=Ej_PLUS_JkbxTXUKdDvYg4IqDnA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              3
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=NcRzXCCycT3iFxgg2Vca9w==" target="_blank">ANSWER</a>
+
+              <br/><span class="italic">City&#39;s Answer
+              </span>
+    		</td>
+        <td>
+                Counsel, Corporation
+              <br/>Filed: 11/22/2023
+            <br/><span class="grayItalic">
+                Received: 11/22/2023
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=NcRzXCCycT3iFxgg2Vca9w==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              4
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=wCEVpv2n3gSt0/eu/CMJlw==" target="_blank">PRELIMINARY CONFERENCE REQUEST</a>
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 11/28/2023
+            <br/><span class="grayItalic">
+                Received: 11/28/2023
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=wCEVpv2n3gSt0/eu/CMJlw==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              5
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=jGYYjvAjwVM9oIUXvHU_PLUS_zg==" target="_blank">RJI -RE: REQUEST FOR PRELIMINARY CONFERENCE</a>
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 11/28/2023
+            <br/><span class="grayItalic">
+                Received: 11/28/2023
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=jGYYjvAjwVM9oIUXvHU_PLUS_zg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              6
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=fCP59aPSPX9gsP18TeugTg==" target="_blank">STIPULATION - DISCOVERY ( REQUEST TO SO ORDER )</a>
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/11/2024
+            <br/><span class="grayItalic">
+                Received: 01/11/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=fCP59aPSPX9gsP18TeugTg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              7
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=gA4SxEzq3uirNe9PObkQng==" target="_blank">STIPULATION - SO ORDERED</a>
+
+              <br/><span class="italic">Dated 1/17/2024
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 01/17/2024
+            <br/><span class="grayItalic">
+                Received: 01/17/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=gA4SxEzq3uirNe9PObkQng==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              8
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=hv0OMZAoTfuogUjQotfZlA==" target="_blank">ORDER - CASE SCHEDULING</a>
+
+              <br/><span class="italic">DATED:1/17/2024
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 01/19/2024
+            <br/><span class="grayItalic">
+                Received: 01/19/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=hv0OMZAoTfuogUjQotfZlA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              9
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=xIc1ZsQp3w2R3h1Ojf_PLUS_Jmg==" target="_blank">NOTICE OF MOTION</a>
+            &nbsp;(Motion #1)
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=xIc1ZsQp3w2R3h1Ojf_PLUS_Jmg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              10
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=CBiBU9uP24nfTaxFh5rpMg==" target="_blank">AFFIDAVIT OR AFFIRMATION IN SUPPORT OF MOTION</a>
+            &nbsp;(Motion #1)
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=CBiBU9uP24nfTaxFh5rpMg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              11
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=RNXRy9DNBMLTZR1iFB4pkQ==" target="_blank">EXHIBIT(S)</a>
+            &nbsp;- A
+            &nbsp;(Motion #1)
+
+              <br/><span class="italic">50-H MINUTES
+              </span>
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=RNXRy9DNBMLTZR1iFB4pkQ==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              12
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=v5sXavUl7T0/3CyGcjrenA==" target="_blank">EXHIBIT(S)</a>
+            &nbsp;- B
+            &nbsp;(Motion #1)
+
+              <br/><span class="italic">50-H MINUTES
+              </span>
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=v5sXavUl7T0/3CyGcjrenA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              13
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=E5FNjYUr/l7x9wUenHy7ZA==" target="_blank">EXHIBIT(S)</a>
+            &nbsp;- C
+            &nbsp;(Motion #1)
+
+              <br/><span class="italic">AFFIDAVIT OF SERVICE
+              </span>
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=E5FNjYUr/l7x9wUenHy7ZA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              14
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=2MB3uVB4zFZLVf05AgJTlA==" target="_blank">AFFIRMATION/AFFIDAVIT OF SERVICE</a>
+            &nbsp;(Motion #1)
+
+    		</td>
+        <td>
+                WOLLERSTEIN, NEIL DAVID
+              <br/>Filed: 01/23/2024
+            <br/><span class="grayItalic">
+                Received: 01/23/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=2MB3uVB4zFZLVf05AgJTlA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              15
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=sjK3YCWcQm/LKM7zsG7thA==" target="_blank">ADJOURNMENT OF MOTION -REQUEST</a>
+            &nbsp;(Motion #1)
+
+    		</td>
+        <td>
+                ANUMONWO, FRANCESCA OBIAGELI
+              <br/>Filed: 02/09/2024
+            <br/><span class="grayItalic">
+                Received: 02/09/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=sjK3YCWcQm/LKM7zsG7thA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              16
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=hpkelJKm5Nr294QAU7wmsQ==" target="_blank">ANSWER (AMENDED)</a>
+
+    		</td>
+        <td>
+                ANUMONWO, FRANCESCA OBIAGELI
+              <br/>Filed: 02/15/2024
+            <br/><span class="grayItalic">
+                Received: 02/15/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=hpkelJKm5Nr294QAU7wmsQ==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              17
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=5BB5xq5zoTvqWS1/NXPFtw==" target="_blank">AFFIDAVIT OR AFFIRMATION IN OPPOSITION TO MOTION</a>
+            &nbsp;(Motion #1)
+
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=5BB5xq5zoTvqWS1/NXPFtw==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              18
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=xKhw8E7G6iKd/u93xL/b2Q==" target="_blank">EXHIBIT(S)</a>
+            &nbsp;- A
+            &nbsp;(Motion #1)
+
+              <br/><span class="italic">Amended Answer
+              </span>
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=xKhw8E7G6iKd/u93xL/b2Q==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              19
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=jgcd46Z9uR1/LSlPHupRNA==" target="_blank">NOTICE OF MOTION</a>
+            &nbsp;(Motion #2)
+
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=jgcd46Z9uR1/LSlPHupRNA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              20
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=mU9XZZEDH/Gw5B4b0Sgb8A==" target="_blank">AFFIDAVIT OR AFFIRMATION IN SUPPORT</a>
+            &nbsp;(Motion #2)
+
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=mU9XZZEDH/Gw5B4b0Sgb8A==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              21
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=yANARez19QGyYBRCIMYrvw==" target="_blank">EXHIBIT(S)</a>
+            &nbsp;- A
+            &nbsp;(Motion #2)
+
+              <br/><span class="italic">Amended Answer
+              </span>
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=yANARez19QGyYBRCIMYrvw==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              22
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=Tfn_PLUS_luLjmnsLmwYohvDHvQ==" target="_blank">NO FEE AUTHORIZATION (LETTER/ORDER/AFFIRMATION)</a>
+            &nbsp;(Motion #2)
+
+    		</td>
+        <td>
+                D&#39;AGOSTINO, STEPHANIE
+              <br/>Filed: 02/16/2024
+            <br/><span class="grayItalic">
+                Received: 02/16/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=Tfn_PLUS_luLjmnsLmwYohvDHvQ==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              23
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=dKKvucG7a5TOCh77WSE4ww==" target="_blank">ORDER - OTHER</a>
+            &nbsp;(Motion #1)
+
+              <br/><span class="italic">(With Stipulation So Ordered) Dated 3/7/2024.
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 03/08/2024
+            <br/><span class="grayItalic">
+                Received: 03/08/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=dKKvucG7a5TOCh77WSE4ww==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              24
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=NfYOVkROTGE/LQVhHSN67g==" target="_blank">ORDER - OTHER</a>
+
+              <br/><span class="italic">Dated 4/11/2024.
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 04/12/2024
+            <br/><span class="grayItalic">
+                Received: 04/12/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=NfYOVkROTGE/LQVhHSN67g==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              25
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=RSI0g4EUceO6/weS7950Ag==" target="_blank">STIPULATION - SO ORDERED</a>
+
+              <br/><span class="italic">Dated 4/11/2024.
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 04/12/2024
+            <br/><span class="grayItalic">
+                Received: 04/12/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=RSI0g4EUceO6/weS7950Ag==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              26
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=9Bj8lDsCYhML1m41LrWLTA==" target="_blank">ORDER - COMPLIANCE CONFERENCE</a>
+
+              <br/><span class="italic">Dated 6/18/2024
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 06/21/2024
+            <br/><span class="grayItalic">
+                Received: 06/21/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=9Bj8lDsCYhML1m41LrWLTA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              27
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=rLvGJ_PLUS_FUZPAHpvJLIM91og==" target="_blank">STIPULATION - SO ORDERED</a>
+
+              <br/><span class="italic">dated 11/19/2024.
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 11/22/2024
+            <br/><span class="grayItalic">
+                Received: 11/22/2024
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=rLvGJ_PLUS_FUZPAHpvJLIM91og==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+    </tbody>
+    </table>
+
+</div>
+  <span class="returnLink"><br/><< Return to <a href="CaseSearchResults?PageNum=1"><b>Search Results</b></a></span>
+</form>
+
+  </div></main>
+
+    <script type="text/javascript">
+    function showHide(id) {
+      if (document.getElementById(id)) {
+        if (document.getElementById('clerkMessage-show').style.display != 'none') {
+          document.getElementById('clerkMessage-show').style.display = 'none';
+          document.getElementById('clerkMessage').style.display = 'block';
+        }
+        else {
+          document.getElementById('clerkMessage-show').style.display = 'inline';
+          document.getElementById('clerkMessage').style.display = 'none';
+        }
+      }
+    }
+    </script>
+    <div class="clerkBanner">
+        <span class="clerkName">Honorable Ischia Bravo</span>
+      <span class="clerkDesc">
+          Bronx County Clerk/Commissioner of Jurors<br />
+      </span>
+      <span class="clerkName">Bronx County Clerk's Office</span>
+      <span class="clerkDesc">
+        851 Grand Concourse<br />
+        Bronx, NY 10451<br />
+        718-618-3340<br />
+        718-590-8122 (fax)<br />
+        
+            <a href="/cdn-cgi/l/email-protection#04465c47472961626d6861446a7d676b717670772a636b72" target="_parent" aria-label="opens email for the court">
+            <span class="__cf_email__" data-cfemail="62203a21214f07040b0e07220c1b010d171016114c050d14">[email&#160;protected]</span>
+          </a>
+      </span>
+              <span class="clerkName">Teresa Torres</span>
+            <span class="clerkDesc">
+              Administrator<br />
+            </span>
+      <span class="clerkDesc">
+        <br/><img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/clerkBanner/BronxSeal.png" alt="picture of court seal" />
+            Welcome to Bronx County Clerk's E-Filing Program as part of the NYSCEF System. For more information on how your filing is processed in Bronx County, please visit our website.
+          <br />
+            <a href="http://ww2.nycourts.gov/COURTS/12JD/BRONX/countyclerk/index.shtml" target="_blank" aria-label="opens pdf document in a new tab">
+            Bronx County Clerks Website
+          </a>
+      </span>
+        <div id="backtop">&#9650;</div>
+    </div>
+</div>
+
+<div id="footer"><footer>
+
+    <div id="fHeading">
+      <span class="fMenuTitle">NYSCEF</span>
+      <span class="fMenuItem">E-mail: <a href="/cdn-cgi/l/email-protection#1977606a7a7c7f5977607a766c6b6d6a377e766f266a6c7b737c7a6d245c345f707570777e3c4e7c7b3c4a706d7c" aria-label="opens email for nyscef"><span class="__cf_email__" data-cfemail="3856414b5b5d5e7856415b574d4a4c4b165f574e">[email&#160;protected]</span></a></span>
+      <span class="fMenuItem">Phone: (646) 386-3033</span>
+      <span class="fMenuItem">Fax: (212) 401-9146</span>
+    </div>
+      <div id="fMenu">
+        <span style="width:12em;">
+          Websites<br />
+          <a href="HomePage" id="nav">NYSCEF</a><br />
+          <a href="UnRepresentedHome">Unrepresented Litigants</a>
+        </span>
+        <span>Account<br />
+          <a href="CreateAccount">Create an Account</a><br/>
+          <a href="Login">Login</a><br/>
+          <a href="CaseSearch">Search as Guest</a>
+        </span>
+        <span>
+          Resources<br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm" target="_blank">Forms</a><br/>
+          <a href="AuthorizedCaseType" target="_blank">Authorized Courts</a><br/>
+          <a href="AvailableDocumentTypes" target="_blank">Available Documents</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm" target="_blank">Rules &amp; Legislation</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm" target="_blank">Protocols</a>
+        </span>
+        <span style="width:16em">
+          Help<br>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/faq.htm" target="_blank">FAQs</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/RemoveConsentInstructions.pdf" target="_blank" aria-label="opens a pdf document in a new tab">Remove Attorney Representation</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training.htm" target="_blank">Training</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/termsOfUse.htm" target="_blank">Terms of Use</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training/userManual.pdf" target="_blank" aria-label="opens a pdf document in a new tab">User Manual</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/requirements.htm" target="_blank">Filing Requirements</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/evidence.htm" target="_blank">VEC Resources</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/contact.htm" target="_blank">Contact Us</a>
+        </span>
+        <span style="width:20em;">
+          Support<br />
+          <a href="http://ww2.nycourts.gov/social/twitter.shtml" target="_blank">Follow UCS - Twitter</a><br/>
+          <a href="http://www.nycourts.gov/rules/efiling/" target="_blank">Request for Public Comment</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/UnrepresentedFactSheet.pdf" target="_blank" aria-label="opens a pdf document in a new tab">Unrepresented Litigants Fact Sheet</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/EFileReport.pdf" target="_blank" aria-label="opens a pdf document in a new tab">E-File Report</a>
+        </span>
+      </div>
+</footer></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9e3ad7befde42f1d',t:'MTc3NDc0NTAzMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
