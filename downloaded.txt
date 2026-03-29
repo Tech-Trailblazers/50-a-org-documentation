@@ -17607,3 +17607,9 @@ https://s3.documentcloud.org/documents/23201422/ccrb-document-velotti-nicholas.p
 https://s3.documentcloud.org/documents/23201643/disclosure-letter-velotti-nicholas.pdf > PDFs/949767/disclosure_letter_velotti_nicholas.pdf
 https://s3.documentcloud.org/documents/25522768/201610147_redactedclosingreport_redacted.pdf > PDFs/938238/201610147_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25522613/201307307_redactedclosingreport_redacted.pdf > PDFs/938238/201307307_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24180385/948675_10232023_2023082pdf.pdf > PDFs/948675/948675_10232023_2023082pdf.pdf
+https://s3.documentcloud.org/documents/21028708/scraper-720bed2fede5b5ebba6fd58f4ffb816387a531cd.pdf > PDFs/948675/scraper_720bed2fede5b5ebba6fd58f4ffb816387a531cd.pdf
+https://s3.documentcloud.org/documents/21057047/scraper-948675-01-14-21-giglio.pdf > PDFs/948675/scraper_948675_01_14_21_giglio.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XIx0xvKNed9MTwaN8LHJvQ== > PDFs/935080/704078_2017_robert_walton_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=s79mKLTV_PLUS_V9MhXQnQ9yuCA== > PDFs/955883/723084_2023_ray_brown_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25523620/200913227_redactedclosingreport_redacted.pdf > PDFs/922938/200913227_redactedclosingreport_redacted.pdf
