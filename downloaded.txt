@@ -17487,3 +17487,16 @@ https://s3.documentcloud.org/documents/25977677/201703007-redactedclosingreport-
 https://s3.documentcloud.org/documents/25525881/202104748.pdf > PDFs/933395/202104748.pdf
 https://s3.documentcloud.org/documents/23601664/202104748_tax933395_redacteddepartureletterpdf.pdf > PDFs/933395/202104748_tax933395_redacteddepartureletterpdf.pdf
 https://s3.documentcloud.org/documents/22086021/seh_959359.pdf > PDFs/959359/seh_959359.pdf
+https://s3.documentcloud.org/documents/22119406/942481_01282021_2021004pdf.pdf > PDFs/942481/942481_01282021_2021004pdf.pdf
+https://s3.documentcloud.org/documents/26182829/201705627_redactedclosingreportpdf.pdf > PDFs/951149/201705627_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21057877/giglio-rivera-951149.pdf > PDFs/951149/giglio_rivera_951149.pdf
+https://s3.documentcloud.org/documents/22048870/201904666_redactedclosingreport_redacted.pdf > PDFs/965643/201904666_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086299/seh_963926.pdf > PDFs/963926/seh_963926.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TOc2VDli4DV4xeleDt3WLg==u > PDFs/952298/714852_2016_kimberly_gordon_v_kimberly_gordon_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085764/seh_952298.pdf > PDFs/952298/seh_952298.pdf
+https://s3.documentcloud.org/documents/21021317/callaghan-176f185dbaca67e2986255a39ac4a7d4692b3238.pdf > PDFs/952529/callaghan_176f185dbaca67e2986255a39ac4a7d4692b3238.pdf
+https://s3.documentcloud.org/documents/4418839/nypd-cases-252.pdf > PDFs/946133/nypd_cases_252.pdf
+https://s3.documentcloud.org/documents/25521054/200509501_redactedclosingreport_redacted.pdf > PDFs/933304/200509501_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cz9Q_PLUS_v7xucvqoJgWm0PTKw== > PDFs/933304/704652_2015_tony_urena_v_new_york_city_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921850/Adelman-v-Ramoodit.pdf > PDFs/948591/adelman_v_ramoodit.pdf
+https://s3.documentcloud.org/documents/21020103/adelman-be379a14fcd40d6afa6272728220879f40bfaeed.pdf > PDFs/948591/adelman_be379a14fcd40d6afa6272728220879f40bfaeed.pdf
