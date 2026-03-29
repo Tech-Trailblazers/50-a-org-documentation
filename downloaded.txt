@@ -18356,3 +18356,12 @@ https://s3.documentcloud.org/documents/26182855/201606860_redactedclosingreportp
 https://s3.documentcloud.org/documents/21027802/quinn-929e1cbf8ba9a7081cb420a7cbffdc81b2a1208d.pdf > PDFs/954746/quinn_929e1cbf8ba9a7081cb420a7cbffdc81b2a1208d.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t/ru/HsWfXChPxSEx1yOkA== > PDFs/961029/522120_2019_megan_masur_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21020122/agudelo-53593a07de8001db6b149104c97360da86db0e23.pdf > PDFs/961596/agudelo_53593a07de8001db6b149104c97360da86db0e23.pdf
+https://s3.documentcloud.org/documents/24630875/201800485_redactedclosingreport_redacted.pdf > PDFs/956231/201800485_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23620565/201706634_redactedclosingreport_redacted.pdf > PDFs/956231/201706634_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23620549/201606627_redactedclosingreport_redacted.pdf > PDFs/956231/201606627_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25964340/201600920_redactedclosingreportpdf.pdf > PDFs/956231/201600920_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wlIXPhb7krSs8XEuI57b8A== > PDFs/956231/510445_2018_francis_shaughnessy_v_francis_shaughnessy_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25246231/201710196_redactedclosingreport_redacted.pdf > PDFs/951050/201710196_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4922745/Patella-v-Anzalone-et-al.pdf > PDFs/944415/patella_v_anzalone_et_al.pdf
+https://s3.documentcloud.org/documents/21022334/delacruz-13dfc14381ff534fdcbc5f2f6112fcb4a41274b1.pdf > PDFs/934736/delacruz_13dfc14381ff534fdcbc5f2f6112fcb4a41274b1.pdf
+https://s3.documentcloud.org/documents/25521061/200307393_redactedclosingreport_redacted.pdf > PDFs/924129/200307393_redactedclosingreport_redacted.pdf
