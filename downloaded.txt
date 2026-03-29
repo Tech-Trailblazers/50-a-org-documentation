@@ -19652,3 +19652,13 @@ https://s3.documentcloud.org/documents/21027515/perez-aaa45d451af3d7776ef4db162e
 https://s3.documentcloud.org/documents/22119203/944114_10092012_2012122pdf.pdf > PDFs/944114/944114_10092012_2012122pdf.pdf
 https://s3.documentcloud.org/documents/4920705/Herman-v-City-of-New-York-et-al.pdf > PDFs/933115/herman_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/23201660/disclosure-letter-moldonado-leslley.pdf > PDFs/933115/disclosure_letter_moldonado_leslley.pdf
+https://s3.documentcloud.org/documents/20527952/6.pdf > PDFs/932697/6.pdf
+https://s3.documentcloud.org/documents/23201675/disclosure-letter-garofolo-anthony.pdf > PDFs/932697/disclosure_letter_garofolo_anthony.pdf
+https://s3.documentcloud.org/documents/25521057/200501527_redactedclosingreport_redacted.pdf > PDFs/931319/200501527_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21022348/deleon-2d1841c093b319ed0ba35e8f8ed407ce4a609094.pdf > PDFs/926748/deleon_2d1841c093b319ed0ba35e8f8ed407ce4a609094.pdf
+https://s3.documentcloud.org/documents/21066648/morales-960968-08-10-20.pdf > PDFs/960968/morales_960968_08_10_20.pdf
+https://s3.documentcloud.org/documents/21058032/giglio_janisch-935055-03-15-21.pdf > PDFs/935055/giglio_janisch_935055_03_15_21.pdf
+https://s3.documentcloud.org/documents/4919446/Codrington-v-The-City-of-New-York.pdf > PDFs/941075/codrington_v_the_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/21026424/meehan-b150fc11abd4be1a31d0b8bfce818914acd7228d.pdf > PDFs/941075/meehan_b150fc11abd4be1a31d0b8bfce818914acd7228d.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7hTzZwrerPDa/4VWuZuD7Q== > PDFs/961952/702419_2023_arvell_rollins_v_arvell_rollins_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21025689/rodgers-c383e3c88f429ff84675f32a8ace8066f419d46b.pdf > PDFs/929058/rodgers_c383e3c88f429ff84675f32a8ace8066f419d46b.pdf
