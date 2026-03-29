@@ -20440,3 +20440,7 @@ https://s3.documentcloud.org/documents/21023337/freyre-dc5d15c0d0e4938579932e9f6
 https://s3.documentcloud.org/documents/21057257/ali-942940-06-16-20-1.pdf > PDFs/942940/ali_942940_06_16_20_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pGh5IOBKQv_PLUS_LmGHxjGOn3g== > PDFs/947825/155848_2015_darnell_johnson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5fHLD7IQkEEz4sRzTfY74A== > PDFs/947825/153189_2015_abdal_aziz_muhammad_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21028673/schultz-e9f0eccd15283070e1e48211f614181bdc2165e2.pdf > PDFs/946230/schultz_e9f0eccd15283070e1e48211f614181bdc2165e2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2ttWbowPMMwz7BoZYvL4lg== > PDFs/940971/158877_2016_tiasha_taylor_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419278/nypd-cases-274.pdf > PDFs/924134/nypd_cases_274.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=94SqOU2jlyUcIsf4ahraEw== > PDFs/958211/28273_2018e_eric_montalvo_v_city_of_new_york_et_al_summons_complaint_1.pdf
