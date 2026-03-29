@@ -22337,3 +22337,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NscMWcAw30MLkerqwa
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KSOQzxXTfn6R5bct5xLqcg== > PDFs/965980/529455_2023_andrew_downie_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YTAStM_PLUS_XXDz3IU3w3TiGEQ== > PDFs/964146/503730_2022_frank_aspromonte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FK6C_PLUS_bDq9a4jSSUe5afYYg== > PDFs/961276/505151_2019_bobby_ruiz_v_moshan_shahbaz_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922256/201602435_redactedclosingreportpdf.pdf > PDFs/942239/201602435_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CaWqQATvtXTjm09rFub_PLUS_nQ== > PDFs/970221/534580_2024_elvin_munoz_v_city_of_new_york_et_al_summons_complaint_1.pdf
