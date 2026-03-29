@@ -18056,3 +18056,15 @@ https://s3.documentcloud.org/documents/20528309/1942.pdf > PDFs/954578/1942.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xiXBTvq2nGp8Byn7PLcFrA==&__cf_chl_rt_tk=MBYqOR9vmrZmDQEbQb7K9nRqeaqHLn7RinswAW5Ovvs-1726758621-0.0.1.1-5118 > PDFs/951120/150627_2020_kishia_smith_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/4922114/Adonis-v-City-of-New-York-et-al.pdf > PDFs/951120/adonis_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/20528169/930.pdf > PDFs/951120/930.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7TP1yhq7XCVQzo5dR5E2iQ== > PDFs/948905/30734_2018e_jordan_freeman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=r3gEbZJqZFg2FEUHuwf2Fg== > PDFs/948905/154268_2015_gerald_pluvoise_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24424963/201907897-tax966278-apu-final-documentspdf.pdf > PDFs/966278/201907897_tax966278_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/24484627/960331_12202023_2023100pdf.pdf > PDFs/966278/960331_12202023_2023100pdf.pdf
+https://s3.documentcloud.org/documents/21027654/pinzon-315f18ce3b2371c1e09f466a2d1a2e9426bd6624.pdf > PDFs/966278/pinzon_315f18ce3b2371c1e09f466a2d1a2e9426bd6624.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EaHwrlOTFqQDKiK/_PLUS_7NITQ== > PDFs/949031/517718_2018_joshua_eilenberg_v_joshua_eilenberg_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/20528017/86.pdf > PDFs/940341/86.pdf
+https://s3.documentcloud.org/documents/21066636/molina-963655-giglio.pdf > PDFs/963655/molina_963655_giglio.pdf
+https://s3.documentcloud.org/documents/25999819/202106303_redactedclosingreportpdf.pdf > PDFs/936681/202106303_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035035/202106303-tax936681-apu-final-documentspdf.pdf > PDFs/936681/202106303_tax936681_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25951512/936681_04242025_2025015pdf.pdf > PDFs/936681/936681_04242025_2025015pdf.pdf
+https://s3.documentcloud.org/documents/25553999/201304556_redactedclosingreport_redacted.pdf > PDFs/938991/201304556_redactedclosingreport_redacted.pdf
