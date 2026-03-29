@@ -17866,3 +17866,14 @@ https://s3.documentcloud.org/documents/4920304/Gorham-et-al-v-City-of-New-York-e
 https://s3.documentcloud.org/documents/21051869/giglio_shahib-961277-04-26-21.pdf > PDFs/961277/giglio_shahib_961277_04_26_21.pdf
 https://s3.documentcloud.org/documents/22086144/seh_961277.pdf > PDFs/961277/seh_961277.pdf
 https://s3.documentcloud.org/documents/26055234/201505084-redactedclosingreport-redacted.pdf > PDFs/948842/201505084_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/20528220/1234.pdf > PDFs/948842/1234.pdf
+https://s3.documentcloud.org/documents/20528131/852.pdf > PDFs/961977/852.pdf
+https://s3.documentcloud.org/documents/20528236/1301.pdf > PDFs/961977/1301.pdf
+https://s3.documentcloud.org/documents/25526182/202303151.pdf > PDFs/965635/202303151.pdf
+https://s3.documentcloud.org/documents/25536068/202303151-tax965635-apu-final-documentspdf.pdf > PDFs/965635/202303151_tax965635_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/24101110/201805408_redactedclosingreport_redacted.pdf > PDFs/964195/201805408_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086325/seh_964546.pdf > PDFs/964546/seh_964546.pdf
+https://s3.documentcloud.org/documents/25940048/202308317-tax973356-apu-final-documentspdf.pdf > PDFs/973356/202308317_tax973356_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=B_PLUS_Ezn9xQjBViRZJjXY0QHg== > PDFs/962892/521174_2018_jorge_garcia_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23834910/zubair-962892.pdf > PDFs/962892/zubair_962892.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2JeQbJQTW0r41G74iZEg3A== > PDFs/963893/151263_2023_adaman_kamagate_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
