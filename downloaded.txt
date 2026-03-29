@@ -22378,3 +22378,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VyS7PMWeV3BmoYBn50
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YtqLCWxvAYyk2q8/ycAGNw== > PDFs/963764/530145_2021_tyrell_vance_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AK1VKQo81baL13VL/GYVsg== > PDFs/946752/512794_2023_jeremiah_arroyo_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YeY/HD6i0KFtxDcK0UT3Lg== > PDFs/954654/507101_2015_shawn_joseph_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_WxUajEa2MBajQPbuQl0gw== > PDFs/938657/529407_2024_vere_lotmore_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_2vIys/ZkTp36uQ2Kvn1QA== > PDFs/938657/521112_2021_khalil_mcintosh_et_al_v_khalil_mcintosh_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=yvm9P/69ZDDOWw4xl1lGKA== > PDFs/959847/503722_2022_malik_williams_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oEcnx78aIp_PLUS_VQx9bzsdC1Q== > PDFs/959847/513086_2021_ruben_rivera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=aIFj/EPsaQMLm4Bv/N62XQ== > PDFs/969006/510667_2023_robert_scott_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=WHd29mqr3azepSwZPA/LBw== > PDFs/965589/500727_2022_curtis_anderson_v_city_of_new_york_et_al_summons_complaint_1.pdf
