@@ -22299,3 +22299,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=GNv8HjyE/KRqOQ/gXX
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x8QgFtXaHVYp00Ej52730w== > PDFs/972053/507988_2024_eugenia_shvartsman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NVVKHdGKbsWuMUmYXTnw6w== > PDFs/965787/521371_2020_christina_gavin_v_christina_gavin_complaint_amended_3.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HxsPAlioZ7v5BMNbkbUe1w== > PDFs/975868/516773_2024_harold_carter_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FCVFMFdpt2HJhwlzHdKM8Q== > PDFs/960765/524685_2020_nicholas_gray_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DsKH3DBauWrcnVcitjSMA== > PDFs/969935/535677_2023_david_ashby_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
