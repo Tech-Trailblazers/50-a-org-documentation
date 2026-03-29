@@ -17011,3 +17011,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CfTZjlWxxcUCbiAb2A
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9xIVdK1zLfZbEWySfYpWBQ== > PDFs/955370/510559_2021_kenneth_bacote_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Cg5mkw3rRtTyN0fsKireMQ== > PDFs/954390/503475_2022_aziz_coleman_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=MU0ypYLr/svBVwxdOXhZBw== > PDFs/963415/509736_2021_hope_limansah_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VYjkGcdu23nB9h3iKeYxuw== > PDFs/947200/504248_2018_serge_taluy_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wRqGC5cLQx/gyjrjedccEQ== > PDFs/939173/500432_2021_aren_kayserian_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_0a1Lm_PLUS_lWq1NW5AGG0Nluw== > PDFs/942811/512934_2023_israel_stoute_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NFMBqTgauCqJvHNnODANZA== > PDFs/945501/513774_2019_laronne_chance_a_mino_v_laronne_chance_a_mino_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XuUSpBxIb8aFjcPfNw0hcA== > PDFs/949152/513018_2017_charles_satterwhite_v_charles_satterwhite_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LtS5hjQoYyLOkce4xOtXpg== > PDFs/949152/518702_2017_marie_thomas_v_marie_thomas_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=riWWXvkLpDAP7YuTHjyqRw== > PDFs/961968/510449_2024_dion_menner_v_city_of_new_york_et_al_summons_complaint_1.pdf
