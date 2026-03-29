@@ -16592,3 +16592,9 @@ https://s3.documentcloud.org/documents/23835935/201803415_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EXQoyh6GX3y4YGVBPLX96Q== > PDFs/945602/20689_2020e_jose_a_lopez_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/25995201/201701414-redactedclosingreport-redacted.pdf > PDFs/954879/201701414_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/24441451/201607275_redactedclosingreport_redacted.pdf > PDFs/955088/201607275_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23724893/franklin.pdf > PDFs/953203/franklin.pdf
+https://s3.documentcloud.org/documents/22119151/945224_07282016_2016024pdf.pdf > PDFs/945224/945224_07282016_2016024pdf.pdf
+https://s3.documentcloud.org/documents/4928165/Turner-v-City-of-New-York-et-al.pdf > PDFs/951025/turner_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119523/918428_11122013_2013062pdf.pdf > PDFs/918428/918428_11122013_2013062pdf.pdf
+https://s3.documentcloud.org/documents/25520860/200712664_redactedclosingreport_redacted.pdf > PDFs/936664/200712664_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pEViy4_PLUS_dGHhd8h5nil1d3Q== > PDFs/978881/818870_2024e_james_jenkins_v_city_of_new_york_et_al_summons_complaint_1.pdf
