@@ -16873,3 +16873,9 @@ https://s3.documentcloud.org/documents/25520949/200310059_redactedclosingreport_
 https://s3.documentcloud.org/documents/21024053/harrington-cd9ec2ce331be50e7bbd980522e1c606fc887443.pdf > PDFs/917095/harrington_cd9ec2ce331be50e7bbd980522e1c606fc887443.pdf
 https://s3.documentcloud.org/documents/27263157/201411217_redactedclosingreportpdf.pdf > PDFs/945184/201411217_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/22119427/933339_01082016_2016058pdf.pdf > PDFs/933339/933339_01082016_2016058pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oKKqdg_PLUS_LRfzCTO1yuHxxAg== > PDFs/940761/713826_2022_vincent_moschella_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=N4v8ipSUBtCtyJpt3Exi/w== > PDFs/940434/509773_2017_helary_dupigny_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XgFpPWEbDrppSclRN8g5ag== > PDFs/939645/24527_2016e_hasan_holmes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119516/939645_08312010_2010129pdf.pdf > PDFs/939645/939645_08312010_2010129pdf.pdf
+https://s3.documentcloud.org/documents/21029801/vega-b54c741633da5ecca1e4826f488022bdfd1ade33.pdf > PDFs/939645/vega_b54c741633da5ecca1e4826f488022bdfd1ade33.pdf
+https://s3.documentcloud.org/documents/26141653/8976-bradygiglio-948748-eric-carney.pdf > PDFs/948748/8976_bradygiglio_948748_eric_carney.pdf
