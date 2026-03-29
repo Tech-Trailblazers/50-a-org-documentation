@@ -22339,3 +22339,5 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YTAStM_PLUS_XXDz3I
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FK6C_PLUS_bDq9a4jSSUe5afYYg== > PDFs/961276/505151_2019_bobby_ruiz_v_moshan_shahbaz_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922256/201602435_redactedclosingreportpdf.pdf > PDFs/942239/201602435_redactedclosingreportpdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CaWqQATvtXTjm09rFub_PLUS_nQ== > PDFs/970221/534580_2024_elvin_munoz_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922230/201803402_redactedclosingreportpdf.pdf > PDFs/952677/201803402_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=A/yWaMC26eEfGKL2t2bM2w== > PDFs/972442/514581_2024_adam_reid_et_al_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
