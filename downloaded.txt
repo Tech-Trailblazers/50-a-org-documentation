@@ -16988,3 +16988,8 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EYjQgVBDfnkvlIJWJU
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EQ9tG0JitkEz9wKJbz62cw== > PDFs/951578/516845_2024_marlon_johnson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1OVlze3RV9nzQbvhkexCPw== > PDFs/947065/521749_2021_alice_grinkley_et_al_v_alice_grinkley_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oGUCVKIyJZb9LXMIEi7kXw== > PDFs/951710/518716_2019_christina_thomas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kdHO4Y575REkTAjIN6noBg== > PDFs/951972/514216_2021_courtney_schloss_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bTVROlBLRkkAnAoRj/P0aQ== > PDFs/951972/508406_2020_daunte_gray_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=cv5Cm61Io66snVgcGzq9Jw== > PDFs/957104/507890_2020_anthony_battle_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TYU9MHXIdZomIn2c1sg2kQ== > PDFs/959456/523458_2021_karem_mckoy_v_police_officer_tyler_angelo_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LmfD9tlBh6ofQnH2kxvJag== > PDFs/968619/512993_2023_molly_griffard_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
