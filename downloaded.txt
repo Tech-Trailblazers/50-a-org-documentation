@@ -16608,3 +16608,17 @@ https://s3.documentcloud.org/documents/4419221/nypd-cases-104.pdf > PDFs/939271/
 https://s3.documentcloud.org/documents/25991327/939271_05162025_2025019pdf.pdf > PDFs/939271/939271_05162025_2025019pdf.pdf
 https://s3.documentcloud.org/documents/21418048/201909418_redactedclosingreport_redacted.pdf > PDFs/955120/201909418_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=xRBcF51gba1k/qNhtKylgQ== > PDFs/961732/805866_2022e_luis_cabrera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NomP9B38MhLHPsLAaEToEw==%2A > PDFs/958544/507542_2020_michael_baker_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057689/edwards-958544-12-20-19.pdf > PDFs/958544/edwards_958544_12_20_19.pdf
+https://s3.documentcloud.org/documents/4418816/nypd-cases-496.pdf > PDFs/891427/nypd_cases_496.pdf
+https://s3.documentcloud.org/documents/22118943/891427_11232011_2011063pdf.pdf > PDFs/891427/891427_11232011_2011063pdf.pdf
+https://s3.documentcloud.org/documents/21022228/darcy-bf4055e178d46fc1bfc736550630823249da36e3.pdf > PDFs/891427/darcy_bf4055e178d46fc1bfc736550630823249da36e3.pdf
+https://s3.documentcloud.org/documents/21057039/giglio_pumilia-947368-03-21-21.pdf > PDFs/947368/giglio_pumilia_947368_03_21_21.pdf
+https://s3.documentcloud.org/documents/25091560/201901119_redactedclosingreport_redacted.pdf > PDFs/939822/201901119_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25091536/201510607_redactedclosingreport_redacted.pdf > PDFs/939822/201510607_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522330/201211573_redactedclosingreport_redacted.pdf > PDFs/939822/201211573_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523117/201106202_redactedclosingreport_redacted.pdf > PDFs/939822/201106202_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zR6G_PLUS_DgdNwq_PLUS_m0iDzLqmRQ== > PDFs/939822/516468_2017_miguel_agosto_v_miguel_agosto_complaint_amended_55.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C9T_PLUS_PGJ72IxbjBwJNSLVpQ== > PDFs/939822/502771_2013_steven_rivera_v_the_city_of_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4922121/Ramirez-v-City-of-New-York-et-al.pdf > PDFs/939822/ramirez_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4419014/nypd-cases-421.pdf > PDFs/949842/nypd_cases_421.pdf
