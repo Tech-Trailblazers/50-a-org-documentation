@@ -17846,3 +17846,11 @@ https://s3.documentcloud.org/documents/20528031/106.pdf > PDFs/947904/106.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EX9oCHCqLhiLKd6d_PLUS_wNshA== > PDFs/948636/504017_2020_randy_white_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21020575/baez-dc819b4cd820cf359311ed814b3531391e23b918.pdf > PDFs/948636/baez_dc819b4cd820cf359311ed814b3531391e23b918.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jQZRpuaAh4Fz15sLliYWrA== > PDFs/948979/156195_2016_chris_bilal_v_the_city_of_new_york_et_al_complaint_5.pdf
+https://s3.documentcloud.org/documents/25933046/201108032_redactedclosingreport_redacted.pdf > PDFs/930127/201108032_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25933035/200505242_redactedclosingreport_redacted.pdf > PDFs/930127/200505242_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4928372/Birch-v-Danz-et-al.pdf > PDFs/920669/birch_v_danz_et_al.pdf
+https://s3.documentcloud.org/documents/23620245/200919709_redactedclosingreport_redacted.pdf > PDFs/945421/200919709_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23620234/200815261_redactedclosingreport_redacted.pdf > PDFs/945421/200815261_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=QR/SZTUrixMWYn8OV_PLUS_cy0A== > PDFs/955902/152717_2024_anthony_mitchell_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22086431/seh_966523.pdf > PDFs/966523/seh_966523.pdf
+https://s3.documentcloud.org/documents/21056097/giglio_folino-953872-07-23-21.pdf > PDFs/953872/giglio_folino_953872_07_23_21.pdf
