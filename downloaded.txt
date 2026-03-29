@@ -19277,3 +19277,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OQHjt6alVS2kQLwNSh
 https://s3.documentcloud.org/documents/21057619/descul-959593-01-18-21.pdf > PDFs/959593/descul_959593_01_18_21.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NwkRCQyOD8V/erRC8aCArQ== > PDFs/947074/27782_2019e_rudolph_jenkins_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21058064/giglio_loney-963613-09-15-20.pdf > PDFs/963613/giglio_loney_963613_09_15_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jDYJwr7LVR6pmzMip6vz0A== > PDFs/966405/20050_2020e_jaison_frazier_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25940044/202306857-tax939513-apu-final-documentspdf.pdf > PDFs/939513/202306857_tax939513_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25520802/200712368_redactedclosingreport_redacted.pdf > PDFs/939120/200712368_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520824/200700536_redactedclosingreport_redacted.pdf > PDFs/939120/200700536_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520905/200611821_redactedclosingreport_redacted.pdf > PDFs/939120/200611821_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25598338/202310526_tax971328_redacteddepartureletterpdf.pdf > PDFs/971328/202310526_tax971328_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a516a5OsO2tZSl59bo3KjQ== > PDFs/956706/35909_2020e_j_r_et_al_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BnDKcaaoKbc6kNRMLckOUQ== > PDFs/956706/22822_2019e_anthony_comas_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24034603/956706_09152023_2023060pdf.pdf > PDFs/956706/956706_09152023_2023060pdf.pdf
+https://s3.documentcloud.org/documents/24816119/8586_jdi_ryan_loeffel.pdf > PDFs/971123/8586_jdi_ryan_loeffel.pdf
+https://s3.documentcloud.org/documents/21057230/abdalla-961589-04-27-21-1.pdf > PDFs/961589/abdalla_961589_04_27_21_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=blWnzyIwoPue5QQ87Ib72A== > PDFs/966080/153536_2023_javon_pope_v_city_of_new_york_et_al_summons_complaint_1.pdf
