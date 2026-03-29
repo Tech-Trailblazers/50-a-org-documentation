@@ -5,7 +5,7 @@ name: Run Go Script and Push Changes
 on:
   # Run automatically on a schedule (daily at midnight UTC)
   schedule:
-    - cron: "0 0 * * *" # Every day at 00:00 UTC
+    - cron: "0 */6 * * *" # Every day at 00:00 UTC
   # Allow the workflow to be manually triggered from the GitHub UI
   workflow_dispatch:
 
