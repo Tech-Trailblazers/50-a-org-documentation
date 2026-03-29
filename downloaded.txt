@@ -21251,3 +21251,16 @@ https://s3.documentcloud.org/documents/24553659/201908856_redactedclosingreport_
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4BiauLw1NuSeK/X4lmI4pQ== > PDFs/941734/160485_2017_amar_king_v_the_city_of_new_york_et_al_complaint_2.pdf
 https://s3.documentcloud.org/documents/4927751/Legall-v-City-of-New-York-et-al.pdf > PDFs/941734/legall_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/23469790/201804621_tax957525_redacteddepartureletterpdf.pdf > PDFs/957525/201804621_tax957525_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1QzFvLTbvyVtkP0ch0h3NA== > PDFs/957525/508926_2019_brian_clarke_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21022343/delaney-44a5c7cecc5bcbc7dd01144374c13b5dc2f02e20.pdf > PDFs/957525/delaney_44a5c7cecc5bcbc7dd01144374c13b5dc2f02e20.pdf
+https://s3.documentcloud.org/documents/21057606/delaney-957525.pdf > PDFs/957525/delaney_957525.pdf
+https://s3.documentcloud.org/documents/26473752/201510268_redactedclosingreportpdf.pdf > PDFs/926423/201510268_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21509512/ccrbmezzoiuso101320_redacted.pdf > PDFs/926423/ccrbmezzoiuso101320_redacted.pdf
+https://s3.documentcloud.org/documents/5378218/Jerrick-v-Osolin-et-al.pdf > PDFs/944136/jerrick_v_osolin_et_al.pdf
+https://s3.documentcloud.org/documents/25522456/201000961_redactedclosingreport_redacted.pdf > PDFs/935723/201000961_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523269/201001607_redactedclosingreport_redacted.pdf > PDFs/935723/201001607_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25521225/200511003_redactedclosingreport_redacted.pdf > PDFs/935723/200511003_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520857/200503373_redactedclosingreport_redacted.pdf > PDFs/935723/200503373_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4419129/nypd-cases-206.pdf > PDFs/936966/nypd_cases_206.pdf
+https://s3.documentcloud.org/documents/25505885/201905544-redactedclosingreport-redacted.pdf > PDFs/960935/201905544_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25869377/202006515_closingreport.pdf > PDFs/947933/202006515_closingreport.pdf
