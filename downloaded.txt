@@ -17027,3 +17027,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pc_PLUS_EzND8GlN5H
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OZr306aj2xAT_PLUS_FSx77AVRA== > PDFs/947032/519859_2018_nathaniel_franklin_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NpNMY_PLUS_QiQp2dfTFh_PLUS_LLdSg== > PDFs/937343/515811_2024_fanta_conde_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Arg3gyco1Cr54_PLUS_CvlXulPg== > PDFs/947994/508404_2018_raymond_vasquez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5idmRQnDKRmHPRdPKGYFVg== > PDFs/962507/521671_2018_ileen_ortiz_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
