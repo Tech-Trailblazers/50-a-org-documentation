@@ -19151,3 +19151,6 @@ https://s3.documentcloud.org/documents/4920063/Daniels-v-The-City-of-New-York.pd
 https://s3.documentcloud.org/documents/4920062/Daniels-v-The-City-of-New-York.pdf > PDFs/946695/daniels_v_the_city_of_new_york.pdf
 https://s3.documentcloud.org/documents/22118994/930133_08062021_2021042pdf.pdf > PDFs/930133/930133_08062021_2021042pdf.pdf
 https://s3.documentcloud.org/documents/25220086/8187_iab_c16-0668c-redacted_redacted.pdf > PDFs/930133/8187_iab_c16_0668c_redacted_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3EwXDk1TzIz0x7_PLUS_ioqjlzw== > PDFs/944669/153409_2015_kwasi_asafo_adjei_v_kwasi_asafo_adjei_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=l7pjMr5tiW9mDWqqRNso6g== > PDFs/955138/800035_2021e_steven_aponte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ipGZqT/RsEwMRLT/LzL_PLUS_oA== > PDFs/955138/22010_2019e_derrick_benitez_v_city_of_new_york_et_al_summons_complaint_1.pdf
