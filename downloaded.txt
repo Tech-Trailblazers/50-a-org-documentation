@@ -21212,3 +21212,16 @@ https://s3.documentcloud.org/documents/22085697/seh_950146.pdf > PDFs/950146/seh
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LnWf0SFpybVlmIt2OiHtww== > PDFs/949765/25491_2014e_eric_g_macfarlane_v_the_city_of_new_york_et_al_exhibit_s_34.pdf
 https://s3.documentcloud.org/documents/22119121/932823_11122013_2013115pdf.pdf > PDFs/932823/932823_11122013_2013115pdf.pdf
 https://s3.documentcloud.org/documents/23835780/garcia-940109-08-11-20-1.pdf > PDFs/940109/garcia_940109_08_11_20_1.pdf
+https://s3.documentcloud.org/documents/4418978/nypd-cases-393.pdf > PDFs/935119/nypd_cases_393.pdf
+https://s3.documentcloud.org/documents/22119142/935119_06172014_2014074pdf.pdf > PDFs/935119/935119_06172014_2014074pdf.pdf
+https://s3.documentcloud.org/documents/4419307/nypd-cases-513.pdf > PDFs/938537/nypd_cases_513.pdf
+https://s3.documentcloud.org/documents/21019433/daf-kenyon938761.pdf > PDFs/938761/daf_kenyon938761.pdf
+https://s3.documentcloud.org/documents/4919507/Li-v-The-City-of-New-York-et-al.pdf > PDFs/942173/li_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919508/Li-v-The-City-of-New-York-et-al.pdf > PDFs/942173/li_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918945/Macnow-et-al-v-Spinelli-et-al.pdf > PDFs/942173/macnow_et_al_v_spinelli_et_al.pdf
+https://s3.documentcloud.org/documents/4918946/Macnow-et-al-v-Spinelli-et-al.pdf > PDFs/942173/macnow_et_al_v_spinelli_et_al.pdf
+https://s3.documentcloud.org/documents/4921450/Domingo-v-City-Of-New-York-et-al.pdf > PDFs/924966/domingo_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=lJLxJiDa_PLUS_yce6XRBtj8kgg== > PDFs/924966/452761_2015_mark_warren_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21017966/daf-borland924966.pdf > PDFs/924966/daf_borland924966.pdf
+https://s3.documentcloud.org/documents/4418946/nypd-cases-478.pdf > PDFs/948000/nypd_cases_478.pdf
+https://s3.documentcloud.org/documents/21031421/daf-lachhman928607.pdf > PDFs/928607/daf_lachhman928607.pdf
