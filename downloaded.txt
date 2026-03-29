@@ -22449,3 +22449,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1RrcKOtjFJudozaljs
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4/6tqixHwlzMtm0bUhF6yA== > PDFs/958165/521973_2024_kendall_claggett_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XpynX7FOs/ZApfRUIyPgZQ== > PDFs/969668/811493_2024e_el_aphdal_bawa_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g3/NShEmssYcHF6auFqp/g== > PDFs/943314/703466_2018_gary_y_kong_v_gary_y_kong_complaint_2.pdf
+https://s3.documentcloud.org/documents/27922259/201600628_redactedclosingreportpdf.pdf > PDFs/952012/201600628_redactedclosingreportpdf.pdf
