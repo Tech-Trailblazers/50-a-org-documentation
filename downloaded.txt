@@ -23717,3 +23717,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4AA60EA7vpcYT68Yyt
 https://s3.documentcloud.org/documents/27922286/201500025_redactedclosingreportpdf.pdf > PDFs/952743/201500025_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/27922275/201412776_redactedclosingreportpdf.pdf > PDFs/951215/201412776_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/27922288/201310382_redactedclosingreportpdf.pdf > PDFs/940995/201310382_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/23469829/201809730_tax946369_redacteddepartureletterpdf.pdf > PDFs/946369/201809730_tax946369_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/21029867/viera-44f00ac592bc47fa37dc14a0e2f0216c99f5cd86.pdf > PDFs/946369/viera_44f00ac592bc47fa37dc14a0e2f0216c99f5cd86.pdf
+https://s3.documentcloud.org/documents/25899162/201506167-redactedclosingreport-redacted.pdf > PDFs/945380/201506167_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=f8nMFzA8SdUFSaftPbQVYg== > PDFs/945380/702330_2014_robert_jackson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21023583/gheith-232cb75ea930e495de051542c871d40876c0bed7.pdf > PDFs/938557/gheith_232cb75ea930e495de051542c871d40876c0bed7.pdf
+https://s3.documentcloud.org/documents/21054284/giglio_flores-959637-01-18-21.pdf > PDFs/959637/giglio_flores_959637_01_18_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=KWuyzopl_PLUS_TGLOChwTvnCjw== > PDFs/964428/528048_2022_chandler_sterling_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
