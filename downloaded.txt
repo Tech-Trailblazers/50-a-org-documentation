@@ -24248,3 +24248,14 @@ https://s3.documentcloud.org/documents/4919887/Robinson-v-Cabrera-et-al.pdf > PD
 https://s3.documentcloud.org/documents/4919888/Robinson-v-Cabrera-et-al.pdf > PDFs/938959/robinson_v_cabrera_et_al.pdf
 https://s3.documentcloud.org/documents/4919721/Long-v-City-of-New-York-et-al.pdf > PDFs/938959/long_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919722/Long-v-City-of-New-York-et-al.pdf > PDFs/938959/long_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AtmxwklJUntZDYMD4k0Lzw== > PDFs/939115/806427_2021e_shahiem_spencer_daassi_v_shahiem_spencer_daassi_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ozApkX_PLUS_GD2uvpTuqxmQS0g== > PDFs/961839/27564_2019e_pedro_martinez_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25246213/201701822_redactedclosingreport_redacted.pdf > PDFs/958416/201701822_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23201731/disclosure-letter-cohen-brian.pdf > PDFs/958416/disclosure_letter_cohen_brian.pdf
+https://s3.documentcloud.org/documents/21015470/daf-wilkens951440.pdf > PDFs/951440/daf_wilkens951440.pdf
+https://s3.documentcloud.org/documents/23201659/disclosure-letter-mourino-marcos.pdf > PDFs/957877/disclosure_letter_mourino_marcos.pdf
+https://s3.documentcloud.org/documents/25527625/201806062-redactedclosingreport-redacted.pdf > PDFs/959948/201806062_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22086120/seh_961908.pdf > PDFs/961908/seh_961908.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gIqCZLmpykWMUkktPBgMoA== > PDFs/961777/519436_2023_ikeda_robinson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21056048/garcia-961777-04-19-21-1.pdf > PDFs/961777/garcia_961777_04_19_21_1.pdf
+https://s3.documentcloud.org/documents/22085838/seh_954734.pdf > PDFs/954734/seh_954734.pdf
