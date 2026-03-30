@@ -23013,3 +23013,16 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3rB_PLUS_ssGAadtiC
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Y/WS83HLGxXlECtqix6J_PLUS_w== > PDFs/947626/156577_2014_damen_montgomery_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1yQr4JGWjFinzRddAmoslA== > PDFs/955507/160664_2017_philip_williams_v_the_city_of_new_york_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922242/201607994_redactedclosingreportpdf.pdf > PDFs/950137/201607994_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25521260/200612493_redactedclosingreport_redacted.pdf > PDFs/922882/200612493_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25521268/200611338_redactedclosingreport_redacted.pdf > PDFs/922882/200611338_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25521157/200205640_redactedclosingreport_redacted.pdf > PDFs/922882/200205640_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4418807/nypd-cases-253.pdf > PDFs/921194/nypd_cases_253.pdf
+https://s3.documentcloud.org/documents/4419284/nypd-cases-062.pdf > PDFs/921194/nypd_cases_062.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ADhUMsvDtZBZ7XByZGOKtA== > PDFs/949312/154292_2013_jazline_king_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4923739/King-v-City-of-New-York-et-al.pdf > PDFs/949312/king_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923740/Concepcion-v-City-of-New-York-et-al.pdf > PDFs/949312/concepcion_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4923735/Damon-v-The-City-of-New-York-et-al.pdf > PDFs/949312/damon_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919927/Alpha-v-The-City-of-New-York-et-al.pdf > PDFs/944828/alpha_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919926/Alpha-v-The-City-of-New-York-et-al.pdf > PDFs/944828/alpha_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/20528373/3016.pdf > PDFs/944828/3016.pdf
+https://s3.documentcloud.org/documents/21056758/marquez-937030-02-10-20-1.pdf > PDFs/937030/marquez_937030_02_10_20_1.pdf
