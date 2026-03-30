@@ -23522,3 +23522,13 @@ https://s3.documentcloud.org/documents/22125364/201708558_redactedclosingreport_
 https://s3.documentcloud.org/documents/22119458/935778_05212020_2020026pdf.pdf > PDFs/935778/935778_05212020_2020026pdf.pdf
 https://s3.documentcloud.org/documents/25345430/202300792-tax957451-apu-final-documentspdf.pdf > PDFs/957451/202300792_tax957451_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/25345433/202301078-tax970581-apu-final-documentspdf.pdf > PDFs/970581/202301078_tax970581_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=olBs3ww8TEgb/mCt3PTMGQ== > PDFs/920931/153047_2015_roland_hayes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525873/202104505.pdf > PDFs/965460/202104505.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TJ5vxe_PLUS_j7pG1UIs4DR9Yfg== > PDFs/965460/152299_2022_dariel_ali_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DzZVZM1qC1EuFHIQF/ft_PLUS_w== > PDFs/965460/152241_2022_mark_chapman_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/24767784/201506164_redactedclosingreport_redacted.pdf > PDFs/936808/201506164_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25519953/202002734_redactedclosingreport_redacted.pdf > PDFs/957904/202002734_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26473713/202102812_redactedclosingreportpdf.pdf > PDFs/967680/202102812_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26187205/202001377_redactedclosingreportpdf.pdf > PDFs/945927/202001377_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26206396/202001377-tax945927-apu-final-documentspdf.pdf > PDFs/945927/202001377_tax945927_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21057256/algahiti-952393-03-10-21.pdf > PDFs/952393/algahiti_952393_03_10_21.pdf
