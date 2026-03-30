@@ -22487,3 +22487,10 @@ https://s3.documentcloud.org/documents/21058775/rodrigueztaveras-958607-01-20-21
 https://s3.documentcloud.org/documents/21417994/201906783_redactedclosingreport_redacted.pdf > PDFs/938326/201906783_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21573882/202006433_redactedclosingreport_redacted.pdf > PDFs/962002/202006433_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22085151/seh_962002.pdf > PDFs/962002/seh_962002.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_tuk2DywfLTJBPpmlKvA/Q== > PDFs/952822/158465_2016_mark_holt_v_mark_holt_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=S9RSwTpk7w11Ua25u7EwSQ== > PDFs/936991/528258_2019_dwayne_lovett_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21025303/luis-0e53cc239045ed40fa9bc5e7df5b17f1dbbf1a4b.pdf > PDFs/936991/luis_0e53cc239045ed40fa9bc5e7df5b17f1dbbf1a4b.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Jr/QQHeLZjuUuFUqQCLbcA== > PDFs/967615/507802_2020_keishawn_watson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25519919/201706597_redactedclosingreport_redacted.pdf > PDFs/937937/201706597_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=sAKWkPNTJBa2dBqUikZx/Q== > PDFs/937937/29266_2018e_mamadou_diallo_et_al_v_mamadou_diallo_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22089826/937937_12102012_2012132pdf.pdf > PDFs/937937/937937_12102012_2012132pdf.pdf
