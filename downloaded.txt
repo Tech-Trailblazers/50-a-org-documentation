@@ -23301,3 +23301,8 @@ https://s3.documentcloud.org/documents/4920607/Beverly-v-The-City-Of-New-York-et
 https://s3.documentcloud.org/documents/4920626/Zilioli-v-The-City-of-New-York-et-al.pdf > PDFs/938696/zilioli_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920627/Zilioli-v-The-City-of-New-York-et-al.pdf > PDFs/938696/zilioli_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21024489/irizarry-b2d5cfbcacc1b34766c09b128d4af05b151d4d4f.pdf > PDFs/938696/irizarry_b2d5cfbcacc1b34766c09b128d4af05b151d4d4f.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=hzHbxW6R10_PLUS_ijpkHxtlEJQ== > PDFs/964239/152525_2019_john_le_tran_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22125367/201802220_redactedclosingreport_redacted.pdf > PDFs/940116/201802220_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119271/940116_07192021_2021035pdf.pdf > PDFs/940116/940116_07192021_2021035pdf.pdf
+https://s3.documentcloud.org/documents/21574295/201806938-edouard-and-banzer.pdf > PDFs/960490/201806938_edouard_and_banzer.pdf
+https://s3.documentcloud.org/documents/23469805/201806938_tax960490_redacteddepartureletterpdf.pdf > PDFs/960490/201806938_tax960490_redacteddepartureletterpdf.pdf
