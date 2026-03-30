@@ -23376,3 +23376,11 @@ https://s3.documentcloud.org/documents/4418990/nypd-cases-386.pdf > PDFs/929984/
 https://s3.documentcloud.org/documents/4920661/Guzman-v-City-of-New-York-et-al.pdf > PDFs/929984/guzman_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21022178/dadura-1d9833193898f38ffb21d2d5f0eb7ca1beaffbe3.pdf > PDFs/929984/dadura_1d9833193898f38ffb21d2d5f0eb7ca1beaffbe3.pdf
 https://s3.documentcloud.org/documents/21066619/miah-956096-02-17-21-1.pdf > PDFs/956096/miah_956096_02_17_21_1.pdf
+https://s3.documentcloud.org/documents/21028523/santana-6256931f719c22cacc1f4c0c5eb30b35e534ac69.pdf > PDFs/944169/santana_6256931f719c22cacc1f4c0c5eb30b35e534ac69.pdf
+https://s3.documentcloud.org/documents/24615684/202201497-tax954245-apu-final-documentspdf.pdf > PDFs/954245/202201497_tax954245_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25995219/201702102-redactedclosingreport-redacted.pdf > PDFs/954245/201702102_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21027753/prinston-b6905f37cb925abf06bb6bba6e3680360e60df84.pdf > PDFs/954245/prinston_b6905f37cb925abf06bb6bba6e3680360e60df84.pdf
+https://s3.documentcloud.org/documents/21066683/prinston-954245-07-16-21.pdf > PDFs/954245/prinston_954245_07_16_21.pdf
+https://s3.documentcloud.org/documents/24415429/7946_giglio_prinston-954245-20-26807_redacted.pdf > PDFs/954245/7946_giglio_prinston_954245_20_26807_redacted.pdf
+https://s3.documentcloud.org/documents/22086050/seh_960021.pdf > PDFs/960021/seh_960021.pdf
+https://s3.documentcloud.org/documents/21056317/hughes-960690-05-11-21_1.pdf > PDFs/960690/hughes_960690_05_11_21_1.pdf
