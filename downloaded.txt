@@ -23500,3 +23500,10 @@ https://s3.documentcloud.org/documents/21066533/hoxha-964061-02-25-21.pdf > PDFs
 https://s3.documentcloud.org/documents/21029818/velez-cf50f549b521d15de99654c5ab06a184ebc31803.pdf > PDFs/939836/velez_cf50f549b521d15de99654c5ab06a184ebc31803.pdf
 https://s3.documentcloud.org/documents/25940035/202302015-tax965401-apu-final-documentspdf.pdf > PDFs/965401/202302015_tax965401_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/25999788/202311898_redactedclosingreportpdf.pdf > PDFs/969799/202311898_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/27922215/202408002_tax959550_redacteddepartureletterpdf.pdf > PDFs/959550/202408002_tax959550_redacteddepartureletterpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/SDGh1i0fudXLaHoTe61fw== > PDFs/955786/155595_2020_ascen_x_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=HsarILa0ezZPjsf8Va6bKQ== > PDFs/955786/20635_2018e_todd_johnson_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085434/seh_940117.pdf > PDFs/940117/seh_940117.pdf
+https://s3.documentcloud.org/documents/27263115/201701935_redactedclosingreportpdf.pdf > PDFs/938405/201701935_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26473738/201510475_redactedclosingreportpdf.pdf > PDFs/950901/201510475_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/22119248/monjaras_10262021pdf.pdf > PDFs/950901/monjaras_10262021pdf.pdf
