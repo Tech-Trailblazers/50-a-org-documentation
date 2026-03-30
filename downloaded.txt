@@ -24567,3 +24567,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LbY125SnNmcH/GrPmU
 https://s3.documentcloud.org/documents/27922260/201601528_redactedclosingreportpdf.pdf > PDFs/945626/201601528_redactedclosingreportpdf.pdf
 https://s3.documentcloud.org/documents/21027709/poore-403b958ee91d7e181dc2eb48964e115edfd7ba2f.pdf > PDFs/954571/poore_403b958ee91d7e181dc2eb48964e115edfd7ba2f.pdf
 https://s3.documentcloud.org/documents/23871238/poore.pdf > PDFs/954571/poore.pdf
+https://s3.documentcloud.org/documents/27922252/201606943_redactedclosingreportpdf.pdf > PDFs/954037/201606943_redactedclosingreportpdf.pdf
