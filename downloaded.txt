@@ -24565,3 +24565,5 @@ https://s3.documentcloud.org/documents/27922251/201605630_redactedclosingreportp
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fd1l8pLopHH69/5JUTDTLQ== > PDFs/958061/515664_2023_chantae_edwards_et_al_v_chantae_edwards_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LbY125SnNmcH/GrPmU6s1A== > PDFs/941091/517479_2020_terrell_smith_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922260/201601528_redactedclosingreportpdf.pdf > PDFs/945626/201601528_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21027709/poore-403b958ee91d7e181dc2eb48964e115edfd7ba2f.pdf > PDFs/954571/poore_403b958ee91d7e181dc2eb48964e115edfd7ba2f.pdf
+https://s3.documentcloud.org/documents/23871238/poore.pdf > PDFs/954571/poore.pdf
