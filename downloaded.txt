@@ -22622,3 +22622,11 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TSJ4gBrM0TW7X2zk97
 https://s3.documentcloud.org/documents/21057350/bennett-954544-02-17-21.pdf > PDFs/954544/bennett_954544_02_17_21.pdf
 https://s3.documentcloud.org/documents/24449691/201410073_redactedclosingreport_redacted.pdf > PDFs/949986/201410073_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Q6d4YlOn8W_PLUS_5etX5mJJIWA== > PDFs/974948/530591_2024_kerron_hendrickson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22076410/202005444_redactedclosingreport_redacted.pdf > PDFs/941291/202005444_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21027918/ramos-f1b2d62e63ce38f2362fe8e292643132055e0086.pdf > PDFs/949527/ramos_f1b2d62e63ce38f2362fe8e292643132055e0086.pdf
+https://s3.documentcloud.org/documents/22125404/201810099_redactedclosingreport_redacted.pdf > PDFs/939511/201810099_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4928193/Pacheco-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/939511/pacheco_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21027652/pinho-01fa50459fa1bcc887a0cf9ecd85489492c539d6.pdf > PDFs/942364/pinho_01fa50459fa1bcc887a0cf9ecd85489492c539d6.pdf
+https://s3.documentcloud.org/documents/21051989/pinho-942364.pdf > PDFs/942364/pinho_942364.pdf
+https://s3.documentcloud.org/documents/21066492/giglio_kanenbley-941985-12-01-20.pdf > PDFs/941985/giglio_kanenbley_941985_12_01_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YKixOfhGrZbQdxopzDlD9Q== > PDFs/960132/524651_2020_james_welcome_v_city_of_new_york_et_al_summons_complaint_1.pdf
