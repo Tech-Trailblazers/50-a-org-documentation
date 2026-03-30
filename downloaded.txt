@@ -22958,3 +22958,7 @@ https://s3.documentcloud.org/documents/22085349/seh_936323.pdf > PDFs/936323/seh
 https://s3.documentcloud.org/documents/25523345/201907585_redactedclosingreport_redacted.pdf > PDFs/956739/201907585_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22059974/hinton-956739-2020-01-23_redacted.pdf > PDFs/956739/hinton_956739_2020_01_23_redacted.pdf
 https://s3.documentcloud.org/documents/21075316/gilgio_hinton.pdf > PDFs/956739/gilgio_hinton.pdf
+https://s3.documentcloud.org/documents/23698873/201705030_redactedclosingreport_redacted.pdf > PDFs/957329/201705030_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24630864/201701107_redactedclosingreport_redacted.pdf > PDFs/935422/201701107_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21024241/hicks-9d321d5d9680d44de390803e1e4ffc60b64d2b5a.pdf > PDFs/948544/hicks_9d321d5d9680d44de390803e1e4ffc60b64d2b5a.pdf
+https://s3.documentcloud.org/documents/21030093/white-b48ab9de41362095595c55fbaf8b0cee7114db44.pdf > PDFs/943948/white_b48ab9de41362095595c55fbaf8b0cee7114db44.pdf
