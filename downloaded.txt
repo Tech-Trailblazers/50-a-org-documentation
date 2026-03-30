@@ -23012,3 +23012,4 @@ https://s3.documentcloud.org/documents/4921439/Bertolino-v-City-of-New-York-et-a
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3rB_PLUS_ssGAadtiCQr6xWTKyg== > PDFs/948627/801767_2021e_sandy_francisco_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Y/WS83HLGxXlECtqix6J_PLUS_w== > PDFs/947626/156577_2014_damen_montgomery_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=1yQr4JGWjFinzRddAmoslA== > PDFs/955507/160664_2017_philip_williams_v_the_city_of_new_york_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922242/201607994_redactedclosingreportpdf.pdf > PDFs/950137/201607994_redactedclosingreportpdf.pdf
