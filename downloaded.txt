@@ -23545,3 +23545,14 @@ https://s3.documentcloud.org/documents/25501262/201901569-redactedclosingreport-
 https://s3.documentcloud.org/documents/21024201/hernandez-996d6dd0016cc5399f59dce060ecc8cc535c9234.pdf > PDFs/954931/hernandez_996d6dd0016cc5399f59dce060ecc8cc535c9234.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DLp1fJ76UOBMhzoYJWtXjw== > PDFs/961833/27391_2018e_georgi_marte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t9TH7L5P3TLo3g5v79vRng== > PDFs/961833/24807_2018e_oliver_fernandez_et_al_v_oliver_fernandez_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23380750/201903047_redactedclosingreport_redacted.pdf > PDFs/954312/201903047_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22076471/201902318_redactedclosingreport_redacted.pdf > PDFs/957691/201902318_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26473696/202106441_redactedclosingreportpdf.pdf > PDFs/951996/202106441_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26515604/202106441-tax951996-apu-final-documentspdf.pdf > PDFs/951996/202106441_tax951996_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/24449756/201909743_redactedclosingreport_redacted.pdf > PDFs/957538/201909743_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24449744/201908934_redactedclosingreport_redacted.pdf > PDFs/937276/201908934_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26182817/201708495_redactedclosingreportpdf.pdf > PDFs/950908/201708495_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21054083/giglio_lodato-948487-01-06-21.pdf > PDFs/948487/giglio_lodato_948487_01_06_21.pdf
+https://s3.documentcloud.org/documents/21574221/201407447-mcguire.pdf > PDFs/944793/201407447_mcguire.pdf
+https://s3.documentcloud.org/documents/22119230/944793_09202016_2016088pdf.pdf > PDFs/944793/944793_09202016_2016088pdf.pdf
+https://s3.documentcloud.org/documents/24553682/201402818_redactedclosingreport_redacted.pdf > PDFs/946649/201402818_redactedclosingreport_redacted.pdf
