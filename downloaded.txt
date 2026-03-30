@@ -23878,3 +23878,7 @@ https://s3.documentcloud.org/documents/21026024/lebron-44f7df3389d0983d35148e9af
 https://s3.documentcloud.org/documents/25523094/9905598_redactedclosingreport_redacted.pdf > PDFs/919418/9905598_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/4918985/Stephenson-v-The-City-of-New-York-et-al.pdf > PDFs/941617/stephenson_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4918984/Stephenson-v-The-City-of-New-York-et-al.pdf > PDFs/941617/stephenson_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/5378904/Sullivan-v-City-of-New-York-et-al.pdf > PDFs/941924/sullivan_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Xqv5WUKoNlMzMsWNWUkjvg== > PDFs/944489/504447_2013_dennis_eugene_green_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25519877/201004954_redactedclosingreport_redacted.pdf > PDFs/938053/201004954_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C9f4QSNXo8kyC3hrUCzuoA== > PDFs/956388/151166_2022_kalongi_mahon_v_city_of_new_york_et_al_complaint_amended_9.pdf
