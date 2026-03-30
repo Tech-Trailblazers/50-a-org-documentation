@@ -23052,3 +23052,12 @@ https://s3.documentcloud.org/documents/26180591/962820_08272025_2025035pdf.pdf >
 https://s3.documentcloud.org/documents/25526192/202304298.pdf > PDFs/954419/202304298.pdf
 https://s3.documentcloud.org/documents/25536075/202304298-tax954419-apu-final-documentspdf.pdf > PDFs/954419/202304298_tax954419_apu_final_documentspdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=y3c7abS09D4oLx6RibkG8g== > PDFs/958019/160587_2016_wayne_newland_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25536836/201002715-redactedclosingreport-redacted.pdf > PDFs/942458/201002715_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bKZw9HNDNNCNsIHLjGy9aA== > PDFs/951477/506589_2020_jose_rivera_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26182843/201607162_redactedclosingreportpdf.pdf > PDFs/949511/201607162_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21027775/pulawski-f6c8e5ea7c9abcbd7de3173cec378ce96a48433f.pdf > PDFs/949511/pulawski_f6c8e5ea7c9abcbd7de3173cec378ce96a48433f.pdf
+https://s3.documentcloud.org/documents/24441301/201907484_redactedclosingreport_redacted.pdf > PDFs/943696/201907484_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977703/201709970-redactedclosingreport-redacted.pdf > PDFs/915141/201709970_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bPXpSyW2XvA5Xyo2j4VqhA== > PDFs/947404/159523_2018_barry_hutchins_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4920893/Hutchins-v-City-of-New-York-Police-Department.pdf > PDFs/947404/hutchins_v_city_of_new_york_police_department.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Fq6nNykavnJKa5YSb0USAw== > PDFs/952869/518952_2016_keon_serrano_et_al_v_keon_serrano_et_al_summons_complaint_1.pdf
