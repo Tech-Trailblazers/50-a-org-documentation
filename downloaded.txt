@@ -23245,3 +23245,15 @@ https://s3.documentcloud.org/documents/22085173/seh_892728.pdf > PDFs/892728/seh
 https://s3.documentcloud.org/documents/22118881/940979_12312012_2012106pdf.pdf > PDFs/940979/940979_12312012_2012106pdf.pdf
 https://s3.documentcloud.org/documents/25924879/948639_03282025_2025012pdf.pdf > PDFs/948639/948639_03282025_2025012pdf.pdf
 https://s3.documentcloud.org/documents/21020600/baksh-9f506b3d6fceed7bd44c3ba4ef02276e798673be.pdf > PDFs/948639/baksh_9f506b3d6fceed7bd44c3ba4ef02276e798673be.pdf
+https://s3.documentcloud.org/documents/21058171/giglio_shen-963271-01-07-21.pdf > PDFs/963271/giglio_shen_963271_01_07_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8Qm4RaQbZ64RK9PoOk20Kg== > PDFs/959194/152490_2024_a_s_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26035077/202302703-tax937211-apu-final-documentspdf.pdf > PDFs/937211/202302703_tax937211_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22119277/937211_10142021_2021058pdf.pdf > PDFs/937211/937211_10142021_2021058pdf.pdf
+https://s3.documentcloud.org/documents/4418977/nypd-cases-146.pdf > PDFs/936107/nypd_cases_146.pdf
+https://s3.documentcloud.org/documents/25999808/202206671_redactedclosingreportpdf.pdf > PDFs/936107/202206671_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035072/202206671-tax936107-apu-final-documentspdf.pdf > PDFs/936107/202206671_tax936107_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/4922298/Barnes-v-City-of-NY-et-al.pdf > PDFs/936107/barnes_v_city_of_ny_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=knD8gHrfzGWV0MRGMkCvaA== > PDFs/965109/721274_2021_george_barnes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LAYi8K1n47HYpw_PLUS_j2rSKYA== > PDFs/965109/701045_2020_george_barnes_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25526187/202303881.pdf > PDFs/950594/202303881.pdf
+https://s3.documentcloud.org/documents/24615696/202303881-tax950594-apu-final-documentspdf.pdf > PDFs/950594/202303881_tax950594_apu_final_documentspdf.pdf
