@@ -23696,3 +23696,4 @@ https://s3.documentcloud.org/documents/26078953/201910590_redactedclosingreportp
 https://s3.documentcloud.org/documents/21574175/201014101-acosta-and-gomez.pdf > PDFs/939841/201014101_acosta_and_gomez.pdf
 https://s3.documentcloud.org/documents/4920988/Delacruz-v-The-City-of-New-York-et-al.pdf > PDFs/939841/delacruz_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919356/Branham-v-The-City-of-New-York-et-al.pdf > PDFs/936885/branham_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/27922241/201603122_redactedclosingreportpdf.pdf > PDFs/959208/201603122_redactedclosingreportpdf.pdf
