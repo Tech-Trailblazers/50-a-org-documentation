@@ -23327,3 +23327,8 @@ https://s3.documentcloud.org/documents/22118940/952635_11092017_2017006pdf.pdf >
 https://s3.documentcloud.org/documents/22119125/945856_01072013_2013122pdf.pdf > PDFs/945856/945856_01072013_2013122pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XLm1DZPOsyG5rHU8KvjDPA== > PDFs/956620/161902_2015_glenn_johnson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=pWDJ/8XImZG8CjYKXyqCHA== > PDFs/957844/32579_2019e_daniel_sanchez_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21019944/daf-schivek957141.pdf > PDFs/957141/daf_schivek957141.pdf
+https://s3.documentcloud.org/documents/4920060/Hernandez-v-City-of-New-York-et-al.pdf > PDFs/948878/hernandez_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=YJgu_PLUS_A/o6LxoIDWtoYRdEw== > PDFs/948878/21916_2013e_jose_rodriguez_et_al_v_jose_rodriguez_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26055239/201503861-redactedclosingreport-redacted.pdf > PDFs/943797/201503861_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23871192/taousse-giglio-letter.pdf > PDFs/968833/taousse_giglio_letter.pdf
