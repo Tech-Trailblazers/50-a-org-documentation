@@ -23494,3 +23494,5 @@ https://s3.documentcloud.org/documents/23620571/201901259_redactedclosingreport_
 https://s3.documentcloud.org/documents/21022512/diazmojica-aa59527c5be0cce512bbe373a0d2a541282c1f97.pdf > PDFs/954732/diazmojica_aa59527c5be0cce512bbe373a0d2a541282c1f97.pdf
 https://s3.documentcloud.org/documents/4418948/nypd-cases-323.pdf > PDFs/924034/nypd_cases_323.pdf
 https://s3.documentcloud.org/documents/21023510/garofalo-3f1798d8ffbeae7f54e7b362e7354d3319459cbc.pdf > PDFs/950477/garofalo_3f1798d8ffbeae7f54e7b362e7354d3319459cbc.pdf
+https://s3.documentcloud.org/documents/21026891/napoli-39f286dfaaf0a8ed0ed5eca6e16f80a117c7789f.pdf > PDFs/916968/napoli_39f286dfaaf0a8ed0ed5eca6e16f80a117c7789f.pdf
+https://s3.documentcloud.org/documents/21021928/colon-b1d642ae591985a7d94cb2f892b1a4ab0c24ebeb.pdf > PDFs/952609/colon_b1d642ae591985a7d94cb2f892b1a4ab0c24ebeb.pdf
