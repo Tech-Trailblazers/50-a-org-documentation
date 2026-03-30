@@ -23168,3 +23168,6 @@ https://s3.documentcloud.org/documents/21023069/fecker-7978f8cef6f52df89f7611bd0
 https://s3.documentcloud.org/documents/21058893/vazquez-951375-07-01-21.pdf > PDFs/951375/vazquez_951375_07_01_21.pdf
 https://s3.documentcloud.org/documents/4923542/Niculescu-v-The-City-of-New-York-et-al.pdf > PDFs/937866/niculescu_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21024284/hoey-f26cbb7100171b21a51fca3b01f5008852ce2ef5.pdf > PDFs/938668/hoey_f26cbb7100171b21a51fca3b01f5008852ce2ef5.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Zq_PLUS_YFqEQOPvMPsnBd4IkoA== > PDFs/961348/817325_2023e_ricardo_russell_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4921455/Farino-et-al-v-City-Of-New-York-et-al.pdf > PDFs/949804/farino_et_al_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119058/949057_11102014_2014069pdf.pdf > PDFs/949804/949057_11102014_2014069pdf.pdf
