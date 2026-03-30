@@ -24329,3 +24329,11 @@ https://s3.documentcloud.org/documents/26055245/201503924-redactedclosingreport-
 https://s3.documentcloud.org/documents/4418815/nypd-cases-125.pdf > PDFs/942071/nypd_cases_125.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uRC705peRRaPllXda78cTg== > PDFs/942071/710597_2018_james_gomes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zcPRcQN22sifyAzLFh3hcQ== > PDFs/942071/702092_2014_jonel_moise_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525696/202006351.pdf > PDFs/953539/202006351.pdf
+https://s3.documentcloud.org/documents/24615645/202006351-tax953539-apu-final-documentspdf.pdf > PDFs/953539/202006351_tax953539_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/23380699/201505682_redactedclosingreport_redacted.pdf > PDFs/953539/201505682_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Fzsj0Jcq/qDWxJKDQFFJvg== > PDFs/953539/29924_2019e_francis_alifonso_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24657507/953539_02092024_2024016pdf.pdf > PDFs/953539/953539_02092024_2024016pdf.pdf
+https://s3.documentcloud.org/documents/23741478/201905690_redactedclosingreport_redacted.pdf > PDFs/953099/201905690_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21021770/christen-bfd65d017f568ec1794668c3134df183d86670bf.pdf > PDFs/945586/christen_bfd65d017f568ec1794668c3134df183d86670bf.pdf
+https://s3.documentcloud.org/documents/21054027/christen-945586-01-13-20.pdf > PDFs/945586/christen_945586_01_13_20.pdf
