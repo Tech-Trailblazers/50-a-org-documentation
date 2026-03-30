@@ -1,0 +1,617 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <title>Document List</title>
+
+
+  <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/nyscefStyles_1.css?refreshcss=1" />
+  <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/oca_Print.css" media="print" />
+  <style type="text/css" media="all">
+  <!--    
+      #menu {width: 185px}
+      #pageContent {border-left:185px solid #e1d7c6}
+      #UCS_Title {text-indent:8.4em}
+      #UCS_Application {text-indent:10.5em}
+
+  -->
+  </style>
+
+  <script type="text/javascript" src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/DisableSubmitButton.js"></script>
+  <script type="text/javascript" src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/InitialFiling.js"></script>
+
+    <script type="text/javascript" src="javascript/nyscef/calendar.js"></script>
+    <script type="text/javascript" src="javascript/nyscef/calendar-en.js"></script>
+    <script type="text/javascript" src="javascript/nyscef/calendar-setup.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="common/css/calendar.css" title="win2k-cold-1" />
+    <script src="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/javascript/float-panel.js"></script>
+    <style type="text/css" media="all">
+      #backtop {position:fixed;left:auto;right:20px;top:auto;bottom:20px;outline:none;overflow:hidden;color:#fff;
+      text-align:center;background-color:rgba(49,79,96,0.84);height:40px;width:40px;line-height:40px;font-size:14px;
+      border-radius:2px;cursor:pointer;transition:all 0.3s linear;z-index:999999;opacity:1;display:none}
+      #backtop:hover {background-color:#27CFC3}
+      #backtop.mcOut {opacity:0}
+    </style>
+  <script type="text/javascript">
+  <!--
+    if(navigator.userAgent.toLowerCase().indexOf('chrome') > 0) {
+      document.write('<link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_Chrome.css" />');
+    }
+    if(navigator.userAgent.toLowerCase().indexOf('edge') > 0) {
+      document.write('<link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_9.css" />');
+    }
+  -->
+  </script>
+  <!--[if IE 8.0]>
+    <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_8.css" />
+  <![endif]-->
+  <!--[if IE 9.0]>
+    <link rel="stylesheet" type="text/css" href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/css/NYSCEF_IE_9.css" />
+  <![endif]-->
+
+</head>
+<body>
+
+  <div id="UCS_Header" role="header">
+    <div id="UCS_AccessibilityLinks">
+      Skip To: <a href="#content" title="skip to content">Content</a>
+      <a href="#nav" title="skip to navigation">Navigation</a>
+      <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/accessibility.htm" title="skip to accessibility" target="_blank">Accessibility</a>
+    </div>
+    <a href="http://www.nycourts.gov" id="UCS_Title" target="_blank">New York State Unified Court System</a>
+  </div>
+  <div id="UCS_Application">
+      <a href="HomePage" id="UCS_ApplicationName">
+      NYSCEF -</a> <a href="SupremeHome" id="UCS_SubApplicationName">New York State Courts Electronic Filing</a>
+      <span class="teal">
+        (Live System)
+    </span>
+  </div>
+  <div id="container">
+      <div id="menu"><nav>
+        <ul>
+          <li><a class="home" href="HomePage"><span style="color:black;"><strong>Home</strong><br />NYSCEF</span></a></li>
+          <li><a class="home" href="UnRepresentedHome"><span style="color:#5A5F68"><strong>Home</strong><br />Unrepresented Litigants</span></a></li>
+        </ul>
+        <span class="menuHeader">Account</span>
+        <ul>
+          <li><a href="CreateAccount">Create an Account</a></li>
+          <li><a href="Login">Login</a></li>
+          <li><a href="CaseSearch">Search as Guest</a></li>
+        </ul>
+        <span class="menuHeader">Resources</span>
+        <ul>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm" target="_blank">Forms</a></li>
+          <li><a href="AuthorizedCaseType" target="_blank">Authorized Courts</a></li>
+          <li><a href="AvailableDocumentTypes" target="_blank">Available Documents</a></li>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm" target="_blank">Rules &amp; Legislation</a></li>
+          <li><a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm" target="_blank">Protocols</a></li>
+        </ul>
+      </nav></div>
+      <div id="pageContent"><main>
+
+<style type="text/css" media="all">
+  <!--
+    .hidden {display:none}
+    .MsgBox_Warning {margin-bottom:1em}
+    .returnLink {font-size:.8em;margin:.5em 0 1.5em 0;display:block;color:#867250;font-style:italic}
+    span.redItalic {font-size:1em}
+    span.yellow {color:#89601A;font-style:italic}
+    img.dateBox {width:1.5em;vertical-align:middle}
+
+    #linkText {color:#808080;cursor:pointer}
+    #tabs {margin-top:0}
+    select {width:20em;margin-bottom:.5em;padding-bottom:.2em}
+    input[type="text"] {padding-bottom:.2em}
+
+    div.tabBody div.MessageBox_RightText {padding-top:.2em;padding-bottom:0em}
+    div.tabBody div.DataEntry_InnerBox {padding-left:0em;padding-bottom:.75em}
+    div.tabBody h2 {font-size:.75em}
+
+    div.tableHeading {text-align:left;margin-top:.5em}
+    div.tableHeading select {width:10em;margin-bottom:0}
+    div.tableHeading span.pageNumbersInCaption {width:50%;margin-right:0;font-size:.8em;padding-top:.25em}
+    div.tableHeading span.tableSort {width:50%;margin-bottom:.25em}
+
+    table.NewSearchResults tr td, table.NewSearchResults tr td.changeColor {padding:.5em 0 .5em .35em;line-height:1.4em}
+    table.NewSearchResults tr th {padding:.5em 0 .35em .35em}
+  -->
+</style>
+
+<script type="text/javascript" src="common/javascript/browser_detect.js"></script>
+<script type="text/javascript" src="common/javascript/common.js"></script>
+<script type="text/javascript" src="common/javascript/xp_progress.js"></script>
+<script type="text/javascript">addStatusBar(null, 'Request in progress...');</script>
+
+<form name="form" id="form" method="post" onSubmit="switchFormDisplay('showForm',null,'showProgress')">
+
+	<span class="returnLink"><< Return to <a href="CaseSearchResults?PageNum=1"><b>Search Results</b></a></span>
+
+<div class="TabsRightText" style="margin-bottom:-3.25em;">
+	<a href="https://iappscontent.courts.state.ny.us/NYSCEF/live/help/efile Document List.pdf" class="helpLink" target="_blank" aria-label="opens a pdf document in a new tab">Help</a>
+</div>
+<h1 class="PageHeading">
+  <a class="skipTo" id="content">32025/2018E</a> - <span class="PageHeadingDesc">Bronx County Supreme Court</span>
+</h1>
+
+
+
+  <div class="CaseSummary">
+    <span class="row">
+      <span style="vertical-align:top">Short Caption:&nbsp;</span>
+      <span style="width:59em;font-weight:bold"><span class="captionText">JESSICA HERNANDEZ - v. - CITY OF NEW YORK et al</span></span>
+    </span>
+    <span class="row"><span>Case Type:&nbsp;<strong>Torts - Other (False arrest civil rights)</strong></span></span><br />
+		<span class="row"><span>Case Status:&nbsp;<strong>Disposed</strong></span></span><br />
+    <span class="row"><span>eFiling Status:&nbsp;    <strong><a title="One or more parties have not recorded their participation in e-filing. E-filing parties must serve documents on non-participating parties in hard copy and e-file proof of such service [see Uniform Rule &sect; 202.5-b(b)(2) and 202.5-bb(e)(5)]." style="cursor:help" style="pointer-events:none;">Partial Participation Recorded</a></strong>
+</span></span><br/>
+      <span class="row"><span>Assigned Judge:&nbsp;<span style="float:none;font-weight:bold">Mitchell J. Danziger</span></span></span>
+  </div>
+
+
+<div id="tabs">
+  <ul>
+    <li id="current"><a href="SearchDocuments?docketId=yyDfLPkaNwTaX3ty&#47;hHEPQ&#61;&#61;"><span>Document List</span></a></li>
+  			<li><a href="CaseDetails?docketId=yyDfLPkaNwTaX3ty&#47;hHEPQ&#61;&#61;"><span>Case Detail</span></a></li>
+	</ul>
+</div>
+<div class="tabBody" style="padding-top:0">
+
+
+    <div class="Document_Row" style="margin:0 1em 3em 0;padding-top:0">
+
+      <span class="printLink">
+        <a href="DocumentList?docketId=yyDfLPkaNwTaX3ty&#47;hHEPQ&#61;&#61;&amp;display=all&amp;pdf=y&amp;flst=y&amp;narrow=" target="_blank">
+            Print Document List
+        </a>
+      </span>
+    </div>
+
+		<h2>Narrow By Options</h2>
+		<div class="DataEntry_InnerBox">
+
+  		<div class="Document_Row">
+    		<span style="width:8.6em">
+    		  <label for="selDocumentType">Document Type:</label>
+    		</span>
+        <select name="selDocumentType" id="selDocumentType">
+    					<option value="-1" selected="SELECTED"></option>
+    					<option value="1298" >AFFIRMATION</option>
+    					<option value="1015" >AFFIRMATION/AFFIDAVIT OF SERVICE</option>
+    					<option value="1016" >ANSWER (AMENDED)</option>
+    					<option value="1057" >ORDER - COMPLIANCE CONFERENCE</option>
+    					<option value="1198" >ORDER - PRELIMINARY CONFERENCE</option>
+    					<option value="1226" >PRELIMINARY CONFERENCE REQUEST</option>
+    					<option value="1237" >RJI -RE: REQUEST FOR PRELIMINARY CONFERENCE</option>
+    					<option value="1260" >SUMMONS + COMPLAINT</option>
+    		</select>
+
+        <span style="width:5.8em;margin-left:1.5em">
+          <label for="selFiler">Filed By:</label>
+        </span>
+        <select name="selFiler" id="selFiler" style="width:19em">
+    					<option value="-1" selected="SELECTED"></option>
+    					<option value="5093668" >CHEUK, ZU WEI</option>
+    					<option value="814603" >GLEIT, JONATHAN LOUIS</option>
+    					<option value="2453257" >Thomas, Marcy K</option>
+    					<option value="4296007" >Torres, Yesenia</option>
+    		</select>
+    		<input type="hidden" name="docketId" value="yyDfLPkaNwTaX3ty&#47;hHEPQ&#61;&#61;" id="row">
+    		<input type="hidden" name="narrow" value="true" id="narrow">
+      </div>
+
+        <div class="Document_Row" style="padding-top:0">
+          <span style="width:8.6em">
+            <label for="selMotionNum">Motion Info:</label>
+          </span>
+          <select name="selMotionNum" id="selMotionNum"  disabled="disabled" >
+    		  </select>
+    			<span style="width:5.8em;margin-left:1.5em">
+    			  <label for="txtFilingDateFrom">Filed Date:</label>
+    			</span>
+          <input type="text" name="txtFilingDateFrom" id="txtFilingDateFrom" value="" size="6" maxlength="10" />
+    			<img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/NYSCEF/calendar.png" id="btnFromDate" title="Date Selector" alt="calendar" class="dateBox" />
+    			<script type="text/javascript">
+    				<!--
+    				Calendar.setup({inputField:"txtFilingDateFrom",ifFormat:"%m/%d/%Y",button:"btnFromDate",align:"Tr",singleClick:true,electric:false});
+    				// -->
+    			</script>
+    			&nbsp; <label for="txtFilingDateTo">thru</label>&nbsp;
+          <input type="text" name="txtFilingDateTo" id="txtFilingDateTo" value="" size="6" maxlength="10" />
+          <img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/NYSCEF/calendar.png" id="btnToDate" title="Date Selector" alt="calendar" class="dateBox" />
+    			<script type="text/javascript">
+    					<!--
+    					Calendar.setup({inputField:"txtFilingDateTo",ifFormat:"%m/%d/%Y",button:"btnToDate",align:"Tr",singleClick:true,electric:false});
+    					// -->
+    			</script>
+        </div>
+        <div class="Document_Row" style="padding-top:0">
+    		  <span style="width:8.6em"><label for="txtDocNum">Document #:</label></span>
+          <input type="text" name="txtDocNum" id="txtDocNum" maxlength="10" size="5" value="" />
+        </div>
+
+      <div class="Document_Row">
+        <input value="Narrow Document List" name="btnNarrow" type="submit" style="font-size:.9em" />&nbsp;
+        <input value= "Clear" name="btnClear" type="submit" style="font-size:.9em" />&nbsp;
+
+          <img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/images/nyscef/folder.png" width="16" style="vertical-align:middle" alt="folder"></img>
+      			<a href="DocumentList?docketId=yyDfLPkaNwTaX3ty&#47;hHEPQ&#61;&#61;&amp;display=motion" style="font-size:1em" title="Any motion-related documents will not show on the list but will be accessible by clicking on the motion folder for each main motion">Show Motion Folders ONLY</a>
+	    </div>
+    </div>
+
+		<div class="tableHeading">
+			<span class="tableSort" style="margin-bottom:.25em"><label for="selDocumentSortBy">Sort By:</label>
+				<select name="selDocumentSortBy" id="selDocumentSortBy" style="width:10em;padding-bottom:0">
+						<option value="Type" >
+  						  Document Type
+						</option>
+						<option value="Document Number" selected="SELECTED">
+  						  Document #
+						</option>
+						<option value="Status" >
+  						  Status
+						</option>
+						<option value="Receive Date" >
+  						  Receive Date
+						</option>
+						<option value="Filing User" >
+  						  Filing User
+						</option>
+				</select>
+				<input value=" Sort " style="font-size:1em" name="btnSort" type="submit"/>
+			</span>
+		</div>
+
+    <table summary="all documents for case" class="NewSearchResults" style="margin-top:.25em">
+    <thead>
+    <tr>
+      <th scope="col" style="width:3em">#</th>
+      <th scope="col">Document</th>
+      <th scope="col" style="width:13em">Filed By</th>
+      <th scope="col" style="width:11em">Status</th>
+    </tr>
+    </thead>
+    <tbody>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              1
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=a9aJEusZl92XPDhGIrTQeg==" target="_blank">SUMMONS + COMPLAINT</a>
+
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 10/22/2018
+            <br/><span class="grayItalic">
+                Received: 10/22/2018
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=a9aJEusZl92XPDhGIrTQeg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              2
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=XR/wOMy9/0QmgngHW9QHxA==" target="_blank">AFFIRMATION/AFFIDAVIT OF SERVICE</a>
+
+              <br/><span class="italic">Affidavit of Service P.O. Gashi
+              </span>
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 11/19/2018
+            <br/><span class="grayItalic">
+                Received: 11/19/2018
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=XR/wOMy9/0QmgngHW9QHxA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              3
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=cqtjPTEOdEUoIOklniVkXg==" target="_blank">AFFIRMATION/AFFIDAVIT OF SERVICE</a>
+
+              <br/><span class="italic">Affidavit of Service NYC
+              </span>
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 11/26/2018
+            <br/><span class="grayItalic">
+                Received: 11/26/2018
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=cqtjPTEOdEUoIOklniVkXg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              4
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=cz_PLUS_FFp34290svldkrIlZbQ==" target="_blank">PRELIMINARY CONFERENCE REQUEST</a>
+
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 03/04/2019
+            <br/><span class="grayItalic">
+                Received: 03/04/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=cz_PLUS_FFp34290svldkrIlZbQ==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              5
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=HExx5f8XbgR6pt/Qg9B_PLUS_Kg==" target="_blank">AFFIRMATION</a>
+
+              <br/><span class="italic">Affirmation of Good Faith
+              </span>
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 03/04/2019
+            <br/><span class="grayItalic">
+                Received: 03/04/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=HExx5f8XbgR6pt/Qg9B_PLUS_Kg==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              6
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=HDlDTzIIvtjuPNgWTnhp2w==" target="_blank">RJI -RE: REQUEST FOR PRELIMINARY CONFERENCE</a>
+
+    		</td>
+        <td>
+                GLEIT, JONATHAN LOUIS
+              <br/>Filed: 03/04/2019
+            <br/><span class="grayItalic">
+                Received: 03/04/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=HDlDTzIIvtjuPNgWTnhp2w==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              7
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=hCXNhR8vqnFWXt3Y1cPOvA==" target="_blank">ANSWER (AMENDED)</a>
+
+    		</td>
+        <td>
+                CHEUK, ZU WEI
+              <br/>Filed: 05/21/2019
+            <br/><span class="grayItalic">
+                Received: 05/21/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=hCXNhR8vqnFWXt3Y1cPOvA==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr class="changeColor">
+        <td style="font-size:.9;padding-right:0">
+              8
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=siEC4zkFlyhmtF3sUTXo9g==" target="_blank">ORDER - PRELIMINARY CONFERENCE</a>
+
+              <br/><span class="italic">DATED 05/22/2019
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 06/14/2019
+            <br/><span class="grayItalic">
+                Received: 06/14/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=siEC4zkFlyhmtF3sUTXo9g==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+
+
+
+            <tr>
+        <td style="font-size:.9;padding-right:0">
+              9
+        </td>
+        <td>
+          	<a href="ViewDocument?docIndex=VbNrkjY4SV_PLUS_DpK/ZDhvMBQ==" target="_blank">ORDER - COMPLIANCE CONFERENCE</a>
+
+              <br/><span class="italic">DATED: 10/23/2019
+              </span>
+    		</td>
+        <td>
+                Court User
+              <br/>Filed: 12/09/2019
+            <br/><span class="grayItalic">
+                Received: 12/09/2019
+            </span>
+        </td>
+        <td>
+            <span class="green"><strong>Processed</strong></span>
+          <br />
+					<a href="ConfirmationNotice?docId=VbNrkjY4SV_PLUS_DpK/ZDhvMBQ==" target="_blank">Confirmation Notice</a>
+              <br />
+        </td>
+      </tr>
+    </tbody>
+    </table>
+
+</div>
+  <span class="returnLink"><br/><< Return to <a href="CaseSearchResults?PageNum=1"><b>Search Results</b></a></span>
+</form>
+
+  </div></main>
+
+    <script type="text/javascript">
+    function showHide(id) {
+      if (document.getElementById(id)) {
+        if (document.getElementById('clerkMessage-show').style.display != 'none') {
+          document.getElementById('clerkMessage-show').style.display = 'none';
+          document.getElementById('clerkMessage').style.display = 'block';
+        }
+        else {
+          document.getElementById('clerkMessage-show').style.display = 'inline';
+          document.getElementById('clerkMessage').style.display = 'none';
+        }
+      }
+    }
+    </script>
+    <div class="clerkBanner">
+        <span class="clerkName">Honorable Ischia Bravo</span>
+      <span class="clerkDesc">
+          Bronx County Clerk/Commissioner of Jurors<br />
+      </span>
+      <span class="clerkName">Bronx County Clerk's Office</span>
+      <span class="clerkDesc">
+        851 Grand Concourse<br />
+        Bronx, NY 10451<br />
+        718-618-3340<br />
+        718-590-8122 (fax)<br />
+        
+            <a href="/cdn-cgi/l/email-protection#30726873731d5556595c55705e49535f454244431e575f46" target="_parent" aria-label="opens email for the court">
+            <span class="__cf_email__" data-cfemail="fdbfa5bebed0989b949198bd93849e92888f898ed39a928b">[email&#160;protected]</span>
+          </a>
+      </span>
+              <span class="clerkName">Teresa Torres</span>
+            <span class="clerkDesc">
+              Administrator<br />
+            </span>
+      <span class="clerkDesc">
+        <br/><img src="https://iappscontent.courts.state.ny.us/NYSCEF/live/clerkBanner/BronxSeal.png" alt="picture of court seal" />
+            Welcome to Bronx County Clerk's E-Filing Program as part of the NYSCEF System. For more information on how your filing is processed in Bronx County, please visit our website.
+          <br />
+            <a href="http://ww2.nycourts.gov/COURTS/12JD/BRONX/countyclerk/index.shtml" target="_blank" aria-label="opens pdf document in a new tab">
+            Bronx County Clerks Website
+          </a>
+      </span>
+        <div id="backtop">&#9650;</div>
+    </div>
+</div>
+
+<div id="footer"><footer>
+
+    <div id="fHeading">
+      <span class="fMenuTitle">NYSCEF</span>
+      <span class="fMenuItem">E-mail: <a href="/cdn-cgi/l/email-protection#d2bcaba1b1b7b492bcabb1bda7a0a6a1fcb5bda4eda1a7b0b8b7b1a6ef97ff94bbbebbbcb5f785b7b0f781bba6b7" aria-label="opens email for nyscef"><span class="__cf_email__" data-cfemail="741a0d07171112341a0d171b010600075a131b02">[email&#160;protected]</span></a></span>
+      <span class="fMenuItem">Phone: (646) 386-3033</span>
+      <span class="fMenuItem">Fax: (212) 401-9146</span>
+    </div>
+      <div id="fMenu">
+        <span style="width:12em;">
+          Websites<br />
+          <a href="HomePage" id="nav">NYSCEF</a><br />
+          <a href="UnRepresentedHome">Unrepresented Litigants</a>
+        </span>
+        <span>Account<br />
+          <a href="CreateAccount">Create an Account</a><br/>
+          <a href="Login">Login</a><br/>
+          <a href="CaseSearch">Search as Guest</a>
+        </span>
+        <span>
+          Resources<br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm" target="_blank">Forms</a><br/>
+          <a href="AuthorizedCaseType" target="_blank">Authorized Courts</a><br/>
+          <a href="AvailableDocumentTypes" target="_blank">Available Documents</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm" target="_blank">Rules &amp; Legislation</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm" target="_blank">Protocols</a>
+        </span>
+        <span style="width:16em">
+          Help<br>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/faq.htm" target="_blank">FAQs</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/RemoveConsentInstructions.pdf" target="_blank" aria-label="opens a pdf document in a new tab">Remove Attorney Representation</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training.htm" target="_blank">Training</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/termsOfUse.htm" target="_blank">Terms of Use</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training/userManual.pdf" target="_blank" aria-label="opens a pdf document in a new tab">User Manual</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/requirements.htm" target="_blank">Filing Requirements</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/evidence.htm" target="_blank">VEC Resources</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/contact.htm" target="_blank">Contact Us</a>
+        </span>
+        <span style="width:20em;">
+          Support<br />
+          <a href="http://ww2.nycourts.gov/social/twitter.shtml" target="_blank">Follow UCS - Twitter</a><br/>
+          <a href="http://www.nycourts.gov/rules/efiling/" target="_blank">Request for Public Comment</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/UnrepresentedFactSheet.pdf" target="_blank" aria-label="opens a pdf document in a new tab">Unrepresented Litigants Fact Sheet</a><br/>
+          <a href="https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/EFileReport.pdf" target="_blank" aria-label="opens a pdf document in a new tab">E-File Report</a>
+        </span>
+      </div>
+</footer></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9e4412d2f8b4cf97',t:'MTc3NDg0MTgyMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
