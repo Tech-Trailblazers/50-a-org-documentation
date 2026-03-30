@@ -22469,3 +22469,4 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4cWqysdPCTxxCr0Qrs
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VEdZAX6XdrTxQ2Z5UVdizw== > PDFs/940519/25211_2020e_jesse_hill_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fR_PLUS_9AOaEBDRmOv1d91P0Yw== > PDFs/942768/21515_2014e_sucilkumar_ramnauth_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=P8Lx8KGW050lwDK7M45vjw== > PDFs/950346/26904_2018e_robert_brooks_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922246/201607815_redactedclosingreportpdf.pdf > PDFs/941868/201607815_redactedclosingreportpdf.pdf
