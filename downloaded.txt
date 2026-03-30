@@ -23144,3 +23144,5 @@ https://s3.documentcloud.org/documents/21418042/201908443_redactedclosingreport_
 https://s3.documentcloud.org/documents/26284201/201509097-redactedclosingreport-redacted.pdf > PDFs/950043/201509097_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25527616/201704607-redactedclosingreport-redacted.pdf > PDFs/956597/201704607_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RURiilF6n9JNY9eQtMQo6g== > PDFs/944455/159590_2021_henry_schiff_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0T8l_PLUS_M_PLUS_Bubw8zsZV3hdetg== > PDFs/924785/519923_2017_chaz_rodriguez_v_chaz_rodriguez_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24630906/202004591_redactedclosingreport_redacted.pdf > PDFs/954083/202004591_redactedclosingreport_redacted.pdf
