@@ -23589,3 +23589,11 @@ https://s3.documentcloud.org/documents/25526029/202203275.pdf > PDFs/956744/2022
 https://s3.documentcloud.org/documents/24174066/202203275_tax956744_redacteddepartureletterpdf.pdf > PDFs/956744/202203275_tax956744_redacteddepartureletterpdf.pdf
 https://s3.documentcloud.org/documents/25519954/202003090_redactedclosingreport_redacted.pdf > PDFs/958824/202003090_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25525409/202001757.pdf > PDFs/958824/202001757.pdf
+https://s3.documentcloud.org/documents/21028304/rubaid-80e515a18cd912e4694273c51e1fff8f6b556e5b.pdf > PDFs/959448/rubaid_80e515a18cd912e4694273c51e1fff8f6b556e5b.pdf
+https://s3.documentcloud.org/documents/21051800/rubaid-959448-06-29-21.pdf > PDFs/959448/rubaid_959448_06_29_21.pdf
+https://s3.documentcloud.org/documents/23878915/giglio_bradley-913742-18-38134_redacted.pdf > PDFs/959448/giglio_bradley_913742_18_38134_redacted.pdf
+https://s3.documentcloud.org/documents/26055297/201707094-redactedclosingreport-redacted.pdf > PDFs/938913/201707094_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21029921/volkan-0a67116e6e1767f8c570b02a91b02774921ef679.pdf > PDFs/942677/volkan_0a67116e6e1767f8c570b02a91b02774921ef679.pdf
+https://s3.documentcloud.org/documents/21030030/washington-ff94535bc565003de4ea2daa5f7a4aac2bbfb010.pdf > PDFs/946385/washington_ff94535bc565003de4ea2daa5f7a4aac2bbfb010.pdf
+https://s3.documentcloud.org/documents/5379068/Nurse-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/942417/nurse_et_al_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21058000/giglio_ghaffar-941809-11-02-20.pdf > PDFs/941809/giglio_ghaffar_941809_11_02_20.pdf
