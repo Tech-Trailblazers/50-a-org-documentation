@@ -23107,3 +23107,17 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=OwTjOSc1aA7BBMvUhL
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t3KDfpvBjiqNig2GOo5B9A== > PDFs/946851/30359_2018e_bobby_giddings_v_bobby_giddings_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/21021642/charles-4d8414741bcba2bb1411f621ae427112d847502b.pdf > PDFs/946851/charles_4d8414741bcba2bb1411f621ae427112d847502b.pdf
 https://s3.documentcloud.org/documents/21056273/giglio_charles-946851-07-24-20.pdf > PDFs/946851/giglio_charles_946851_07_24_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=97FR3Z3BSp2svStohIAa/A== > PDFs/955287/711334_2019_orlando_mckenzie_et_al_v_orlando_mckenzie_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25505867/201809920-redactedclosingreport-redacted.pdf > PDFs/950006/201809920_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24630876/201800489_redactedclosingreport_redacted.pdf > PDFs/950006/201800489_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920574/Rapa-v-The-City-Of-New-York-et-al.pdf > PDFs/952401/rapa_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/24441279/201803052_redactedclosingreport_redacted.pdf > PDFs/950854/201803052_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=5QQGfN_PLUS_huz7JzdNn9GaZ9g== > PDFs/946173/160700_2018_edward_guillen_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25281687/201802422_redactedclosingreport_redacted.pdf > PDFs/931810/201802422_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055281/201707029-redactedclosingreport-redacted.pdf > PDFs/931810/201707029_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22125342/201412082_redactedclosingreport_redacted.pdf > PDFs/952771/201412082_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=RjOrYyk1a21BePag3gtP9Q== > PDFs/952771/26710_2017e_eddie_rivera_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/24100945/201701980_redactedclosingreport_redacted.pdf > PDFs/960566/201701980_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25023306/201604922_redactedclosingreport_redacted.pdf > PDFs/937237/201604922_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25980258/201507866-redactedclosingreport-redacted.pdf > PDFs/932401/201507866_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22118871/932401_01292015_2015160pdf.pdf > PDFs/932401/932401_01292015_2015160pdf.pdf
