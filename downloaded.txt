@@ -23478,3 +23478,9 @@ https://s3.documentcloud.org/documents/27922291/201401857_redactedclosingreportp
 https://s3.documentcloud.org/documents/21025561/matzen-9e1e6781b4e6981ccdd5819c9dbc61a6b2daf4dc.pdf > PDFs/938964/matzen_9e1e6781b4e6981ccdd5819c9dbc61a6b2daf4dc.pdf
 https://s3.documentcloud.org/documents/4923615/Shadid-v-The-City-of-New-York-et-al.pdf > PDFs/957403/shadid_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/21066632/mishchenko-960949-11-02-20.pdf > PDFs/960949/mishchenko_960949_11_02_20.pdf
+https://s3.documentcloud.org/documents/21057362/binaj-963874-03-02-21.pdf > PDFs/963874/binaj_963874_03_02_21.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=rXYra194jQ2APqzuwRFRPA== > PDFs/948240/525781_2019_carlyle_perry_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21025407/manik-18ced2f6716f803585aafad16dac1a302e3ff84e.pdf > PDFs/948240/manik_18ced2f6716f803585aafad16dac1a302e3ff84e.pdf
+https://s3.documentcloud.org/documents/22085478/seh_942084.pdf > PDFs/942084/seh_942084.pdf
+https://s3.documentcloud.org/documents/21066826/topi-959304.pdf > PDFs/959304/topi_959304.pdf
+https://s3.documentcloud.org/documents/22085476/seh_942020.pdf > PDFs/942020/seh_942020.pdf
