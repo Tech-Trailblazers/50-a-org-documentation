@@ -23290,3 +23290,14 @@ https://s3.documentcloud.org/documents/24449736/201907416_redactedclosingreport_
 https://s3.documentcloud.org/documents/21574263/201509458-drury.pdf > PDFs/936160/201509458_drury.pdf
 https://s3.documentcloud.org/documents/25869302/201509458_interviewdetails.pdf > PDFs/936160/201509458_interviewdetails.pdf
 https://s3.documentcloud.org/documents/21058489/lopez-945925-05-11-20.pdf > PDFs/945925/lopez_945925_05_11_20.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DkSHE7Uim_PLUS_VYBQYh7jzuyg== > PDFs/957938/527798_2022_alfred_edwards_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26035041/202003715-tax939761-apu-final-documentspdf.pdf > PDFs/939761/202003715_tax939761_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/23578261/201805553_redactedclosingreport_redacted.pdf > PDFs/939761/201805553_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522902/201708917_redactedclosingreport_redacted.pdf > PDFs/939761/201708917_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23844471/sanchez_05052023pdf.pdf > PDFs/939761/sanchez_05052023pdf.pdf
+https://s3.documentcloud.org/documents/22085422/seh_939761.pdf > PDFs/939761/seh_939761.pdf
+https://s3.documentcloud.org/documents/4920606/Beverly-v-The-City-Of-New-York-et-al.pdf > PDFs/938696/beverly_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920607/Beverly-v-The-City-Of-New-York-et-al.pdf > PDFs/938696/beverly_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920626/Zilioli-v-The-City-of-New-York-et-al.pdf > PDFs/938696/zilioli_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920627/Zilioli-v-The-City-of-New-York-et-al.pdf > PDFs/938696/zilioli_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21024489/irizarry-b2d5cfbcacc1b34766c09b128d4af05b151d4d4f.pdf > PDFs/938696/irizarry_b2d5cfbcacc1b34766c09b128d4af05b151d4d4f.pdf
