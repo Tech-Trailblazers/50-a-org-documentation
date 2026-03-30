@@ -23032,3 +23032,12 @@ https://s3.documentcloud.org/documents/25520918/9605572_closingreportedms_redact
 https://s3.documentcloud.org/documents/25520947/9302179_closingreportedms_redacted.pdf > PDFs/899418/9302179_closingreportedms_redacted.pdf
 https://s3.documentcloud.org/documents/4928424/Xu-v-City-of-New-York-et-al.pdf > PDFs/930287/xu_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/22119143/920094_06032014_2014025pdf.pdf > PDFs/920094/920094_06032014_2014025pdf.pdf
+https://s3.documentcloud.org/documents/23578274/201902281_redactedclosingreport_redacted.pdf > PDFs/941866/201902281_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26473652/202401393_redactedclosingreportpdf.pdf > PDFs/972710/202401393_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/22119417/935686_04292021_2021016pdf.pdf > PDFs/935686/935686_04292021_2021016pdf.pdf
+https://s3.documentcloud.org/documents/25522316/202001615_redactedclosingreport_redacted.pdf > PDFs/954440/202001615_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522983/201905590_redactedclosingreport_redacted.pdf > PDFs/954440/201905590_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25523626/201506560_redactedclosingreport_redacted.pdf > PDFs/954440/201506560_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24100991/201804448_redactedclosingreport_redacted.pdf > PDFs/955312/201804448_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24101126/201910095_redactedclosingreport_redacted.pdf > PDFs/954920/201910095_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x8gr8L3P4tqAb/tqCaMT8Q== > PDFs/974509/818681_2023e_martin_cuello_v_city_of_new_york_et_al_summons_complaint_1.pdf
