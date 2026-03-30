@@ -24317,3 +24317,15 @@ https://s3.documentcloud.org/documents/21056668/rodriguez-947423.pdf > PDFs/9474
 https://s3.documentcloud.org/documents/22119186/932926_12142010_2010017pdf.pdf > PDFs/932926/932926_12142010_2010017pdf.pdf
 https://s3.documentcloud.org/documents/22119187/932926_09292008_2008043pdf.pdf > PDFs/932926/932926_09292008_2008043pdf.pdf
 https://s3.documentcloud.org/documents/5378380/Abdul-Hakim-Bey-v-New-York-City-et-al.pdf > PDFs/936585/abdul_hakim_bey_v_new_york_city_et_al.pdf
+https://s3.documentcloud.org/documents/25536057/202206453-tax955382-apu-final-documentspdf.pdf > PDFs/955382/202206453_tax955382_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0UNeWL9kQW3RiJPpx8AUTQ== > PDFs/955382/28334_2020e_joseph_williams_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2mJwTuiShe9c6VDVaoS4lQ== > PDFs/955382/32341_2019e_ajay_huntley_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2Q7999yur/7WrOW5xCe20A== > PDFs/955382/32159_2018e_marcel_grant_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PkVfLc6GhJvGcmsgJkz3iQ== > PDFs/955382/23407_2016e_manuel_zayas_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085868/seh_955382.pdf > PDFs/955382/seh_955382.pdf
+https://s3.documentcloud.org/documents/21615328/daf-bobell941438.pdf > PDFs/941438/daf_bobell941438.pdf
+https://s3.documentcloud.org/documents/26055290/201707753-redactedclosingreport-redacted.pdf > PDFs/937240/201707753_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26055245/201503924-redactedclosingreport-redacted.pdf > PDFs/937240/201503924_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4418815/nypd-cases-125.pdf > PDFs/942071/nypd_cases_125.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=uRC705peRRaPllXda78cTg== > PDFs/942071/710597_2018_james_gomes_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zcPRcQN22sifyAzLFh3hcQ== > PDFs/942071/702092_2014_jonel_moise_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
