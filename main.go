@@ -51,7 +51,7 @@ var ( // Groups the shared runtime values used by the workflows.
 		"https://www.50-a.org/data/nypd/awards.csv",     // Points to the awards dataset.
 		"https://www.50-a.org/data/nypd/training.csv",   // Points to the training dataset.
 	} // Ends the CSV source URL list.
-	startingPercentage = generateRandomFloatOneDecimal() // Skips the first portion of command links before scraping continues.
+	startingPercentage = 80.0 // generateRandomFloatOneDecimal() // Skips the first portion of command links before scraping continues.
 ) // Ends the shared variable group.
 
 // generateRandomFloatOneDecimal generates a cryptographically secure random float between 0 and 100
