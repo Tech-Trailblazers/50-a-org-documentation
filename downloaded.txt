@@ -23648,3 +23648,6 @@ https://s3.documentcloud.org/documents/22118964/938383_12232013_2013032pdf.pdf >
 https://s3.documentcloud.org/documents/4923174/Harge-v-City-Of-New-York-et-al.pdf > PDFs/917668/harge_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4920258/McLennon-v-City-of-New-York-et-al.pdf > PDFs/917668/mclennon_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4922962/Lucky-v-City-of-New-York-et-al.pdf > PDFs/921481/lucky_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22085351/seh_936338.pdf > PDFs/936338/seh_936338.pdf
+https://s3.documentcloud.org/documents/25995214/201705773-redactedclosingreport-redacted.pdf > PDFs/925248/201705773_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=zUcC9sUgyCIlW8yuGnbB3g== > PDFs/949733/532960_2022_andres_wildman_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
