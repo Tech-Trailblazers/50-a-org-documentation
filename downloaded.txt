@@ -23041,3 +23041,14 @@ https://s3.documentcloud.org/documents/25523626/201506560_redactedclosingreport_
 https://s3.documentcloud.org/documents/24100991/201804448_redactedclosingreport_redacted.pdf > PDFs/955312/201804448_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/24101126/201910095_redactedclosingreport_redacted.pdf > PDFs/954920/201910095_redactedclosingreport_redacted.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=x8gr8L3P4tqAb/tqCaMT8Q== > PDFs/974509/818681_2023e_martin_cuello_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25999820/202102950_redactedclosingreportpdf.pdf > PDFs/956837/202102950_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/26035055/202102950-tax956837-apu-final-documentspdf.pdf > PDFs/956837/202102950_tax956837_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22085925/seh_956837.pdf > PDFs/956837/seh_956837.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VhvY_PLUS_K_PLUS_RVEU1ds7e1Zd0uQ== > PDFs/955397/34473_2018e_avery_simms_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25525892/202105115.pdf > PDFs/950867/202105115.pdf
+https://s3.documentcloud.org/documents/22085722/seh_950867.pdf > PDFs/950867/seh_950867.pdf
+https://s3.documentcloud.org/documents/26206392/202307044-tax962820-apu-final-documentspdf.pdf > PDFs/962820/202307044_tax962820_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26180591/962820_08272025_2025035pdf.pdf > PDFs/962820/962820_08272025_2025035pdf.pdf
+https://s3.documentcloud.org/documents/25526192/202304298.pdf > PDFs/954419/202304298.pdf
+https://s3.documentcloud.org/documents/25536075/202304298-tax954419-apu-final-documentspdf.pdf > PDFs/954419/202304298_tax954419_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=y3c7abS09D4oLx6RibkG8g== > PDFs/958019/160587_2016_wayne_newland_v_city_of_new_york_et_al_summons_complaint_1.pdf
