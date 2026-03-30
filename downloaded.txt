@@ -23223,3 +23223,13 @@ https://s3.documentcloud.org/documents/24441270/201700391_redactedclosingreport_
 https://s3.documentcloud.org/documents/21054338/divito-946944-07-06-20.pdf > PDFs/946944/divito_946944_07_06_20.pdf
 https://s3.documentcloud.org/documents/21026606/mobarak-ac42df9384a1d164638902e8329437dd94ce0a50.pdf > PDFs/939051/mobarak_ac42df9384a1d164638902e8329437dd94ce0a50.pdf
 https://s3.documentcloud.org/documents/25523426/201901833_redactedclosingreport_redacted.pdf > PDFs/954460/201901833_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23874001/201908053_redactedclosingreport_redacted.pdf > PDFs/950716/201908053_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25536852/201310593-redactedclosingreport-redacted.pdf > PDFs/950716/201310593_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23118626/ccrb_201310593.pdf > PDFs/950716/ccrb_201310593.pdf
+https://s3.documentcloud.org/documents/25536853/201303024-redactedclosingreport-redacted.pdf > PDFs/950716/201303024_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119160/950716_11202015_2015100pdf.pdf > PDFs/950716/950716_11202015_2015100pdf.pdf
+https://s3.documentcloud.org/documents/25897763/202207773_redactedclosingreportpdf.pdf > PDFs/946213/202207773_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/25940032/202207773-tax946213-apu-final-documentspdf.pdf > PDFs/946213/202207773_tax946213_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/21024440/ianno-40dc4315d89928f111636e84bbb24da0d94e63f8.pdf > PDFs/944665/ianno_40dc4315d89928f111636e84bbb24da0d94e63f8.pdf
+https://s3.documentcloud.org/documents/21058332/ianno-944665-11-25-20.pdf > PDFs/944665/ianno_944665_11_25_20.pdf
+https://s3.documentcloud.org/documents/4920902/Ortiz-vs-City-of-NY-et-al.pdf > PDFs/945991/ortiz_vs_city_of_ny_et_al.pdf
