@@ -22475,3 +22475,15 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=VmgBFmrCdRmwr9fEhS
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7gZjzzqWUG2kyV9KJlQsxw== > PDFs/955432/154871_2019_bakary_diane_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22086296/seh_963815.pdf > PDFs/963815/seh_963815.pdf
 https://s3.documentcloud.org/documents/24630871/201800340_redactedclosingreport_redacted.pdf > PDFs/945596/201800340_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4920909/Gordon-v-City-of-New-York-et-al.pdf > PDFs/941878/gordon_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920908/Gordon-v-City-of-New-York-et-al.pdf > PDFs/941878/gordon_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21024017/haniff-48f044f13a97dedad4113d535cb2a215f0e1e3f0.pdf > PDFs/941878/haniff_48f044f13a97dedad4113d535cb2a215f0e1e3f0.pdf
+https://s3.documentcloud.org/documents/25869250/201303361_closingreport.pdf > PDFs/944473/201303361_closingreport.pdf
+https://s3.documentcloud.org/documents/4920736/Disisto-v-The-City-of-New-York-et-al.pdf > PDFs/944473/disisto_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22118931/944473_09222015_2015135pdf.pdf > PDFs/944473/944473_09222015_2015135pdf.pdf
+https://s3.documentcloud.org/documents/4918439/Holmes-v-City-of-New-York-et-al.pdf > PDFs/933105/holmes_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=iRjqP2B/wKXoVP_PLUS_XHkaL7A== > PDFs/949211/519682_2020_shameek_suggs_v_shameek_suggs_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21058775/rodrigueztaveras-958607-01-20-21.pdf > PDFs/958607/rodrigueztaveras_958607_01_20_21.pdf
+https://s3.documentcloud.org/documents/21417994/201906783_redactedclosingreport_redacted.pdf > PDFs/938326/201906783_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21573882/202006433_redactedclosingreport_redacted.pdf > PDFs/962002/202006433_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085151/seh_962002.pdf > PDFs/962002/seh_962002.pdf
