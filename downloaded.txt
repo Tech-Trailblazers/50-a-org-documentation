@@ -23235,3 +23235,4 @@ https://s3.documentcloud.org/documents/21058332/ianno-944665-11-25-20.pdf > PDFs
 https://s3.documentcloud.org/documents/4920902/Ortiz-vs-City-of-NY-et-al.pdf > PDFs/945991/ortiz_vs_city_of_ny_et_al.pdf
 https://s3.documentcloud.org/documents/26055293/201706753-redactedclosingreport-redacted.pdf > PDFs/955557/201706753_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25598940/8455_iab_l-r_redacted3.pdf > PDFs/923530/8455_iab_l_r_redacted3.pdf
+https://s3.documentcloud.org/documents/4921329/Herring-v-City-of-New-York-et-al.pdf > PDFs/942577/herring_v_city_of_new_york_et_al.pdf
