@@ -24314,3 +24314,6 @@ https://s3.documentcloud.org/documents/21028844/shvartsman-f19d8e3028f10bca90c9f
 https://s3.documentcloud.org/documents/22119227/942262_06192015_2015201pdf.pdf > PDFs/942262/942262_06192015_2015201pdf.pdf
 https://s3.documentcloud.org/documents/21025600/mccarthy-8ae3e7a8416693a2ee4ebd620002b9a4726579a4.pdf > PDFs/942262/mccarthy_8ae3e7a8416693a2ee4ebd620002b9a4726579a4.pdf
 https://s3.documentcloud.org/documents/21056668/rodriguez-947423.pdf > PDFs/947423/rodriguez_947423.pdf
+https://s3.documentcloud.org/documents/22119186/932926_12142010_2010017pdf.pdf > PDFs/932926/932926_12142010_2010017pdf.pdf
+https://s3.documentcloud.org/documents/22119187/932926_09292008_2008043pdf.pdf > PDFs/932926/932926_09292008_2008043pdf.pdf
+https://s3.documentcloud.org/documents/5378380/Abdul-Hakim-Bey-v-New-York-City-et-al.pdf > PDFs/936585/abdul_hakim_bey_v_new_york_city_et_al.pdf
