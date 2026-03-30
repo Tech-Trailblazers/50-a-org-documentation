@@ -22752,3 +22752,11 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=BCuQyC8dpsv2naqZwU
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4zvftjT/GyN784eHf053PQ== > PDFs/939345/152718_2013_antonio_diaz_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22119155/940354_01212017_2017027pdf.pdf > PDFs/940505/940354_01212017_2017027pdf.pdf
 https://s3.documentcloud.org/documents/25523728/200615874_redactedclosingreport_redacted.pdf > PDFs/940892/200615874_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=eQsmx3OrVXD1iSEUO1FRXQ== > PDFs/958657/158018_2021_kimberly_bernard_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22085991/seh_958657.pdf > PDFs/958657/seh_958657.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jD6mVbVN7nDyxTwCUpyUmQ== > PDFs/961542/804626_2022e_robert_green_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21019425/giglio-daf-onabanjo959010.pdf > PDFs/959010/giglio_daf_onabanjo959010.pdf
+https://s3.documentcloud.org/documents/25523602/202104908_redactedclosingreport_redacted.pdf > PDFs/954146/202104908_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25281679/201801935_redactedclosingreport_redacted.pdf > PDFs/948603/201801935_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=C/9Me5fEe0x8dpearDOMQQ== > PDFs/952767/27273_2018e_jose_deleon_cabrera_v_jose_deleon_cabrera_complaint_2.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=b1qCrpuucHqo9bDd2Ij8mw== > PDFs/951077/152633_2019_morgan_adzei_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
