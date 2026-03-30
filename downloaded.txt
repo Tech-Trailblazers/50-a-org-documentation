@@ -23205,3 +23205,8 @@ https://s3.documentcloud.org/documents/4918552/Edwards-v-City-of-New-York-et-al.
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AMfMaTC3NgiHFPJIKABusA== > PDFs/946525/33760_2019e_lionel_bridgett_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8mMFTlZfQX_PLUS_wJtMfv1EdQQ== > PDFs/960245/807121_2022e_stephon_baines_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/27922240/201607170_redactedclosingreportpdf.pdf > PDFs/948355/201607170_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=UCHo5otxpb3NkELSui36hQ== > PDFs/963977/809866_2024e_jocelyn_allen_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Hcb4FBSIszfWJXae8us73w== > PDFs/961052/526595_2019_theodore_martin_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22076446/201805519_redactedclosingreport_redacted.pdf > PDFs/945276/201805519_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22119311/945276_04212020_2020016pdf.pdf > PDFs/945276/945276_04212020_2020016pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LHsVDnP8AH3RibOoM6yirg== > PDFs/964924/804342_2024e_nelson_rivera_v_city_of_new_york_et_al_summons_complaint_1.pdf
