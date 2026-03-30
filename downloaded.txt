@@ -23497,3 +23497,6 @@ https://s3.documentcloud.org/documents/21023510/garofalo-3f1798d8ffbeae7f54e7b36
 https://s3.documentcloud.org/documents/21026891/napoli-39f286dfaaf0a8ed0ed5eca6e16f80a117c7789f.pdf > PDFs/916968/napoli_39f286dfaaf0a8ed0ed5eca6e16f80a117c7789f.pdf
 https://s3.documentcloud.org/documents/21021928/colon-b1d642ae591985a7d94cb2f892b1a4ab0c24ebeb.pdf > PDFs/952609/colon_b1d642ae591985a7d94cb2f892b1a4ab0c24ebeb.pdf
 https://s3.documentcloud.org/documents/21066533/hoxha-964061-02-25-21.pdf > PDFs/964061/hoxha_964061_02_25_21.pdf
+https://s3.documentcloud.org/documents/21029818/velez-cf50f549b521d15de99654c5ab06a184ebc31803.pdf > PDFs/939836/velez_cf50f549b521d15de99654c5ab06a184ebc31803.pdf
+https://s3.documentcloud.org/documents/25940035/202302015-tax965401-apu-final-documentspdf.pdf > PDFs/965401/202302015_tax965401_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/25999788/202311898_redactedclosingreportpdf.pdf > PDFs/969799/202311898_redactedclosingreportpdf.pdf
