@@ -23026,3 +23026,9 @@ https://s3.documentcloud.org/documents/4919927/Alpha-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/4919926/Alpha-v-The-City-of-New-York-et-al.pdf > PDFs/944828/alpha_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/20528373/3016.pdf > PDFs/944828/3016.pdf
 https://s3.documentcloud.org/documents/21056758/marquez-937030-02-10-20-1.pdf > PDFs/937030/marquez_937030_02_10_20_1.pdf
+https://s3.documentcloud.org/documents/25523344/200106902_redactedclosingreport_redacted.pdf > PDFs/899418/200106902_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25522509/200104592_redactedclosingreport_redacted.pdf > PDFs/899418/200104592_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25520918/9605572_closingreportedms_redacted.pdf > PDFs/899418/9605572_closingreportedms_redacted.pdf
+https://s3.documentcloud.org/documents/25520947/9302179_closingreportedms_redacted.pdf > PDFs/899418/9302179_closingreportedms_redacted.pdf
+https://s3.documentcloud.org/documents/4928424/Xu-v-City-of-New-York-et-al.pdf > PDFs/930287/xu_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119143/920094_06032014_2014025pdf.pdf > PDFs/920094/920094_06032014_2014025pdf.pdf
