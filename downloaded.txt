@@ -23210,3 +23210,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Hcb4FBSIszfWJXae8u
 https://s3.documentcloud.org/documents/22076446/201805519_redactedclosingreport_redacted.pdf > PDFs/945276/201805519_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/22119311/945276_04212020_2020016pdf.pdf > PDFs/945276/945276_04212020_2020016pdf.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LHsVDnP8AH3RibOoM6yirg== > PDFs/964924/804342_2024e_nelson_rivera_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119404/939376_12122014_2014031pdf.pdf > PDFs/939376/939376_12122014_2014031pdf.pdf
+https://s3.documentcloud.org/documents/21019832/daf-ayme964901.pdf > PDFs/964901/daf_ayme964901.pdf
+https://s3.documentcloud.org/documents/25536081/202305031-tax954623-apu-final-documentspdf.pdf > PDFs/954623/202305031_tax954623_apu_final_documentspdf.pdf
