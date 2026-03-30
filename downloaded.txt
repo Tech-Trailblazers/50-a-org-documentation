@@ -23278,3 +23278,4 @@ https://s3.documentcloud.org/documents/4919736/Floyd-v-The-City-of-New-York-et-a
 https://s3.documentcloud.org/documents/4919146/Dennis-v-The-City-of-New-York-et-al.pdf > PDFs/939408/dennis_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919732/Griffin-v-The-City-of-New-York-et-al.pdf > PDFs/939408/griffin_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4919733/Griffin-v-The-City-of-New-York-et-al.pdf > PDFs/939408/griffin_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922779/Velasco-v-City-of-New-York-et-al.pdf > PDFs/919825/velasco_v_city_of_new_york_et_al.pdf
