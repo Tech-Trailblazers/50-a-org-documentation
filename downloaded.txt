@@ -23484,3 +23484,13 @@ https://s3.documentcloud.org/documents/21025407/manik-18ced2f6716f803585aafad16d
 https://s3.documentcloud.org/documents/22085478/seh_942084.pdf > PDFs/942084/seh_942084.pdf
 https://s3.documentcloud.org/documents/21066826/topi-959304.pdf > PDFs/959304/topi_959304.pdf
 https://s3.documentcloud.org/documents/22085476/seh_942020.pdf > PDFs/942020/seh_942020.pdf
+https://s3.documentcloud.org/documents/25040807/202107240-tax963771-apu-final-documentspdf.pdf > PDFs/963771/202107240_tax963771_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/26035050/202100617-tax963771-apu-final-documentspdf.pdf > PDFs/963771/202100617_tax963771_apu_final_documentspdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LRLPFmd3AgnBmlQB0pr/Ug== > PDFs/963771/532104_2023_sarah_sitzler_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=b_PLUS_PtYvTAfELycs/ydL2/rA== > PDFs/963771/528121_2022_williams_lorance_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21057821/giglio-suazorodas-963771-02-09-21.pdf > PDFs/963771/giglio_suazorodas_963771_02_09_21.pdf
+https://s3.documentcloud.org/documents/23874008/202002751_redactedclosingreport_redacted.pdf > PDFs/939003/202002751_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23620571/201901259_redactedclosingreport_redacted.pdf > PDFs/954732/201901259_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21022512/diazmojica-aa59527c5be0cce512bbe373a0d2a541282c1f97.pdf > PDFs/954732/diazmojica_aa59527c5be0cce512bbe373a0d2a541282c1f97.pdf
+https://s3.documentcloud.org/documents/4418948/nypd-cases-323.pdf > PDFs/924034/nypd_cases_323.pdf
+https://s3.documentcloud.org/documents/21023510/garofalo-3f1798d8ffbeae7f54e7b362e7354d3319459cbc.pdf > PDFs/950477/garofalo_3f1798d8ffbeae7f54e7b362e7354d3319459cbc.pdf
