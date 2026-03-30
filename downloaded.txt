@@ -23365,3 +23365,13 @@ https://s3.documentcloud.org/documents/21056330/giglio_hidalgo-936043-06-10-21.p
 https://s3.documentcloud.org/documents/21046700/giglio_hidalgo-936043-03-03-21.pdf > PDFs/936043/giglio_hidalgo_936043_03_03_21.pdf
 https://s3.documentcloud.org/documents/22085446/seh_940539.pdf > PDFs/940539/seh_940539.pdf
 https://s3.documentcloud.org/documents/20528307/1925.pdf > PDFs/941903/1925.pdf
+https://s3.documentcloud.org/documents/4919405/Newman-v-City-of-New-York-et-al.pdf > PDFs/940470/newman_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21026512/meyreles-3563faa25b7524fe39ad85e8637f0ec23972989d.pdf > PDFs/940470/meyreles_3563faa25b7524fe39ad85e8637f0ec23972989d.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Gs7H451gmrNLa6sMqUChnQ== > PDFs/927940/501749_2024_guiseppi_dorsch_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/26182871/201501879_redactedclosingreportpdf.pdf > PDFs/942743/201501879_redactedclosingreportpdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=NhNznHQVTHBu_PLUS_mjY0uLEkQ== > PDFs/945847/524688_2020_malique_robinson_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119537/945847_06272016_2016084pdf.pdf > PDFs/945847/945847_06272016_2016084pdf.pdf
+https://s3.documentcloud.org/documents/21030095/white-7364b2d127539022d6272e1d30bdcf9aa1a35b11.pdf > PDFs/945847/white_7364b2d127539022d6272e1d30bdcf9aa1a35b11.pdf
+https://s3.documentcloud.org/documents/4418990/nypd-cases-386.pdf > PDFs/929984/nypd_cases_386.pdf
+https://s3.documentcloud.org/documents/4920661/Guzman-v-City-of-New-York-et-al.pdf > PDFs/929984/guzman_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/21022178/dadura-1d9833193898f38ffb21d2d5f0eb7ca1beaffbe3.pdf > PDFs/929984/dadura_1d9833193898f38ffb21d2d5f0eb7ca1beaffbe3.pdf
