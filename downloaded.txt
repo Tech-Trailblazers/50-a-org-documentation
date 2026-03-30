@@ -23534,3 +23534,14 @@ https://s3.documentcloud.org/documents/26206396/202001377-tax945927-apu-final-do
 https://s3.documentcloud.org/documents/21057256/algahiti-952393-03-10-21.pdf > PDFs/952393/algahiti_952393_03_10_21.pdf
 https://s3.documentcloud.org/documents/4918934/Chen-v-The-City-of-New-York-et-al.pdf > PDFs/937036/chen_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4918935/Chen-v-The-City-of-New-York-et-al.pdf > PDFs/937036/chen_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25345366/202202712-tax933077-apu-final-documentspdf.pdf > PDFs/933077/202202712_tax933077_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/24630897/201801160_redactedclosingreport_redacted.pdf > PDFs/933077/201801160_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25330003/933077_08232024_2024056pdf.pdf > PDFs/933077/933077_08232024_2024056pdf.pdf
+https://s3.documentcloud.org/documents/22048867/201904365_redactedclosingreport_redacted.pdf > PDFs/963833/201904365_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=h1vV0iSGW//cGeoVBaThRA== > PDFs/963833/158743_2021_richard_coleman_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/21029792/vazquez-48f157174c2f18a66015aedf4e05fb2d125a163d.pdf > PDFs/951374/vazquez_48f157174c2f18a66015aedf4e05fb2d125a163d.pdf
+https://s3.documentcloud.org/documents/21024451/igityan-27306b83d1028eba9e40f9f27731df3e0b8a2b8a.pdf > PDFs/950613/igityan_27306b83d1028eba9e40f9f27731df3e0b8a2b8a.pdf
+https://s3.documentcloud.org/documents/25501262/201901569-redactedclosingreport-redacted.pdf > PDFs/954931/201901569_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21024201/hernandez-996d6dd0016cc5399f59dce060ecc8cc535c9234.pdf > PDFs/954931/hernandez_996d6dd0016cc5399f59dce060ecc8cc535c9234.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DLp1fJ76UOBMhzoYJWtXjw== > PDFs/961833/27391_2018e_georgi_marte_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=t9TH7L5P3TLo3g5v79vRng== > PDFs/961833/24807_2018e_oliver_fernandez_et_al_v_oliver_fernandez_et_al_summons_complaint_1.pdf
