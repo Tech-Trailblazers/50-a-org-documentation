@@ -24303,3 +24303,14 @@ https://s3.documentcloud.org/documents/22119487/946318_05232016_2016147pdf.pdf >
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tr_PLUS_/mjsOofO29hRWFdexUQ== > PDFs/943253/156240_2014_michael_david_reut_v_michael_david_reut_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=Uovm2J_PLUS_VbquO0kWewJq7Hg== > PDFs/960148/527759_2019_takemia_hazel_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=tbhsHhmkKEbiDPAlFSxxNA== > PDFs/955501/153982_2024_balfourd_ayala_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25977843/201901058-redactedclosingreport-redacted.pdf > PDFs/952027/201901058_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25527466/201405544-redactedclosingreport-redacted.pdf > PDFs/943888/201405544_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=jTXdGPT/eJD6ONZORW9gMw== > PDFs/943888/702331_2015_erik_luers_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25977817/201804175-redactedclosingreport-redacted.pdf > PDFs/959299/201804175_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/21030164/williamsel-b2d1ec1a61f964be5de7b62a9e4b1263974f13e6.pdf > PDFs/949802/williamsel_b2d1ec1a61f964be5de7b62a9e4b1263974f13e6.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=2U6sr0yo_PLUS_vd4cpZZXIOD5w== > PDFs/933908/503866_2021_emanuel_valles_v_the_city_of_new_york_et_al_complaint_amended_6.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=0xLxQocfLWROP3hKtgxV8w== > PDFs/944173/509160_2015_haytham_abdallah_v_haytham_abdallah_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21028844/shvartsman-f19d8e3028f10bca90c9f66b7dc7b8ae8209f405.pdf > PDFs/944173/shvartsman_f19d8e3028f10bca90c9f66b7dc7b8ae8209f405.pdf
+https://s3.documentcloud.org/documents/22119227/942262_06192015_2015201pdf.pdf > PDFs/942262/942262_06192015_2015201pdf.pdf
+https://s3.documentcloud.org/documents/21025600/mccarthy-8ae3e7a8416693a2ee4ebd620002b9a4726579a4.pdf > PDFs/942262/mccarthy_8ae3e7a8416693a2ee4ebd620002b9a4726579a4.pdf
+https://s3.documentcloud.org/documents/21056668/rodriguez-947423.pdf > PDFs/947423/rodriguez_947423.pdf
