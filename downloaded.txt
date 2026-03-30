@@ -23202,3 +23202,6 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=CuKtZk4C1Zdn_PLUS_
 https://s3.documentcloud.org/documents/4925518/Edwards-et-al-v-The-City-Of-New-York-et-al.pdf > PDFs/941875/edwards_et_al_v_the_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4918551/Edwards-v-City-of-New-York-et-al.pdf > PDFs/941875/edwards_v_city_of_new_york_et_al.pdf
 https://s3.documentcloud.org/documents/4918552/Edwards-v-City-of-New-York-et-al.pdf > PDFs/941875/edwards_v_city_of_new_york_et_al.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AMfMaTC3NgiHFPJIKABusA== > PDFs/946525/33760_2019e_lionel_bridgett_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8mMFTlZfQX_PLUS_wJtMfv1EdQQ== > PDFs/960245/807121_2022e_stephon_baines_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/27922240/201607170_redactedclosingreportpdf.pdf > PDFs/948355/201607170_redactedclosingreportpdf.pdf
