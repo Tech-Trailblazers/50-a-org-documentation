@@ -23213,3 +23213,9 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=LHsVDnP8AH3RibOoM6
 https://s3.documentcloud.org/documents/22119404/939376_12122014_2014031pdf.pdf > PDFs/939376/939376_12122014_2014031pdf.pdf
 https://s3.documentcloud.org/documents/21019832/daf-ayme964901.pdf > PDFs/964901/daf_ayme964901.pdf
 https://s3.documentcloud.org/documents/25536081/202305031-tax954623-apu-final-documentspdf.pdf > PDFs/954623/202305031_tax954623_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/23835956/201401259_redactedclosingreport_redacted.pdf > PDFs/939617/201401259_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24021485/939617_08312023_2023056pdf.pdf > PDFs/939617/939617_08312023_2023056pdf.pdf
+https://s3.documentcloud.org/documents/21573830/201808267_redactedclosingreport_redacted.pdf > PDFs/956480/201808267_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/4921837/Delgado-v-The-City-of-New-York-et-al.pdf > PDFs/933942/delgado_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/22119177/933942_09132016_2016025pdf.pdf > PDFs/933942/933942_09132016_2016025pdf.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ieLO7joTT3CIZjpwj10KBg== > PDFs/954283/20051_2019e_steven_hale_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
