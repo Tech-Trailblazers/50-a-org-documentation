@@ -23744,3 +23744,10 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=p4zbbRvvuEP6jAqyfa
 https://s3.documentcloud.org/documents/4920546/Perez-et-al-v-The-City-of-New-York-et-al.pdf > PDFs/950920/perez_et_al_v_the_city_of_new_york_et_al.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9M/InZt0JaEZqm5JxOBmhQ== > PDFs/947419/161678_2013_mark_adams_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7NajMlmUW3jHGe8CCGyoPw== > PDFs/947419/158965_2013_junior_langomas_v_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/20528235/1299.pdf > PDFs/949498/1299.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=vtv9pC8u_PLUS_cQsBpQftt_PLUS_r6g== > PDFs/945631/502357_2013_omar_yasin_et_al_v_omar_yasin_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=a4ibl_PLUS_MeYlk9S2wXVONOBw== > PDFs/954424/511568_2020_adrian_napier_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25980301/201801021-redactedclosingreport-redacted.pdf > PDFs/957440/201801021_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/25977691/201710653-redactedclosingreport-redacted.pdf > PDFs/957440/201710653_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/26284221/201506814-redactedclosingreport-redacted.pdf > PDFs/946571/201506814_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ss_PLUS_dBp25qlkHiPIwVp0gWA== > PDFs/934692/514914_2024_jacquite_tayvela_v_city_of_new_york_et_al_summons_complaint_1.pdf
