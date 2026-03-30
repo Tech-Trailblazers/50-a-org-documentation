@@ -23635,3 +23635,16 @@ https://s3.documentcloud.org/documents/24034607/880208_09112023_2023063pdf.pdf >
 https://s3.documentcloud.org/documents/22085168/seh_880208.pdf > PDFs/880208/seh_880208.pdf
 https://s3.documentcloud.org/documents/26206395/202000071-tax904994-apu-final-documentspdf.pdf > PDFs/904994/202000071_tax904994_apu_final_documentspdf.pdf
 https://s3.documentcloud.org/documents/22085181/seh_904994.pdf > PDFs/904994/seh_904994.pdf
+https://s3.documentcloud.org/documents/27922228/201809390_redactedclosingreportpdf.pdf > PDFs/951634/201809390_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/4419071/nypd-cases-235.pdf > PDFs/904993/nypd_cases_235.pdf
+https://s3.documentcloud.org/documents/4918399/Greenfield-et-al-v-City-of-New-York.pdf > PDFs/904993/greenfield_et_al_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4918588/Carmody-v-City-of-New-York-et-al.pdf > PDFs/904993/carmody_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4918465/Ellis-v-City-of-New-York.pdf > PDFs/904993/ellis_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4918466/Ellis-v-City-of-New-York.pdf > PDFs/904993/ellis_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/21028520/santana-a139ffdec78297dddd8156b7f70a6a370396c874.pdf > PDFs/904993/santana_a139ffdec78297dddd8156b7f70a6a370396c874.pdf
+https://s3.documentcloud.org/documents/21016834/daf-rosa944164.pdf > PDFs/944164/daf_rosa944164.pdf
+https://s3.documentcloud.org/documents/25540503/201101271_redactedclosingreport_redacted.pdf > PDFs/947313/201101271_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22118964/938383_12232013_2013032pdf.pdf > PDFs/938383/938383_12232013_2013032pdf.pdf
+https://s3.documentcloud.org/documents/4923174/Harge-v-City-Of-New-York-et-al.pdf > PDFs/917668/harge_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4920258/McLennon-v-City-of-New-York-et-al.pdf > PDFs/917668/mclennon_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4922962/Lucky-v-City-of-New-York-et-al.pdf > PDFs/921481/lucky_v_city_of_new_york_et_al.pdf
