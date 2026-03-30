@@ -23236,3 +23236,12 @@ https://s3.documentcloud.org/documents/4920902/Ortiz-vs-City-of-NY-et-al.pdf > P
 https://s3.documentcloud.org/documents/26055293/201706753-redactedclosingreport-redacted.pdf > PDFs/955557/201706753_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/25598940/8455_iab_l-r_redacted3.pdf > PDFs/923530/8455_iab_l_r_redacted3.pdf
 https://s3.documentcloud.org/documents/4921329/Herring-v-City-of-New-York-et-al.pdf > PDFs/942577/herring_v_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/25040799/202105828-tax950247-apu-final-documentspdf.pdf > PDFs/950247/202105828_tax950247_apu_final_documentspdf.pdf
+https://s3.documentcloud.org/documents/22085701/seh_950247.pdf > PDFs/950247/seh_950247.pdf
+https://s3.documentcloud.org/documents/25527418/201403977-redactedclosingreport-redacted.pdf > PDFs/954873/201403977_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085646/seh_948692.pdf > PDFs/948692/seh_948692.pdf
+https://s3.documentcloud.org/documents/24179273/201904935_redactedclosingreport_redacted.pdf > PDFs/927910/201904935_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/22085173/seh_892728.pdf > PDFs/892728/seh_892728.pdf
+https://s3.documentcloud.org/documents/22118881/940979_12312012_2012106pdf.pdf > PDFs/940979/940979_12312012_2012106pdf.pdf
+https://s3.documentcloud.org/documents/25924879/948639_03282025_2025012pdf.pdf > PDFs/948639/948639_03282025_2025012pdf.pdf
+https://s3.documentcloud.org/documents/21020600/baksh-9f506b3d6fceed7bd44c3ba4ef02276e798673be.pdf > PDFs/948639/baksh_9f506b3d6fceed7bd44c3ba4ef02276e798673be.pdf
