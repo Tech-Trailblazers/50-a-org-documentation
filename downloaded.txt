@@ -24511,3 +24511,13 @@ https://s3.documentcloud.org/documents/21022615/drone-649dce5eaa2c565de0a1ba7222
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=955bF99M8b3d9hyRkeSnNg== > PDFs/938031/150621_2017_lois_gerosavas_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wdEfw7wA2LYo6Dk48MHR0g== > PDFs/970149/804772_2024e_abdullah_danso_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22086001/seh_958884.pdf > PDFs/958884/seh_958884.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=4krhXpMdvGuS7Qiqqb17yA== > PDFs/974111/520945_2024_terrance_carney_v_the_city_of_new_york_et_al_complaint_2.pdf
+https://s3.documentcloud.org/documents/21027900/ramirez-7b7d7cd49bb3d8c68e2434bbe012d28e70859a2a.pdf > PDFs/967275/ramirez_7b7d7cd49bb3d8c68e2434bbe012d28e70859a2a.pdf
+https://s3.documentcloud.org/documents/22086298/seh_963904.pdf > PDFs/963904/seh_963904.pdf
+https://s3.documentcloud.org/documents/24441273/201708245_redactedclosingreport_redacted.pdf > PDFs/960988/201708245_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=St6hkM4BhFuMt8Fsakq2yw== > PDFs/938058/160358_2013_samuel_sweeper_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25899129/201508019-redactedclosingreport-redacted.pdf > PDFs/925443/201508019_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/24449710/201503878_redactedclosingreport_redacted.pdf > PDFs/925443/201503878_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qHkbuclz12snrjHZUYPhVg== > PDFs/932763/709048_2014_christopher_mendez_v_christopher_mendez_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/22119069/932763_02262015_2015138pdf.pdf > PDFs/932763/932763_02262015_2015138pdf.pdf
+https://s3.documentcloud.org/documents/21016819/daf-gutierrez932763.pdf > PDFs/932763/daf_gutierrez932763.pdf
