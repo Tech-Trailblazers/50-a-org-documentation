@@ -23065,3 +23065,8 @@ https://s3.documentcloud.org/documents/4419276/nypd-cases-258.pdf > PDFs/943275/
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=y0aD/fwbjSd/t2PiLZRimg== > PDFs/974709/820630_2023e_dwayne_wilson_v_city_of_new_york_et_al_summons_complaint_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=DZDE_PLUS_Q4sjMucJqJC_PLUS_0JUPg== > PDFs/960785/30326_2017e_michael_taylor_v_the_city_of_new_york_et_al_petition_1.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=9upw9PB72_PLUS_A654gcSVkrFA== > PDFs/960785/31172_2018e_michael_taylor_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/4419063/nypd-cases-182.pdf > PDFs/931071/nypd_cases_182.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=EJAZG/YyKiIyDoxm06q7Fw== > PDFs/966577/505750_2021_trent_fraser_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=g/UkRLCik2wVeouEV8td/g== > PDFs/966577/513317_2020_michael_jones_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/23871240/forbes.pdf > PDFs/966577/forbes.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F6g0GEzVZbHzmuKLzVBsUQ== > PDFs/967369/820688_2023e_michael_bougouneau_v_city_of_new_york_et_al_summons_complaint_1.pdf
