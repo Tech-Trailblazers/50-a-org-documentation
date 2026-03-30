@@ -23158,3 +23158,12 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=FYL7F5/e3CqfBHKC_P
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=AgqJhCeDXHrqrP4u3VA3Xg== > PDFs/950824/156602_2014_henrry_palomino_v_the_city_of_new_york_summons_complaint_1.pdf
 https://s3.documentcloud.org/documents/22119182/936983_07122012_2012014pdf.pdf > PDFs/936983/936983_07122012_2012014pdf.pdf
 https://s3.documentcloud.org/documents/22070020/201905682_redactedclosingreport_redacted.pdf > PDFs/961292/201905682_redactedclosingreport_redacted.pdf
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ujCtJR5vhOZX0RC3J8q26w== > PDFs/941086/450559_2019_alex_duna_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/21418149/201806460_redactedclosingreport_redacted.pdf > PDFs/961039/201806460_redactedclosingreport_redacted.pdf
+https://s3.documentcloud.org/documents/23469800/201806460_tax961039_redacteddepartureletterpdf.pdf > PDFs/961039/201806460_tax961039_redacteddepartureletterpdf.pdf
+https://s3.documentcloud.org/documents/21039660/daf-oropezazuniga_961039.pdf > PDFs/961039/daf_oropezazuniga_961039.pdf
+https://s3.documentcloud.org/documents/22086389/seh_965739.pdf > PDFs/965739/seh_965739.pdf
+https://s3.documentcloud.org/documents/22085528/seh_944364.pdf > PDFs/944364/seh_944364.pdf
+https://s3.documentcloud.org/documents/21023069/fecker-7978f8cef6f52df89f7611bd07248c90ca32f5f3.pdf > PDFs/941016/fecker_7978f8cef6f52df89f7611bd07248c90ca32f5f3.pdf
+https://s3.documentcloud.org/documents/21058893/vazquez-951375-07-01-21.pdf > PDFs/951375/vazquez_951375_07_01_21.pdf
+https://s3.documentcloud.org/documents/4923542/Niculescu-v-The-City-of-New-York-et-al.pdf > PDFs/937866/niculescu_v_the_city_of_new_york_et_al.pdf
