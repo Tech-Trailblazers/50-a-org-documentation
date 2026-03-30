@@ -23687,3 +23687,12 @@ https://s3.documentcloud.org/documents/22119037/934934_11202019_2019064pdf.pdf >
 https://s3.documentcloud.org/documents/21028413/saitep-e1c599c0a2942eddfb538fc827ae9f1ad80d9a69.pdf > PDFs/944966/saitep_e1c599c0a2942eddfb538fc827ae9f1ad80d9a69.pdf
 https://s3.documentcloud.org/documents/26284229/201507712-redactedclosingreport-redacted.pdf > PDFs/945910/201507712_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21058293/hammer-945910-04-15-21.pdf > PDFs/945910/hammer_945910_04_15_21.pdf
+https://s3.documentcloud.org/documents/21020705/bayram-1dfc44e286036707087165a4beec22ebfa828770.pdf > PDFs/954537/bayram_1dfc44e286036707087165a4beec22ebfa828770.pdf
+https://s3.documentcloud.org/documents/4919456/Robert-Mariani-v-City-of-New-York.pdf > PDFs/941139/robert_mariani_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4919487/Citron-v-City-of-New-York.pdf > PDFs/941139/citron_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/4919488/Citron-v-City-of-New-York.pdf > PDFs/941139/citron_v_city_of_new_york.pdf
+https://s3.documentcloud.org/documents/25525699/202006463.pdf > PDFs/939841/202006463.pdf
+https://s3.documentcloud.org/documents/26078953/201910590_redactedclosingreportpdf.pdf > PDFs/939841/201910590_redactedclosingreportpdf.pdf
+https://s3.documentcloud.org/documents/21574175/201014101-acosta-and-gomez.pdf > PDFs/939841/201014101_acosta_and_gomez.pdf
+https://s3.documentcloud.org/documents/4920988/Delacruz-v-The-City-of-New-York-et-al.pdf > PDFs/939841/delacruz_v_the_city_of_new_york_et_al.pdf
+https://s3.documentcloud.org/documents/4919356/Branham-v-The-City-of-New-York-et-al.pdf > PDFs/936885/branham_v_the_city_of_new_york_et_al.pdf
