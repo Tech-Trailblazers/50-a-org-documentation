@@ -23907,3 +23907,9 @@ https://s3.documentcloud.org/documents/26180513/201905770_redactedclosingreport_
 https://s3.documentcloud.org/documents/26180497/201307407_redactedclosingreport_redacted.pdf > PDFs/951877/201307407_redactedclosingreport_redacted.pdf
 https://s3.documentcloud.org/documents/21025011/kogan-40e9198a448676a55739700c32a8239d91f269fa.pdf > PDFs/951877/kogan_40e9198a448676a55739700c32a8239d91f269fa.pdf
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=8xNg3DvlsXL5iWA8orJMfw== > PDFs/916986/150812_2014_deven_rocco_v_the_city_of_new_york_et_al_summons_complaint_1.pdf
+https://s3.documentcloud.org/documents/25991787/948637_05232025_2025026pdf.pdf > PDFs/948637/948637_05232025_2025026pdf.pdf
+https://s3.documentcloud.org/documents/21015448/daf-bagan948637.pdf > PDFs/948637/daf_bagan948637.pdf
+https://s3.documentcloud.org/documents/25951513/943410_04142025_2025017pdf.pdf > PDFs/943410/943410_04142025_2025017pdf.pdf
+https://s3.documentcloud.org/documents/21023409/gallart-97f97cf930f96fdc8549f2fdc6f1fafb91ddc2da.pdf > PDFs/952760/gallart_97f97cf930f96fdc8549f2fdc6f1fafb91ddc2da.pdf
+https://s3.documentcloud.org/documents/21504819/gallart952760.pdf > PDFs/952760/gallart952760.pdf
+https://s3.documentcloud.org/documents/21057778/gallart-952760-05-12-21-1.pdf > PDFs/952760/gallart_952760_05_12_21_1.pdf
